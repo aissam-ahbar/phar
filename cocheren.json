@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "570012716",
+    "raison_sociale": "MAPA RESIDENCE DE DITSCHVILLER",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DITSCHVILLER",
+    "bp": "BP 30045",
+    "cp": "57800",
+    "VILLE": "COCHEREN ",
+    "tel": "387294300",
+    "telecopie": "387294399",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "38206303000011",
+    "lng": "6.84090502128853",
+    "lat": "49.1487485818455"
+  },
+  {
+    "finess": "570015164",
+    "raison_sociale": "PHARMACIE  FLEURY",
+    "numero voie": "7",
+    "type_voie": "AV",
+    "libelle_voie": "DE DITSCHVILLER",
+    "bp": "",
+    "cp": "57800",
+    "VILLE": "COCHEREN ",
+    "tel": "387046965",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83369285800016",
+    "lng": "6.84167330351824",
+    "lat": "49.1482289697256"
+  }
+]

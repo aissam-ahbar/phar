@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "410006787",
+    "raison_sociale": "PHARMACIE GUILLOU-MORLOCK",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "LUCIEN MIGNAT",
+    "bp": "",
+    "cp": "41500",
+    "VILLE": "SUEVRES ",
+    "tel": "254878013",
+    "telecopie": "254878178",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48231539700018",
+    "lng": "1.46017516685675",
+    "lat": "47.6670025245485"
+  },
+  {
+    "finess": "410011274",
+    "raison_sociale": "CDS TERRITORIAL ALLIANCE CONNECT",
+    "numero voie": "33",
+    "type_voie": "R",
+    "libelle_voie": "LUCIEN MIGNAT",
+    "bp": "",
+    "cp": "41500",
+    "VILLE": "SUEVRES ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "92306527000012",
+    "lng": "1.45818437606867",
+    "lat": "47.6667152059908"
+  }
+]

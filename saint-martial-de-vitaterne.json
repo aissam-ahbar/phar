@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "170022883",
+    "raison_sociale": "SAMSAH - CH DE JONZAC",
+    "numero voie": "",
+    "type_voie": "DOM",
+    "libelle_voie": "DES FOSSES",
+    "bp": "",
+    "cp": "17500",
+    "VILLE": "ST MARTIAL DE VITATERNE   ",
+    "tel": "546487581",
+    "telecopie": "",
+    "categorie etablissement": "445",
+    "libelle categorie": "Service d'accompagnement médico-social adultes handicapés",
+    "siret": "26170027200352",
+    "lng": "-0.433279073104016",
+    "lat": "45.4615637390435"
+  },
+  {
+    "finess": "170788848",
+    "raison_sociale": "EHPAD JARDINS DE JOVINIUS",
+    "numero voie": "9",
+    "type_voie": "ZAC",
+    "libelle_voie": "DU CHEMIN VERT",
+    "bp": "",
+    "cp": "17500",
+    "VILLE": "ST MARTIAL DE VITATERNE   ",
+    "tel": "546487575",
+    "telecopie": "546489144",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26170027200279",
+    "lng": "-0.442100346854758",
+    "lat": "45.4591112215122"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "370000143",
+    "raison_sociale": "CLINIQUE DU VAL DE LOIRE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "MIRANDOL",
+    "bp": "",
+    "cp": "37360",
+    "VILLE": "BEAUMONT LOUESTAULT",
+    "tel": "826207204",
+    "telecopie": "247297459",
+    "categorie etablissement": "161",
+    "libelle categorie": "Maison de Santé pour Maladies Mentales",
+    "siret": "69480025100019",
+    "lng": "0.670880212841193",
+    "lat": "47.5697087904178"
+  },
+  {
+    "finess": "370011116",
+    "raison_sociale": "ARPS - FONTENAILLES CPO",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "CHATEAU DE FONTENAILLES",
+    "cp": "37360",
+    "VILLE": "BEAUMONT LOUESTAULT",
+    "tel": "247244102",
+    "telecopie": "247244954",
+    "categorie etablissement": "198",
+    "libelle categorie": "Etablissement et Service de Préorientation",
+    "siret": "30644513100031",
+    "lng": "0.650174781892362",
+    "lat": "47.614679602932"
+  },
+  {
+    "finess": "370100174",
+    "raison_sociale": "ARPS - FONTENAILLES CRP",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "CHATEAU DE FONTENAILLES",
+    "cp": "37360",
+    "VILLE": "BEAUMONT LOUESTAULT",
+    "tel": "247244358",
+    "telecopie": "247244954",
+    "categorie etablissement": "249",
+    "libelle categorie": "Etablissement et Service de Réadaptation Professionnelle",
+    "siret": "30644513100031",
+    "lng": "0.650174781892362",
+    "lat": "47.614679602932"
+  }
+]

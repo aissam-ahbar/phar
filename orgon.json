@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "130012727",
+    "raison_sociale": "SARL PHARMACIE DE LA DURANCE",
+    "numero voie": "2",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA VICTOIRE",
+    "bp": "",
+    "cp": "13660",
+    "VILLE": "ORGON ",
+    "tel": "490730022",
+    "telecopie": "490730736",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75278657400026",
+    "lng": "5.0309405494002",
+    "lat": "43.7920185343967"
+  },
+  {
+    "finess": "130054257",
+    "raison_sociale": "SAAD ADMR 13 ORGON",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE LA LIBERATION",
+    "bp": "",
+    "cp": "13660",
+    "VILLE": "ORGON ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "78275126700041",
+    "lng": "5.03941188630791",
+    "lat": "43.7909754606332"
+  },
+  {
+    "finess": "130799950",
+    "raison_sociale": "CONSULTATIONS DE PMI - ORGON",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "13660",
+    "VILLE": "ORGON ",
+    "tel": "490730309",
+    "telecopie": "",
+    "categorie etablissement": "230",
+    "libelle categorie": "Etablissement Consultation Protection Infantile",
+    "siret": "22130001501641",
+    "lng": "5.03868255297512",
+    "lat": "43.7912222527562"
+  }
+]

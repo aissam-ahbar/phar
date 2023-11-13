@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "660011552",
+    "raison_sociale": "SAAD AIDOMIS",
+    "numero voie": "29",
+    "type_voie": "",
+    "libelle_voie": "CAMI DE BRAIXAS",
+    "bp": "",
+    "cp": "66550",
+    "VILLE": "CORNEILLA LA RIVIERE    ",
+    "tel": "977531606",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "53442303300016",
+    "lng": "2.72934495421367",
+    "lat": "42.6968548532352"
+  },
+  {
+    "finess": "660012485",
+    "raison_sociale": "MECS COULEUR D'ENFANCE",
+    "numero voie": "8",
+    "type_voie": "CHE",
+    "libelle_voie": "D'ESTAGEL",
+    "bp": "",
+    "cp": "66550",
+    "VILLE": "CORNEILLA LA RIVIERE    ",
+    "tel": "468056731",
+    "telecopie": "",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "40244881500058",
+    "lng": "2.7341480919952",
+    "lat": "42.6993897776362"
+  }
+]

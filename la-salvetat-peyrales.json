@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "120004197",
+    "raison_sociale": "PHARMACIE LEMAIRE",
+    "numero voie": "16",
+    "type_voie": "RTE",
+    "libelle_voie": "DE RODEZ",
+    "bp": "",
+    "cp": "12440",
+    "VILLE": "LA SALVETAT PEYRALES    ",
+    "tel": "565818307",
+    "telecopie": "565818995",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48948870000019",
+    "lng": "2.20413122322487",
+    "lat": "44.2210387823562"
+  },
+  {
+    "finess": "120005152",
+    "raison_sociale": "SAAD AL ADMR LA SALVETAT PEYRALES",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DU FAUBOURG",
+    "bp": "",
+    "cp": "12440",
+    "VILLE": "LA SALVETAT PEYRALES    ",
+    "tel": "565772222",
+    "telecopie": "565772220",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "2.2026852315891",
+    "lat": "44.2201668537755"
+  },
+  {
+    "finess": "120782560",
+    "raison_sociale": "EHPAD LES GENETS D'OR DU SEGALA",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "ANDRE CALVIGNAC",
+    "bp": "",
+    "cp": "12440",
+    "VILLE": "LA SALVETAT PEYRALES    ",
+    "tel": "565818236",
+    "telecopie": "565658512",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20007400300027",
+    "lng": "2.20169441383411",
+    "lat": "44.2193288215535"
+  }
+]

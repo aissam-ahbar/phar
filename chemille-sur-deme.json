@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "370005258",
+    "raison_sociale": "EHPAD BOIS SOLEIL",
+    "numero voie": "",
+    "type_voie": "ALL",
+    "libelle_voie": "BOIS SOLEIL",
+    "bp": "",
+    "cp": "37370",
+    "VILLE": "CHEMILLE SUR DEME    ",
+    "tel": "247523002",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "39934042100052",
+    "lng": "0.644417047110878",
+    "lat": "47.6593534915116"
+  },
+  {
+    "finess": "370010902",
+    "raison_sociale": "SERVICE PRESTATAIRE AIDE DOMICILE",
+    "numero voie": "17",
+    "type_voie": "R",
+    "libelle_voie": "SAINT HILAIRE",
+    "bp": "",
+    "cp": "37370",
+    "VILLE": "CHEMILLE SUR DEME    ",
+    "tel": "247523017",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31151002800013",
+    "lng": "0.649788882634402",
+    "lat": "47.657833584219"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "660011776",
+    "raison_sociale": "SAAD ADMR ST GENIS DES FONTAINES",
+    "numero voie": "51",
+    "type_voie": "AV",
+    "libelle_voie": "DU MARECHAL JOFFRE",
+    "bp": "",
+    "cp": "66740",
+    "VILLE": "ST GENIS DES FONTAINES   ",
+    "tel": "468897898",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31882729200018",
+    "lng": "2.92048668902392",
+    "lat": "42.5435668031826"
+  },
+  {
+    "finess": "660789272",
+    "raison_sociale": "PHARMACIE DES FONTAINES",
+    "numero voie": "2",
+    "type_voie": "PL",
+    "libelle_voie": "JEAN CAVAILLE",
+    "bp": "",
+    "cp": "66740",
+    "VILLE": "ST GENIS DES FONTAINES   ",
+    "tel": "468897033",
+    "telecopie": "468897805",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79869641500016",
+    "lng": "2.91997145881678",
+    "lat": "42.543399210736"
+  }
+]

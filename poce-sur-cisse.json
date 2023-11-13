@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "370006744",
+    "raison_sociale": "PHARMACIE DEBOEUF",
+    "numero voie": "9",
+    "type_voie": "RTE",
+    "libelle_voie": "de Saint-Ouen-les-Vignes",
+    "bp": "",
+    "cp": "37530",
+    "VILLE": "POCE SUR CISSE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50221079200011",
+    "lng": "0.990550459924329",
+    "lat": "47.4438981628306"
+  },
+  {
+    "finess": "370102691",
+    "raison_sociale": "VILLAGE D'ENFANTS -ACT. ENFANCE - POCE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "CHEMIN DU PEU",
+    "bp": "",
+    "cp": "37530",
+    "VILLE": "POCE SUR CISSE    ",
+    "tel": "247231446",
+    "telecopie": "247232506",
+    "categorie etablissement": "176",
+    "libelle categorie": "Village d'Enfants",
+    "siret": "42843366800046",
+    "lng": "0.986412439065931",
+    "lat": "47.4434916580554"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "190000190",
+    "raison_sociale": "FOYER OCCUPATIONNEL",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "DU VIEUX CHENE",
+    "bp": "",
+    "cp": "19220",
+    "VILLE": "SERVIERES LE CHATEAU    ",
+    "tel": "555285500",
+    "telecopie": "555283809",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "26192582000027",
+    "lng": "2.02213899670709",
+    "lat": "45.1324504102601"
+  },
+  {
+    "finess": "190002568",
+    "raison_sociale": "MAISON D'ACCUEIL SPECIALISEE",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "DU VIEUX CHENE",
+    "bp": "",
+    "cp": "19220",
+    "VILLE": "SERVIERES LE CHATEAU    ",
+    "tel": "555285500",
+    "telecopie": "555283809",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "26192582000019",
+    "lng": "2.02213899670709",
+    "lat": "45.1324504102601"
+  },
+  {
+    "finess": "190009316",
+    "raison_sociale": "PHARMACIEMC SUDER",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "Le Bourg",
+    "bp": "",
+    "cp": "19220",
+    "VILLE": "SERVIERES LE CHATEAU    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81976960500018",
+    "lng": "2.0242420520891",
+    "lat": "45.1309821434059"
+  }
+]

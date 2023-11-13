@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "660007287",
+    "raison_sociale": "EHPAD RESIDENCE LA LLEVANTINA",
+    "numero voie": "100",
+    "type_voie": "AV",
+    "libelle_voie": "NELSON MANDELA",
+    "bp": "",
+    "cp": "66200",
+    "VILLE": "ALENYA ",
+    "tel": "468373494",
+    "telecopie": "468379323",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20003187000013",
+    "lng": "2.98900329132917",
+    "lat": "42.6373478267553"
+  },
+  {
+    "finess": "660787854",
+    "raison_sociale": "PHARMACIE D'ALENYA",
+    "numero voie": "2",
+    "type_voie": "LOT",
+    "libelle_voie": "LES CIGALINES",
+    "bp": "LOT N° 38",
+    "cp": "66200",
+    "VILLE": "ALENYA ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80448325300022",
+    "lng": "2.97533381644042",
+    "lat": "42.6402189074679"
+  }
+]

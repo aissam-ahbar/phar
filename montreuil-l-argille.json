@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "270011703",
+    "raison_sociale": "SAD ASS LOCALE ADMR MONTREUIL ARGILLE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "GRANDE",
+    "bp": "",
+    "cp": "27390",
+    "VILLE": "MONTREUIL L ARGILLE    ",
+    "tel": "232462557",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "34904890000014",
+    "lng": "0.48049516952246",
+    "lat": "48.9386950294928"
+  },
+  {
+    "finess": "270020910",
+    "raison_sociale": "PHARMACIE HORCHOLLE",
+    "numero voie": "40",
+    "type_voie": "",
+    "libelle_voie": "RUE GRANDE",
+    "bp": "",
+    "cp": "27390",
+    "VILLE": "MONTREUIL L ARGILLE    ",
+    "tel": "232445039",
+    "telecopie": "970320935",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49379751800013",
+    "lng": "0.480066237696595",
+    "lat": "48.9380769046138"
+  }
+]

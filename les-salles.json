@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "420009698",
+    "raison_sociale": "EAM APAJH - LE COLLEGE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LE COLLEGE",
+    "cp": "42440",
+    "VILLE": "LES SALLES",
+    "tel": "477976969",
+    "telecopie": "",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "40862860000038",
+    "lng": "3.78740750417871",
+    "lat": "45.8423997132925"
+  },
+  {
+    "finess": "420009748",
+    "raison_sociale": "EANM APAJH LE COLLEGE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LE COLLEGE",
+    "cp": "42440",
+    "VILLE": "LES SALLES",
+    "tel": "477976969",
+    "telecopie": "477760962",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "40862860000038",
+    "lng": "3.78740750417871",
+    "lat": "45.8423997132925"
+  }
+]

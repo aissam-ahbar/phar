@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "530002500",
+    "raison_sociale": "EHPAD CASTERAN",
+    "numero voie": "18",
+    "type_voie": "R",
+    "libelle_voie": "DU DOCTEUR POIRRIER",
+    "bp": "",
+    "cp": "53370",
+    "VILLE": "ST PIERRE DES NIDS   ",
+    "tel": "243035201",
+    "telecopie": "243036423",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26530042600029",
+    "lng": "-0.10112213691338",
+    "lat": "48.3984240000366"
+  },
+  {
+    "finess": "530009299",
+    "raison_sociale": "SAAD ADMR SAINT PIERRE DES NIDS",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DES GIROIES",
+    "bp": "",
+    "cp": "53370",
+    "VILLE": "ST PIERRE DES NIDS   ",
+    "tel": "243044279",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "43431504000023",
+    "lng": "-0.101940106587786",
+    "lat": "48.3975760661089"
+  },
+  {
+    "finess": "530031061",
+    "raison_sociale": "PHARMACIE DES AVALOIRS",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DES AVALOIRS",
+    "bp": "",
+    "cp": "53370",
+    "VILLE": "ST PIERRE DES NIDS   ",
+    "tel": "243035027",
+    "telecopie": "243036333",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75007181300018",
+    "lng": "-0.10202374187514",
+    "lat": "48.3992908575187"
+  }
+]

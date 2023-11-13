@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "40005613",
+    "raison_sociale": "SAAD ADMR DES MÉES",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "PROFESSEUR FRANÇOIS ARNAUD",
+    "bp": "",
+    "cp": "4160",
+    "VILLE": "L ESCALE",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "6.02223450645794",
+    "lat": "44.0846140121657"
+  },
+  {
+    "finess": "40005910",
+    "raison_sociale": "SAAD ADMR DE VOLONNE-L'ESCALE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "PROFESSEUR FRANCOIS ARNAUD",
+    "bp": "",
+    "cp": "4160",
+    "VILLE": "L ESCALE",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "6.02349053841593",
+    "lat": "44.0847828926971"
+  },
+  {
+    "finess": "40789323",
+    "raison_sociale": "SESSAD LA DURANCE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "NAPOLEON",
+    "bp": "QUA SAINT ANDRE",
+    "cp": "4160",
+    "VILLE": "L ESCALE",
+    "tel": "492645505",
+    "telecopie": "492645506",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "31427167700077",
+    "lng": "6.02145882414829",
+    "lat": "44.0812551227927"
+  }
+]

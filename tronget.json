@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "30002208",
+    "raison_sociale": "CH DPT COEUR DU BOURBONNAIS TRONGET",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LES COMBES",
+    "cp": "3240",
+    "VILLE": "TRONGET ",
+    "tel": "470476060",
+    "telecopie": "",
+    "categorie etablissement": "355",
+    "libelle categorie": "Centre Hospitalier (C.H.)",
+    "siret": "26030501600016",
+    "lng": "3.06622786845999",
+    "lat": "46.4205344923073"
+  },
+  {
+    "finess": "30004840",
+    "raison_sociale": "PHARMACIE CHANTELOUBE",
+    "numero voie": "26",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "3240",
+    "VILLE": "TRONGET ",
+    "tel": "470471462",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50897477100018",
+    "lng": "3.06622786845999",
+    "lat": "46.4205344923073"
+  }
+]

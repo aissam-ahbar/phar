@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "370006231",
+    "raison_sociale": "SELARL PHARMACIE HUVELIN",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE L EGLISE",
+    "bp": "",
+    "cp": "37240",
+    "VILLE": "MANTHELAN ",
+    "tel": "247928006",
+    "telecopie": "982111977",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79245191600011",
+    "lng": "0.792834128233715",
+    "lat": "47.137764737072"
+  },
+  {
+    "finess": "370010332",
+    "raison_sociale": "SAAD ADMR MANTHELAN",
+    "numero voie": "10",
+    "type_voie": "IMP",
+    "libelle_voie": "DES GUES SAINT CYR",
+    "bp": "",
+    "cp": "37240",
+    "VILLE": "MANTHELAN ",
+    "tel": "247596912",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31083915400021",
+    "lng": "0.789268098008389",
+    "lat": "47.1382064157649"
+  }
+]

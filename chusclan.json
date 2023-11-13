@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "300011053",
+    "raison_sociale": "PHARMACIE LABEILLE",
+    "numero voie": "",
+    "type_voie": "CHEM",
+    "libelle_voie": "des Rogations",
+    "bp": "Lieu dit \"\"les abeilles\"\"",
+    "cp": "30200",
+    "VILLE": "CHUSCLAN ",
+    "tel": "466901817",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "42133366700028",
+    "lng": "4.68000374427665",
+    "lat": "44.1517673531545"
+  },
+  {
+    "finess": "300786100",
+    "raison_sociale": "UHT PA CHUSCLAN",
+    "numero voie": "61",
+    "type_voie": "CHE",
+    "libelle_voie": "DES HORTS",
+    "bp": "",
+    "cp": "30200",
+    "VILLE": "CHUSCLAN ",
+    "tel": "466890508",
+    "telecopie": "",
+    "categorie etablissement": "502",
+    "libelle categorie": "EHPA ne percevant pas des crédits d'assurance maladie",
+    "siret": "77586864900010",
+    "lng": "4.67749510540642",
+    "lat": "44.1468407805153"
+  }
+]

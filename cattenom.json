@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "570014670",
+    "raison_sociale": "PHARMACIE AULOGE",
+    "numero voie": "1",
+    "type_voie": "AV",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "LES PLATANES",
+    "cp": "57570",
+    "VILLE": "CATTENOM ",
+    "tel": "382554211",
+    "telecopie": "382553775",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44856721400011",
+    "lng": "6.23945196989682",
+    "lat": "49.4068188068218"
+  },
+  {
+    "finess": "570014837",
+    "raison_sociale": "EHPAD \"RESIDENCE D'AUTOMNE\"",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "CHARLES PEGUY",
+    "bp": "",
+    "cp": "57570",
+    "VILLE": "CATTENOM ",
+    "tel": "382553939",
+    "telecopie": "382554952",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "39215451400013",
+    "lng": "6.24207975684262",
+    "lat": "49.4080698883512"
+  }
+]

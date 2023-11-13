@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "160003976",
+    "raison_sociale": "ESAT LES SAPINS",
+    "numero voie": "",
+    "type_voie": "DOM",
+    "libelle_voie": "LES ABELS",
+    "bp": "",
+    "cp": "16130",
+    "VILLE": "LIGNIERES SONNEVILLE",
+    "tel": "545805066",
+    "telecopie": "545805588",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "42105846200027",
+    "lng": "-0.177233455925845",
+    "lat": "45.5472805875837"
+  },
+  {
+    "finess": "160004206",
+    "raison_sociale": "EHPAD LARCHIER",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE BOURG",
+    "bp": "",
+    "cp": "16130",
+    "VILLE": "LIGNIERES SONNEVILLE",
+    "tel": "545805063",
+    "telecopie": "545805060",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "78125336400025",
+    "lng": "-0.183393232510569",
+    "lat": "45.5599384345325"
+  },
+  {
+    "finess": "160011060",
+    "raison_sociale": "PHARMACIE CHAULLET-SAVIN",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "Chez Grimaud",
+    "bp": "",
+    "cp": "16130",
+    "VILLE": "LIGNIERES SONNEVILLE",
+    "tel": "545805017",
+    "telecopie": "545805533",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75153044500012",
+    "lng": "-0.180150725688157",
+    "lat": "45.5604195871258"
+  }
+]

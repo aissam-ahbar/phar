@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "450002019",
+    "raison_sociale": "CENTRE D'EDUCATION MOTRICE (CEM)",
+    "numero voie": "35",
+    "type_voie": "R",
+    "libelle_voie": "DE CHANTALOUP",
+    "bp": "",
+    "cp": "45300",
+    "VILLE": "DADONVILLE ",
+    "tel": "238061313",
+    "telecopie": "238061314",
+    "categorie etablissement": "192",
+    "libelle categorie": "Institut d'éducation motrice",
+    "siret": "",
+    "lng": "2.26616946810856",
+    "lat": "48.1708954817993"
+  },
+  {
+    "finess": "450014675",
+    "raison_sociale": "SESSAD DE DADONVILLE",
+    "numero voie": "35",
+    "type_voie": "R",
+    "libelle_voie": "DE CHANTALOUP",
+    "bp": "",
+    "cp": "45300",
+    "VILLE": "DADONVILLE ",
+    "tel": "238061313",
+    "telecopie": "238061314",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "",
+    "lng": "2.26616946810856",
+    "lat": "48.1708954817993"
+  },
+  {
+    "finess": "450018023",
+    "raison_sociale": "MAS DE CHANTALOUP",
+    "numero voie": "35",
+    "type_voie": "R",
+    "libelle_voie": "DE CHANTALOUP",
+    "bp": "",
+    "cp": "45300",
+    "VILLE": "DADONVILLE ",
+    "tel": "238061313",
+    "telecopie": "238061314",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "32354001300105",
+    "lng": "2.26616946810856",
+    "lat": "48.1708954817993"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "finess": "10008035",
+    "raison_sociale": "PHARMACIE DE MIONNAY",
+    "numero voie": "92",
+    "type_voie": "R",
+    "libelle_voie": "PRINCIPALE",
+    "bp": "",
+    "cp": "1390",
+    "VILLE": "MIONNAY ",
+    "tel": "437260694",
+    "telecopie": "437260695",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88929803000012",
+    "lng": "4.92985917232513",
+    "lat": "45.8957645037538"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "60007077",
+    "raison_sociale": "SELARL PHARMACIE DES ORMEAUX",
+    "numero voie": "14",
+    "type_voie": "PL",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "6530",
+    "VILLE": "ST CEZAIRE SUR SIAGNE   ",
+    "tel": "493602234",
+    "telecopie": "493602763",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48150190600020",
+    "lng": "6.79282813315508",
+    "lat": "43.6497941973025"
+  },
+  {
+    "finess": "60028362",
+    "raison_sociale": "SAAD CAPG",
+    "numero voie": "12",
+    "type_voie": "PL",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "6530",
+    "VILLE": "ST CEZAIRE SUR SIAGNE   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "20003985700012",
+    "lng": "6.79289038979856",
+    "lat": "43.6497226600443"
+  },
+  {
+    "finess": "60028826",
+    "raison_sociale": "SAAD ADOM C'EST MIEUX",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "6530",
+    "VILLE": "ST CEZAIRE SUR SIAGNE   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "75005935400019",
+    "lng": "6.79264294534842",
+    "lat": "43.6499952411295"
+  }
+]

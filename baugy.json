@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "180001471",
+    "raison_sociale": "SELARL PHARMACIE DE LA HALLE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA HALLE",
+    "bp": "",
+    "cp": "18800",
+    "VILLE": "BAUGY ",
+    "tel": "248232130",
+    "telecopie": "248232134",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53352853500016",
+    "lng": "2.73050183327788",
+    "lat": "47.0819914012793"
+  },
+  {
+    "finess": "180007924",
+    "raison_sociale": "SAD ADMR BAUGY",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DU CHANCELIER",
+    "bp": "MAIRIE",
+    "cp": "18800",
+    "VILLE": "BAUGY ",
+    "tel": "672976542",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "77502302100097",
+    "lng": "2.72792155922079",
+    "lat": "47.0811219500877"
+  }
+]

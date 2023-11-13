@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "640012118",
+    "raison_sociale": "EHPAD GOXA LEKU",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "CENTRE BOURG",
+    "bp": "",
+    "cp": "64640",
+    "VILLE": "IHOLDY ",
+    "tel": "559377373",
+    "telecopie": "559375249",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "78230253300024",
+    "lng": "-1.18204477250093",
+    "lat": "43.2814166536151"
+  },
+  {
+    "finess": "640019246",
+    "raison_sociale": "CENTRE D'ACCUEIL DE JOUR GELDI ALDI",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "CENTRE BOURG",
+    "bp": "",
+    "cp": "64640",
+    "VILLE": "IHOLDY ",
+    "tel": "673681820",
+    "telecopie": "",
+    "categorie etablissement": "207",
+    "libelle categorie": "Centre de Jour pour Personnes Agées",
+    "siret": "83110435100018",
+    "lng": "-1.18204477250093",
+    "lat": "43.2814166536151"
+  }
+]

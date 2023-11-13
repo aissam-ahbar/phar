@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "450015862",
+    "raison_sociale": "PHARMACIE OLLIER",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DES FONTAINES",
+    "bp": "",
+    "cp": "45550",
+    "VILLE": "ST DENIS DE L HOTEL  ",
+    "tel": "238598118",
+    "telecopie": "238590076",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45339225000032",
+    "lng": "2.12643910477538",
+    "lat": "47.8714549232947"
+  },
+  {
+    "finess": "450019054",
+    "raison_sociale": "EHPAD LA RESIDENCE DU PORT",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MASURE DU PORT",
+    "bp": "",
+    "cp": "45550",
+    "VILLE": "ST DENIS DE L HOTEL  ",
+    "tel": "238495100",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "",
+    "lng": "2.12381299304711",
+    "lat": "47.8726044930297"
+  }
+]

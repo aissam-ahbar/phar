@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "570015198",
+    "raison_sociale": "EHPAD \"LES SAULES\"",
+    "numero voie": "86",
+    "type_voie": "R",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "57910",
+    "VILLE": "HAMBACH ",
+    "tel": "387989930",
+    "telecopie": "387280737",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77561815000178",
+    "lng": "7.03796462847084",
+    "lat": "49.062527933999"
+  },
+  {
+    "finess": "570017111",
+    "raison_sociale": "PHARMACIE DE COSTEBELLE",
+    "numero voie": "124",
+    "type_voie": "R",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "57910",
+    "VILLE": "HAMBACH ",
+    "tel": "387981210",
+    "telecopie": "387981210",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53031973000020",
+    "lng": "7.03344718341249",
+    "lat": "49.0599356003957"
+  },
+  {
+    "finess": "570026443",
+    "raison_sociale": "SAAD AFAMIA SERVICES",
+    "numero voie": "14",
+    "type_voie": "R",
+    "libelle_voie": "DE NEUFGRANGE",
+    "bp": "",
+    "cp": "57910",
+    "VILLE": "HAMBACH ",
+    "tel": "387952683",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "50240308200014",
+    "lng": "7.04338596881475",
+    "lat": "49.0680427343082"
+  }
+]

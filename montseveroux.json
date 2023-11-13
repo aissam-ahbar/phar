@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380025015",
+    "raison_sociale": "SAAD SARL SAINT BERNARD",
+    "numero voie": "942",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LA VARÈZE",
+    "bp": "LES BOURNES",
+    "cp": "38122",
+    "VILLE": "MONTSEVEROUX ",
+    "tel": "474592038",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "4.97866530526764",
+    "lat": "45.4407550879321"
+  },
+  {
+    "finess": "380796557",
+    "raison_sociale": "SCE AIDES MENAGERE MONTSEVEROUX",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38122",
+    "VILLE": "MONTSEVEROUX ",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37924225800018",
+    "lng": "4.97069684596497",
+    "lat": "45.4286039135052"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "300002649",
+    "raison_sociale": "HENRI - ROUSSEAU",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA LIBERTE",
+    "bp": "",
+    "cp": "30700",
+    "VILLE": "ARPAILLARGUES ET AUREILLAC    ",
+    "tel": "466221692",
+    "telecopie": "466682741",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "87895718200016",
+    "lng": "4.37483428097562",
+    "lat": "43.9996652810614"
+  },
+  {
+    "finess": "300020211",
+    "raison_sociale": "MSP LA SPHERE",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA LIBERTE",
+    "bp": "",
+    "cp": "30700",
+    "VILLE": "ARPAILLARGUES ET AUREILLAC    ",
+    "tel": "488038839",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "91807185300017",
+    "lng": "4.37483428097562",
+    "lat": "43.9996652810614"
+  }
+]

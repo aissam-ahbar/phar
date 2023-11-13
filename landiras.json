@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "330047242",
+    "raison_sociale": "PHARMACIE TERRAZA",
+    "numero voie": "196",
+    "type_voie": "R",
+    "libelle_voie": "André Dubourg",
+    "bp": "",
+    "cp": "33720",
+    "VILLE": "LANDIRAS ",
+    "tel": "556625008",
+    "telecopie": "556624696",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53020370200010",
+    "lng": "-0.416284809177687",
+    "lat": "44.5660368816636"
+  },
+  {
+    "finess": "330800590",
+    "raison_sociale": "SAAD CCAS DE LANDIRAS",
+    "numero voie": "4",
+    "type_voie": "PL",
+    "libelle_voie": "DU 11 NOVEMBRE",
+    "bp": "",
+    "cp": "33720",
+    "VILLE": "LANDIRAS ",
+    "tel": "556625028",
+    "telecopie": "556624869",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26330222600026",
+    "lng": "-0.415602817827865",
+    "lat": "44.566805885342"
+  }
+]

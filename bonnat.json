@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "230000069",
+    "raison_sociale": "EHPAD RESIDENCE LAS MELAIES",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DES FREMEAUX",
+    "bp": "BP 21",
+    "cp": "23220",
+    "VILLE": "BONNAT ",
+    "tel": "555628265",
+    "telecopie": "555812281",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "43951788900119",
+    "lng": "1.90552785580848",
+    "lat": "46.324334650684"
+  },
+  {
+    "finess": "230001810",
+    "raison_sociale": "PHARMACIE DE BONNAT",
+    "numero voie": "38",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA MARCHE",
+    "bp": "",
+    "cp": "23220",
+    "VILLE": "BONNAT ",
+    "tel": "555621012",
+    "telecopie": "555621375",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79827429600010",
+    "lng": "1.91313389414017",
+    "lat": "46.320325209741"
+  },
+  {
+    "finess": "230003410",
+    "raison_sociale": "SAAD ALIAD UNA BONNAT",
+    "numero voie": "14",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA FONTAINE",
+    "bp": "BP 19",
+    "cp": "23220",
+    "VILLE": "BONNAT ",
+    "tel": "555628072",
+    "telecopie": "555628307",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "91467278700027",
+    "lng": "1.90436535979203",
+    "lat": "46.3272097727579"
+  }
+]

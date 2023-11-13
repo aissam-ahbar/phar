@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "340028109",
+    "raison_sociale": "MSP ORB SANTE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "MARIE CURIE",
+    "bp": "",
+    "cp": "34600",
+    "VILLE": "HEREPIAN ",
+    "tel": "467231049",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "85341142900014",
+    "lng": "3.11674530289843",
+    "lat": "43.5952062539017"
+  },
+  {
+    "finess": "340793496",
+    "raison_sociale": "PHARMACIE DES CERISIERS",
+    "numero voie": "6",
+    "type_voie": "",
+    "libelle_voie": "Grand-Rue",
+    "bp": "",
+    "cp": "34600",
+    "VILLE": "HEREPIAN ",
+    "tel": "467950986",
+    "telecopie": "467953639",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34738567600015",
+    "lng": "3.1148935166462",
+    "lat": "43.5934779870561"
+  }
+]

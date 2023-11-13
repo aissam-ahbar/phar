@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "2A0002309",
+    "raison_sociale": "SSIAD (PH) ADMR",
+    "numero voie": "",
+    "type_voie": "LOT",
+    "libelle_voie": "MICHEL ANGE",
+    "bp": "",
+    "cp": "20167",
+    "VILLE": "AFA ",
+    "tel": "495213178",
+    "telecopie": "",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "49981458000019",
+    "lng": "8.80373042726491",
+    "lat": "41.9595259218804"
+  },
+  {
+    "finess": "2A0002804",
+    "raison_sociale": "PHARMACIE D'AFA",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE L EGLISE",
+    "bp": "",
+    "cp": "20167",
+    "VILLE": "AFA ",
+    "tel": "495228194",
+    "telecopie": "495229547",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "41205996600017",
+    "lng": "8.79623970069651",
+    "lat": "41.9834933757136"
+  },
+  {
+    "finess": "2A0004131",
+    "raison_sociale": "CENTRE DE RESSOURCES PDR - TSA",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "BALEONE",
+    "cp": "20167",
+    "VILLE": "AFA ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "461",
+    "libelle categorie": "Centres de Ressources S.A.I. (Sans Aucune Indication)",
+    "siret": "",
+    "lng": "8.7982176107011",
+    "lat": "41.957937915823"
+  }
+]

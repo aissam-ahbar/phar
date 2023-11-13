@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590029872",
+    "raison_sociale": "PHARMACIE DE STEENBECQUE",
+    "numero voie": "19",
+    "type_voie": "R",
+    "libelle_voie": "DE VERDUN",
+    "bp": "",
+    "cp": "59189",
+    "VILLE": "STEENBECQUE ",
+    "tel": "328421873",
+    "telecopie": "328436814",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52515411800018",
+    "lng": "2.48288387239284",
+    "lat": "50.6736293602506"
+  },
+  {
+    "finess": "590782843",
+    "raison_sociale": "EHPAD LES MYOSOTIS",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "59189",
+    "VILLE": "STEENBECQUE ",
+    "tel": "328436076",
+    "telecopie": "328421026",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26590752700021",
+    "lng": "2.48447204266428",
+    "lat": "50.6751965236478"
+  }
+]

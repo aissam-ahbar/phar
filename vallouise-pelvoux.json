@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "50003607",
+    "raison_sociale": "PHARMACIE CHRISTIAN-FARDEAU",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "Les Auches",
+    "bp": "",
+    "cp": "5290",
+    "VILLE": "VALLOUISE PELVOUX",
+    "tel": "492233042",
+    "telecopie": "492233736",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "35407373600028",
+    "lng": "6.4909392020517",
+    "lat": "44.8447502803604"
+  },
+  {
+    "finess": "50008002",
+    "raison_sociale": "MSP DE VALLOUISE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "VALLOUISE",
+    "cp": "5290",
+    "VILLE": "VALLOUISE PELVOUX",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "6.4887583571028",
+    "lat": "44.8461247518957"
+  }
+]

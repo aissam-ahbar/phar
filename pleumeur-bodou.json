@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "220010482",
+    "raison_sociale": "PHARMACIE SUSINI",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "des Ecoliers",
+    "bp": "",
+    "cp": "22560",
+    "VILLE": "PLEUMEUR BODOU",
+    "tel": "296546141",
+    "telecopie": "296546246",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81302508700012",
+    "lng": "-3.520437127835",
+    "lat": "48.7730500497219"
+  },
+  {
+    "finess": "220016067",
+    "raison_sociale": "PHARMACIE MAC GARRY-LORINQUER",
+    "numero voie": "",
+    "type_voie": "COR",
+    "libelle_voie": "DE LANDRELLEC",
+    "bp": "",
+    "cp": "22560",
+    "VILLE": "PLEUMEUR BODOU",
+    "tel": "296153050",
+    "telecopie": "296153052",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40066738200016",
+    "lng": "-3.53450604872127",
+    "lat": "48.8112198665723"
+  }
+]

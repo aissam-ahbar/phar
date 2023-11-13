@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "240003517",
+    "raison_sociale": "SAAD DE L'ASSAD",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LE MAINE",
+    "cp": "24640",
+    "VILLE": "CUBJAC AUVEZERE VAL D ANS  ",
+    "tel": "553053200",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "30055905100051",
+    "lng": "0.938417469462208",
+    "lat": "45.2230733643968"
+  },
+  {
+    "finess": "240006700",
+    "raison_sociale": "SSIAD DE CUBJAC",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE MAINE",
+    "bp": "",
+    "cp": "24640",
+    "VILLE": "CUBJAC AUVEZERE VAL D ANS  ",
+    "tel": "553053200",
+    "telecopie": "553054677",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "30055905100036",
+    "lng": "0.938417469462208",
+    "lat": "45.2230733643968"
+  },
+  {
+    "finess": "240010017",
+    "raison_sociale": "PHARMACIE DU PAYS D'ANS",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LE BOURG",
+    "bp": "",
+    "cp": "24640",
+    "VILLE": "CUBJAC AUVEZERE VAL D ANS  ",
+    "tel": "553053017",
+    "telecopie": "553350461",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48857343700024",
+    "lng": "0.939434302929946",
+    "lat": "45.2214239724826"
+  }
+]

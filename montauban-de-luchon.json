@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "310020375",
+    "raison_sociale": "SSIAD \"PAYS DE LUCHON\"",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "LE BIE",
+    "bp": "",
+    "cp": "31110",
+    "VILLE": "MONTAUBAN DE LUCHON    ",
+    "tel": "562003969",
+    "telecopie": "561895932",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "49916399600030",
+    "lng": "0.610284111592762",
+    "lat": "42.7932372416671"
+  },
+  {
+    "finess": "310785332",
+    "raison_sociale": "EHPAD ERA CASO",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DU BOIS CHANTANT",
+    "bp": "",
+    "cp": "31110",
+    "VILLE": "MONTAUBAN DE LUCHON    ",
+    "tel": "561793790",
+    "telecopie": "561790386",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "21310042300119",
+    "lng": "0.60308923435165",
+    "lat": "42.7914969013826"
+  }
+]

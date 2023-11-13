@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "360002141",
+    "raison_sociale": "EHPAD LE CASTEL",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DES GARDES",
+    "bp": "",
+    "cp": "36160",
+    "VILLE": "STE SEVERE SUR INDRE   ",
+    "tel": "254305277",
+    "telecopie": "254306205",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77522616000031",
+    "lng": "2.06594319249195",
+    "lat": "46.4853191871512"
+  },
+  {
+    "finess": "360003586",
+    "raison_sociale": "PHARMACIE JOUR DE FETE",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DE VERDUN",
+    "bp": "",
+    "cp": "36160",
+    "VILLE": "STE SEVERE SUR INDRE   ",
+    "tel": "254305003",
+    "telecopie": "254305752",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53912178000016",
+    "lng": "2.07125225639344",
+    "lat": "46.4867492373812"
+  },
+  {
+    "finess": "360005540",
+    "raison_sociale": "SSIAD LE CASTEL STE SEVERE",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DES GARDES",
+    "bp": "",
+    "cp": "36160",
+    "VILLE": "STE SEVERE SUR INDRE   ",
+    "tel": "254305277",
+    "telecopie": "254306205",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "77522616000023",
+    "lng": "2.06594319249195",
+    "lat": "46.4853191871512"
+  }
+]

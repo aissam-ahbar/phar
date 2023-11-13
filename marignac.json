@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "310003173",
+    "raison_sociale": "SSIAD GARONNE-LAYRISSE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DES USINES",
+    "bp": "",
+    "cp": "31440",
+    "VILLE": "MARIGNAC ",
+    "tel": "561943308",
+    "telecopie": "561887534",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "49916399600048",
+    "lng": "0.651174657909706",
+    "lat": "42.9155566982248"
+  },
+  {
+    "finess": "310018452",
+    "raison_sociale": "SAAD SAMAID'",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "LUCIEN SAINT",
+    "bp": "",
+    "cp": "31440",
+    "VILLE": "MARIGNAC ",
+    "tel": "561795605",
+    "telecopie": "561887534",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "34213689200029",
+    "lng": "0.658507256558197",
+    "lat": "42.9136916455346"
+  },
+  {
+    "finess": "310033352",
+    "raison_sociale": "MSP SERGE HUET",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DES USINES",
+    "bp": "",
+    "cp": "31440",
+    "VILLE": "MARIGNAC ",
+    "tel": "536340015",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "92091591500010",
+    "lng": "0.651174657909706",
+    "lat": "42.9155566982248"
+  }
+]

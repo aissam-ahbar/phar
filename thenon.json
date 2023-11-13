@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "240007286",
+    "raison_sociale": "SAAD ADMR THENON",
+    "numero voie": "5",
+    "type_voie": "PL",
+    "libelle_voie": "MONTAIGNE",
+    "bp": "",
+    "cp": "24210",
+    "VILLE": "THENON ",
+    "tel": "553353931",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32842841200022",
+    "lng": "1.07155398402799",
+    "lat": "45.1363994365967"
+  },
+  {
+    "finess": "240012682",
+    "raison_sociale": "SELARL PHARMACIE CENTRALE",
+    "numero voie": "6",
+    "type_voie": "PL",
+    "libelle_voie": "JEAN JAURES",
+    "bp": "",
+    "cp": "24210",
+    "VILLE": "THENON ",
+    "tel": "553052014",
+    "telecopie": "553466385",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81306481300021",
+    "lng": "1.07121781827651",
+    "lat": "45.1382859428527"
+  },
+  {
+    "finess": "240013896",
+    "raison_sociale": "EHPAD LES JARDINS DE THENON",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "PIERRE LOTI",
+    "bp": "",
+    "cp": "24210",
+    "VILLE": "THENON ",
+    "tel": "553066430",
+    "telecopie": "553066459",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "82056804600016",
+    "lng": "1.07324530247521",
+    "lat": "45.1380192569119"
+  }
+]

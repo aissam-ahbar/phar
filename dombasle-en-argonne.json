@@ -1,0 +1,19 @@
+[
+  {
+    "finess": "550001572",
+    "raison_sociale": "PHARMACIE DE DOMBASLE EN ARGONNE",
+    "numero voie": "21",
+    "type_voie": "CAR",
+    "libelle_voie": "DE LA LIBERATION",
+    "bp": "",
+    "cp": "55120",
+    "VILLE": "DOMBASLE EN ARGONNE    ",
+    "tel": "329868128",
+    "telecopie": "329868359",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50238222900016",
+    "lng": "5.19081476153406",
+    "lat": "49.1369642508466"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "190006361",
+    "raison_sociale": "ESAT ATELIERS NATURE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE BOURG",
+    "bp": "",
+    "cp": "19130",
+    "VILLE": "ST AULAIRE",
+    "tel": "555256976",
+    "telecopie": "",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77796706800142",
+    "lng": "1.3725248589139",
+    "lat": "45.2303919028506"
+  },
+  {
+    "finess": "190009084",
+    "raison_sociale": "PHARMACIE DE SAINT AULAIRE",
+    "numero voie": "402",
+    "type_voie": "AV",
+    "libelle_voie": "ROBERT GOLFIER",
+    "bp": "",
+    "cp": "19130",
+    "VILLE": "ST AULAIRE",
+    "tel": "555250802",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51384220300012",
+    "lng": "1.4013608666834",
+    "lat": "45.2504325348105"
+  }
+]

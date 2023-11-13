@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "220010953",
+    "raison_sociale": "SELARL PHARMACIE TROADEC",
+    "numero voie": "",
+    "type_voie": "RPT",
+    "libelle_voie": "KENNEDY",
+    "bp": "",
+    "cp": "22200",
+    "VILLE": "GRACES ",
+    "tel": "296438880",
+    "telecopie": "296440177",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49095874100012",
+    "lng": "-3.18480629678044",
+    "lat": "48.5568233370074"
+  },
+  {
+    "finess": "220023568",
+    "raison_sociale": "SAAD RESIDENCE DE KERANNO",
+    "numero voie": "12",
+    "type_voie": "R",
+    "libelle_voie": "ANGELA DUVAL",
+    "bp": "",
+    "cp": "22200",
+    "VILLE": "GRACES ",
+    "tel": "296059000",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "53497311000024",
+    "lng": "-3.18405879177715",
+    "lat": "48.5539495994205"
+  }
+]

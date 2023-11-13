@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "510018492",
+    "raison_sociale": "PHARMACIE URBAIN II",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "FONTAINE CORBILLON",
+    "bp": "",
+    "cp": "51700",
+    "VILLE": "CHATILLON SUR MARNE    ",
+    "tel": "326583415",
+    "telecopie": "326571024",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82533662100016",
+    "lng": "3.75807531846334",
+    "lat": "49.1008509691077"
+  },
+  {
+    "finess": "510024706",
+    "raison_sociale": "MSP DU CHATILLONNAIS",
+    "numero voie": "31",
+    "type_voie": "R",
+    "libelle_voie": "FONTAINE CORBILLON",
+    "bp": "",
+    "cp": "51700",
+    "VILLE": "CHATILLON SUR MARNE    ",
+    "tel": "326515424",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "80529538300014",
+    "lng": "3.75786471804593",
+    "lat": "49.1023691715808"
+  },
+  {
+    "finess": "510027402",
+    "raison_sociale": "ADMR CHATILLON SUR MARNE",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DE L'HOTEL DE VILLE",
+    "bp": "",
+    "cp": "51700",
+    "VILLE": "CHATILLON SUR MARNE    ",
+    "tel": "326577818",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "30530388500019",
+    "lng": "3.7573661281473",
+    "lat": "49.0990796032891"
+  }
+]

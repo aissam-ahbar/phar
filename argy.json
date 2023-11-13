@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "360007157",
+    "raison_sociale": "ESAT D'ARGY",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "36500",
+    "VILLE": "ARGY ",
+    "tel": "254840798",
+    "telecopie": "254021940",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "78457968202324",
+    "lng": "1.44059602683223",
+    "lat": "46.938513437285"
+  },
+  {
+    "finess": "360007868",
+    "raison_sociale": "FOYER D'HEBERGEMENT D'ARGY",
+    "numero voie": "61",
+    "type_voie": "R",
+    "libelle_voie": "DES HERVAUX",
+    "bp": "",
+    "cp": "36500",
+    "VILLE": "ARGY ",
+    "tel": "254840798",
+    "telecopie": "",
+    "categorie etablissement": "252",
+    "libelle categorie": "Foyer Hébergement Adultes Handicapés",
+    "siret": "38811986900070",
+    "lng": "1.43685563240029",
+    "lat": "46.939235433034"
+  },
+  {
+    "finess": "360007876",
+    "raison_sociale": "SAVS",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "36500",
+    "VILLE": "ARGY ",
+    "tel": "254840798",
+    "telecopie": "",
+    "categorie etablissement": "446",
+    "libelle categorie": "Service d'Accompagnement à la Vie Sociale (S.A.V.S.)",
+    "siret": "38811986900062",
+    "lng": "1.44059602683223",
+    "lat": "46.938513437285"
+  }
+]

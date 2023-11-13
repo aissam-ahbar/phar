@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "600007116",
+    "raison_sociale": "SELARL PHARMACIE BESSIERE GUENARD",
+    "numero voie": "5",
+    "type_voie": "PL",
+    "libelle_voie": "DU 8 MAI 1945",
+    "bp": "",
+    "cp": "60110",
+    "VILLE": "AMBLAINVILLE ",
+    "tel": "344223344",
+    "telecopie": "344225868",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44922412000013",
+    "lng": "2.11971271365337",
+    "lat": "49.2055558300635"
+  },
+  {
+    "finess": "600015176",
+    "raison_sociale": "CENTRE DE SANTÉ",
+    "numero voie": "26",
+    "type_voie": "R",
+    "libelle_voie": "DE LA PORTE DES CHAMPS",
+    "bp": "",
+    "cp": "60110",
+    "VILLE": "AMBLAINVILLE ",
+    "tel": "344520309",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "",
+    "lng": "2.12493053206021",
+    "lat": "49.2030710219506"
+  }
+]

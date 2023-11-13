@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "570000448",
+    "raison_sociale": "CMSC FILIERIS DE CHARLEVILLE SOUS BOIS",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE GONDREVILLE",
+    "bp": "",
+    "cp": "57220",
+    "VILLE": "CHARLEVILLE SOUS BOIS    ",
+    "tel": "387791352",
+    "telecopie": "387792821",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "77568531600504",
+    "lng": "6.39483433809685",
+    "lat": "49.1963502927965"
+  },
+  {
+    "finess": "570013888",
+    "raison_sociale": "USLD CMSC FILIERIS CHARLEVILLE S BOIS",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE GONDREVILLE",
+    "bp": "",
+    "cp": "57220",
+    "VILLE": "CHARLEVILLE SOUS BOIS    ",
+    "tel": "387791352",
+    "telecopie": "",
+    "categorie etablissement": "362",
+    "libelle categorie": "Etablissement de Soins Longue Durée",
+    "siret": "77568531600504",
+    "lng": "6.39483433809685",
+    "lat": "49.1963502927965"
+  }
+]

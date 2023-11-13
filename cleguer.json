@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "560016230",
+    "raison_sociale": "PHARMACIE DE CLEGUER",
+    "numero voie": "21",
+    "type_voie": "R",
+    "libelle_voie": "Félix le Gleut",
+    "bp": "",
+    "cp": "56620",
+    "VILLE": "CLEGUER ",
+    "tel": "297326348",
+    "telecopie": "297326757",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83947778300014",
+    "lng": "-3.38513944253293",
+    "lat": "47.8534092428721"
+  },
+  {
+    "finess": "560020778",
+    "raison_sociale": "SAAD CCAS CLEGUER",
+    "numero voie": "19",
+    "type_voie": "R",
+    "libelle_voie": "FELIX LE GLEUT",
+    "bp": "",
+    "cp": "56620",
+    "VILLE": "CLEGUER ",
+    "tel": "297801888",
+    "telecopie": "297325824",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26560243300012",
+    "lng": "-3.38474036389554",
+    "lat": "47.85343733054"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "630006336",
+    "raison_sociale": "PHARMACIE LIGI",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "de Giat",
+    "bp": "",
+    "cp": "63470",
+    "VILLE": "HERMENT ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53267896800027",
+    "lng": "2.56916504002038",
+    "lat": "45.755116486234"
+  },
+  {
+    "finess": "630788719",
+    "raison_sociale": "SCE AIDE MENAG DOM PERS AGEES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "63470",
+    "VILLE": "HERMENT ",
+    "tel": "473221058",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "25630131800026",
+    "lng": "2.56961014586568",
+    "lat": "45.7531325793709"
+  }
+]

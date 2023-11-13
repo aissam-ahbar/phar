@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "330050295",
+    "raison_sociale": "PHARMACIE DE PUGNAC",
+    "numero voie": "11",
+    "type_voie": "ZA",
+    "libelle_voie": "II BELLEVUE",
+    "bp": "",
+    "cp": "33710",
+    "VILLE": "PUGNAC ",
+    "tel": "557688139",
+    "telecopie": "557768970",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40411299700022",
+    "lng": "-0.4985182655702",
+    "lat": "45.0732977742069"
+  },
+  {
+    "finess": "330062142",
+    "raison_sociale": "CMP ENFANTS PUGNAC",
+    "numero voie": "57",
+    "type_voie": "R",
+    "libelle_voie": "DU STADE",
+    "bp": "",
+    "cp": "33710",
+    "VILLE": "PUGNAC ",
+    "tel": "524507200",
+    "telecopie": "",
+    "categorie etablissement": "156",
+    "libelle categorie": "Centre Médico-Psychologique (C.M.P.)",
+    "siret": "",
+    "lng": "-0.501649638883822",
+    "lat": "45.0770928831141"
+  },
+  {
+    "finess": "330785809",
+    "raison_sociale": "RESIDENCE AUTONOMIE ETIENNE LUCAS",
+    "numero voie": "",
+    "type_voie": "BRG",
+    "libelle_voie": "EST",
+    "bp": "",
+    "cp": "33710",
+    "VILLE": "PUGNAC ",
+    "tel": "557940685",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "46120133700031",
+    "lng": "-0.495933380157188",
+    "lat": "45.0818581567538"
+  }
+]

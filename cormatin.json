@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "710003914",
+    "raison_sociale": "PHARMACIE PEZDA SELARL",
+    "numero voie": "17",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "71460",
+    "VILLE": "CORMATIN ",
+    "tel": "385501350",
+    "telecopie": "385507091",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49846075700012",
+    "lng": "4.68765747103363",
+    "lat": "46.5427147582061"
+  },
+  {
+    "finess": "710977927",
+    "raison_sociale": "EHPA MARPA ANAIS CORMATIN",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "BOURG",
+    "bp": "",
+    "cp": "71460",
+    "VILLE": "CORMATIN ",
+    "tel": "385507115",
+    "telecopie": "385507118",
+    "categorie etablissement": "502",
+    "libelle categorie": "EHPA ne percevant pas des crédits d'assurance maladie",
+    "siret": "",
+    "lng": "4.68765747103363",
+    "lat": "46.5427147582061"
+  }
+]

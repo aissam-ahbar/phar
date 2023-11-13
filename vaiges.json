@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "530002534",
+    "raison_sociale": "EHPAD RESIDENCE DE L'ORIOLET",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DES SPORTS",
+    "bp": "LD RESIDENCE DU PARC",
+    "cp": "53480",
+    "VILLE": "VAIGES ",
+    "tel": "243641220",
+    "telecopie": "243641229",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20003262100019",
+    "lng": "-0.47868691818811",
+    "lat": "48.0391966934519"
+  },
+  {
+    "finess": "530008580",
+    "raison_sociale": "MAISON DE SANTE DE VAIGES",
+    "numero voie": "2",
+    "type_voie": "PL",
+    "libelle_voie": "DU MARCHE",
+    "bp": "",
+    "cp": "53480",
+    "VILLE": "VAIGES ",
+    "tel": "243905098",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "-0.477290442130747",
+    "lat": "48.0408584396245"
+  },
+  {
+    "finess": "530031095",
+    "raison_sociale": "PHARMACIE DE VAIGES",
+    "numero voie": "5",
+    "type_voie": "RTE",
+    "libelle_voie": "DU MANS",
+    "bp": "",
+    "cp": "53480",
+    "VILLE": "VAIGES ",
+    "tel": "243905017",
+    "telecopie": "243905676",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52099438500018",
+    "lng": "-0.476219399407083",
+    "lat": "48.0398280888629"
+  }
+]

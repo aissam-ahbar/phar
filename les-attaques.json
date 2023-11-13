@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "620006031",
+    "raison_sociale": "PHARMACIE EVRARD-BOUIN",
+    "numero voie": "1179",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE 43",
+    "bp": "",
+    "cp": "62730",
+    "VILLE": "LES ATTAQUES",
+    "tel": "321822588",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38976859900026",
+    "lng": "1.93256072446928",
+    "lat": "50.906524694545"
+  },
+  {
+    "finess": "620034447",
+    "raison_sociale": "CAU EMMAUS ST OMER-CALAIS LES ATTAQUES",
+    "numero voie": "1514",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "62730",
+    "VILLE": "LES ATTAQUES",
+    "tel": "321356059",
+    "telecopie": "321007468",
+    "categorie etablissement": "219",
+    "libelle categorie": "Autre Centre d'Accueil",
+    "siret": "30142019600034",
+    "lng": "1.94114163890834",
+    "lat": "50.9066183820505"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "450016878",
+    "raison_sociale": "LIEU DE VIE \"LA MAISON DEZ'EL\"",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "45240",
+    "VILLE": "MENESTREAU EN VILLETTE    ",
+    "tel": "238512535",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "50973153500019",
+    "lng": "2.0213356940148",
+    "lat": "47.6987225770807"
+  },
+  {
+    "finess": "450021118",
+    "raison_sociale": "SAAD AB SERVICES",
+    "numero voie": "6",
+    "type_voie": "CLOS",
+    "libelle_voie": "NEUF",
+    "bp": "",
+    "cp": "45240",
+    "VILLE": "MENESTREAU EN VILLETTE    ",
+    "tel": "631245053",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "51057551700014",
+    "lng": "2.0218792520656",
+    "lat": "47.704996575681"
+  }
+]

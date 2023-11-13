@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "590010120",
+    "raison_sociale": "PHARMACIE STAS-LETIENT",
+    "numero voie": "16",
+    "type_voie": "R",
+    "libelle_voie": "DU MARRONNIER",
+    "bp": "",
+    "cp": "59269",
+    "VILLE": "ARTRES ",
+    "tel": "327270452",
+    "telecopie": "327270153",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44349915700016",
+    "lng": "3.53798750173347",
+    "lat": "50.2915857083592"
+  },
+  {
+    "finess": "590035663",
+    "raison_sociale": "FOYER VIE ADULTES PLURIHANDICAP ARTRES",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "59269",
+    "VILLE": "ARTRES ",
+    "tel": "327462181",
+    "telecopie": "327276775",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "78350592800011",
+    "lng": "3.54129573057324",
+    "lat": "50.2901992560781"
+  },
+  {
+    "finess": "590046421",
+    "raison_sociale": "FOYER D'ACCUEIL MEDICALISE",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "59269",
+    "VILLE": "ARTRES ",
+    "tel": "327462181",
+    "telecopie": "327276775",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "78350592800029",
+    "lng": "3.54129573057324",
+    "lat": "50.2901992560781"
+  }
+]

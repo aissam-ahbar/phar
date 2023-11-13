@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "330045592",
+    "raison_sociale": "PHARMACIE DE CERONS",
+    "numero voie": "14",
+    "type_voie": "",
+    "libelle_voie": "LATOUR",
+    "bp": "",
+    "cp": "33720",
+    "VILLE": "CERONS ",
+    "tel": "556270200",
+    "telecopie": "556273318",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39384808000023",
+    "lng": "-0.333987059244335",
+    "lat": "44.6316035682636"
+  },
+  {
+    "finess": "330789942",
+    "raison_sociale": "RESIDENCE AUTONOMIE L'EPINEY",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "L'EPINEY",
+    "bp": "",
+    "cp": "33720",
+    "VILLE": "CERONS ",
+    "tel": "556272020",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "",
+    "lng": "-0.338012595051262",
+    "lat": "44.6313928481864"
+  }
+]

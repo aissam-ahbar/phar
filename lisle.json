@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "240010587",
+    "raison_sociale": "SNC PHARMACIE LACOMBE - BOURDINAUD",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "24350",
+    "VILLE": "LISLE ",
+    "tel": "553045003",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34923415300014",
+    "lng": "0.54794319403705",
+    "lat": "45.2785135155008"
+  },
+  {
+    "finess": "240017186",
+    "raison_sociale": "MSP LIBERALE DE LISLE",
+    "numero voie": "13",
+    "type_voie": "PL",
+    "libelle_voie": "DES BLANQUETTES",
+    "bp": "",
+    "cp": "24350",
+    "VILLE": "LISLE ",
+    "tel": "553045153",
+    "telecopie": "972649320",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "95254135700010",
+    "lng": "0.548308084543993",
+    "lat": "45.2792106817872"
+  }
+]

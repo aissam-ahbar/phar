@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "330049545",
+    "raison_sociale": "PHARMACIE DE PELLEGRUE",
+    "numero voie": "26",
+    "type_voie": "R",
+    "libelle_voie": "DE LA GRENOUILLETTE",
+    "bp": "",
+    "cp": "33790",
+    "VILLE": "PELLEGRUE ",
+    "tel": "556613019",
+    "telecopie": "556614187",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "89986327800011",
+    "lng": "0.077832619339369",
+    "lat": "44.7448066689597"
+  },
+  {
+    "finess": "330797366",
+    "raison_sociale": "RESIDENCE AUTONOMIE DE PELLEGRUE",
+    "numero voie": "19",
+    "type_voie": "R",
+    "libelle_voie": "DE DURAS",
+    "bp": "",
+    "cp": "33790",
+    "VILLE": "PELLEGRUE ",
+    "tel": "556613021",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26330311700026",
+    "lng": "0.077923326708513",
+    "lat": "44.7424522602684"
+  }
+]

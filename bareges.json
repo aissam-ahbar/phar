@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "650780042",
+    "raison_sociale": "THERMES DE BAREGES",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DES THERMES",
+    "bp": "",
+    "cp": "65120",
+    "VILLE": "BAREGES ",
+    "tel": "562926802",
+    "telecopie": "",
+    "categorie etablissement": "126",
+    "libelle categorie": "Etablissement Thermal",
+    "siret": "25650060400010",
+    "lng": "0.064509137745285",
+    "lat": "42.8965208854947"
+  },
+  {
+    "finess": "650787047",
+    "raison_sociale": "THERMES DE BARZUN",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "65120",
+    "VILLE": "BAREGES ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "126",
+    "libelle categorie": "Etablissement Thermal",
+    "siret": "25650060400036",
+    "lng": "0.064509137745285",
+    "lat": "42.8965208854947"
+  }
+]

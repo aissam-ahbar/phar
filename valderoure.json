@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "60024007",
+    "raison_sociale": "PROPHARMACIE MONSIEUR CHRISTIAN PUIG",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DU COLLET DU PARRON",
+    "bp": "",
+    "cp": "6750",
+    "VILLE": "VALDEROURE ",
+    "tel": "493604714",
+    "telecopie": "",
+    "categorie etablissement": "627",
+    "libelle categorie": "Propharmacie",
+    "siret": "32424102500034",
+    "lng": "6.71266212479699",
+    "lat": "43.7966349522097"
+  },
+  {
+    "finess": "60031010",
+    "raison_sociale": "PROPHARMACIE DR GUERBER",
+    "numero voie": "45",
+    "type_voie": "CHE",
+    "libelle_voie": "DU COLLET DE PARRON",
+    "bp": "",
+    "cp": "6750",
+    "VILLE": "VALDEROURE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "627",
+    "libelle categorie": "Propharmacie",
+    "siret": "42092521600103",
+    "lng": "6.71266212479699",
+    "lat": "43.7966349522097"
+  },
+  {
+    "finess": "60031879",
+    "raison_sociale": "PROPHARMACIE MONSIEUR JEROME CONTESTIN",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DU COLLET DU PARRON",
+    "bp": "",
+    "cp": "6750",
+    "VILLE": "VALDEROURE ",
+    "tel": "493604714",
+    "telecopie": "",
+    "categorie etablissement": "627",
+    "libelle categorie": "Propharmacie",
+    "siret": "",
+    "lng": "6.71266212479699",
+    "lat": "43.7966349522097"
+  }
+]

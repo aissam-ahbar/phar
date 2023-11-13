@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "290012335",
+    "raison_sociale": "PHARMACIE DE GUICLAN",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "du Stade",
+    "bp": "",
+    "cp": "29410",
+    "VILLE": "GUICLAN ",
+    "tel": "298240694",
+    "telecopie": "974718835",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "90125775800010",
+    "lng": "-3.96232164885007",
+    "lat": "48.5511386700231"
+  },
+  {
+    "finess": "290028638",
+    "raison_sociale": "EHPAD SAINT JACQUES",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "LAMPAUL GUIMILIAU",
+    "bp": "",
+    "cp": "29410",
+    "VILLE": "GUICLAN ",
+    "tel": "298687769",
+    "telecopie": "298686229",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77762928800203",
+    "lng": "-3.99367197628149",
+    "lat": "48.517979251824"
+  }
+]

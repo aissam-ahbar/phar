@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "10005403",
+    "raison_sociale": "PHARMACIE DAVIN",
+    "numero voie": "123",
+    "type_voie": "R",
+    "libelle_voie": "des Huguets",
+    "bp": "",
+    "cp": "1140",
+    "VILLE": "ST DIDIER SUR CHALARONNE   ",
+    "tel": "474697731",
+    "telecopie": "474697391",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88918776100016",
+    "lng": "4.81713140705035",
+    "lat": "46.1792894015279"
+  },
+  {
+    "finess": "10012870",
+    "raison_sociale": "MAISON DE SANTE LECLERCQ",
+    "numero voie": "38",
+    "type_voie": "PL",
+    "libelle_voie": "GEORGES AGNIEL",
+    "bp": "",
+    "cp": "1140",
+    "VILLE": "ST DIDIER SUR CHALARONNE   ",
+    "tel": "474662728",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "92161053100011",
+    "lng": "4.8153314716348",
+    "lat": "46.1772086720765"
+  }
+]

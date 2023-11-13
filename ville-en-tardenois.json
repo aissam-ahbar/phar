@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "510022213",
+    "raison_sociale": "SELARL PHARMACIE LAMBERT",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "CHARLES DE GAULLE",
+    "bp": "",
+    "cp": "51170",
+    "VILLE": "VILLE EN TARDENOIS    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53427130900021",
+    "lng": "3.80308855874034",
+    "lat": "49.182309025852"
+  },
+  {
+    "finess": "510026180",
+    "raison_sociale": "MSP DU TARDENOIS",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "CHARLES DE GAULLE",
+    "bp": "",
+    "cp": "51170",
+    "VILLE": "VILLE EN TARDENOIS    ",
+    "tel": "326077946",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "81833674500018",
+    "lng": "3.80308855874034",
+    "lat": "49.182309025852"
+  }
+]

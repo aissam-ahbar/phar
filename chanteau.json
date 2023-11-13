@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "450011952",
+    "raison_sociale": "CENTRE DE JOUR ET CENTRE DE SEJOUR",
+    "numero voie": "69",
+    "type_voie": "R",
+    "libelle_voie": "NEUVE",
+    "bp": "",
+    "cp": "45400",
+    "VILLE": "CHANTEAU ",
+    "tel": "238751636",
+    "telecopie": "238867767",
+    "categorie etablissement": "292",
+    "libelle categorie": "Centre Hospitalier Spécialisé lutte Maladies Mentales",
+    "siret": "26450004200207",
+    "lng": "1.96171311235939",
+    "lat": "47.9719238566855"
+  },
+  {
+    "finess": "450023957",
+    "raison_sociale": "SAMSAH L'OREAL",
+    "numero voie": "667",
+    "type_voie": "R",
+    "libelle_voie": "DES RASLES",
+    "bp": "",
+    "cp": "45400",
+    "VILLE": "CHANTEAU ",
+    "tel": "238216732",
+    "telecopie": "",
+    "categorie etablissement": "445",
+    "libelle categorie": "Service d'accompagnement médico-social adultes handicapés",
+    "siret": "",
+    "lng": "1.94924150333762",
+    "lat": "47.9737084783359"
+  }
+]

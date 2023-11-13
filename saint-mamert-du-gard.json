@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "300009586",
+    "raison_sociale": "SELAS PHARMACIE DE SAINT MAMERT",
+    "numero voie": "346",
+    "type_voie": "CHE",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "30730",
+    "VILLE": "ST MAMERT DU GARD   ",
+    "tel": "466811413",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50299874300020",
+    "lng": "4.19236513642388",
+    "lat": "43.8891031638943"
+  },
+  {
+    "finess": "300013703",
+    "raison_sociale": "FAM SESAME AUTISME",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "NELSON MANDELA",
+    "bp": "",
+    "cp": "30730",
+    "VILLE": "ST MAMERT DU GARD   ",
+    "tel": "430081076",
+    "telecopie": "",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "40532963200120",
+    "lng": "4.19606261379823",
+    "lat": "43.8920760401231"
+  }
+]

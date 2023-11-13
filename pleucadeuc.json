@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "560011777",
+    "raison_sociale": "RESIDENCE PIERRE MEHA",
+    "numero voie": "5",
+    "type_voie": "AV",
+    "libelle_voie": "DES SPORTS",
+    "bp": "",
+    "cp": "56140",
+    "VILLE": "PLEUCADEUC ",
+    "tel": "297269622",
+    "telecopie": "297269402",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "39144758800115",
+    "lng": "-2.37394945567876",
+    "lat": "47.7589574190209"
+  },
+  {
+    "finess": "560019465",
+    "raison_sociale": "SNC PHARMACIE ASCOUET-SUTEAU",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "PASTEUR",
+    "bp": "",
+    "cp": "56140",
+    "VILLE": "PLEUCADEUC ",
+    "tel": "297269159",
+    "telecopie": "297269020",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "43463653600022",
+    "lng": "-2.37563427916382",
+    "lat": "47.757956188824"
+  },
+  {
+    "finess": "560028276",
+    "raison_sociale": "SAAD ADMR PLEUCADEUC",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "56140",
+    "VILLE": "PLEUCADEUC ",
+    "tel": "297679362",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "34271944000014",
+    "lng": "-2.37365402381985",
+    "lat": "47.7592244950517"
+  }
+]

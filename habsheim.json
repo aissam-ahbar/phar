@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "680005501",
+    "raison_sociale": "RESIDENCE BELLEVUE",
+    "numero voie": "41",
+    "type_voie": "R",
+    "libelle_voie": "DU COLONEL FABIEN",
+    "bp": "",
+    "cp": "68440",
+    "VILLE": "HABSHEIM ",
+    "tel": "389440307",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26680024200023",
+    "lng": "7.40884857522814",
+    "lat": "47.7292415497625"
+  },
+  {
+    "finess": "680008265",
+    "raison_sociale": "PHARMACIE  SCHAFFHAUSER",
+    "numero voie": "84",
+    "type_voie": "R",
+    "libelle_voie": "DU GAL DE GAULLE",
+    "bp": "",
+    "cp": "68440",
+    "VILLE": "HABSHEIM ",
+    "tel": "389441023",
+    "telecopie": "389643348",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80251223600018",
+    "lng": "7.41643759301372",
+    "lat": "47.7294491216729"
+  },
+  {
+    "finess": "680019304",
+    "raison_sociale": "LBM B2A SITE BIEHLER",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DU COLONEL FABIEN",
+    "bp": "",
+    "cp": "68440",
+    "VILLE": "HABSHEIM ",
+    "tel": "389659240",
+    "telecopie": "389652320",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "43389526500349",
+    "lng": "7.41566464955564",
+    "lat": "47.7292962214625"
+  }
+]

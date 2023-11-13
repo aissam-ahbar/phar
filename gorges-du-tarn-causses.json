@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "480002682",
+    "raison_sociale": "LIEU DE VIE LA PERIGOUSE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LD LA PERIGOUSE",
+    "cp": "48210",
+    "VILLE": "GORGES DU TARN CAUSSES   ",
+    "tel": "466485371",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "52945299700016",
+    "lng": "3.39086676606546",
+    "lat": "44.400596469998"
+  },
+  {
+    "finess": "480782796",
+    "raison_sociale": "SELARL PIALOT LOLA",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE FLORAC",
+    "bp": "",
+    "cp": "48210",
+    "VILLE": "GORGES DU TARN CAUSSES   ",
+    "tel": "466485659",
+    "telecopie": "970328013",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83106234400013",
+    "lng": "3.42871251007231",
+    "lat": "44.3662613317976"
+  }
+]

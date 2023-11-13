@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "360002711",
+    "raison_sociale": "S.E.L.A.R.L. PHARMACIE DE LUCAY",
+    "numero voie": "4",
+    "type_voie": "PL",
+    "libelle_voie": "DE VERDUN",
+    "bp": "",
+    "cp": "36360",
+    "VILLE": "LUCAY LE MALE    ",
+    "tel": "254404119",
+    "telecopie": "254404954",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51046532100014",
+    "lng": "1.43808847261186",
+    "lat": "47.1262888994431"
+  },
+  {
+    "finess": "360006340",
+    "raison_sociale": "FOYER DE VIE DE LUCAY-LE-MALE",
+    "numero voie": "17",
+    "type_voie": "PL",
+    "libelle_voie": "DE VERDUN",
+    "bp": "",
+    "cp": "36360",
+    "VILLE": "LUCAY LE MALE    ",
+    "tel": "254404250",
+    "telecopie": "254030700",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "77518926900068",
+    "lng": "1.43695985328519",
+    "lat": "47.1265356939968"
+  }
+]

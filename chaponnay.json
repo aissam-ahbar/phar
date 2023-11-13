@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "690015623",
+    "raison_sociale": "PHARMACIE ACHARD - BRUN",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "CHARLES DE GAULLE",
+    "bp": "",
+    "cp": "69970",
+    "VILLE": "CHAPONNAY ",
+    "tel": "478960030",
+    "telecopie": "478967326",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49080609800011",
+    "lng": "4.93415327839625",
+    "lat": "45.6283857808496"
+  },
+  {
+    "finess": "690039771",
+    "raison_sociale": "EHPAD LES ALLOBROGES",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DES ALLOBROGES",
+    "bp": "",
+    "cp": "69970",
+    "VILLE": "CHAPONNAY ",
+    "tel": "472700707",
+    "telecopie": "478969882",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20003888300019",
+    "lng": "4.92931542639597",
+    "lat": "45.6292957228682"
+  },
+  {
+    "finess": "690040217",
+    "raison_sociale": "BASTIDE RESPIRATOIRE RHONE CHAPONNAY",
+    "numero voie": "290",
+    "type_voie": "R",
+    "libelle_voie": "LOUISE LABBE",
+    "bp": "BOIS DU PARC CRONU",
+    "cp": "69970",
+    "VILLE": "CHAPONNAY ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "90938327500023",
+    "lng": "4.92732796091049",
+    "lat": "45.6464872483751"
+  }
+]

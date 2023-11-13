@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "620011130",
+    "raison_sociale": "PHARMACIE DE FLEURBAIX",
+    "numero voie": "28",
+    "type_voie": "R",
+    "libelle_voie": "de la Malassise",
+    "bp": "",
+    "cp": "62840",
+    "VILLE": "FLEURBAIX ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45309981400015",
+    "lng": "2.83619543416104",
+    "lat": "50.6519777853116"
+  },
+  {
+    "finess": "620030981",
+    "raison_sociale": "MSP DE FLEURBAIX",
+    "numero voie": "29",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MALASSISE",
+    "bp": "",
+    "cp": "62840",
+    "VILLE": "FLEURBAIX ",
+    "tel": "321656213",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "33344368700038",
+    "lng": "2.83644051792288",
+    "lat": "50.6521405384861"
+  }
+]

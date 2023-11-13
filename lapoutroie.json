@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "680009396",
+    "raison_sociale": "SELARL PHARMACIE DE LA VALLEE",
+    "numero voie": "62",
+    "type_voie": "",
+    "libelle_voie": "RUE DU GAL DUFIEUX",
+    "bp": "",
+    "cp": "68650",
+    "VILLE": "LAPOUTROIE ",
+    "tel": "389475011",
+    "telecopie": "389475159",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "47826114200010",
+    "lng": "7.16782734329452",
+    "lat": "48.1541124934806"
+  },
+  {
+    "finess": "680011301",
+    "raison_sociale": "EHPAD RM CANTON VERT LAPOUTROIE",
+    "numero voie": "53",
+    "type_voie": "R",
+    "libelle_voie": "DU GENERAL DUFIEUX",
+    "bp": "",
+    "cp": "68650",
+    "VILLE": "LAPOUTROIE ",
+    "tel": "389472910",
+    "telecopie": "389472914",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26680112500052",
+    "lng": "7.16799227226825",
+    "lat": "48.1535236673777"
+  }
+]

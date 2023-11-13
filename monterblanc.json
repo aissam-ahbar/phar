@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "560019077",
+    "raison_sociale": "PHARMACIE FRANCOIS",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "ANNE DE BRETAGNE",
+    "bp": "",
+    "cp": "56250",
+    "VILLE": "MONTERBLANC ",
+    "tel": "297459032",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45173313300016",
+    "lng": "-2.68084738932352",
+    "lat": "47.7426166049006"
+  },
+  {
+    "finess": "560023426",
+    "raison_sociale": "EAM KERUHEL",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "DES GENETS",
+    "bp": "",
+    "cp": "56250",
+    "VILLE": "MONTERBLANC ",
+    "tel": "297458000",
+    "telecopie": "297458182",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "26560005600161",
+    "lng": "-2.6785741595424",
+    "lat": "47.7411235559922"
+  }
+]

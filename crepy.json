@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "20002143",
+    "raison_sociale": "EHPAD CRÉPY",
+    "numero voie": "28",
+    "type_voie": "R",
+    "libelle_voie": "MALÉZIEUX BRIQUET",
+    "bp": "",
+    "cp": "2870",
+    "VILLE": "CREPY ",
+    "tel": "323209020",
+    "telecopie": "323209647",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26020015900010",
+    "lng": "3.51398741701764",
+    "lat": "49.6047641596042"
+  },
+  {
+    "finess": "20003463",
+    "raison_sociale": "SELARL PHARMACIE DE CREPY",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "MALEZIEUX BRIQUET",
+    "bp": "",
+    "cp": "2870",
+    "VILLE": "CREPY ",
+    "tel": "323209027",
+    "telecopie": "323209951",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50741118900016",
+    "lng": "3.51280384761731",
+    "lat": "49.6058798961893"
+  }
+]

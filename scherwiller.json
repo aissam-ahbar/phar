@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "670009737",
+    "raison_sociale": "PHARMACIE ZILLIOX - EHRMANN",
+    "numero voie": "21",
+    "type_voie": "R",
+    "libelle_voie": "DE L ORTENBOURG",
+    "bp": "",
+    "cp": "67750",
+    "VILLE": "SCHERWILLER ",
+    "tel": "388928282",
+    "telecopie": "388827135",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "43263852600025",
+    "lng": "7.41866086260078",
+    "lat": "48.2872193897956"
+  },
+  {
+    "finess": "670011758",
+    "raison_sociale": "EHPAD RESIDENCE DE L'ALUMNAT",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DE L'ALUMNAT",
+    "bp": "",
+    "cp": "67750",
+    "VILLE": "SCHERWILLER ",
+    "tel": "388825000",
+    "telecopie": "388824950",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26670112700026",
+    "lng": "7.4245203981447",
+    "lat": "48.2862477236832"
+  }
+]

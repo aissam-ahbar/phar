@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "660006552",
+    "raison_sociale": "EHPAD \"GCSM CGR\"",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DEPARTEMENTALE 900",
+    "bp": "",
+    "cp": "66600",
+    "VILLE": "SALSES LE CHATEAU    ",
+    "tel": "468080810",
+    "telecopie": "468689811",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "81456755800030",
+    "lng": "2.92249130924452",
+    "lat": "42.8339855583519"
+  },
+  {
+    "finess": "660785353",
+    "raison_sociale": "EHPAD DU DOCTEUR DAGUES",
+    "numero voie": "22",
+    "type_voie": "R",
+    "libelle_voie": "DE LA FRATERNITE",
+    "bp": "",
+    "cp": "66600",
+    "VILLE": "SALSES LE CHATEAU    ",
+    "tel": "468386869",
+    "telecopie": "468386683",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26660057600018",
+    "lng": "2.91931123378642",
+    "lat": "42.8338222545913"
+  },
+  {
+    "finess": "660789371",
+    "raison_sociale": "SELARL PHARMACIE AKKARI JAMME",
+    "numero voie": "33",
+    "type_voie": "AV",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "66600",
+    "VILLE": "SALSES LE CHATEAU    ",
+    "tel": "468386015",
+    "telecopie": "468387155",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80530107400011",
+    "lng": "2.91922127708014",
+    "lat": "42.8317369126855"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "250003324",
+    "raison_sociale": "PHARMACIE BENAIM",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DES CERISIERS",
+    "bp": "",
+    "cp": "25550",
+    "VILLE": "BAVANS ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34166810100015",
+    "lng": "6.72933117112656",
+    "lat": "47.4808847476278"
+  },
+  {
+    "finess": "250010659",
+    "raison_sociale": "EHPAD LES SOLEILS  BAVANS",
+    "numero voie": "1",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "25550",
+    "VILLE": "BAVANS ",
+    "tel": "381995227",
+    "telecopie": "381926552",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77557127600366",
+    "lng": "6.73140023230955",
+    "lat": "47.4800362147821"
+  }
+]

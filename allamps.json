@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "540013273",
+    "raison_sociale": "ESAT D'ALLAMPS (GIP HAND INSERT)",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DES CITES",
+    "bp": "",
+    "cp": "54112",
+    "VILLE": "ALLAMPS ",
+    "tel": "383254885",
+    "telecopie": "383254924",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "18540002500010",
+    "lng": "5.79741649658516",
+    "lat": "48.5428046023555"
+  },
+  {
+    "finess": "540024791",
+    "raison_sociale": "MSP DU VAL DE MEINE",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DES CITES",
+    "bp": "",
+    "cp": "54112",
+    "VILLE": "ALLAMPS ",
+    "tel": "383518677",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "83916828300019",
+    "lng": "5.79773731917905",
+    "lat": "48.5431517012566"
+  }
+]

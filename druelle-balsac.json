@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "120006036",
+    "raison_sociale": "PHARMACIE DE DRUELLE",
+    "numero voie": "1",
+    "type_voie": "IMP",
+    "libelle_voie": "DES RUBIS",
+    "bp": "LE BOULDOU",
+    "cp": "12510",
+    "VILLE": "DRUELLE BALSAC",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50371406500011",
+    "lng": "2.51727609473689",
+    "lat": "44.3698580812817"
+  },
+  {
+    "finess": "120007695",
+    "raison_sociale": "OXYPHARM",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU SOLEIL COUCHANT",
+    "bp": "PUECH DE GREZES",
+    "cp": "12510",
+    "VILLE": "DRUELLE BALSAC",
+    "tel": "565678460",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "32987905000444",
+    "lng": "2.53181893070905",
+    "lat": "44.3749646041288"
+  }
+]

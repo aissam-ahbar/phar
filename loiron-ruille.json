@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "530004191",
+    "raison_sociale": "SAAD ADMR LOIRON",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "PRINCIPALE",
+    "bp": "",
+    "cp": "53320",
+    "VILLE": "LOIRON RUILLE",
+    "tel": "243660942",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32205412300029",
+    "lng": "-0.955706576048084",
+    "lat": "48.0561213797873"
+  },
+  {
+    "finess": "530008416",
+    "raison_sociale": "ACCUEIL TEMPORAIRE DE RESSOURCEMENT",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "HAUTE FONTAINE RUILLE-LE-GRAVEL",
+    "cp": "53320",
+    "VILLE": "LOIRON RUILLE",
+    "tel": "299750169",
+    "telecopie": "",
+    "categorie etablissement": "395",
+    "libelle categorie": "Etablissement d'Accueil Temporaire pour Adultes Handicapés",
+    "siret": "",
+    "lng": "-0.935261834873174",
+    "lat": "48.058226780718"
+  },
+  {
+    "finess": "530030808",
+    "raison_sociale": "PHARMACIE BLANCHARD-HAMELIN",
+    "numero voie": "29",
+    "type_voie": "R",
+    "libelle_voie": "du Docteur Rame",
+    "bp": "Chantepie",
+    "cp": "53320",
+    "VILLE": "LOIRON RUILLE",
+    "tel": "243024573",
+    "telecopie": "243020238",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "43031894900020",
+    "lng": "-0.935241505724457",
+    "lat": "48.0609160297744"
+  }
+]

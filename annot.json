@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "40002677",
+    "raison_sociale": "PHARMACIE BERLANDI",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DU VILLAGE",
+    "bp": "",
+    "cp": "4240",
+    "VILLE": "ANNOT ",
+    "tel": "492832001",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "43205710700018",
+    "lng": "6.6668567413662",
+    "lat": "43.9663681016074"
+  },
+  {
+    "finess": "40006413",
+    "raison_sociale": "SAAD ADMR D'ANNOT",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DU GERME",
+    "bp": "",
+    "cp": "4240",
+    "VILLE": "ANNOT ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "6.66780368240677",
+    "lat": "43.9653822133462"
+  }
+]

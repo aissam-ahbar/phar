@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "600007751",
+    "raison_sociale": "PHARMACIE VASSOUT",
+    "numero voie": "38",
+    "type_voie": "R",
+    "libelle_voie": "DE L EUROPE",
+    "bp": "",
+    "cp": "60149",
+    "VILLE": "ST CREPIN IBOUVILLERS    ",
+    "tel": "344087844",
+    "telecopie": "344089565",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40269670200024",
+    "lng": "2.0792279816144",
+    "lat": "49.2622426679546"
+  },
+  {
+    "finess": "600014518",
+    "raison_sociale": "SERVICE EXPERIMENTAL ENFANTS PROTEGES",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE GOURNAY",
+    "bp": "",
+    "cp": "60149",
+    "VILLE": "ST CREPIN IBOUVILLERS    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "378",
+    "libelle categorie": "Etablissement Expérimental Enfance Protégée",
+    "siret": "",
+    "lng": "2.050278132443",
+    "lat": "49.2770949317199"
+  },
+  {
+    "finess": "600111066",
+    "raison_sociale": "EHPAD SAINT-CRÉPIN-IBOUVILLERS",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DES ÉCOLES",
+    "bp": "",
+    "cp": "60149",
+    "VILLE": "ST CREPIN IBOUVILLERS    ",
+    "tel": "344088181",
+    "telecopie": "344087891",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "",
+    "lng": "2.07280987382035",
+    "lat": "49.2621827254773"
+  }
+]

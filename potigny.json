@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "140010729",
+    "raison_sociale": "SELARL PHARMACIE  DERVIN",
+    "numero voie": "46",
+    "type_voie": "R",
+    "libelle_voie": "DU GENERAL LECLERC",
+    "bp": "",
+    "cp": "14420",
+    "VILLE": "POTIGNY ",
+    "tel": "231908459",
+    "telecopie": "231408744",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "41377728500011",
+    "lng": "-0.241925117795934",
+    "lat": "48.9696215859871"
+  },
+  {
+    "finess": "140017286",
+    "raison_sociale": "CENTRE DE SANTE POLYVALENT FILIERIS",
+    "numero voie": "25",
+    "type_voie": "R",
+    "libelle_voie": "DU VILLAGE",
+    "bp": "",
+    "cp": "14420",
+    "VILLE": "POTIGNY ",
+    "tel": "231908287",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "77568531600595",
+    "lng": "-0.240276069419106",
+    "lat": "48.9704473606269"
+  },
+  {
+    "finess": "140027459",
+    "raison_sociale": "EHPAD - POTIGNY",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE BONS TASSILLY",
+    "bp": "",
+    "cp": "14420",
+    "VILLE": "POTIGNY ",
+    "tel": "231404140",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26140100400104",
+    "lng": "-0.243728865684814",
+    "lat": "48.9708147704089"
+  }
+]

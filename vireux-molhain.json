@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "80006711",
+    "raison_sociale": "ATELIER PROTEGE AFEIPH",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "ZONE INDUSTRIELLE DES FORGES",
+    "cp": "8320",
+    "VILLE": "VIREUX MOLHAIN",
+    "tel": "324416600",
+    "telecopie": "324418519",
+    "categorie etablissement": "247",
+    "libelle categorie": "Entreprise adaptée",
+    "siret": "30664220800038",
+    "lng": "4.71796655138079",
+    "lat": "50.0883213404115"
+  },
+  {
+    "finess": "80008972",
+    "raison_sociale": "PHARMACIE RENARD",
+    "numero voie": "37",
+    "type_voie": "R",
+    "libelle_voie": "ROGER POSTY",
+    "bp": "",
+    "cp": "8320",
+    "VILLE": "VIREUX MOLHAIN",
+    "tel": "324416140",
+    "telecopie": "324416208",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38182217000027",
+    "lng": "4.72435873693708",
+    "lat": "50.0846671403769"
+  }
+]

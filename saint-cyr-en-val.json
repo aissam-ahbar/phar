@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "450015847",
+    "raison_sociale": "PHARMACIE SERUCH",
+    "numero voie": "33",
+    "type_voie": "RTE",
+    "libelle_voie": "DE SANDILLON",
+    "bp": "",
+    "cp": "45590",
+    "VILLE": "ST CYR EN VAL   ",
+    "tel": "238762276",
+    "telecopie": "238764970",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34981527400023",
+    "lng": "1.96843068213903",
+    "lat": "47.8335116446307"
+  },
+  {
+    "finess": "450020854",
+    "raison_sociale": "VITALAIRE - ST CYR EN VAL",
+    "numero voie": "69",
+    "type_voie": "R",
+    "libelle_voie": "DES SAULES",
+    "bp": "",
+    "cp": "45590",
+    "VILLE": "ST CYR EN VAL   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "42503977300527",
+    "lng": "1.95405783941712",
+    "lat": "47.8114933338515"
+  },
+  {
+    "finess": "450021761",
+    "raison_sociale": "SAAD IDYLIA LE PARC DE MORCHENE",
+    "numero voie": "247",
+    "type_voie": "R",
+    "libelle_voie": "DES IRIS",
+    "bp": "",
+    "cp": "45590",
+    "VILLE": "ST CYR EN VAL   ",
+    "tel": "238249226",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "48228939400033",
+    "lng": "1.96789124340658",
+    "lat": "47.8281091202157"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "330027798",
+    "raison_sociale": "RESIDENCE AUTONOMIE DU PARC",
+    "numero voie": "14",
+    "type_voie": "AV",
+    "libelle_voie": "CHARLES DE GAULLE",
+    "bp": "",
+    "cp": "33330",
+    "VILLE": "ST SULPICE DE FALEYRENS   ",
+    "tel": "557247526",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26330469300025",
+    "lng": "-0.190390791847442",
+    "lat": "44.8756672771583"
+  },
+  {
+    "finess": "330051863",
+    "raison_sociale": "SARL PHARMACIE SAINT SULPICE",
+    "numero voie": "3",
+    "type_voie": "AV",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "33330",
+    "VILLE": "ST SULPICE DE FALEYRENS   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53281456300021",
+    "lng": "-0.190404572496153",
+    "lat": "44.8766229235401"
+  }
+]

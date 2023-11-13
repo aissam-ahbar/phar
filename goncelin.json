@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380005637",
+    "raison_sociale": "PHARMACIE DE GONCELIN",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "PORTE PAILLAC",
+    "bp": "IMMEUBLE LA RÉSIDENCE",
+    "cp": "38570",
+    "VILLE": "GONCELIN ",
+    "tel": "476717021",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "35086984800019",
+    "lng": "5.97918871674557",
+    "lat": "45.3435765260777"
+  },
+  {
+    "finess": "380785576",
+    "raison_sociale": "RESIDENCE AUTONOMIE DE GONCELIN",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CHAMBERY",
+    "bp": "",
+    "cp": "38570",
+    "VILLE": "GONCELIN ",
+    "tel": "476717480",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "38886913300016",
+    "lng": "5.97774340890289",
+    "lat": "45.3433113234555"
+  }
+]

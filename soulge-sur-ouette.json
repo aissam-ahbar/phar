@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "530009604",
+    "raison_sociale": "CER ROGER HYVARD",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LA METAIRIE",
+    "bp": "BP 7",
+    "cp": "53210",
+    "VILLE": "SOULGE SUR OUETTE    ",
+    "tel": "243642663",
+    "telecopie": "243642717",
+    "categorie etablissement": "241",
+    "libelle categorie": "Foyer d'Action Educative (F.A.E.)",
+    "siret": "52378760400108",
+    "lng": "-0.54693938073173",
+    "lat": "48.0703674823768"
+  },
+  {
+    "finess": "530029198",
+    "raison_sociale": "EHPAD RESIDENCE DE L'ORIOLET",
+    "numero voie": "12",
+    "type_voie": "R",
+    "libelle_voie": "DU MANS",
+    "bp": "",
+    "cp": "53210",
+    "VILLE": "SOULGE SUR OUETTE    ",
+    "tel": "243023127",
+    "telecopie": "243023761",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20003262100027",
+    "lng": "-0.567862132119226",
+    "lat": "48.0593617578948"
+  }
+]

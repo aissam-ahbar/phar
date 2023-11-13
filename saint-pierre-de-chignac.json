@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "240005124",
+    "raison_sociale": "EHPAD LA RETRAITE DU MANOIRE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "BOURG",
+    "bp": "",
+    "cp": "24330",
+    "VILLE": "ST PIERRE DE CHIGNAC   ",
+    "tel": "553075542",
+    "telecopie": "553075626",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "41024834800014",
+    "lng": "0.855839265532509",
+    "lat": "45.1250101771138"
+  },
+  {
+    "finess": "240012237",
+    "raison_sociale": "PHARMACIE BOUCHER",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LES GUICHOUX",
+    "bp": "",
+    "cp": "24330",
+    "VILLE": "ST PIERRE DE CHIGNAC   ",
+    "tel": "553075511",
+    "telecopie": "553042161",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53303468200021",
+    "lng": "0.857062182217747",
+    "lat": "45.1228485005325"
+  }
+]

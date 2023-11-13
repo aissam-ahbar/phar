@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "150002376",
+    "raison_sociale": "PROPHARMACIE MONSIEUR PHILIPPE MAURS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LA BORIE BASSE",
+    "cp": "15590",
+    "VILLE": "ST CIRGUES DE JORDANNE   ",
+    "tel": "471479206",
+    "telecopie": "471479169",
+    "categorie etablissement": "627",
+    "libelle categorie": "Propharmacie",
+    "siret": "32720746000012",
+    "lng": "2.58350994642064",
+    "lat": "45.0312450259697"
+  },
+  {
+    "finess": "150003135",
+    "raison_sociale": "PROPHARMACIE MONSIEUR FRÉDÉRIC MAURS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "15590",
+    "VILLE": "ST CIRGUES DE JORDANNE   ",
+    "tel": "471479206",
+    "telecopie": "",
+    "categorie etablissement": "627",
+    "libelle categorie": "Propharmacie",
+    "siret": "45204719400041",
+    "lng": "2.58350994642064",
+    "lat": "45.0312450259697"
+  }
+]

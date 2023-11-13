@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "600006985",
+    "raison_sociale": "SELARL PHARMACIE DU PONT QUI PENCHE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "R.N. 31",
+    "bp": "",
+    "cp": "60650",
+    "VILLE": "ONS EN BRAY    ",
+    "tel": "344816576",
+    "telecopie": "344815827",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39100545100011",
+    "lng": "1.92481093019561",
+    "lat": "49.4157553789626"
+  },
+  {
+    "finess": "600015010",
+    "raison_sociale": "CPTS DU PAYS DE BRAY",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "D'ARMENTIÈRES",
+    "bp": "",
+    "cp": "60650",
+    "VILLE": "ONS EN BRAY    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "604",
+    "libelle categorie": "Communautés professionnelles territoriales de santé (CPTS)",
+    "siret": "",
+    "lng": "1.92481093019561",
+    "lat": "49.4157553789626"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "460004336",
+    "raison_sociale": "PHARMACIE  FLORANTY",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "PRINCIPALE",
+    "bp": "",
+    "cp": "46310",
+    "VILLE": "ST GERMAIN DU BEL AIR  ",
+    "tel": "565310318",
+    "telecopie": "797507679",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84978253700013",
+    "lng": "1.43917959857821",
+    "lat": "44.6447786693526"
+  },
+  {
+    "finess": "460785744",
+    "raison_sociale": "EHPAD LE SOULEILHOU",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LOTISSEMENT DU BOURG",
+    "cp": "46310",
+    "VILLE": "ST GERMAIN DU BEL AIR  ",
+    "tel": "565310599",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26460370500023",
+    "lng": "1.43924341538644",
+    "lat": "44.6461635534293"
+  }
+]

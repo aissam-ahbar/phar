@@ -1,0 +1,19 @@
+[
+  {
+    "finess": "10008373",
+    "raison_sociale": "PHARMACIE DE CORGENON",
+    "numero voie": "150",
+    "type_voie": "RTE",
+    "libelle_voie": "DE TREVOUX",
+    "bp": "CORGENON",
+    "cp": "1310",
+    "VILLE": "BUELLAS ",
+    "tel": "474244106",
+    "telecopie": "474244157",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83202753600016",
+    "lng": "5.15889677550066",
+    "lat": "46.1966744425551"
+  }
+]

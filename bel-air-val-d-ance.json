@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "480000918",
+    "raison_sociale": "CADA LE CHAMBON",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CHAPEAUROUX",
+    "bp": "",
+    "cp": "48600",
+    "VILLE": "BEL AIR VAL D ANCE  ",
+    "tel": "466695857",
+    "telecopie": "466694816",
+    "categorie etablissement": "443",
+    "libelle categorie": "Centre Accueil Demandeurs Asile (C.A.D.A.)",
+    "siret": "78454750700276",
+    "lng": "3.66040983316632",
+    "lat": "44.8532423343161"
+  },
+  {
+    "finess": "480001361",
+    "raison_sociale": "PHARMACIE DU CHATEAU",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DU MONUMENT AUX MORTS",
+    "bp": "",
+    "cp": "48600",
+    "VILLE": "BEL AIR VAL D ANCE  ",
+    "tel": "466696111",
+    "telecopie": "970325585",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "47837267500015",
+    "lng": "3.66040983316632",
+    "lat": "44.8532423343161"
+  }
+]

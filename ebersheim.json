@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "670007020",
+    "raison_sociale": "PHARMACIE DU SANGLIER",
+    "numero voie": "19",
+    "type_voie": "R",
+    "libelle_voie": "DU SANGLIER",
+    "bp": "",
+    "cp": "67600",
+    "VILLE": "EBERSHEIM ",
+    "tel": "388857467",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "31867584000017",
+    "lng": "7.5015418934735",
+    "lat": "48.30569871127"
+  },
+  {
+    "finess": "670794098",
+    "raison_sociale": "ANTENNE EBERSHEIM DU C.S.I. SELESTAT",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE L'ECOLE",
+    "bp": "",
+    "cp": "67600",
+    "VILLE": "EBERSHEIM ",
+    "tel": "388921010",
+    "telecopie": "388086710",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "",
+    "lng": "7.499531718705",
+    "lat": "48.3035168537368"
+  }
+]

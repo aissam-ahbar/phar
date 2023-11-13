@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "350019964",
+    "raison_sociale": "EURL PHARMACIE GOUBIN",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DE LA BAIE",
+    "bp": "",
+    "cp": "35350",
+    "VILLE": "ST MELOIR DES ONDES   ",
+    "tel": "299891131",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52266703900013",
+    "lng": "-1.90224288609685",
+    "lat": "48.6370206770547"
+  },
+  {
+    "finess": "350034567",
+    "raison_sociale": "SAAD ST MELOIR DES ONDES",
+    "numero voie": "14",
+    "type_voie": "R",
+    "libelle_voie": "DE LA BAIE",
+    "bp": "",
+    "cp": "35350",
+    "VILLE": "ST MELOIR DES ONDES   ",
+    "tel": "299891070",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26350282500031",
+    "lng": "-1.90109697224185",
+    "lat": "48.6369957849087"
+  },
+  {
+    "finess": "350039566",
+    "raison_sociale": "EHPAD RESIDENCE DE LA BAIE",
+    "numero voie": "14",
+    "type_voie": "R",
+    "libelle_voie": "DE LA BAIE",
+    "bp": "",
+    "cp": "35350",
+    "VILLE": "ST MELOIR DES ONDES   ",
+    "tel": "299891770",
+    "telecopie": "299891571",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26350282500023",
+    "lng": "-1.90109697224185",
+    "lat": "48.6369957849087"
+  }
+]

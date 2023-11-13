@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "2B0003784",
+    "raison_sociale": "EHPAD DE TATTONE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "20219",
+    "VILLE": "VIVARIO ",
+    "tel": "495472929",
+    "telecopie": "495472244",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26202077900043",
+    "lng": "9.16963772116943",
+    "lat": "42.1732931238847"
+  },
+  {
+    "finess": "2B0004360",
+    "raison_sociale": "MAS DE TATTONE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "TATTONE",
+    "cp": "20219",
+    "VILLE": "VIVARIO ",
+    "tel": "495472929",
+    "telecopie": "495472946",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "26202077900027",
+    "lng": "9.14845794105753",
+    "lat": "42.1485371426128"
+  },
+  {
+    "finess": "2B0005730",
+    "raison_sociale": "FAM DE TATTONE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "20219",
+    "VILLE": "VIVARIO ",
+    "tel": "495472929",
+    "telecopie": "495472910",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "26202077900068",
+    "lng": "9.16963772116943",
+    "lat": "42.1732931238847"
+  }
+]

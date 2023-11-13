@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "590024154",
+    "raison_sociale": "PHARMACIE SOUFFRIN ANTOINE",
+    "numero voie": "153",
+    "type_voie": "R",
+    "libelle_voie": "LEON BOCQUET",
+    "bp": "",
+    "cp": "59274",
+    "VILLE": "MARQUILLIES ",
+    "tel": "320290760",
+    "telecopie": "320293882",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75192066100012",
+    "lng": "2.86931066849642",
+    "lat": "50.5577418317904"
+  },
+  {
+    "finess": "590043998",
+    "raison_sociale": "FOYER DE VIE",
+    "numero voie": "46",
+    "type_voie": "PL",
+    "libelle_voie": "ALAIN FLAMAND",
+    "bp": "",
+    "cp": "59274",
+    "VILLE": "MARQUILLIES ",
+    "tel": "320160980",
+    "telecopie": "",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "77562042000676",
+    "lng": "2.87209095983228",
+    "lat": "50.5575553535843"
+  },
+  {
+    "finess": "590789897",
+    "raison_sociale": "EHPAD STE GENEVIEVE",
+    "numero voie": "24",
+    "type_voie": "R",
+    "libelle_voie": "DE VERDUN",
+    "bp": "",
+    "cp": "59274",
+    "VILLE": "MARQUILLIES ",
+    "tel": "320290762",
+    "telecopie": "320283224",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "78374162200014",
+    "lng": "2.86802453564593",
+    "lat": "50.5571211746148"
+  }
+]

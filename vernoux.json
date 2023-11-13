@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "10001261",
+    "raison_sociale": "ESAT LES BROSSES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LES BROSSES",
+    "cp": "1560",
+    "VILLE": "VERNOUX ",
+    "tel": "474470470",
+    "telecopie": "474470361",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77554408300477",
+    "lng": "5.10131264546585",
+    "lat": "46.4740867471679"
+  },
+  {
+    "finess": "10008142",
+    "raison_sociale": "FOYER HEBERG COURTES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LES BROSSES",
+    "bp": "",
+    "cp": "1560",
+    "VILLE": "VERNOUX ",
+    "tel": "474470474",
+    "telecopie": "474470361",
+    "categorie etablissement": "252",
+    "libelle categorie": "Foyer Hébergement Adultes Handicapés",
+    "siret": "77554408300485",
+    "lng": "5.10131264546585",
+    "lat": "46.4740867471679"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "30009211",
+    "raison_sociale": "CMP ADULTES SAINT BONNET TRONÇAIS",
+    "numero voie": "10",
+    "type_voie": "RTE",
+    "libelle_voie": "DE TRONÇAIS",
+    "bp": "",
+    "cp": "3360",
+    "VILLE": "ST BONNET TRONCAIS    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "292",
+    "libelle categorie": "Centre Hospitalier Spécialisé lutte Maladies Mentales",
+    "siret": "",
+    "lng": "2.69512549488124",
+    "lat": "46.6608989462258"
+  },
+  {
+    "finess": "30785414",
+    "raison_sociale": "EHPAD LA CHESNAYE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE L'ETANG",
+    "bp": "",
+    "cp": "3360",
+    "VILLE": "ST BONNET TRONCAIS    ",
+    "tel": "470061406",
+    "telecopie": "470061174",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "33130848600017",
+    "lng": "2.69260514770337",
+    "lat": "46.6588473450278"
+  }
+]

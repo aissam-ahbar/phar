@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "670007087",
+    "raison_sociale": "PHARMACIE ZINS",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DES ALLIES",
+    "bp": "",
+    "cp": "67680",
+    "VILLE": "EPFIG ",
+    "tel": "388855141",
+    "telecopie": "388855333",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38290773100022",
+    "lng": "7.46621549780272",
+    "lat": "48.3622444271729"
+  },
+  {
+    "finess": "670780774",
+    "raison_sociale": "IME COTTOLENGO",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "67680",
+    "VILLE": "EPFIG ",
+    "tel": "388855011",
+    "telecopie": "388855532",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "77564204400116",
+    "lng": "7.4643080633343",
+    "lat": "48.3594489966988"
+  },
+  {
+    "finess": "670781061",
+    "raison_sociale": "EHPAD EPFIG",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE L'HOPITAL",
+    "bp": "",
+    "cp": "67680",
+    "VILLE": "EPFIG ",
+    "tel": "388855054",
+    "telecopie": "388578439",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26670008700015",
+    "lng": "7.4642913185873",
+    "lat": "48.3605733347606"
+  }
+]

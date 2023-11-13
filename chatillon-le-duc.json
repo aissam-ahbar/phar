@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "250015286",
+    "raison_sociale": "PHARMACIE MOSCA",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DES TILLES",
+    "bp": "LA PARGELIERE",
+    "cp": "25870",
+    "VILLE": "CHATILLON LE DUC    ",
+    "tel": "381588362",
+    "telecopie": "381589961",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52773517900014",
+    "lng": "5.99853153525675",
+    "lat": "47.2941800797493"
+  },
+  {
+    "finess": "250016045",
+    "raison_sociale": "HOSPITALIA MUTUALITE HAD",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DES BOLONS",
+    "bp": "PRE BRENOT ZAC  DE VALENTIN",
+    "cp": "25870",
+    "VILLE": "CHATILLON LE DUC    ",
+    "tel": "381418373",
+    "telecopie": "381410208",
+    "categorie etablissement": "127",
+    "libelle categorie": "Hospitalisation à Domicile",
+    "siret": "44789128400120",
+    "lng": "5.99261235932253",
+    "lat": "47.2873834587006"
+  },
+  {
+    "finess": "250020393",
+    "raison_sociale": "SYNAPSE SANTE",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DU BOIS DE LA LAVE",
+    "bp": "",
+    "cp": "25870",
+    "VILLE": "CHATILLON LE DUC    ",
+    "tel": "381558822",
+    "telecopie": "381518462",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "52936360800033",
+    "lng": "5.99777565885847",
+    "lat": "47.2883257977304"
+  }
+]

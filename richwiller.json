@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "680014784",
+    "raison_sociale": "PHARMACIE DE RICHWILLER",
+    "numero voie": "144",
+    "type_voie": "R",
+    "libelle_voie": "PRINCIPALE",
+    "bp": "",
+    "cp": "68120",
+    "VILLE": "RICHWILLER ",
+    "tel": "389522681",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44055058000011",
+    "lng": "7.27277158410338",
+    "lat": "47.7821105315339"
+  },
+  {
+    "finess": "680018017",
+    "raison_sociale": "EHPAD LE VILLAGE",
+    "numero voie": "26",
+    "type_voie": "R",
+    "libelle_voie": "DU SCHABIS",
+    "bp": "",
+    "cp": "68120",
+    "VILLE": "RICHWILLER ",
+    "tel": "389352700",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "43411112600265",
+    "lng": "7.282563408859",
+    "lat": "47.7827243127143"
+  }
+]

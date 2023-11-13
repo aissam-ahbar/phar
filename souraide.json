@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "640020608",
+    "raison_sociale": "SAAD BIHOTZ ONA",
+    "numero voie": "150",
+    "type_voie": "CHE",
+    "libelle_voie": "D'OLHANBIDEA",
+    "bp": "",
+    "cp": "64250",
+    "VILLE": "SOURAIDE ",
+    "tel": "777605644",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "75367026400021",
+    "lng": "-1.49960117473106",
+    "lat": "43.351496773296"
+  },
+  {
+    "finess": "640796041",
+    "raison_sociale": "EHPAD ETXETOA",
+    "numero voie": "9",
+    "type_voie": "CHE",
+    "libelle_voie": "D'ETXETOA",
+    "bp": "",
+    "cp": "64250",
+    "VILLE": "SOURAIDE ",
+    "tel": "559935000",
+    "telecopie": "559935010",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "39154645400011",
+    "lng": "-1.46885770566093",
+    "lat": "43.3367607213635"
+  }
+]

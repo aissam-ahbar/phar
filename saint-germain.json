@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "100003144",
+    "raison_sociale": "PHARMACIE PEILLERON",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "DU COMMERCE",
+    "bp": "",
+    "cp": "10120",
+    "VILLE": "ST GERMAIN",
+    "tel": "325750404",
+    "telecopie": "325750091",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53447475400015",
+    "lng": "4.0295335261374",
+    "lat": "48.2570268961271"
+  },
+  {
+    "finess": "100010685",
+    "raison_sociale": "LVL MEDICAL EST",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "PAUL CEZANNE",
+    "bp": "",
+    "cp": "10120",
+    "VILLE": "ST GERMAIN",
+    "tel": "325834347",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "38186309100165",
+    "lng": "4.02913214452087",
+    "lat": "48.2537909917144"
+  },
+  {
+    "finess": "700002710",
+    "raison_sociale": "PHARMACIE FAGOT-AUBRY",
+    "numero voie": "42",
+    "type_voie": "RTE",
+    "libelle_voie": "DES VOSGES",
+    "bp": "",
+    "cp": "70200",
+    "VILLE": "ST GERMAIN",
+    "tel": "384627032",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "37874620000039",
+    "lng": "6.53727825491274",
+    "lat": "47.7263855380292"
+  }
+]

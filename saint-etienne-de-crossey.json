@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380009407",
+    "raison_sociale": "PHARMACIE DE LA SURE",
+    "numero voie": "56",
+    "type_voie": "RTE",
+    "libelle_voie": "DE VOIRON",
+    "bp": "",
+    "cp": "38960",
+    "VILLE": "ST ETIENNE DE CROSSEY   ",
+    "tel": "476060209",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "32744028500010",
+    "lng": "5.64624484556488",
+    "lat": "45.3777822682689"
+  },
+  {
+    "finess": "380020941",
+    "raison_sociale": "LE JADE - ESPACE ADOLESCENTS",
+    "numero voie": "42",
+    "type_voie": "R",
+    "libelle_voie": "DU TRAM",
+    "bp": "",
+    "cp": "38960",
+    "VILLE": "ST ETIENNE DE CROSSEY   ",
+    "tel": "456261154",
+    "telecopie": "",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "77559570500200",
+    "lng": "5.65109413203484",
+    "lat": "45.3781928456917"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "2A0001632",
+    "raison_sociale": "SELARL PHARMACIE BELLILCHI - BRANCA",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CALVI",
+    "bp": "MEZZAVIA",
+    "cp": "20167",
+    "VILLE": "ALATA ",
+    "tel": "495229340",
+    "telecopie": "495228553",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45179046300017",
+    "lng": "8.74211052362172",
+    "lat": "41.9759485964346"
+  },
+  {
+    "finess": "2A0003943",
+    "raison_sociale": "CORSE OXYGENE - ALATA",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "BRACALINA",
+    "bp": "",
+    "cp": "20167",
+    "VILLE": "ALATA ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "49071974700027",
+    "lng": "8.74211052362172",
+    "lat": "41.9759485964346"
+  },
+  {
+    "finess": "2A0004024",
+    "raison_sociale": "L'OLMARELLI",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE SAN BENEDETTO",
+    "bp": "OLMAREDDU",
+    "cp": "20167",
+    "VILLE": "ALATA ",
+    "tel": "961533766",
+    "telecopie": "495253166",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "79109547400015",
+    "lng": "8.72584563156443",
+    "lat": "41.9728428026971"
+  }
+]

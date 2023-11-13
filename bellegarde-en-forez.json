@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "420002891",
+    "raison_sociale": "PHARMACIE DE BELLEGARDE",
+    "numero voie": "5",
+    "type_voie": "RTE",
+    "libelle_voie": "DE SAINT CYR",
+    "bp": "",
+    "cp": "42210",
+    "VILLE": "BELLEGARDE EN FOREZ    ",
+    "tel": "477946291",
+    "telecopie": "477946291",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84201400300011",
+    "lng": "4.2952618335547",
+    "lat": "45.6467478967889"
+  },
+  {
+    "finess": "420784738",
+    "raison_sociale": "RESIDENCE MUTUALISTE L'ADRET",
+    "numero voie": "91",
+    "type_voie": "CHE",
+    "libelle_voie": "DE LA FORET",
+    "bp": "",
+    "cp": "42210",
+    "VILLE": "BELLEGARDE EN FOREZ    ",
+    "tel": "477544718",
+    "telecopie": "477544338",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77560243600682",
+    "lng": "4.29648963806607",
+    "lat": "45.6539439906814"
+  }
+]

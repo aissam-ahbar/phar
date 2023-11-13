@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "670009422",
+    "raison_sociale": "PHARMACIE DE REICHSTETT",
+    "numero voie": "84",
+    "type_voie": "R",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "67116",
+    "VILLE": "REICHSTETT ",
+    "tel": "388200746",
+    "telecopie": "388204742",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83093873400027",
+    "lng": "7.75346241125748",
+    "lat": "48.6436596613309"
+  },
+  {
+    "finess": "670021104",
+    "raison_sociale": "CDS POLYVALENT SOMED COEUR ALSACE",
+    "numero voie": "6",
+    "type_voie": "BD",
+    "libelle_voie": "DES ENSEIGNES",
+    "bp": "",
+    "cp": "67116",
+    "VILLE": "REICHSTETT ",
+    "tel": "367072072",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "85009947400031",
+    "lng": "7.75349151971896",
+    "lat": "48.648240681266"
+  },
+  {
+    "finess": "670798800",
+    "raison_sociale": "EHPAD L'ARC-EN-CIEL",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "FREDERIC CHOPIN",
+    "bp": "",
+    "cp": "67116",
+    "VILLE": "REICHSTETT ",
+    "tel": "388180800",
+    "telecopie": "388180809",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26670080600026",
+    "lng": "7.744185455039",
+    "lat": "48.6466061082627"
+  }
+]

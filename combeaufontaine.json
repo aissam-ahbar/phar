@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "700001381",
+    "raison_sociale": "PHARMACIE RACINE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "70120",
+    "VILLE": "COMBEAUFONTAINE ",
+    "tel": "384921079",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51366615600015",
+    "lng": "5.891297983132",
+    "lat": "47.7098123474506"
+  },
+  {
+    "finess": "700785082",
+    "raison_sociale": "MARPA RESIDENCE DES SOURCES",
+    "numero voie": "14",
+    "type_voie": "R",
+    "libelle_voie": "DE FRANCHE COMTE",
+    "bp": "",
+    "cp": "70120",
+    "VILLE": "COMBEAUFONTAINE ",
+    "tel": "384921307",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "39298191600019",
+    "lng": "5.88608222291421",
+    "lat": "47.7099213743043"
+  }
+]

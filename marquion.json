@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "620014092",
+    "raison_sociale": "PHARMACIE DE MARQUION",
+    "numero voie": "67",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "62860",
+    "VILLE": "MARQUION ",
+    "tel": "321730251",
+    "telecopie": "321732671",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82873792400013",
+    "lng": "3.08567735070192",
+    "lat": "50.2113424396308"
+  },
+  {
+    "finess": "620034934",
+    "raison_sociale": "FRANCE OXYGENE SARL",
+    "numero voie": "110",
+    "type_voie": "R",
+    "libelle_voie": "DE SAUCHY",
+    "bp": "",
+    "cp": "62860",
+    "VILLE": "MARQUION ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "40371572500236",
+    "lng": "3.0852738935276",
+    "lat": "50.2102373295656"
+  }
+]

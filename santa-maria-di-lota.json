@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "2B0002935",
+    "raison_sociale": "SELARL PHARMACIE DE LA TOUR",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MIOMO",
+    "bp": "",
+    "cp": "20200",
+    "VILLE": "SANTA MARIA DI LOTA   ",
+    "tel": "495332324",
+    "telecopie": "495339410",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52866639900019",
+    "lng": "9.46098914942011",
+    "lat": "42.7430728994609"
+  },
+  {
+    "finess": "2B0004139",
+    "raison_sociale": "IME LES TILLEULS",
+    "numero voie": "",
+    "type_voie": "HAM",
+    "libelle_voie": "FIGARELLA",
+    "bp": "",
+    "cp": "20200",
+    "VILLE": "SANTA MARIA DI LOTA   ",
+    "tel": "495322274",
+    "telecopie": "495339561",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "26200012800013",
+    "lng": "9.44226274942503",
+    "lat": "42.7457331879257"
+  }
+]

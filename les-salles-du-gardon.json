@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "300006863",
+    "raison_sociale": "SELAS PHARMACIE DU PONT",
+    "numero voie": "32",
+    "type_voie": "R",
+    "libelle_voie": "DU PONT",
+    "bp": "",
+    "cp": "30110",
+    "VILLE": "LES SALLES DU GARDON   ",
+    "tel": "466341273",
+    "telecopie": "466343893",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44009344100010",
+    "lng": "4.03066260959331",
+    "lat": "44.2071315137718"
+  },
+  {
+    "finess": "300012895",
+    "raison_sociale": "EHPAD RESIDENCE SAMDO POMAREDE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MATERNITE",
+    "bp": "",
+    "cp": "30110",
+    "VILLE": "LES SALLES DU GARDON   ",
+    "tel": "466255690",
+    "telecopie": "466303361",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "48938875100021",
+    "lng": "4.0211817073559",
+    "lat": "44.212212457565"
+  },
+  {
+    "finess": "300780111",
+    "raison_sociale": "SSR  LA POMAREDE FILIERIS SALLES DU GA",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MATERNITE",
+    "bp": "",
+    "cp": "30110",
+    "VILLE": "LES SALLES DU GARDON   ",
+    "tel": "466546500",
+    "telecopie": "466546501",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "77568531600454",
+    "lng": "4.0211817073559",
+    "lat": "44.212212457565"
+  }
+]

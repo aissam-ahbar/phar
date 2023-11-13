@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "580003275",
+    "raison_sociale": "PHARMACIE DELBOVE-MARCILLAC",
+    "numero voie": "28",
+    "type_voie": "R",
+    "libelle_voie": "DU COMMERCE",
+    "bp": "",
+    "cp": "58330",
+    "VILLE": "ST SAULGE",
+    "tel": "386583266",
+    "telecopie": "386583266",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51461037700038",
+    "lng": "3.51219337510904",
+    "lat": "47.1043867259033"
+  },
+  {
+    "finess": "580004703",
+    "raison_sociale": "SAAD COEUR DE NIÈVRE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "PASTEUR",
+    "bp": "",
+    "cp": "58330",
+    "VILLE": "ST SAULGE",
+    "tel": "386608840",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "30620316700052",
+    "lng": "3.51379455046976",
+    "lat": "47.1040131902893"
+  },
+  {
+    "finess": "580782100",
+    "raison_sociale": "EHPAD LE CLOS",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "PASTEUR",
+    "bp": "",
+    "cp": "58330",
+    "VILLE": "ST SAULGE",
+    "tel": "386582044",
+    "telecopie": "386583867",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "31650329100015",
+    "lng": "3.51379455046976",
+    "lat": "47.1040131902893"
+  }
+]

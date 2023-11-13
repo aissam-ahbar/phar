@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "340780782",
+    "raison_sociale": "CL STELLA VERARGUES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "VERARGUES",
+    "cp": "34400",
+    "VILLE": "ENTRE VIGNES",
+    "tel": "499636363",
+    "telecopie": "467860615",
+    "categorie etablissement": "161",
+    "libelle categorie": "Maison de Santé pour Maladies Mentales",
+    "siret": "41238278000010",
+    "lng": "4.08868083939631",
+    "lat": "43.7238148262816"
+  },
+  {
+    "finess": "340795301",
+    "raison_sociale": "SELARL PHARMACIE SAINT CHRISTOL",
+    "numero voie": "71",
+    "type_voie": "AV",
+    "libelle_voie": "BOUTONNET",
+    "bp": "",
+    "cp": "34400",
+    "VILLE": "ENTRE VIGNES",
+    "tel": "467860149",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79813584400016",
+    "lng": "4.08162394674784",
+    "lat": "43.7291389226425"
+  },
+  {
+    "finess": "340797513",
+    "raison_sociale": "EAM LA BRUYERE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DEPARTEMENTALE 171",
+    "bp": "",
+    "cp": "34400",
+    "VILLE": "ENTRE VIGNES",
+    "tel": "467864800",
+    "telecopie": "467575334",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "31971357400162",
+    "lng": "4.06299810556256",
+    "lat": "43.7058309365073"
+  }
+]

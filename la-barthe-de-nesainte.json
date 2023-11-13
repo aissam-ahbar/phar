@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "650002173",
+    "raison_sociale": "SELARL HORTENSE FALLER",
+    "numero voie": "14",
+    "type_voie": "",
+    "libelle_voie": "GRAND RUE",
+    "bp": "",
+    "cp": "65250",
+    "VILLE": "LA BARTHE DE NESTE   ",
+    "tel": "562981640",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84058276100010",
+    "lng": "0.382202829693581",
+    "lat": "43.0805279624695"
+  },
+  {
+    "finess": "650004773",
+    "raison_sociale": "SAAD ADMR DE LAND'ARROS",
+    "numero voie": "20",
+    "type_voie": "ALL",
+    "libelle_voie": "DES PRUNUS",
+    "bp": "",
+    "cp": "65250",
+    "VILLE": "LA BARTHE DE NESTE   ",
+    "tel": "562988330",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "38415548700026",
+    "lng": "0.386465971164824",
+    "lat": "43.0798872992439"
+  }
+]

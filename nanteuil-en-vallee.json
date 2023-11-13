@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "160011235",
+    "raison_sociale": "PHARMACIE FOUCHE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "du moulin de la Tâche",
+    "bp": "",
+    "cp": "16700",
+    "VILLE": "NANTEUIL EN VALLEE    ",
+    "tel": "545318268",
+    "telecopie": "545318268",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52145829900026",
+    "lng": "0.320527989840235",
+    "lat": "45.9991625129167"
+  },
+  {
+    "finess": "160013538",
+    "raison_sociale": "EHPA VAL DES SOURCES",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DU CHAMP DE FOIRE",
+    "bp": "",
+    "cp": "16700",
+    "VILLE": "NANTEUIL EN VALLEE    ",
+    "tel": "545310895",
+    "telecopie": "",
+    "categorie etablissement": "502",
+    "libelle categorie": "EHPA ne percevant pas des crédits d'assurance maladie",
+    "siret": "78124179900050",
+    "lng": "0.321963045397618",
+    "lat": "46.0002245076169"
+  },
+  {
+    "finess": "160015764",
+    "raison_sociale": "MSP DE NANTEUIL-EN-VALLEE",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "FONTAINE ST JEAN",
+    "bp": "",
+    "cp": "16700",
+    "VILLE": "NANTEUIL EN VALLEE    ",
+    "tel": "545319211",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "80453250500018",
+    "lng": "0.323162421697483",
+    "lat": "46.0012953291484"
+  }
+]

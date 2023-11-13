@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "350006979",
+    "raison_sociale": "EHPAD LES JARDINS DU PERRAY",
+    "numero voie": "20",
+    "type_voie": "R",
+    "libelle_voie": "DU PERRAY",
+    "bp": "",
+    "cp": "35580",
+    "VILLE": "GOVEN ",
+    "tel": "299420643",
+    "telecopie": "299420326",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26350115700048",
+    "lng": "-1.85063473373765",
+    "lat": "48.0052867159743"
+  },
+  {
+    "finess": "350019469",
+    "raison_sociale": "PHARMACIE DE GOVEN",
+    "numero voie": "21",
+    "type_voie": "R",
+    "libelle_voie": "de Lampatre",
+    "bp": "",
+    "cp": "35580",
+    "VILLE": "GOVEN ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79765116300017",
+    "lng": "-1.84895569004531",
+    "lat": "48.0046013630375"
+  },
+  {
+    "finess": "350051934",
+    "raison_sociale": "DPSG",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "SAINT GOULVEN35",
+    "bp": "",
+    "cp": "35580",
+    "VILLE": "GOVEN ",
+    "tel": "299420971",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "81900541400019",
+    "lng": "-1.84621650929793",
+    "lat": "48.0066870677755"
+  }
+]

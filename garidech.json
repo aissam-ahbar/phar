@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "310008875",
+    "raison_sociale": "PHARMACIE DE GARIDECH",
+    "numero voie": "",
+    "type_voie": "DOM",
+    "libelle_voie": "DU BUC",
+    "bp": "",
+    "cp": "31380",
+    "VILLE": "GARIDECH ",
+    "tel": "561846462",
+    "telecopie": "561846823",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84352320000015",
+    "lng": "1.56019061635456",
+    "lat": "43.7005235819703"
+  },
+  {
+    "finess": "310027883",
+    "raison_sociale": "SAAD VITALESCENCE",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DU BUC",
+    "bp": "",
+    "cp": "31380",
+    "VILLE": "GARIDECH ",
+    "tel": "534260446",
+    "telecopie": "534289654",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "50784427200025",
+    "lng": "1.56019061635456",
+    "lat": "43.7005235819703"
+  }
+]

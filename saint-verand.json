@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380795948",
+    "raison_sociale": "SCE TRAVAIL.FAMIL.ST-VERAND",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38160",
+    "VILLE": "ST VERAND",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37924506100013",
+    "lng": "5.33226694351089",
+    "lat": "45.1732539027092"
+  },
+  {
+    "finess": "380796466",
+    "raison_sociale": "SERVICE D'AIDES MENAGERES DE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38160",
+    "VILLE": "ST VERAND",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37924173000017",
+    "lng": "5.33226694351089",
+    "lat": "45.1732539027092"
+  }
+]

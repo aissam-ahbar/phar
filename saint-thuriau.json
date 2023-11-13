@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "560013559",
+    "raison_sociale": "SAAD CCAS SAINT THURIAU",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "56300",
+    "VILLE": "ST THURIAU",
+    "tel": "297398313",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26560238300027",
+    "lng": "-2.95005803762211",
+    "lat": "48.0162522234263"
+  },
+  {
+    "finess": "560021131",
+    "raison_sociale": "PHARMACIE BOULANT",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DE PONTIVY",
+    "bp": "",
+    "cp": "56300",
+    "VILLE": "ST THURIAU",
+    "tel": "297398892",
+    "telecopie": "297398927",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "42876645500011",
+    "lng": "-2.95054318657007",
+    "lat": "48.01692976406"
+  },
+  {
+    "finess": "560031221",
+    "raison_sociale": "CDS SAINT-THURIAU",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DES OISEAUX",
+    "bp": "",
+    "cp": "56300",
+    "VILLE": "ST THURIAU",
+    "tel": "257720150",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "20009699800022",
+    "lng": "-2.95114909604141",
+    "lat": "48.017078659349"
+  }
+]

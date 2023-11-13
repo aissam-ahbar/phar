@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "70003702",
+    "raison_sociale": "PHARMACIE DE SATILLIEU",
+    "numero voie": "66",
+    "type_voie": "R",
+    "libelle_voie": "Centrale",
+    "bp": "",
+    "cp": "7290",
+    "VILLE": "SATILLIEU ",
+    "tel": "475349304",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "90213276000015",
+    "lng": "4.6162708827449",
+    "lat": "45.1511291681893"
+  },
+  {
+    "finess": "70004783",
+    "raison_sociale": "CENTRE DE SANTE CSI SATILLIEU",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DES GAUDS",
+    "bp": "",
+    "cp": "7290",
+    "VILLE": "SATILLIEU ",
+    "tel": "475349797",
+    "telecopie": "475349797",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "31502852200029",
+    "lng": "4.61416735945292",
+    "lat": "45.149951017678"
+  },
+  {
+    "finess": "70783477",
+    "raison_sociale": "EHPAD LES CHARMES SATILLIEU",
+    "numero voie": "365",
+    "type_voie": "R",
+    "libelle_voie": "DE L'ENCLOS",
+    "bp": "",
+    "cp": "7290",
+    "VILLE": "SATILLIEU ",
+    "tel": "475349464",
+    "telecopie": "475349400",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26070017400014",
+    "lng": "4.60833591198277",
+    "lat": "45.1505305583153"
+  }
+]

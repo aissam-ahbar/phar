@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "680000189",
+    "raison_sociale": "SAINT JEAN CENTRE SSR",
+    "numero voie": "1",
+    "type_voie": "",
+    "libelle_voie": "GRAND RUE",
+    "bp": "",
+    "cp": "68780",
+    "VILLE": "SENTHEIM ",
+    "tel": "389385900",
+    "telecopie": "389385901",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "77895055000062",
+    "lng": "7.05795093813729",
+    "lat": "47.7566313002303"
+  },
+  {
+    "finess": "680015385",
+    "raison_sociale": "PHARMACIE DE SENTHEIM",
+    "numero voie": "22",
+    "type_voie": "",
+    "libelle_voie": "GRAND RUE",
+    "bp": "",
+    "cp": "68780",
+    "VILLE": "SENTHEIM ",
+    "tel": "389828869",
+    "telecopie": "389825790",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79840152700014",
+    "lng": "7.05139985003184",
+    "lat": "47.7560742725961"
+  },
+  {
+    "finess": "680016268",
+    "raison_sociale": "MARPA MAISON ACC RURALE P.A. DOLLER",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DES DAIMS",
+    "bp": "",
+    "cp": "68780",
+    "VILLE": "SENTHEIM ",
+    "tel": "389837970",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "51879295700020",
+    "lng": "7.05751626661642",
+    "lat": "47.7574682976986"
+  }
+]

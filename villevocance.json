@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "70004221",
+    "raison_sociale": "PHARMACIE BROUSSOLLE",
+    "numero voie": "45",
+    "type_voie": "R",
+    "libelle_voie": "de la Libération",
+    "bp": "",
+    "cp": "7690",
+    "VILLE": "VILLEVOCANCE ",
+    "tel": "475346133",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51043686800010",
+    "lng": "4.58962848074036",
+    "lat": "45.2256447877115"
+  },
+  {
+    "finess": "70786421",
+    "raison_sociale": "MAPA DE VIILEVOCANCE",
+    "numero voie": "",
+    "type_voie": "QUA",
+    "libelle_voie": "DES 3 SOLEILS",
+    "bp": "",
+    "cp": "7690",
+    "VILLE": "VILLEVOCANCE ",
+    "tel": "475347312",
+    "telecopie": "475347312",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "20002339800056",
+    "lng": "4.59240899678142",
+    "lat": "45.230010065449"
+  }
+]

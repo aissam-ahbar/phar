@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "660011792",
+    "raison_sociale": "SAAD ADMR SAILLAGOUSE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU PRESBYTERE",
+    "bp": "",
+    "cp": "66760",
+    "VILLE": "BOURG MADAME",
+    "tel": "468046527",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "38457132900026",
+    "lng": "1.94461399033663",
+    "lat": "42.4343850617209"
+  },
+  {
+    "finess": "660012568",
+    "raison_sociale": "MSP PLATEAU CERDAN",
+    "numero voie": "5",
+    "type_voie": "AV",
+    "libelle_voie": "DES GUINGUETTES",
+    "bp": "",
+    "cp": "66760",
+    "VILLE": "BOURG MADAME",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "89773418200016",
+    "lng": "1.95095592066695",
+    "lat": "42.4336440097199"
+  },
+  {
+    "finess": "660788076",
+    "raison_sociale": "SELARL PHARMACIE PORTE DE FRANCE",
+    "numero voie": "45",
+    "type_voie": "AV",
+    "libelle_voie": "PORTE DE FRANCE",
+    "bp": "",
+    "cp": "66760",
+    "VILLE": "BOURG MADAME",
+    "tel": "468046238",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "33034665100012",
+    "lng": "1.94192952210024",
+    "lat": "42.4338541390856"
+  }
+]

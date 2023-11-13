@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "360003065",
+    "raison_sociale": "SARL PHARMACIE BUFFET",
+    "numero voie": "12",
+    "type_voie": "R",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "36260",
+    "VILLE": "REUILLY ",
+    "tel": "254492448",
+    "telecopie": "254492746",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "35307026100014",
+    "lng": "2.0443693893979",
+    "lat": "47.0846228462342"
+  },
+  {
+    "finess": "360004899",
+    "raison_sociale": "CONSULTATION DE P. M. I.",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "36260",
+    "VILLE": "REUILLY ",
+    "tel": "254492780",
+    "telecopie": "",
+    "categorie etablissement": "230",
+    "libelle categorie": "Etablissement Consultation Protection Infantile",
+    "siret": "22360001600222",
+    "lng": "2.04158303206739",
+    "lat": "47.0854227254646"
+  }
+]

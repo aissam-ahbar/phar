@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "160004446",
+    "raison_sociale": "EHPAD COS SAINTE MARTHE",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "DU PONT",
+    "bp": "",
+    "cp": "16460",
+    "VILLE": "ST FRONT",
+    "tel": "545392344",
+    "telecopie": "545399493",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77565757000310",
+    "lng": "0.287660428820283",
+    "lat": "45.893172059828"
+  },
+  {
+    "finess": "430004754",
+    "raison_sociale": "SERVICE D'AIDE AUX PERSONNES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "43550",
+    "VILLE": "ST FRONT",
+    "tel": "471071705",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "38799106000014",
+    "lng": "4.14346370697241",
+    "lat": "44.9776010988871"
+  }
+]

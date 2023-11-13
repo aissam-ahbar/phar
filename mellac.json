@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "290012996",
+    "raison_sociale": "PHARMACIE DE MELLAC",
+    "numero voie": "8",
+    "type_voie": "RTE",
+    "libelle_voie": "DE QUIMPERLE",
+    "bp": "",
+    "cp": "29300",
+    "VILLE": "MELLAC ",
+    "tel": "298718067",
+    "telecopie": "298718067",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83784530400018",
+    "lng": "-3.58223620087575",
+    "lat": "47.9000915853482"
+  },
+  {
+    "finess": "290032655",
+    "raison_sociale": "UNITE DIALYSE QUIMPERLE MELLAC AUB",
+    "numero voie": "",
+    "type_voie": "ZA",
+    "libelle_voie": "DE KERVIDANOU 3",
+    "bp": "",
+    "cp": "29300",
+    "VILLE": "MELLAC ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "146",
+    "libelle categorie": "Structure d'Alternative à la dialyse en centre",
+    "siret": "",
+    "lng": "-3.57680783267387",
+    "lat": "47.9037261675858"
+  },
+  {
+    "finess": "290035435",
+    "raison_sociale": "MSP DE MELLAC",
+    "numero voie": "12",
+    "type_voie": "RTE",
+    "libelle_voie": "DE QUIMPERLE",
+    "bp": "",
+    "cp": "29300",
+    "VILLE": "MELLAC ",
+    "tel": "298718179",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "-3.58162706329529",
+    "lat": "47.8998368159999"
+  }
+]

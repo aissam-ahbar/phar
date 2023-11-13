@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380002915",
+    "raison_sociale": "ITEP L'ARCHE DU TRIEVES",
+    "numero voie": "20",
+    "type_voie": "RTE",
+    "libelle_voie": "DU PAVILLON",
+    "bp": "BP 6",
+    "cp": "38761",
+    "VILLE": "VARCES ALLIERES",
+    "tel": "476993290",
+    "telecopie": "476993298",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "77559584600194",
+    "lng": "5.68312445457667",
+    "lat": "45.1045657577376"
+  },
+  {
+    "finess": "380780981",
+    "raison_sociale": "ITEP VARCES CMFP",
+    "numero voie": "41",
+    "type_voie": "RTE",
+    "libelle_voie": "PAVILLON",
+    "bp": "BP 112",
+    "cp": "38761",
+    "VILLE": "VARCES ALLIERES",
+    "tel": "476981481",
+    "telecopie": "476987568",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "77559584600020",
+    "lng": "5.68406757772372",
+    "lat": "45.103939433483"
+  }
+]

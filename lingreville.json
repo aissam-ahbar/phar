@@ -1,0 +1,19 @@
+[
+  {
+    "finess": "500011200",
+    "raison_sociale": "PHARMACIE LINGREVILLE",
+    "numero voie": "32",
+    "type_voie": "PL",
+    "libelle_voie": "du Marché",
+    "bp": "",
+    "cp": "50660",
+    "VILLE": "LINGREVILLE ",
+    "tel": "233475924",
+    "telecopie": "971701547",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50489905500017",
+    "lng": "-1.5271855223399",
+    "lat": "48.9511063243088"
+  }
+]

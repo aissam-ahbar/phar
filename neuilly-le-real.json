@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "30004345",
+    "raison_sociale": "PHARMACIE BAUDIN",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "RTE DE MOULINS",
+    "bp": "",
+    "cp": "3340",
+    "VILLE": "NEUILLY LE REAL    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38186936100018",
+    "lng": "3.42015346340429",
+    "lat": "46.4724374623958"
+  },
+  {
+    "finess": "30007660",
+    "raison_sociale": "MAISON DE SANTE CLAUDE GALIEN",
+    "numero voie": "10",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "3340",
+    "VILLE": "NEUILLY LE REAL    ",
+    "tel": "470438983",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "82279887200013",
+    "lng": "3.43212598190628",
+    "lat": "46.4649018275737"
+  }
+]

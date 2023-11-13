@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "140006123",
+    "raison_sociale": "SAD ASS LOCALE ADMR BRETTEVILLE S/LAIZ",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "PAIXHANS",
+    "bp": "",
+    "cp": "14680",
+    "VILLE": "BRETTEVILLE SUR LAIZE    ",
+    "tel": "231208068",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32028013400034",
+    "lng": "-0.326869093581084",
+    "lat": "49.0451436351436"
+  },
+  {
+    "finess": "140015827",
+    "raison_sociale": "EHPAD LES CHANTERELLES - BRETTEVILLE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CAILLOUET",
+    "bp": "LIEU DIT LA MOISSONNIERE",
+    "cp": "14680",
+    "VILLE": "BRETTEVILLE SUR LAIZE    ",
+    "tel": "231238121",
+    "telecopie": "231571518",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "35018739900026",
+    "lng": "-0.330596622491242",
+    "lat": "49.0627721105669"
+  },
+  {
+    "finess": "140019464",
+    "raison_sociale": "PHARMACIE DE LA LAIZE",
+    "numero voie": "10",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "14680",
+    "VILLE": "BRETTEVILLE SUR LAIZE    ",
+    "tel": "231235023",
+    "telecopie": "231238922",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "37790960100017",
+    "lng": "-0.326505265707664",
+    "lat": "49.0448927282967"
+  }
+]

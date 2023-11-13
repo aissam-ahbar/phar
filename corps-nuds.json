@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "350002382",
+    "raison_sociale": "RESIDENCE DE L'YZE  CORPS NUDS",
+    "numero voie": "10",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CHANTELOUP",
+    "bp": "",
+    "cp": "35150",
+    "VILLE": "CORPS NUDS",
+    "tel": "299440014",
+    "telecopie": "299440334",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26350024100033",
+    "lng": "-1.58950678725298",
+    "lat": "47.9775280149452"
+  },
+  {
+    "finess": "350020723",
+    "raison_sociale": "PHARMACIE CHENEL PRIE",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "Kildaré",
+    "bp": "",
+    "cp": "35150",
+    "VILLE": "CORPS NUDS",
+    "tel": "299440003",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82827629500015",
+    "lng": "-1.58472175632464",
+    "lat": "47.9775877651318"
+  }
+]

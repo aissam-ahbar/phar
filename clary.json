@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590013132",
+    "raison_sociale": "PHARMACIE JAUMONT",
+    "numero voie": "18",
+    "type_voie": "PL",
+    "libelle_voie": "DES ECOSSAIS",
+    "bp": "",
+    "cp": "59225",
+    "VILLE": "CLARY ",
+    "tel": "327850338",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79368531400015",
+    "lng": "3.40071188599488",
+    "lat": "50.078634472158"
+  },
+  {
+    "finess": "590793808",
+    "raison_sociale": "SAD DU SIVOM DE LA WARNELLE",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DES ECOSSAIS",
+    "bp": "",
+    "cp": "59225",
+    "VILLE": "CLARY ",
+    "tel": "327763098",
+    "telecopie": "327763099",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "24590005500048",
+    "lng": "3.40099527493498",
+    "lat": "50.0786434257828"
+  }
+]

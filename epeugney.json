@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "250009214",
+    "raison_sociale": "PHARMACIE BASTARD",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE BESANCON",
+    "bp": "",
+    "cp": "25290",
+    "VILLE": "EPEUGNEY ",
+    "tel": "381603506",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "31698323800015",
+    "lng": "6.00979328470368",
+    "lat": "47.1355806589279"
+  },
+  {
+    "finess": "250020989",
+    "raison_sociale": "MAISON DE SANTE EPEUGNEY",
+    "numero voie": "1",
+    "type_voie": "RTE",
+    "libelle_voie": "DE BESANÇON",
+    "bp": "",
+    "cp": "25290",
+    "VILLE": "EPEUGNEY ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "88976294400011",
+    "lng": "6.02508006834837",
+    "lat": "47.1180752849183"
+  }
+]

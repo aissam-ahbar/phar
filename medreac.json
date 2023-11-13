@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "350019006",
+    "raison_sociale": "PHARMACIE DELYS-MENARD",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "CENTRALE",
+    "bp": "",
+    "cp": "35360",
+    "VILLE": "MEDREAC ",
+    "tel": "299072312",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49772595200012",
+    "lng": "-2.06539886728328",
+    "lat": "48.2675286663195"
+  },
+  {
+    "finess": "350046116",
+    "raison_sociale": "EHPAD LES MENHIRS",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "CHATEAUBRIAND",
+    "bp": "",
+    "cp": "35360",
+    "VILLE": "MEDREAC ",
+    "tel": "299617761",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26350026600030",
+    "lng": "-2.07898780450998",
+    "lat": "48.2698608966753"
+  }
+]

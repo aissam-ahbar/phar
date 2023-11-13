@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "510000110",
+    "raison_sociale": "EHPAD \"FONDATION DUCHATEL\"",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "WALBAUM",
+    "bp": "",
+    "cp": "51360",
+    "VILLE": "VERZENAY ",
+    "tel": "326494013",
+    "telecopie": "326494594",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26510008100016",
+    "lng": "4.14577645525759",
+    "lat": "49.1592401151072"
+  },
+  {
+    "finess": "510022130",
+    "raison_sociale": "SELARL PHARMACIE DES GALIPES",
+    "numero voie": "2",
+    "type_voie": "",
+    "libelle_voie": "PLACE DES GADONS",
+    "bp": "",
+    "cp": "51360",
+    "VILLE": "VERZENAY ",
+    "tel": "326494262",
+    "telecopie": "326498089",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52763970200028",
+    "lng": "4.14887426560925",
+    "lat": "49.1592114918533"
+  },
+  {
+    "finess": "510027550",
+    "raison_sociale": "ADMR DE LUDES",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "ARNOULT QUENARDEL",
+    "bp": "",
+    "cp": "51360",
+    "VILLE": "VERZENAY ",
+    "tel": "326471952",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "78039458100018",
+    "lng": "4.14536259976544",
+    "lat": "49.1601162353603"
+  }
+]

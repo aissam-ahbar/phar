@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "680004439",
+    "raison_sociale": "EHPAD RESIDENCE SAINTE ANNE",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DE BELFORT",
+    "bp": "",
+    "cp": "68990",
+    "VILLE": "HEIMSBRUNN ",
+    "tel": "389819044",
+    "telecopie": "389281545",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "",
+    "lng": "7.22393945451991",
+    "lat": "47.7278292592445"
+  },
+  {
+    "finess": "680022852",
+    "raison_sociale": "MAISON DE SANTE DU GRAND CHENE",
+    "numero voie": "14",
+    "type_voie": "R",
+    "libelle_voie": "DE BELFORT",
+    "bp": "",
+    "cp": "68990",
+    "VILLE": "HEIMSBRUNN ",
+    "tel": "389819404",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "89853636200012",
+    "lng": "7.22637272883456",
+    "lat": "47.7278197453719"
+  }
+]

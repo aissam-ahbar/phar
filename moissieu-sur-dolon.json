@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "380024687",
+    "raison_sociale": "SAAD HDS ASSISTANCE A LA PERSONNE",
+    "numero voie": "185",
+    "type_voie": "IMP",
+    "libelle_voie": "CHEZ MILLAT",
+    "bp": "",
+    "cp": "38270",
+    "VILLE": "MOISSIEU SUR DOLON    ",
+    "tel": "767895464",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "4.97091748167483",
+    "lat": "45.3828724106743"
+  },
+  {
+    "finess": "380796227",
+    "raison_sociale": "SCE TRAVAIL.FAMIL.MOISSIEU",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38270",
+    "VILLE": "MOISSIEU SUR DOLON    ",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37852603200016",
+    "lng": "4.98916035089856",
+    "lat": "45.3867167858919"
+  },
+  {
+    "finess": "380796896",
+    "raison_sociale": "SCE AIDE MENAGERE MOISSIEU",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38270",
+    "VILLE": "MOISSIEU SUR DOLON    ",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37852581000016",
+    "lng": "4.98916035089856",
+    "lat": "45.3867167858919"
+  }
+]

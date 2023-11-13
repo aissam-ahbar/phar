@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "570013102",
+    "raison_sociale": "EHPAD \"LES ACACIAS\"",
+    "numero voie": "",
+    "type_voie": "QUA",
+    "libelle_voie": "DES ACACIAS",
+    "bp": "",
+    "cp": "57590",
+    "VILLE": "DELME ",
+    "tel": "387013884",
+    "telecopie": "387013985",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77561815000079",
+    "lng": "6.39358754960895",
+    "lat": "48.889059601013"
+  },
+  {
+    "finess": "570016154",
+    "raison_sociale": "SELARL PHARMACIE DE DELME",
+    "numero voie": "7",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "57590",
+    "VILLE": "DELME ",
+    "tel": "387013012",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "91792432600015",
+    "lng": "6.39240355346911",
+    "lat": "48.8870201812099"
+  }
+]

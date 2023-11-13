@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "220004097",
+    "raison_sociale": "EHPAD LOUIS GAUTHIER",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DU 19 MARS 1962",
+    "bp": "",
+    "cp": "22100",
+    "VILLE": "LANVALLAY ",
+    "tel": "296393829",
+    "telecopie": "296395575",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26220072800026",
+    "lng": "-2.02816195531941",
+    "lat": "48.4559844958465"
+  },
+  {
+    "finess": "220011605",
+    "raison_sociale": "PHARMACIE DE LA RANCE",
+    "numero voie": "18",
+    "type_voie": "R",
+    "libelle_voie": "DE RENNES",
+    "bp": "",
+    "cp": "22100",
+    "VILLE": "LANVALLAY ",
+    "tel": "296391533",
+    "telecopie": "296391278",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44939714000012",
+    "lng": "-2.02853651214246",
+    "lat": "48.4561029250507"
+  },
+  {
+    "finess": "220013197",
+    "raison_sociale": "PHARMACIE COTISSOISE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "CHARLES DE GAULLE",
+    "bp": "",
+    "cp": "22100",
+    "VILLE": "LANVALLAY ",
+    "tel": "296854093",
+    "telecopie": "296859123",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "85114705800016",
+    "lng": "-2.0241920642821",
+    "lat": "48.4535890888355"
+  }
+]

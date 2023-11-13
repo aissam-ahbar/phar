@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "350002622",
+    "raison_sociale": "IME LA DUSSETIERE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DES MENESTRELS",
+    "bp": "",
+    "cp": "35133",
+    "VILLE": "LECOUSSE ",
+    "tel": "299991431",
+    "telecopie": "299992589",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "78012326100015",
+    "lng": "-1.21058728616242",
+    "lat": "48.3673526889948"
+  },
+  {
+    "finess": "350021374",
+    "raison_sociale": "SELARL PHARMACIE DU PARC",
+    "numero voie": "80",
+    "type_voie": "BD",
+    "libelle_voie": "de Bliche",
+    "bp": "",
+    "cp": "35133",
+    "VILLE": "LECOUSSE ",
+    "tel": "299998101",
+    "telecopie": "299997087",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "43867154700018",
+    "lng": "-1.22243961419614",
+    "lat": "48.3529375074318"
+  },
+  {
+    "finess": "350046538",
+    "raison_sociale": "ESAT L'ADAPT LECOUSSE",
+    "numero voie": "4",
+    "type_voie": "BD",
+    "libelle_voie": "DE LA COTE DU NORD",
+    "bp": "",
+    "cp": "35133",
+    "VILLE": "LECOUSSE ",
+    "tel": "223272323",
+    "telecopie": "223272324",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77569338501671",
+    "lng": "-1.20823282424571",
+    "lat": "48.3684454791655"
+  }
+]

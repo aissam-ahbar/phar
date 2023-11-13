@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "530004662",
+    "raison_sociale": "SAAD ADMR ERVE ET CHARNIE",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DU PETIT ROCHER",
+    "bp": "",
+    "cp": "53270",
+    "VILLE": "STE SUZANNE ET CHAMMES   ",
+    "tel": "243017817",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "34441393500026",
+    "lng": "-0.355140009882198",
+    "lat": "48.0977843734881"
+  },
+  {
+    "finess": "530031087",
+    "raison_sociale": "PHARMACIE DEROUET-PILLET",
+    "numero voie": "12",
+    "type_voie": "PL",
+    "libelle_voie": "AMBROISE DE LORE",
+    "bp": "",
+    "cp": "53270",
+    "VILLE": "STE SUZANNE ET CHAMMES   ",
+    "tel": "243014026",
+    "telecopie": "243014314",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49503446400018",
+    "lng": "-0.351778602756126",
+    "lat": "48.0971685329558"
+  }
+]

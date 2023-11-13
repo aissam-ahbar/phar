@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "2A0001186",
+    "raison_sociale": "SARL PHARMACIE NERI",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LES MARINES DE PORTICCIO",
+    "bp": "PORTICCIO",
+    "cp": "20166",
+    "VILLE": "GROSSETO PRUGNA",
+    "tel": "495250140",
+    "telecopie": "495251613",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51146861300027",
+    "lng": "8.80803215807417",
+    "lat": "41.8872687892026"
+  },
+  {
+    "finess": "2A0003380",
+    "raison_sociale": "LBM CCF-SITE RIVE SUD",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "20166",
+    "VILLE": "GROSSETO PRUGNA",
+    "tel": "495252970",
+    "telecopie": "495259738",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "39751051200031",
+    "lng": "8.80803215807417",
+    "lat": "41.8872687892026"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "80003403",
+    "raison_sociale": "FV ACY ROMANCE",
+    "numero voie": "2",
+    "type_voie": "RTE",
+    "libelle_voie": "DE NANTEUIL SUR AISNE",
+    "bp": "",
+    "cp": "8300",
+    "VILLE": "ACY ROMANCE",
+    "tel": "324384622",
+    "telecopie": "",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "20001113800191",
+    "lng": "4.34534247442283",
+    "lat": "49.5004675957502"
+  },
+  {
+    "finess": "80007388",
+    "raison_sociale": "FAM ACY ROMANCE",
+    "numero voie": "2",
+    "type_voie": "RTE",
+    "libelle_voie": "DE NANTEUIL SUR AISNE",
+    "bp": "",
+    "cp": "8300",
+    "VILLE": "ACY ROMANCE",
+    "tel": "324384622",
+    "telecopie": "",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "20001113800209",
+    "lng": "4.34534247442283",
+    "lat": "49.5004675957502"
+  }
+]

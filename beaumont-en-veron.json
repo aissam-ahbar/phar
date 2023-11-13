@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "370003006",
+    "raison_sociale": "SELARL PHARMACIE DU VERON",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DU PARC \"\"LA TOURETTE\"\"",
+    "bp": "",
+    "cp": "37420",
+    "VILLE": "BEAUMONT EN VERON    ",
+    "tel": "247589439",
+    "telecopie": "247589740",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80398561300014",
+    "lng": "0.183697844171382",
+    "lat": "47.196697005593"
+  },
+  {
+    "finess": "370003428",
+    "raison_sociale": "ACCUEIL DE JOUR LEOPOLD BELLAN",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DE VELOR",
+    "bp": "",
+    "cp": "37420",
+    "VILLE": "BEAUMONT EN VERON    ",
+    "tel": "247984555",
+    "telecopie": "",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "77567216500369",
+    "lng": "0.181032586851455",
+    "lat": "47.2012012662844"
+  },
+  {
+    "finess": "370004814",
+    "raison_sociale": "CENTRE HABITAT SAJ ET FAS L. BELLAN",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DU VELOR",
+    "bp": "",
+    "cp": "37420",
+    "VILLE": "BEAUMONT EN VERON    ",
+    "tel": "247584090",
+    "telecopie": "247589801",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "77567216500260",
+    "lng": "0.181032586851455",
+    "lat": "47.2012012662844"
+  }
+]

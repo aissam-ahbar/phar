@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "70780630",
+    "raison_sociale": "EHPAD RESIDENCE VAL DE BEAUME",
+    "numero voie": "275",
+    "type_voie": "R",
+    "libelle_voie": "DE VILLARD",
+    "bp": "",
+    "cp": "7110",
+    "VILLE": "VALGORGE ",
+    "tel": "475878360",
+    "telecopie": "475889555",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20008480400026",
+    "lng": "4.12919991731566",
+    "lat": "44.5880041750364"
+  },
+  {
+    "finess": "70783139",
+    "raison_sociale": "MAS LES GENETS D'OR",
+    "numero voie": "125",
+    "type_voie": "MTE",
+    "libelle_voie": "DES GENÊTS D'OR",
+    "bp": "QUARTIER SAINT MARTIN",
+    "cp": "7110",
+    "VILLE": "VALGORGE ",
+    "tel": "475889592",
+    "telecopie": "475889844",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "39066239300060",
+    "lng": "4.12919991731566",
+    "lat": "44.5880041750364"
+  }
+]

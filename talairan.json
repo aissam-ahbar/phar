@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "110005824",
+    "raison_sociale": "EHPAD L'OUSTAL DE TALAIRAN",
+    "numero voie": "1",
+    "type_voie": "CHE",
+    "libelle_voie": "SAINT VINCENT",
+    "bp": "",
+    "cp": "11220",
+    "VILLE": "TALAIRAN ",
+    "tel": "468756060",
+    "telecopie": "468756075",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77558122601177",
+    "lng": "2.65989391051993",
+    "lat": "43.047336783418"
+  },
+  {
+    "finess": "110007713",
+    "raison_sociale": "EEPA UNITE ALARIC PHV",
+    "numero voie": "1",
+    "type_voie": "CHE",
+    "libelle_voie": "ST VINCENT",
+    "bp": "",
+    "cp": "11220",
+    "VILLE": "TALAIRAN ",
+    "tel": "468756060",
+    "telecopie": "468756075",
+    "categorie etablissement": "381",
+    "libelle categorie": "Etablissement Expérimental pour Personnes Agées",
+    "siret": "77558122600724",
+    "lng": "2.65989391051993",
+    "lat": "43.047336783418"
+  }
+]

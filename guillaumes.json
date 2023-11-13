@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "60005311",
+    "raison_sociale": "PHARMACIE DU VILLAGE DE GUILLAUMES",
+    "numero voie": "1",
+    "type_voie": "AV",
+    "libelle_voie": "DU LIEUTENANT COLONELLI",
+    "bp": "",
+    "cp": "6470",
+    "VILLE": "GUILLAUMES ",
+    "tel": "493055020",
+    "telecopie": "493026305",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83102843600010",
+    "lng": "6.85364740736971",
+    "lat": "44.0887218839417"
+  },
+  {
+    "finess": "60009875",
+    "raison_sociale": "SELURL PHARMACIE AVRILLON",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "6470",
+    "VILLE": "GUILLAUMES ",
+    "tel": "493025000",
+    "telecopie": "493026305",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80216868200010",
+    "lng": "6.85375897350374",
+    "lat": "44.0892243794005"
+  },
+  {
+    "finess": "60800786",
+    "raison_sociale": "EHPAD CHARLES GINESY",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "PAYANI",
+    "bp": "",
+    "cp": "6470",
+    "VILLE": "GUILLAUMES ",
+    "tel": "493055888",
+    "telecopie": "493055878",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "82773548100026",
+    "lng": "6.85128109072975",
+    "lat": "44.0911453379716"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "160010682",
+    "raison_sociale": "PHARMACIE DE LA BRACONNE",
+    "numero voie": "224",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "LE BOURG",
+    "cp": "16590",
+    "VILLE": "BRIE ",
+    "tel": "545699789",
+    "telecopie": "545698999",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48801346700011",
+    "lng": "0.241584993459732",
+    "lat": "45.7406138347979"
+  },
+  {
+    "finess": "160017075",
+    "raison_sociale": "CDS POLYVALENT DE BRIE",
+    "numero voie": "210",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "16590",
+    "VILLE": "BRIE ",
+    "tel": "516095171",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "22160001800891",
+    "lng": "0.241522040158296",
+    "lat": "45.7405086750142"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "210003216",
+    "raison_sociale": "PHARMACIE BOIRIN",
+    "numero voie": "2",
+    "type_voie": "PL",
+    "libelle_voie": "DU MONUMENT",
+    "bp": "",
+    "cp": "21450",
+    "VILLE": "BAIGNEUX LES JUIFS    ",
+    "tel": "380965541",
+    "telecopie": "380965167",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53339761800026",
+    "lng": "4.6494875302756",
+    "lat": "47.5996522962786"
+  },
+  {
+    "finess": "210986907",
+    "raison_sociale": "MARPA RESIDENCE LES TILLEULS",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "TILLEULS",
+    "bp": "",
+    "cp": "21450",
+    "VILLE": "BAIGNEUX LES JUIFS    ",
+    "tel": "380965172",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "83301201600014",
+    "lng": "4.64533223271388",
+    "lat": "47.6016511108142"
+  }
+]

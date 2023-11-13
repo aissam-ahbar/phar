@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "260004064",
+    "raison_sociale": "PHARMACIE OUAADANI-HAMON",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DU CHAMP DE MARS",
+    "bp": "",
+    "cp": "26420",
+    "VILLE": "LA CHAPELLE EN VERCORS   ",
+    "tel": "970106089",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45399499800012",
+    "lng": "5.41693072594617",
+    "lat": "44.9673120261463"
+  },
+  {
+    "finess": "260021209",
+    "raison_sociale": "MAISON DE SANTE LA CHAPELLE EN VERCORS",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DES GRANDS GOULETS",
+    "bp": "",
+    "cp": "26420",
+    "VILLE": "LA CHAPELLE EN VERCORS   ",
+    "tel": "475482017",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "5.4114795220596",
+    "lat": "44.9691103451335"
+  }
+]

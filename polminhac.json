@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "150001733",
+    "raison_sociale": "PHARMACIE DU CARLADES",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "du Campanier",
+    "bp": "",
+    "cp": "15800",
+    "VILLE": "POLMINHAC ",
+    "tel": "471474140",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "33838799600022",
+    "lng": "2.57776496813669",
+    "lat": "44.950661432733"
+  },
+  {
+    "finess": "150780542",
+    "raison_sociale": "DITEP DU CANTAL SITE POLMINHAC",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DU VAL DE CERE",
+    "bp": "",
+    "cp": "15800",
+    "VILLE": "POLMINHAC ",
+    "tel": "471474038",
+    "telecopie": "",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "77556255600040",
+    "lng": "2.58172221585532",
+    "lat": "44.9487937060864"
+  }
+]

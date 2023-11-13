@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "550002430",
+    "raison_sociale": "PHARMACIE BECKER",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE VERDUN",
+    "bp": "",
+    "cp": "55250",
+    "VILLE": "SEUIL D ARGONNE    ",
+    "tel": "329707408",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "31430349600017",
+    "lng": "5.05938466755629",
+    "lat": "48.97789244487"
+  },
+  {
+    "finess": "550006357",
+    "raison_sociale": "EHPAD LES EAUX VIVES DE TRIAUCOURT",
+    "numero voie": "20",
+    "type_voie": "VOI",
+    "libelle_voie": "BEAULIEU",
+    "bp": "",
+    "cp": "55250",
+    "VILLE": "SEUIL D ARGONNE    ",
+    "tel": "329467120",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "39915556300055",
+    "lng": "5.06004310399942",
+    "lat": "48.9831262638479"
+  },
+  {
+    "finess": "550007009",
+    "raison_sociale": "POLE DE SANTE AIRE ARGONNE",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "JEANNE GEORGE",
+    "bp": "TRIAUCOURT",
+    "cp": "55250",
+    "VILLE": "SEUIL D ARGONNE    ",
+    "tel": "329791417",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "80459159200014",
+    "lng": "5.06157695532917",
+    "lat": "48.9784529651876"
+  }
+]

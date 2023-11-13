@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "310009295",
+    "raison_sociale": "PHARMACIE PAGES - FERDOUS",
+    "numero voie": "15",
+    "type_voie": "AV",
+    "libelle_voie": "DES CHALETS",
+    "bp": "",
+    "cp": "31140",
+    "VILLE": "LAUNAGUET ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45098797900025",
+    "lng": "1.45625206885872",
+    "lat": "43.6754029575374"
+  },
+  {
+    "finess": "310009311",
+    "raison_sociale": "PHARMACIE CESARI",
+    "numero voie": "36",
+    "type_voie": "RTE",
+    "libelle_voie": "DE BESSIERES",
+    "bp": "",
+    "cp": "31140",
+    "VILLE": "LAUNAGUET ",
+    "tel": "561748534",
+    "telecopie": "561748521",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "42119815100019",
+    "lng": "1.44613092517391",
+    "lat": "43.672496801345"
+  },
+  {
+    "finess": "310019120",
+    "raison_sociale": "EHPAD RESIDENCE PAUL ET LISA",
+    "numero voie": "",
+    "type_voie": "ALL",
+    "libelle_voie": "DES SABLETTES",
+    "bp": "",
+    "cp": "31140",
+    "VILLE": "LAUNAGUET ",
+    "tel": "534276100",
+    "telecopie": "534276199",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "",
+    "lng": "1.45142039702425",
+    "lat": "43.656068471929"
+  }
+]

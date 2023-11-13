@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "600100671",
+    "raison_sociale": "SSR BTP SAINT-OMER-EN-CHAUSSÉE",
+    "numero voie": "51",
+    "type_voie": "R",
+    "libelle_voie": "LE BELLOY",
+    "bp": "",
+    "cp": "60860",
+    "VILLE": "ST OMER EN CHAUSSEE   ",
+    "tel": "344846000",
+    "telecopie": "344846384",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "48841184400118",
+    "lng": "1.98684560203615",
+    "lat": "49.5333940927947"
+  },
+  {
+    "finess": "600111132",
+    "raison_sociale": "ESRP LE BELLOY SAINT-OMER-EN-CHAUSSÉE",
+    "numero voie": "51",
+    "type_voie": "R",
+    "libelle_voie": "DU BELLOY",
+    "bp": "",
+    "cp": "60860",
+    "VILLE": "ST OMER EN CHAUSSEE   ",
+    "tel": "344846000",
+    "telecopie": "344846384",
+    "categorie etablissement": "249",
+    "libelle categorie": "Etablissement et Service de Réadaptation Professionnelle",
+    "siret": "48841184400118",
+    "lng": "1.98684560203615",
+    "lat": "49.5333940927947"
+  }
+]

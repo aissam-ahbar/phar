@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "60020435",
+    "raison_sociale": "PHARMACIE DE L'ESTERON",
+    "numero voie": "13",
+    "type_voie": "QUA",
+    "libelle_voie": "ST PANCRACE",
+    "bp": "",
+    "cp": "6830",
+    "VILLE": "GILETTE ",
+    "tel": "492089732",
+    "telecopie": "492089573",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88411770600017",
+    "lng": "7.16381274750612",
+    "lat": "43.851830228339"
+  },
+  {
+    "finess": "60793312",
+    "raison_sociale": "SSIAD VAL D'ESTERON",
+    "numero voie": "31",
+    "type_voie": "RTE",
+    "libelle_voie": "DE GILETTE",
+    "bp": "QUARTIER PONT CHARLES-ALBERT",
+    "cp": "6830",
+    "VILLE": "GILETTE ",
+    "tel": "493085208",
+    "telecopie": "",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "89753099400085",
+    "lng": "7.19101608584991",
+    "lat": "43.8386309085526"
+  }
+]

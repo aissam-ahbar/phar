@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590025003",
+    "raison_sociale": "PHARMACIE SAINT-FIRMIN",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "SAINT FIRMIN",
+    "bp": "",
+    "cp": "59190",
+    "VILLE": "MORBECQUE ",
+    "tel": "328407800",
+    "telecopie": "328495505",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "35334534100021",
+    "lng": "2.51469091230611",
+    "lat": "50.6907279925271"
+  },
+  {
+    "finess": "590782827",
+    "raison_sociale": "EHPAD LIEVIN PETITPREZ",
+    "numero voie": "12",
+    "type_voie": "R",
+    "libelle_voie": "DU 8 MAI 1945",
+    "bp": "",
+    "cp": "59190",
+    "VILLE": "MORBECQUE ",
+    "tel": "328419963",
+    "telecopie": "328413341",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26590741000012",
+    "lng": "2.51366892959466",
+    "lat": "50.6922477271698"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "470009853",
+    "raison_sociale": "PHARMACIE DE LACAPELLE BIRON",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "47150",
+    "VILLE": "LACAPELLE BIRON",
+    "tel": "553408525",
+    "telecopie": "553408064",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52461266000018",
+    "lng": "0.895264871402964",
+    "lat": "44.6005328511361"
+  },
+  {
+    "finess": "470017005",
+    "raison_sociale": "MSP CAPELAINE",
+    "numero voie": "68",
+    "type_voie": "BD",
+    "libelle_voie": "DU MIDI",
+    "bp": "",
+    "cp": "47150",
+    "VILLE": "LACAPELLE BIRON",
+    "tel": "553408503",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "89874154100012",
+    "lng": "0.896385695006158",
+    "lat": "44.600053476783"
+  }
+]

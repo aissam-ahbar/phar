@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "660005414",
+    "raison_sociale": "FAM LES PARDALETS",
+    "numero voie": "7",
+    "type_voie": "PAS",
+    "libelle_voie": "D'EN CONTE",
+    "bp": "",
+    "cp": "66500",
+    "VILLE": "LOS MASOS",
+    "tel": "468961393",
+    "telecopie": "468963013",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "77619095100199",
+    "lng": "2.45158885424979",
+    "lat": "42.6145248857735"
+  },
+  {
+    "finess": "660784414",
+    "raison_sociale": "FV LES PARDALETS",
+    "numero voie": "6",
+    "type_voie": "PAS",
+    "libelle_voie": "D'EN CONTE",
+    "bp": "",
+    "cp": "66500",
+    "VILLE": "LOS MASOS",
+    "tel": "468961393",
+    "telecopie": "468963013",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "77619095100173",
+    "lng": "2.45241604632918",
+    "lat": "42.615098224301"
+  }
+]

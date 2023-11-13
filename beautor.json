@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "20002390",
+    "raison_sociale": "SELARL PHARMACIE SEIGNEZ",
+    "numero voie": "54",
+    "type_voie": "R",
+    "libelle_voie": "DE TERGNIER",
+    "bp": "",
+    "cp": "2800",
+    "VILLE": "BEAUTOR ",
+    "tel": "323564487",
+    "telecopie": "323562745",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83813626500017",
+    "lng": "3.34319302676322",
+    "lat": "49.6586644041559"
+  },
+  {
+    "finess": "20015285",
+    "raison_sociale": "LBM BIOMÉDIQUAL BEAUTOR",
+    "numero voie": "60",
+    "type_voie": "R",
+    "libelle_voie": "DE TERGNIER",
+    "bp": "",
+    "cp": "2800",
+    "VILLE": "BEAUTOR ",
+    "tel": "323563468",
+    "telecopie": "323567571",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "40749374100018",
+    "lng": "3.34245907680195",
+    "lat": "49.6586170504458"
+  }
+]

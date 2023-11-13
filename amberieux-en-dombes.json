@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "10002384",
+    "raison_sociale": "SELARL PHARMACIE VINOIS",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "1330",
+    "VILLE": "AMBERIEUX EN DOMBES    ",
+    "tel": "474008311",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83844528600019",
+    "lng": "4.90386314774286",
+    "lat": "45.9959313541612"
+  },
+  {
+    "finess": "10006641",
+    "raison_sociale": "SAAD ADMR PORTE DE LA DOMBES",
+    "numero voie": "70",
+    "type_voie": "R",
+    "libelle_voie": "GOMBETTE",
+    "bp": "",
+    "cp": "1330",
+    "VILLE": "AMBERIEUX EN DOMBES    ",
+    "tel": "474300922",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "4.9026965785424",
+    "lat": "45.9978506454221"
+  }
+]

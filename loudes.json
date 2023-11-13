@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "430002287",
+    "raison_sociale": "PHARMACIE FORCE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DU PUY",
+    "bp": "",
+    "cp": "43320",
+    "VILLE": "LOUDES ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "35168556500019",
+    "lng": "3.7497359226983",
+    "lat": "45.0862332755012"
+  },
+  {
+    "finess": "430007567",
+    "raison_sociale": "MARPA \"LA MUSETTE\"",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE COLLANGES",
+    "bp": "",
+    "cp": "43320",
+    "VILLE": "LOUDES ",
+    "tel": "471080445",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26430396700022",
+    "lng": "3.74476552504927",
+    "lat": "45.0885780161456"
+  }
+]

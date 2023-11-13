@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "420009995",
+    "raison_sociale": "PHARMACIE TULOUP",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DU PIN BOUCHAIN",
+    "bp": "",
+    "cp": "42780",
+    "VILLE": "VIOLAY ",
+    "tel": "474639513",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44386493900030",
+    "lng": "4.35724070968527",
+    "lat": "45.8560730372608"
+  },
+  {
+    "finess": "420787681",
+    "raison_sociale": "EHPAD LES JACINTHES",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU 8 MAI",
+    "bp": "",
+    "cp": "42780",
+    "VILLE": "VIOLAY ",
+    "tel": "474639595",
+    "telecopie": "474639753",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26421022000028",
+    "lng": "4.35866013184705",
+    "lat": "45.8532595379288"
+  }
+]

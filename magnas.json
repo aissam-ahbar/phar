@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "320784341",
+    "raison_sociale": "ITEP CENTRE DU SARTHE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LE SARTHE",
+    "cp": "32380",
+    "VILLE": "MAGNAS ",
+    "tel": "562062613",
+    "telecopie": "",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "32908544300011",
+    "lng": "0.724608259509518",
+    "lat": "43.8895366016992"
+  },
+  {
+    "finess": "320785546",
+    "raison_sociale": "M.E.C.S. CENTRE DU SARTHE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LE SARTHE",
+    "cp": "32380",
+    "VILLE": "MAGNAS ",
+    "tel": "562062613",
+    "telecopie": "",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "32908544300011",
+    "lng": "0.724608259509518",
+    "lat": "43.8895366016992"
+  }
+]

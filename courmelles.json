@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "20006441",
+    "raison_sociale": "UNITE DIALYSE DE COURMELLES",
+    "numero voie": "58",
+    "type_voie": "PL",
+    "libelle_voie": "ST GEORGES",
+    "bp": "",
+    "cp": "2200",
+    "VILLE": "COURMELLES ",
+    "tel": "362288000",
+    "telecopie": "320966870",
+    "categorie etablissement": "146",
+    "libelle categorie": "Structure d'Alternative à la dialyse en centre",
+    "siret": "77562471100203",
+    "lng": "3.31276303610138",
+    "lat": "49.3449488660844"
+  },
+  {
+    "finess": "20018453",
+    "raison_sociale": "SANTELYS DIALYSE À DOMICILE CH SOISSON",
+    "numero voie": "58",
+    "type_voie": "PL",
+    "libelle_voie": "SAINT GEORGES",
+    "bp": "",
+    "cp": "2200",
+    "VILLE": "COURMELLES ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "146",
+    "libelle categorie": "Structure d'Alternative à la dialyse en centre",
+    "siret": "",
+    "lng": "3.31276303610138",
+    "lat": "49.3449488660844"
+  }
+]

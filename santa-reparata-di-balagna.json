@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "2B0006647",
+    "raison_sociale": "CMPP BALAGNE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "20220",
+    "VILLE": "SANTA REPARATA DI BALAGNA   ",
+    "tel": "495454073",
+    "telecopie": "",
+    "categorie etablissement": "189",
+    "libelle categorie": "Centre Médico-Psycho-Pédagogique (C.M.P.P.)",
+    "siret": "",
+    "lng": "8.92812450490071",
+    "lat": "42.6062179271099"
+  },
+  {
+    "finess": "2B0006654",
+    "raison_sociale": "CAMSP BALAGNE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "20220",
+    "VILLE": "SANTA REPARATA DI BALAGNA   ",
+    "tel": "495454073",
+    "telecopie": "",
+    "categorie etablissement": "190",
+    "libelle categorie": "Centre Action Médico-Sociale Précoce (C.A.M.S.P.)",
+    "siret": "",
+    "lng": "8.92812450490071",
+    "lat": "42.6062179271099"
+  }
+]

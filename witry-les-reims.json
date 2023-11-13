@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "510022494",
+    "raison_sociale": "SELARL PHARMACIE DE LA PAIX",
+    "numero voie": "2",
+    "type_voie": "PL",
+    "libelle_voie": "GAMBETTA",
+    "bp": "",
+    "cp": "51420",
+    "VILLE": "WITRY LES REIMS    ",
+    "tel": "326971177",
+    "telecopie": "326970274",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83406385100010",
+    "lng": "4.12023809642722",
+    "lat": "49.2910708380848"
+  },
+  {
+    "finess": "510027584",
+    "raison_sociale": "ADMR WITRY - BAZANCOURT",
+    "numero voie": "1",
+    "type_voie": "AV",
+    "libelle_voie": "DES NELMONTS",
+    "bp": "",
+    "cp": "51420",
+    "VILLE": "WITRY LES REIMS    ",
+    "tel": "326077636",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "30287801200038",
+    "lng": "4.11063602184631",
+    "lat": "49.2874312761113"
+  }
+]

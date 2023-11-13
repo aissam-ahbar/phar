@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "380008821",
+    "raison_sociale": "SELARL PHARMACIE DE L'EAU",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "GAMBETTA",
+    "bp": "",
+    "cp": "38680",
+    "VILLE": "PONT EN ROYANS    ",
+    "tel": "476360085",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52507277300027",
+    "lng": "5.33853141907824",
+    "lat": "45.0632084226601"
+  },
+  {
+    "finess": "380022145",
+    "raison_sociale": "MAISON DE SANTE DE PONT EN ROYANS",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU 19 MARS 1962",
+    "bp": "",
+    "cp": "38680",
+    "VILLE": "PONT EN ROYANS    ",
+    "tel": "769404038",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "5.33927687405576",
+    "lat": "45.0634666081661"
+  },
+  {
+    "finess": "380803593",
+    "raison_sociale": "PUV FOYER ROSE ACHARD",
+    "numero voie": "",
+    "type_voie": "GR",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "38680",
+    "VILLE": "PONT EN ROYANS    ",
+    "tel": "476481515",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77944903200142",
+    "lng": "5.34415240294372",
+    "lat": "45.0611869068283"
+  }
+]

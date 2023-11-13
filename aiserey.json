@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "210002986",
+    "raison_sociale": "PHARMACIE DES TILLEULS",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE L EGLISE",
+    "bp": "",
+    "cp": "21110",
+    "VILLE": "AISEREY ",
+    "tel": "380297314",
+    "telecopie": "380297976",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75031131800018",
+    "lng": "5.16142060996241",
+    "lat": "47.1723263280389"
+  },
+  {
+    "finess": "210986923",
+    "raison_sociale": "EHPAD LE HOME DE L'OUCHEROTTE",
+    "numero voie": "24",
+    "type_voie": "RTE",
+    "libelle_voie": "DE DIJON",
+    "bp": "",
+    "cp": "21110",
+    "VILLE": "AISEREY ",
+    "tel": "380297721",
+    "telecopie": "380297728",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "34117411800776",
+    "lng": "5.15865260004167",
+    "lat": "47.1804016011869"
+  }
+]

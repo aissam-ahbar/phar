@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "170011480",
+    "raison_sociale": "PHARMACIE L'HOUMEAU",
+    "numero voie": "12",
+    "type_voie": "PL",
+    "libelle_voie": "du 14 Juillet",
+    "bp": "",
+    "cp": "17137",
+    "VILLE": "L HOUMEAU",
+    "tel": "546509682",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81777315300025",
+    "lng": "-1.18774502300112",
+    "lat": "46.1932000060121"
+  },
+  {
+    "finess": "170802185",
+    "raison_sociale": "EHPAD - RESIDENCE ROSE DES VENTS",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "17137",
+    "VILLE": "L HOUMEAU",
+    "tel": "546509392",
+    "telecopie": "546508005",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "47748151900015",
+    "lng": "-1.18627504067248",
+    "lat": "46.1952209062346"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "240009985",
+    "raison_sociale": "PHARMACIE DES 3 VALLEES",
+    "numero voie": "154",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA ROQUE",
+    "bp": "",
+    "cp": "24100",
+    "VILLE": "CREYSSE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "32200772500029",
+    "lng": "0.532040794659291",
+    "lat": "44.8494541679334"
+  },
+  {
+    "finess": "240016824",
+    "raison_sociale": "SOS OXYGENE GRAND PERIGORD",
+    "numero voie": "",
+    "type_voie": "ZONE",
+    "libelle_voie": "D'ACTIVITE DE CABLANC",
+    "bp": "",
+    "cp": "24100",
+    "VILLE": "CREYSSE ",
+    "tel": "553275726",
+    "telecopie": "524691283",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "82133544500010",
+    "lng": "0.529632297753364",
+    "lat": "44.854463832475"
+  },
+  {
+    "finess": "240017244",
+    "raison_sociale": "MSP BERGERAC EST",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA ROQUE",
+    "bp": "",
+    "cp": "24100",
+    "VILLE": "CREYSSE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "85176315100012",
+    "lng": "0.547869010239126",
+    "lat": "44.8520353722192"
+  }
+]

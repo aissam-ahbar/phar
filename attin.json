@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "620024018",
+    "raison_sociale": "CAMSP DU MONTREUILLOIS",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE MONTCHAMBAIS",
+    "bp": "",
+    "cp": "62170",
+    "VILLE": "ATTIN ",
+    "tel": "321814140",
+    "telecopie": "",
+    "categorie etablissement": "190",
+    "libelle categorie": "Centre Action Médico-Sociale Précoce (C.A.M.S.P.)",
+    "siret": "30157138600285",
+    "lng": "1.73753250203791",
+    "lat": "50.4884393896867"
+  },
+  {
+    "finess": "620036178",
+    "raison_sociale": "ANTENNE SESSAD DE BERCK",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "MONTCHAMBAS",
+    "bp": "",
+    "cp": "62170",
+    "VILLE": "ATTIN ",
+    "tel": "321814140",
+    "telecopie": "",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "",
+    "lng": "1.73753250203791",
+    "lat": "50.4884393896867"
+  }
+]

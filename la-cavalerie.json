@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "120001870",
+    "raison_sociale": "PHARMACIE DU LARZAC",
+    "numero voie": "2",
+    "type_voie": "AV",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "12230",
+    "VILLE": "LA CAVALERIE",
+    "tel": "565627172",
+    "telecopie": "565627129",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75219886100011",
+    "lng": "3.1535088260654",
+    "lat": "44.0094939794244"
+  },
+  {
+    "finess": "120009014",
+    "raison_sociale": "MSP LARZAC ET VALLEES",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "12230",
+    "VILLE": "LA CAVALERIE",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "91189589400010",
+    "lng": "3.15851745135788",
+    "lat": "44.0088442390465"
+  }
+]

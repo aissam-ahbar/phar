@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "150002095",
+    "raison_sociale": "PHARMACIE DE SAINT PAUL",
+    "numero voie": "8",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "15250",
+    "VILLE": "ST PAUL DES LANDES   ",
+    "tel": "471463245",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52115617400018",
+    "lng": "2.31549867738403",
+    "lat": "44.9424592307849"
+  },
+  {
+    "finess": "150003556",
+    "raison_sociale": "MAISON DE SANTE JEAN-PAUL ROQUETANIERE",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "MOINAC",
+    "bp": "",
+    "cp": "15250",
+    "VILLE": "ST PAUL DES LANDES   ",
+    "tel": "471630410",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "85006713300015",
+    "lng": "2.31708484592208",
+    "lat": "44.9433828844462"
+  }
+]

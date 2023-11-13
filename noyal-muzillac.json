@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "560019242",
+    "raison_sociale": "PHARMACIE DE NOYAL-MUZILLAC",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "56190",
+    "VILLE": "NOYAL MUZILLAC",
+    "tel": "297414677",
+    "telecopie": "297416580",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "87896498000014",
+    "lng": "-2.45755060354112",
+    "lat": "47.591881348783"
+  },
+  {
+    "finess": "560028219",
+    "raison_sociale": "SAAD ADMR DU TREVELO NOYAL MUZILLAC",
+    "numero voie": "4",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "56190",
+    "VILLE": "NOYAL MUZILLAC",
+    "tel": "297456639",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "33934942500027",
+    "lng": "-2.45750564480417",
+    "lat": "47.5918590927942"
+  }
+]

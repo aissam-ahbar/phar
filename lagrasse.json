@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "110005030",
+    "raison_sociale": "CADA FAOL LAGRASSE",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DU QUAI",
+    "bp": "",
+    "cp": "11220",
+    "VILLE": "LAGRASSE ",
+    "tel": "621312176",
+    "telecopie": "",
+    "categorie etablissement": "443",
+    "libelle categorie": "Centre Accueil Demandeurs Asile (C.A.D.A.)",
+    "siret": "77555566700168",
+    "lng": "2.61895725352292",
+    "lat": "43.0908255005448"
+  },
+  {
+    "finess": "110790516",
+    "raison_sociale": "PHARMACIE DE L'ORBIEU",
+    "numero voie": "25",
+    "type_voie": "BD",
+    "libelle_voie": "DE LA PROMENADE",
+    "bp": "",
+    "cp": "11220",
+    "VILLE": "LAGRASSE ",
+    "tel": "468431015",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51775224200027",
+    "lng": "2.62102740429923",
+    "lat": "43.0910387705273"
+  }
+]

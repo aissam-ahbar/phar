@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "310035068",
+    "raison_sociale": "MSP DES COTEAUX BELLEVUE",
+    "numero voie": "47",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CASTELMAUROU",
+    "bp": "",
+    "cp": "31140",
+    "VILLE": "ST LOUP CAMMAS    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "95177283900019",
+    "lng": "1.48966260572079",
+    "lat": "43.6969549328646"
+  },
+  {
+    "finess": "310780705",
+    "raison_sociale": "POLE RIVES GAR. ITEP ENFTS/CHARTA",
+    "numero voie": "87",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LAUNAGUET",
+    "bp": "",
+    "cp": "31140",
+    "VILLE": "ST LOUP CAMMAS    ",
+    "tel": "534272300",
+    "telecopie": "534272305",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "77558121800135",
+    "lng": "1.4696374695666",
+    "lat": "43.6936493815959"
+  },
+  {
+    "finess": "310781158",
+    "raison_sociale": "CL MARIGNY ST LOUP GAMMAS",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU TREIL",
+    "bp": "",
+    "cp": "31140",
+    "VILLE": "ST LOUP CAMMAS    ",
+    "tel": "562229177",
+    "telecopie": "561350282",
+    "categorie etablissement": "161",
+    "libelle categorie": "Maison de Santé pour Maladies Mentales",
+    "siret": "",
+    "lng": "1.47960655526955",
+    "lat": "43.6955981096691"
+  }
+]

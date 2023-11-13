@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "330044215",
+    "raison_sociale": "PHARMACIE DE BOURG",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE LA CROIX BLANCHE",
+    "bp": "BOURG-SUR-GIRONDE",
+    "cp": "33710",
+    "VILLE": "BOURG SUR GIRONDE    ",
+    "tel": "557684154",
+    "telecopie": "557684154",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48997215800021",
+    "lng": "-0.560782273047326",
+    "lat": "45.0423491584775"
+  },
+  {
+    "finess": "330064791",
+    "raison_sociale": "MSP DE BOURG SUR GIRONDE",
+    "numero voie": "2",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "33710",
+    "VILLE": "BOURG SUR GIRONDE    ",
+    "tel": "681404537",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "91004929500017",
+    "lng": "-0.560024933807419",
+    "lat": "45.0394180203059"
+  },
+  {
+    "finess": "330782517",
+    "raison_sociale": "EHPAD LES TERRASSES DE BELLEROQUE",
+    "numero voie": "3",
+    "type_voie": "",
+    "libelle_voie": "BELLEROQUE",
+    "bp": "",
+    "cp": "33710",
+    "VILLE": "BOURG SUR GIRONDE    ",
+    "tel": "557941502",
+    "telecopie": "557941509",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26330561700023",
+    "lng": "-0.559690287791306",
+    "lat": "45.0390934404963"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "110003605",
+    "raison_sociale": "PHARMACIE GARCIA",
+    "numero voie": "8",
+    "type_voie": "LOT",
+    "libelle_voie": "TERRET D AUGUSTA",
+    "bp": "",
+    "cp": "11490",
+    "VILLE": "PORTEL DES CORBIERES    ",
+    "tel": "468483307",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "42370625800013",
+    "lng": "2.92187026250619",
+    "lat": "43.0587641832635"
+  },
+  {
+    "finess": "110009578",
+    "raison_sociale": "LE CLOS DES OUBIELS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "11490",
+    "VILLE": "PORTEL DES CORBIERES    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "",
+    "lng": "2.92179435271537",
+    "lat": "43.0559400440579"
+  }
+]

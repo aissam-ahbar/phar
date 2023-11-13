@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "590010237",
+    "raison_sociale": "PHARMACIE AGATHE DELAHAYE",
+    "numero voie": "27",
+    "type_voie": "R",
+    "libelle_voie": "de Verdun",
+    "bp": "",
+    "cp": "59249",
+    "VILLE": "AUBERS ",
+    "tel": "320502709",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81830731600013",
+    "lng": "2.82804584090068",
+    "lat": "50.5944487644009"
+  },
+  {
+    "finess": "590068508",
+    "raison_sociale": "MSP D'AUBERS",
+    "numero voie": "29",
+    "type_voie": "R",
+    "libelle_voie": "DE VERDUN",
+    "bp": "",
+    "cp": "59249",
+    "VILLE": "AUBERS ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "91232985100014",
+    "lng": "2.82882793682675",
+    "lat": "50.5945754933252"
+  },
+  {
+    "finess": "590069944",
+    "raison_sociale": "FAE GAP AUBERS",
+    "numero voie": "77",
+    "type_voie": "R",
+    "libelle_voie": "DE LEVAL",
+    "bp": "",
+    "cp": "59249",
+    "VILLE": "AUBERS ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "241",
+    "libelle categorie": "Foyer d'Action Educative (F.A.E.)",
+    "siret": "",
+    "lng": "2.82638595178846",
+    "lat": "50.6031268311537"
+  }
+]

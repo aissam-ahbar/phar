@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "390001394",
+    "raison_sociale": "SERV. REPAS DOMICILE",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "JEAN MOULIN",
+    "bp": "",
+    "cp": "39570",
+    "VILLE": "MACORNAY ",
+    "tel": "384470079",
+    "telecopie": "384439872",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26390306400016",
+    "lng": "5.54073159119877",
+    "lat": "46.6441880174093"
+  },
+  {
+    "finess": "390003291",
+    "raison_sociale": "PHARMACIE DE LA SORNE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU JURA",
+    "bp": "",
+    "cp": "39570",
+    "VILLE": "MACORNAY ",
+    "tel": "384473832",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53257682400017",
+    "lng": "5.54047507290104",
+    "lat": "46.6467324142747"
+  }
+]

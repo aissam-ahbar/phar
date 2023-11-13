@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "120001854",
+    "raison_sociale": "PHARMACIE DE CASSAGNES",
+    "numero voie": "2",
+    "type_voie": "AV",
+    "libelle_voie": "DE LODEVE",
+    "bp": "",
+    "cp": "12120",
+    "VILLE": "CASSAGNES BEGONHES",
+    "tel": "565467220",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38474642600012",
+    "lng": "2.53152217265779",
+    "lat": "44.1697591429336"
+  },
+  {
+    "finess": "120004973",
+    "raison_sociale": "SAAD AL ADMR CASSAGNES AURIAC",
+    "numero voie": "22",
+    "type_voie": "R",
+    "libelle_voie": "DE LODEVE",
+    "bp": "",
+    "cp": "12120",
+    "VILLE": "CASSAGNES BEGONHES",
+    "tel": "565772222",
+    "telecopie": "565772220",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "2.53022504397113",
+    "lat": "44.1679831189165"
+  }
+]

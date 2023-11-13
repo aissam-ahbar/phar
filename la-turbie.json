@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "60010261",
+    "raison_sociale": "SELARL PHARMACIE DE LA TURBIE",
+    "numero voie": "6",
+    "type_voie": "AV",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "6320",
+    "VILLE": "LA TURBIE",
+    "tel": "493411650",
+    "telecopie": "493412837",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49408318100011",
+    "lng": "7.40037942940682",
+    "lat": "43.7456942617816"
+  },
+  {
+    "finess": "60791027",
+    "raison_sociale": "SSIAD DES TROIS CORNICHES",
+    "numero voie": "2",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA VICTOIRE",
+    "bp": "",
+    "cp": "6320",
+    "VILLE": "LA TURBIE",
+    "tel": "493223711",
+    "telecopie": "",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "89753099400135",
+    "lng": "7.39877860087076",
+    "lat": "43.7453921820042"
+  }
+]

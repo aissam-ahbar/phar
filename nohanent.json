@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "630007235",
+    "raison_sociale": "PHARMACIE DES LAVANDIERES",
+    "numero voie": "3",
+    "type_voie": "RTE",
+    "libelle_voie": "DE DURTOL",
+    "bp": "",
+    "cp": "63830",
+    "VILLE": "NOHANENT ",
+    "tel": "473605134",
+    "telecopie": "473600981",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88297280500015",
+    "lng": "3.05520697904042",
+    "lat": "45.808485528839"
+  },
+  {
+    "finess": "630788867",
+    "raison_sociale": "SCE AIDE MENAG DOM PERS AGEES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "63830",
+    "VILLE": "NOHANENT ",
+    "tel": "473628021",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26630277700021",
+    "lng": "3.05482071003796",
+    "lat": "45.8085046273493"
+  }
+]

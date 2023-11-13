@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "420006165",
+    "raison_sociale": "PHARMACIE GIRAUD",
+    "numero voie": "140",
+    "type_voie": "R",
+    "libelle_voie": "ST PIERRE",
+    "bp": "",
+    "cp": "42810",
+    "VILLE": "ROZIER EN DONZY    ",
+    "tel": "477280608",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34116735100020",
+    "lng": "4.27782866863316",
+    "lat": "45.796781551316"
+  },
+  {
+    "finess": "420793499",
+    "raison_sociale": "MAPA LES PETITES BRUYERES",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "LA PETITE BRUYERE",
+    "bp": "",
+    "cp": "42810",
+    "VILLE": "ROZIER EN DONZY    ",
+    "tel": "477280868",
+    "telecopie": "477280868",
+    "categorie etablissement": "502",
+    "libelle categorie": "EHPA ne percevant pas des crédits d'assurance maladie",
+    "siret": "77632947600019",
+    "lng": "4.2768186370108",
+    "lat": "45.8035493419416"
+  }
+]

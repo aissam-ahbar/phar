@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "110004710",
+    "raison_sociale": "SPASAD PIEGE LAURAGAIS MALEPERE",
+    "numero voie": "42",
+    "type_voie": "R",
+    "libelle_voie": "DU BARRY",
+    "bp": "",
+    "cp": "11150",
+    "VILLE": "VILLASAVARY ",
+    "tel": "468766940",
+    "telecopie": "468766941",
+    "categorie etablissement": "209",
+    "libelle categorie": "Service Polyvalent Aide et Soins A Domicile (S.P.A.S.A.D.)",
+    "siret": "20001854700048",
+    "lng": "2.03981279239429",
+    "lat": "43.219840540562"
+  },
+  {
+    "finess": "110791258",
+    "raison_sociale": "PHARMACIE DU VILLA",
+    "numero voie": "89",
+    "type_voie": "R",
+    "libelle_voie": "DU BARRY",
+    "bp": "LD RD 623",
+    "cp": "11150",
+    "VILLE": "VILLASAVARY ",
+    "tel": "468247827",
+    "telecopie": "468247805",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "85215703100018",
+    "lng": "2.04301273472231",
+    "lat": "43.2166862576253"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "700001092",
+    "raison_sociale": "PHARMACIE COMBES",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "Sadi Carnot",
+    "bp": "",
+    "cp": "70160",
+    "VILLE": "FAVERNEY ",
+    "tel": "384913422",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "41469076800026",
+    "lng": "6.10049811962113",
+    "lat": "47.7661444131357"
+  },
+  {
+    "finess": "700780604",
+    "raison_sociale": "CENTRE SOINS INFIRMIERS FAVERNEY",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "BOSSUET",
+    "bp": "",
+    "cp": "70160",
+    "VILLE": "FAVERNEY ",
+    "tel": "384913044",
+    "telecopie": "384914299",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "31107948700022",
+    "lng": "6.10616813817936",
+    "lat": "47.767587491575"
+  }
+]

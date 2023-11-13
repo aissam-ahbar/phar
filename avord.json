@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "180001455",
+    "raison_sociale": "SELAS PHARMACIE DE LA SEPTAINE",
+    "numero voie": "6",
+    "type_voie": "PL",
+    "libelle_voie": "DU DR. THEODORE TILLET",
+    "bp": "",
+    "cp": "18520",
+    "VILLE": "AVORD ",
+    "tel": "248691328",
+    "telecopie": "248691819",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "33414789900028",
+    "lng": "2.65216568260737",
+    "lat": "47.0329581883888"
+  },
+  {
+    "finess": "180003741",
+    "raison_sociale": "CONSULT.PROTECTION INFANTILE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "ST EXUPERY",
+    "bp": "",
+    "cp": "18520",
+    "VILLE": "AVORD ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "230",
+    "libelle categorie": "Etablissement Consultation Protection Infantile",
+    "siret": "22180001400534",
+    "lng": "2.64794265555483",
+    "lat": "47.0357733539749"
+  },
+  {
+    "finess": "180009193",
+    "raison_sociale": "MSP DE LA SEPTAINE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DESIRE DESCHAMPS",
+    "bp": "",
+    "cp": "18520",
+    "VILLE": "AVORD ",
+    "tel": "248691186",
+    "telecopie": "248698078",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "53115591900016",
+    "lng": "2.65158174267485",
+    "lat": "47.0318238024475"
+  }
+]

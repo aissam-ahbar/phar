@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "100002062",
+    "raison_sociale": "PHARMACIE PALKO ET BENNETON-MARTINEZ",
+    "numero voie": "6",
+    "type_voie": "PL",
+    "libelle_voie": "Saint-nicolas",
+    "bp": "",
+    "cp": "10130",
+    "VILLE": "ERVY LE CHATEL    ",
+    "tel": "325706436",
+    "telecopie": "325706436",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84244534800027",
+    "lng": "3.91195572419949",
+    "lat": "48.0410414051544"
+  },
+  {
+    "finess": "100002161",
+    "raison_sociale": "EHPAD LES HAUTS D'ARMANCE",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "SAINT PIERRE",
+    "bp": "",
+    "cp": "10130",
+    "VILLE": "ERVY LE CHATEL    ",
+    "tel": "325706522",
+    "telecopie": "325700811",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26100016000018",
+    "lng": "3.91117654523487",
+    "lat": "48.0404471728019"
+  },
+  {
+    "finess": "100010396",
+    "raison_sociale": "MECS LA CHÊNAIE AASEAA",
+    "numero voie": "16",
+    "type_voie": "R",
+    "libelle_voie": "DES CHÊNES",
+    "bp": "",
+    "cp": "10130",
+    "VILLE": "ERVY LE CHATEL    ",
+    "tel": "325451648",
+    "telecopie": "",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "78035009600027",
+    "lng": "3.91830033048478",
+    "lat": "48.0435794411853"
+  }
+]

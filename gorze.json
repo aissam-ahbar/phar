@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "570001867",
+    "raison_sociale": "USLD CMS DE GORZE",
+    "numero voie": "163",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MEUSE",
+    "bp": "",
+    "cp": "57680",
+    "VILLE": "GORZE ",
+    "tel": "387385300",
+    "telecopie": "387385333",
+    "categorie etablissement": "362",
+    "libelle categorie": "Etablissement de Soins Longue Durée",
+    "siret": "26570304100011",
+    "lng": "5.99578859818965",
+    "lat": "49.0542253492143"
+  },
+  {
+    "finess": "570024075",
+    "raison_sociale": "EHPAD DE GORZE",
+    "numero voie": "163",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MEUSE",
+    "bp": "",
+    "cp": "57680",
+    "VILLE": "GORZE ",
+    "tel": "387385300",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26570304100037",
+    "lng": "5.99578859818965",
+    "lat": "49.0542253492143"
+  }
+]

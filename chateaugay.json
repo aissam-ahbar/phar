@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "630003937",
+    "raison_sociale": "SARL PHARMACIE HERVAS",
+    "numero voie": "7",
+    "type_voie": "AV",
+    "libelle_voie": "DE MALAUZAT",
+    "bp": "",
+    "cp": "63119",
+    "VILLE": "CHATEAUGAY ",
+    "tel": "473872400",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "78978692800018",
+    "lng": "3.0852792845349",
+    "lat": "45.8500344175302"
+  },
+  {
+    "finess": "630012912",
+    "raison_sociale": "VIVISOL FRANCE CHATEAUGAY",
+    "numero voie": "16",
+    "type_voie": "R",
+    "libelle_voie": "DE L'ARTISANAT",
+    "bp": "",
+    "cp": "63119",
+    "VILLE": "CHATEAUGAY ",
+    "tel": "473275008",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "39875011700127",
+    "lng": "3.10687464615524",
+    "lat": "45.8459233169466"
+  },
+  {
+    "finess": "630780971",
+    "raison_sociale": "DIME UM NORD (IME EDOUARD SEGUIN)",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "DE L'ANCIEN COUVENT",
+    "bp": "",
+    "cp": "63119",
+    "VILLE": "CHATEAUGAY ",
+    "tel": "473243330",
+    "telecopie": "473240062",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "53504905000425",
+    "lng": "3.10485840699077",
+    "lat": "45.8521656192322"
+  }
+]

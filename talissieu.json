@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "10788040",
+    "raison_sociale": "EHPAD RESIDENCE AMEYZIEU TALISSIEU",
+    "numero voie": "475",
+    "type_voie": "RTE",
+    "libelle_voie": "VALROMEY SAVOIE",
+    "bp": "AMEYZIEU",
+    "cp": "1510",
+    "VILLE": "TALISSIEU ",
+    "tel": "479423939",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "",
+    "lng": "5.7083809473965",
+    "lat": "45.8716703730391"
+  },
+  {
+    "finess": "10788388",
+    "raison_sociale": "FAM SOUS LA ROCHE TALISSIEU",
+    "numero voie": "51",
+    "type_voie": "R",
+    "libelle_voie": "DE LA BIGANDERIE",
+    "bp": "AMEYZIEU",
+    "cp": "1510",
+    "VILLE": "TALISSIEU ",
+    "tel": "479874540",
+    "telecopie": "479873716",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "77554408300246",
+    "lng": "5.71124665242503",
+    "lat": "45.8711907815553"
+  }
+]

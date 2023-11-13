@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "610006504",
+    "raison_sociale": "EANM \"LES BRUYERES\" LA LANDE PATRY",
+    "numero voie": "30",
+    "type_voie": "R",
+    "libelle_voie": "DES COLOMBES",
+    "bp": "",
+    "cp": "61100",
+    "VILLE": "LA LANDE PATRY    ",
+    "tel": "233664747",
+    "telecopie": "",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "77562928000584",
+    "lng": "-0.584708168926469",
+    "lat": "48.7535719024536"
+  },
+  {
+    "finess": "610007981",
+    "raison_sociale": "EANM LES BOUTONS D'OR - LA LANDE PATRY",
+    "numero voie": "30",
+    "type_voie": "R",
+    "libelle_voie": "DES COLOMBES",
+    "bp": "",
+    "cp": "61100",
+    "VILLE": "LA LANDE PATRY    ",
+    "tel": "233143530",
+    "telecopie": "233654445",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "77562928000576",
+    "lng": "-0.584708168926469",
+    "lat": "48.7535719024536"
+  }
+]

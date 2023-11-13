@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590016622",
+    "raison_sociale": "SELARL PHARMACIE DE FLINES",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "MARCEAU TISON",
+    "bp": "",
+    "cp": "59158",
+    "VILLE": "FLINES LES MORTAGNE    ",
+    "tel": "327268844",
+    "telecopie": "327268928",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79367707100011",
+    "lng": "3.46318565539186",
+    "lat": "50.5016930490074"
+  },
+  {
+    "finess": "590808812",
+    "raison_sociale": "EHPAD LES HORTENSIAS",
+    "numero voie": "14",
+    "type_voie": "R",
+    "libelle_voie": "GEORGES FOURNIER",
+    "bp": "",
+    "cp": "59158",
+    "VILLE": "FLINES LES MORTAGNE    ",
+    "tel": "327268449",
+    "telecopie": "327268297",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "38212657100019",
+    "lng": "3.4650020127192",
+    "lat": "50.5042219971223"
+  }
+]

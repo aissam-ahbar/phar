@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "620009977",
+    "raison_sociale": "PHARMACIE PARENT",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DE SAILLY",
+    "bp": "",
+    "cp": "62112",
+    "VILLE": "CORBEHEM ",
+    "tel": "327980162",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "35053171100017",
+    "lng": "3.04985858559251",
+    "lat": "50.3354229384264"
+  },
+  {
+    "finess": "620106930",
+    "raison_sociale": "EHPAD LA  QUIÉTUDE",
+    "numero voie": "293",
+    "type_voie": "R",
+    "libelle_voie": "DE GOUY",
+    "bp": "",
+    "cp": "62112",
+    "VILLE": "CORBEHEM ",
+    "tel": "327888862",
+    "telecopie": "327920842",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "43997564000491",
+    "lng": "3.05457629637919",
+    "lat": "50.3318350833487"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "300005725",
+    "raison_sociale": "SELARL PHARMACIE DELSOL",
+    "numero voie": "11",
+    "type_voie": "PL",
+    "libelle_voie": "DU JEU DE BALLON",
+    "bp": "",
+    "cp": "30620",
+    "VILLE": "BERNIS ",
+    "tel": "466710845",
+    "telecopie": "466713020",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80274356700017",
+    "lng": "4.28752306453252",
+    "lat": "43.7646786931054"
+  },
+  {
+    "finess": "300780665",
+    "raison_sociale": "IME SAIRIGNE",
+    "numero voie": "16",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA VAUNAGE",
+    "bp": "BP 4",
+    "cp": "30620",
+    "VILLE": "BERNIS ",
+    "tel": "466711416",
+    "telecopie": "466711461",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "77567825300052",
+    "lng": "4.28760396298241",
+    "lat": "43.7684945652817"
+  },
+  {
+    "finess": "300785284",
+    "raison_sociale": "EHPAD RESIDENCE LES CAPITELLES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LES AIRES VIEILLES",
+    "bp": "",
+    "cp": "30620",
+    "VILLE": "BERNIS ",
+    "tel": "466717050",
+    "telecopie": "466710400",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "33958631500014",
+    "lng": "4.28687308235621",
+    "lat": "43.7636621936792"
+  }
+]

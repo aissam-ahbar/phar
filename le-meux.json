@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "600007371",
+    "raison_sociale": "PHARMACIE TERNACLE-HU",
+    "numero voie": "10",
+    "type_voie": "PL",
+    "libelle_voie": "DU CHATEAU",
+    "bp": "",
+    "cp": "60880",
+    "VILLE": "LE MEUX",
+    "tel": "344415905",
+    "telecopie": "344417242",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34909132200017",
+    "lng": "2.74386080612771",
+    "lat": "49.3659326995583"
+  },
+  {
+    "finess": "600017347",
+    "raison_sociale": "ITEP UGECAM LE MEUX",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "60880",
+    "VILLE": "LE MEUX",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "",
+    "lng": "2.74437471210942",
+    "lat": "49.366936932297"
+  },
+  {
+    "finess": "600106348",
+    "raison_sociale": "FH UNAPEI60 LE MEUX",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "PIERRE CARLUY",
+    "bp": "",
+    "cp": "60880",
+    "VILLE": "LE MEUX",
+    "tel": "344914675",
+    "telecopie": "344914677",
+    "categorie etablissement": "252",
+    "libelle categorie": "Foyer Hébergement Adultes Handicapés",
+    "siret": "77562913200173",
+    "lng": "2.74764536366261",
+    "lat": "49.3691091901465"
+  }
+]

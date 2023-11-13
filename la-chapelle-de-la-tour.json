@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "380023549",
+    "raison_sociale": "SAAD ADMR LA CHAPELLE DE LA TOUR",
+    "numero voie": "155",
+    "type_voie": "BD",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "38110",
+    "VILLE": "LA CHAPELLE DE LA TOUR  ",
+    "tel": "474972027",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "5.464647947077",
+    "lat": "45.5849854635985"
+  },
+  {
+    "finess": "380796268",
+    "raison_sociale": "SCE TRAV.FAMIL.CHAPEL.-LA-TOUR",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38110",
+    "VILLE": "LA CHAPELLE DE LA TOUR  ",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37843722200011",
+    "lng": "5.46511340367959",
+    "lat": "45.5850076910911"
+  },
+  {
+    "finess": "380796953",
+    "raison_sociale": "SERVICE D AIDES MENAGERES DE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38110",
+    "VILLE": "LA CHAPELLE DE LA TOUR  ",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37843733900013",
+    "lng": "5.46511340367959",
+    "lat": "45.5850076910911"
+  }
+]

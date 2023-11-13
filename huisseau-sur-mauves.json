@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "450006226",
+    "raison_sociale": "SARL DU BOIS DES MAUVES",
+    "numero voie": "65",
+    "type_voie": "R",
+    "libelle_voie": "DU BOIS DE DEURE",
+    "bp": "",
+    "cp": "45130",
+    "VILLE": "HUISSEAU SUR MAUVES    ",
+    "tel": "238807408",
+    "telecopie": "238621639",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52205641500014",
+    "lng": "1.70324353016563",
+    "lat": "47.8927621836205"
+  },
+  {
+    "finess": "450014568",
+    "raison_sociale": "EHPAD LE PARC DES MAUVES",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE TOURNE BRIDE",
+    "bp": "LE PRE DE L'ANE VERT",
+    "cp": "45130",
+    "VILLE": "HUISSEAU SUR MAUVES    ",
+    "tel": "238249696",
+    "telecopie": "238249697",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "88947105800145",
+    "lng": "1.71219985694119",
+    "lat": "47.8899912845891"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "350002358",
+    "raison_sociale": "EHPAD VILLECARTIER",
+    "numero voie": "9",
+    "type_voie": "AV",
+    "libelle_voie": "DE COMBOURG",
+    "bp": "",
+    "cp": "35560",
+    "VILLE": "BAZOUGES LA PEROUSE    ",
+    "tel": "299974420",
+    "telecopie": "299974750",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26350022500010",
+    "lng": "-1.57930612789975",
+    "lat": "48.4248221573362"
+  },
+  {
+    "finess": "350019121",
+    "raison_sociale": "PHARMACIE DE BAZOUGES",
+    "numero voie": "23",
+    "type_voie": "R",
+    "libelle_voie": "DE L EGLISE",
+    "bp": "",
+    "cp": "35560",
+    "VILLE": "BAZOUGES LA PEROUSE    ",
+    "tel": "299974116",
+    "telecopie": "299974803",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88004459900012",
+    "lng": "-1.57463679605478",
+    "lat": "48.4256666494653"
+  },
+  {
+    "finess": "350033650",
+    "raison_sociale": "RESIDENCE LE VILLAGE",
+    "numero voie": "9",
+    "type_voie": "AV",
+    "libelle_voie": "DE COMBOURG",
+    "bp": "",
+    "cp": "35560",
+    "VILLE": "BAZOUGES LA PEROUSE    ",
+    "tel": "299974420",
+    "telecopie": "299974696",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "",
+    "lng": "-1.57930612789975",
+    "lat": "48.4248221573362"
+  }
+]

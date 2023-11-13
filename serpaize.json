@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380795930",
+    "raison_sociale": "SCE TRAVAIL.FAMIL. SERPAIZE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38200",
+    "VILLE": "SERPAIZE ",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37860724600014",
+    "lng": "4.91774621696739",
+    "lat": "45.5588653753204"
+  },
+  {
+    "finess": "380796458",
+    "raison_sociale": "SERVICE D'AIDES MENAGERES DE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38200",
+    "VILLE": "SERPAIZE ",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37862403500010",
+    "lng": "4.91774621696739",
+    "lat": "45.5588653753204"
+  }
+]

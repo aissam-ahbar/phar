@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "260014311",
+    "raison_sociale": "PHARMACIE DE SAUZET",
+    "numero voie": "232",
+    "type_voie": "RTE",
+    "libelle_voie": "de la Coucourde",
+    "bp": "",
+    "cp": "26740",
+    "VILLE": "SAUZET ",
+    "tel": "475467111",
+    "telecopie": "475461645",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52018593500027",
+    "lng": "4.81713504729117",
+    "lat": "44.6045387347022"
+  },
+  {
+    "finess": "460006208",
+    "raison_sociale": "PROPHARMACIE MR AGUSTIN CASES GARRIDO",
+    "numero voie": "192",
+    "type_voie": "GR",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "46140",
+    "VILLE": "SAUZET ",
+    "tel": "565369184",
+    "telecopie": "565369608",
+    "categorie etablissement": "627",
+    "libelle categorie": "Propharmacie",
+    "siret": "47924507800015",
+    "lng": "1.25449936725359",
+    "lat": "44.417336717473"
+  }
+]

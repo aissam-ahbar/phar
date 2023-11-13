@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "310010061",
+    "raison_sociale": "PHARMACIE BESOMBES",
+    "numero voie": "88",
+    "type_voie": "RTE",
+    "libelle_voie": "DE TOULOUSE",
+    "bp": "LIEU DIT LA HILLE",
+    "cp": "31410",
+    "VILLE": "NOE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38883975500013",
+    "lng": "1.27289371169482",
+    "lat": "43.3522097609841"
+  },
+  {
+    "finess": "310786991",
+    "raison_sociale": "SAAD CCAS DE NOE",
+    "numero voie": "1",
+    "type_voie": "ESP",
+    "libelle_voie": "ABOLIN",
+    "bp": "",
+    "cp": "31410",
+    "VILLE": "NOE ",
+    "tel": "561872115",
+    "telecopie": "561875197",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26310514000028",
+    "lng": "1.27518625800295",
+    "lat": "43.3549601851515"
+  }
+]

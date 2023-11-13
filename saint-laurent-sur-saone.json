@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "10005551",
+    "raison_sociale": "PHARMACIE CAO-BROWN",
+    "numero voie": "190",
+    "type_voie": "R",
+    "libelle_voie": "du Chevalier Burtin",
+    "bp": "",
+    "cp": "1750",
+    "VILLE": "ST LAURENT SUR SAONE   ",
+    "tel": "385380161",
+    "telecopie": "957200661",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82068820800017",
+    "lng": "4.84293492996957",
+    "lat": "46.3081919338301"
+  },
+  {
+    "finess": "10786135",
+    "raison_sociale": "EHPAD \"LA MAISON BOUCHACOURT\"",
+    "numero voie": "95",
+    "type_voie": "R",
+    "libelle_voie": "CHEVALIER BURTIN",
+    "bp": "",
+    "cp": "1750",
+    "VILLE": "ST LAURENT SUR SAONE   ",
+    "tel": "385390990",
+    "telecopie": "385386624",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26010022700024",
+    "lng": "4.84179143535574",
+    "lat": "46.3083545416217"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "60786456",
+    "raison_sociale": "EHPAD LA FONTOUNA",
+    "numero voie": "187",
+    "type_voie": "AV",
+    "libelle_voie": "DU COMTE SAÏSSI",
+    "bp": "",
+    "cp": "6390",
+    "VILLE": "BENDEJUN ",
+    "tel": "493917200",
+    "telecopie": "493917229",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20003812300010",
+    "lng": "7.2939296556213",
+    "lat": "43.8346291837393"
+  },
+  {
+    "finess": "60791985",
+    "raison_sociale": "SSIAD DE BENDEJUN",
+    "numero voie": "",
+    "type_voie": "QUA",
+    "libelle_voie": "CAPELLA",
+    "bp": "",
+    "cp": "6390",
+    "VILLE": "BENDEJUN ",
+    "tel": "493917200",
+    "telecopie": "493917229",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "",
+    "lng": "7.29446998811929",
+    "lat": "43.8343807808367"
+  }
+]

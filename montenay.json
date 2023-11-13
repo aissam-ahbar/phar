@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "530002419",
+    "raison_sociale": "EHPAD LES GLYCINES",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "ST MARTIN",
+    "bp": "",
+    "cp": "53500",
+    "VILLE": "MONTENAY ",
+    "tel": "243051778",
+    "telecopie": "243059727",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26530014500074",
+    "lng": "-0.894883870765328",
+    "lat": "48.2879398658326"
+  },
+  {
+    "finess": "530031293",
+    "raison_sociale": "PHARMACIE DES ORMEAUX",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DES ORMEAUX",
+    "bp": "",
+    "cp": "53500",
+    "VILLE": "MONTENAY ",
+    "tel": "243051154",
+    "telecopie": "243051154",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81205546500015",
+    "lng": "-0.893750629024489",
+    "lat": "48.2877655002832"
+  }
+]

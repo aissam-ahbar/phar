@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "660012642",
+    "raison_sociale": "MSP DE NEFIACH",
+    "numero voie": "2",
+    "type_voie": "PL",
+    "libelle_voie": "ANTONIN VAILS",
+    "bp": "",
+    "cp": "66170",
+    "VILLE": "NEFIACH ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "90457740000016",
+    "lng": "2.66627209070364",
+    "lat": "42.6941044617695"
+  },
+  {
+    "finess": "660780487",
+    "raison_sociale": "ITEP PEYREBRUNE",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DE MILLAS",
+    "bp": "",
+    "cp": "66170",
+    "VILLE": "NEFIACH ",
+    "tel": "468841540",
+    "telecopie": "468383290",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "77619095100264",
+    "lng": "2.6664091360788",
+    "lat": "42.694011382096"
+  }
+]

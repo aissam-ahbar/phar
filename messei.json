@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "610005282",
+    "raison_sociale": "SAD MESSEI ASS LOCALE ADMR EN BOCAGE",
+    "numero voie": "49",
+    "type_voie": "BD",
+    "libelle_voie": "DU GÉNÉRAL DE GAULLE",
+    "bp": "",
+    "cp": "61440",
+    "VILLE": "MESSEI ",
+    "tel": "233654512",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "78096657800020",
+    "lng": "-0.540398162203846",
+    "lat": "48.7114108477373"
+  },
+  {
+    "finess": "610786592",
+    "raison_sociale": "PHARMACIE DU BOCAGE",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "ALFRED RIEGLER",
+    "bp": "",
+    "cp": "61440",
+    "VILLE": "MESSEI ",
+    "tel": "233967189",
+    "telecopie": "971706648",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75076633900014",
+    "lng": "-0.537829870440085",
+    "lat": "48.7123586058667"
+  }
+]

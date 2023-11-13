@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "250012895",
+    "raison_sociale": "PHARMACIE FORSTER",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "25640",
+    "VILLE": "RIGNEY ",
+    "tel": "381861396",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50786989900017",
+    "lng": "6.17708764655493",
+    "lat": "47.3887230089439"
+  },
+  {
+    "finess": "250020302",
+    "raison_sociale": "MSP DE RIGNEY",
+    "numero voie": "40",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "25640",
+    "VILLE": "RIGNEY ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "82856949100016",
+    "lng": "6.17751703787451",
+    "lat": "47.3888274895808"
+  }
+]

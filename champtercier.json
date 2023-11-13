@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "40004012",
+    "raison_sociale": "DITEP LE PARC",
+    "numero voie": "178",
+    "type_voie": "R",
+    "libelle_voie": "PRINCIPALE",
+    "bp": "",
+    "cp": "4660",
+    "VILLE": "CHAMPTERCIER ",
+    "tel": "492313402",
+    "telecopie": "",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "31427167700085",
+    "lng": "6.16138206434915",
+    "lat": "44.0950444857797"
+  },
+  {
+    "finess": "40006173",
+    "raison_sociale": "CPH 04 COALLIA",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE CHANDOURENE",
+    "bp": "",
+    "cp": "4660",
+    "VILLE": "CHAMPTERCIER ",
+    "tel": "492356060",
+    "telecopie": "492356061",
+    "categorie etablissement": "442",
+    "libelle categorie": "Centre Provisoire Hébergement (C.P.H.)",
+    "siret": "77568030900611",
+    "lng": "6.16138206434915",
+    "lat": "44.0950444857797"
+  },
+  {
+    "finess": "40788234",
+    "raison_sociale": "EHPAD LES LAVANDINES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LA CLEDE",
+    "cp": "4660",
+    "VILLE": "CHAMPTERCIER ",
+    "tel": "492309120",
+    "telecopie": "492323687",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "40125156600600",
+    "lng": "6.15572794004643",
+    "lat": "44.0909046529646"
+  }
+]

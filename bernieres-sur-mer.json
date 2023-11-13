@@ -1,0 +1,19 @@
+[
+  {
+    "finess": "140009242",
+    "raison_sociale": "PHARMACIE LA CROIX DE BERNIERES",
+    "numero voie": "265",
+    "type_voie": "VOI",
+    "libelle_voie": "DU DEBARQUEMENT",
+    "bp": "",
+    "cp": "14990",
+    "VILLE": "BERNIERES SUR MER    ",
+    "tel": "231964523",
+    "telecopie": "231973418",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49018215100012",
+    "lng": "-0.418046836595577",
+    "lat": "49.3337720473057"
+  }
+]

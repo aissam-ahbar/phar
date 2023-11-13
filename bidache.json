@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "640008611",
+    "raison_sociale": "PHARMACIE DU PAYS DE BIDACHE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE BARDOS",
+    "bp": "",
+    "cp": "64520",
+    "VILLE": "BIDACHE ",
+    "tel": "559560013",
+    "telecopie": "559564930",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "89525756600011",
+    "lng": "-1.16211273849131",
+    "lat": "43.4837636351332"
+  },
+  {
+    "finess": "640791703",
+    "raison_sociale": "CONSULTATION DE PMI",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "64520",
+    "VILLE": "BIDACHE ",
+    "tel": "559560010",
+    "telecopie": "",
+    "categorie etablissement": "230",
+    "libelle categorie": "Etablissement Consultation Protection Infantile",
+    "siret": "",
+    "lng": "-1.14157827883222",
+    "lat": "43.4833838300553"
+  },
+  {
+    "finess": "640796165",
+    "raison_sociale": "RA VINCENT POCHELU",
+    "numero voie": "105",
+    "type_voie": "RTE",
+    "libelle_voie": "DE SAINT-PALAIS",
+    "bp": "",
+    "cp": "64520",
+    "VILLE": "BIDACHE ",
+    "tel": "559560301",
+    "telecopie": "559564163",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "31643209500016",
+    "lng": "-1.14378975382205",
+    "lat": "43.4808514459779"
+  }
+]

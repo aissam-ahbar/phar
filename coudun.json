@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "600007132",
+    "raison_sociale": "PHARMACIE DE L'ARONDE",
+    "numero voie": "377",
+    "type_voie": "R",
+    "libelle_voie": "Saint-Hilaire",
+    "bp": "",
+    "cp": "60150",
+    "VILLE": "COUDUN ",
+    "tel": "344834445",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83287802900012",
+    "lng": "2.81526801905837",
+    "lat": "49.4594260162146"
+  },
+  {
+    "finess": "600010714",
+    "raison_sociale": "LIEU DE VIE PIROUETTE COUDUN",
+    "numero voie": "440",
+    "type_voie": "R",
+    "libelle_voie": "DE VILLERS",
+    "bp": "",
+    "cp": "60150",
+    "VILLE": "COUDUN ",
+    "tel": "344902173",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "",
+    "lng": "2.81020841684869",
+    "lat": "49.4663235210216"
+  }
+]

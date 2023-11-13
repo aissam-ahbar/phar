@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "120785464",
+    "raison_sociale": "ESAT LES DOLMENS",
+    "numero voie": "855",
+    "type_voie": "R",
+    "libelle_voie": "DES CAUSSES",
+    "bp": "",
+    "cp": "12200",
+    "VILLE": "MARTIEL ",
+    "tel": "565294284",
+    "telecopie": "565294288",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77555638400219",
+    "lng": "1.92325696492662",
+    "lat": "44.3767691929027"
+  },
+  {
+    "finess": "120785480",
+    "raison_sociale": "EANM LES DOLMENS-MARTIEL",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE BOURG",
+    "bp": "",
+    "cp": "12200",
+    "VILLE": "MARTIEL ",
+    "tel": "565294284",
+    "telecopie": "565294288",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "77555638400268",
+    "lng": "1.92325696492662",
+    "lat": "44.3767691929027"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "70000112",
+    "raison_sociale": "CH LEOPOLD OLLIER",
+    "numero voie": "27",
+    "type_voie": "CHE",
+    "libelle_voie": "DU GANIVAY",
+    "bp": "",
+    "cp": "7140",
+    "VILLE": "CHAMBONAS ",
+    "tel": "475378000",
+    "telecopie": "475378001",
+    "categorie etablissement": "355",
+    "libelle categorie": "Centre Hospitalier (C.H.)",
+    "siret": "20008480400067",
+    "lng": "4.12873421133036",
+    "lat": "44.4169152434676"
+  },
+  {
+    "finess": "70784582",
+    "raison_sociale": "EHPAD DU CH LEOPOLD OLLIER",
+    "numero voie": "27",
+    "type_voie": "CHE",
+    "libelle_voie": "DU GANIVAY",
+    "bp": "",
+    "cp": "7140",
+    "VILLE": "CHAMBONAS ",
+    "tel": "475378000",
+    "telecopie": "475378001",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20008480400075",
+    "lng": "4.12873421133036",
+    "lat": "44.4169152434676"
+  }
+]

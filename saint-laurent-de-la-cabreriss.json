@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "110006087",
+    "raison_sociale": "MSP ST LAURENT DE LA CABRERISSE",
+    "numero voie": "57",
+    "type_voie": "AV",
+    "libelle_voie": "DE NARBONNE",
+    "bp": "",
+    "cp": "11220",
+    "VILLE": "ST LAURENT DE LA CABRERISS  ",
+    "tel": "468440185",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "80495126700017",
+    "lng": "2.70343735519791",
+    "lat": "43.0872920104796"
+  },
+  {
+    "finess": "110007838",
+    "raison_sociale": "CENTRE DE SANTE INTERCOMMUNAL CCRLCM",
+    "numero voie": "57",
+    "type_voie": "AV",
+    "libelle_voie": "DE NARBONNE",
+    "bp": "",
+    "cp": "11220",
+    "VILLE": "ST LAURENT DE LA CABRERISS  ",
+    "tel": "468440185",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "20003586300014",
+    "lng": "2.70343735519791",
+    "lat": "43.0872920104796"
+  },
+  {
+    "finess": "110791118",
+    "raison_sociale": "PHARMACIE DES CORBIERES",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DE NARBONNE",
+    "bp": "",
+    "cp": "11220",
+    "VILLE": "ST LAURENT DE LA CABRERISS  ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52156070600025",
+    "lng": "2.70351650382442",
+    "lat": "43.0871726056874"
+  }
+]

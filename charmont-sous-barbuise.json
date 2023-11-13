@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "100001965",
+    "raison_sociale": "SELARL PHARMACIE PHILIPPE",
+    "numero voie": "7",
+    "type_voie": "PL",
+    "libelle_voie": "COLAVERDEY",
+    "bp": "",
+    "cp": "10150",
+    "VILLE": "CHARMONT SOUS BARBUISE    ",
+    "tel": "325410267",
+    "telecopie": "325410491",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52526273900010",
+    "lng": "4.17158396183317",
+    "lat": "48.4078114269831"
+  },
+  {
+    "finess": "100011808",
+    "raison_sociale": "SAAD AGES ET VIE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "BEAUREGARD",
+    "bp": "",
+    "cp": "10150",
+    "VILLE": "CHARMONT SOUS BARBUISE    ",
+    "tel": "756029192",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "4.1722585919867",
+    "lat": "48.4092785579517"
+  },
+  {
+    "finess": "100012004",
+    "raison_sociale": "SAAD DE BARBUISE - ADMR",
+    "numero voie": "16",
+    "type_voie": "R",
+    "libelle_voie": "DU CHÂTEAU",
+    "bp": "",
+    "cp": "10150",
+    "VILLE": "CHARMONT SOUS BARBUISE    ",
+    "tel": "325805374",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "30371716900013",
+    "lng": "4.16976636318867",
+    "lat": "48.4107886588298"
+  }
+]

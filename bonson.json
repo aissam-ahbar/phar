@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "420003014",
+    "raison_sociale": "PHARMACIE DE LA GARE",
+    "numero voie": "18",
+    "type_voie": "R",
+    "libelle_voie": "SYLVAIN GIRERD",
+    "bp": "",
+    "cp": "42160",
+    "VILLE": "BONSON ",
+    "tel": "477551093",
+    "telecopie": "477365272",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45395961100022",
+    "lng": "4.22111536677258",
+    "lat": "45.5220658890093"
+  },
+  {
+    "finess": "420013120",
+    "raison_sociale": "LBM UNILIANS BIOGROUP BONSON",
+    "numero voie": "2",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "CENTRAL PARC",
+    "cp": "42160",
+    "VILLE": "BONSON ",
+    "tel": "477364020",
+    "telecopie": "",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "51348700900070",
+    "lng": "4.21555584618059",
+    "lat": "45.5229123957545"
+  }
+]

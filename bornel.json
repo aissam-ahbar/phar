@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "600002406",
+    "raison_sociale": "PHARMACIE SOCIRAT",
+    "numero voie": "48",
+    "type_voie": "R",
+    "libelle_voie": "PASTEUR",
+    "bp": "",
+    "cp": "60540",
+    "VILLE": "BORNEL ",
+    "tel": "344085033",
+    "telecopie": "344085033",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79168116600017",
+    "lng": "2.20616809237346",
+    "lat": "49.1971413839338"
+  },
+  {
+    "finess": "600014898",
+    "raison_sociale": "SAAD SARL A DOM' BORNEL",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "CARNOT",
+    "bp": "",
+    "cp": "60540",
+    "VILLE": "BORNEL ",
+    "tel": "344893368",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "50194920000098",
+    "lng": "2.20689936328959",
+    "lat": "49.1971390071224"
+  }
+]

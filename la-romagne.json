@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "490013919",
+    "raison_sociale": "RESIDENCE VERTE VALLEE",
+    "numero voie": "46",
+    "type_voie": "R",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "49740",
+    "VILLE": "LA ROMAGNE",
+    "tel": "241585019",
+    "telecopie": "241560381",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "20003163100050",
+    "lng": "-1.02082390272308",
+    "lat": "47.0604776119844"
+  },
+  {
+    "finess": "490537552",
+    "raison_sociale": "PHARMACIE LIMOUSIN-LUSSEAU",
+    "numero voie": "14",
+    "type_voie": "R",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "49740",
+    "VILLE": "LA ROMAGNE",
+    "tel": "241703272",
+    "telecopie": "241703272",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49083442100011",
+    "lng": "-1.01319526158893",
+    "lat": "47.0597730441324"
+  }
+]

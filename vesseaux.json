@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "70007091",
+    "raison_sociale": "LA VIGNE DE CHAMP LONG",
+    "numero voie": "222",
+    "type_voie": "CHE",
+    "libelle_voie": "CHAMP LONG",
+    "bp": "",
+    "cp": "7200",
+    "VILLE": "VESSEAUX ",
+    "tel": "475934009",
+    "telecopie": "475930128",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "",
+    "lng": "4.44525370182684",
+    "lat": "44.6512385636635"
+  },
+  {
+    "finess": "70008396",
+    "raison_sociale": "SAAD ABIDOM VESSEAUX",
+    "numero voie": "507",
+    "type_voie": "RTE",
+    "libelle_voie": "DU PEYROU",
+    "bp": "",
+    "cp": "7200",
+    "VILLE": "VESSEAUX ",
+    "tel": "988482493",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "84772789800029",
+    "lng": "4.44387220843176",
+    "lat": "44.6526072387517"
+  },
+  {
+    "finess": "70783576",
+    "raison_sociale": "EHPAD LE PRE DE LONG CHAMP",
+    "numero voie": "222",
+    "type_voie": "CHE",
+    "libelle_voie": "CHAMP LONG",
+    "bp": "",
+    "cp": "7200",
+    "VILLE": "VESSEAUX ",
+    "tel": "475934009",
+    "telecopie": "475930128",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "",
+    "lng": "4.44525370182684",
+    "lat": "44.6512385636635"
+  }
+]

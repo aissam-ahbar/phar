@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "290011089",
+    "raison_sociale": "PHARMACIE DE PLONEVEZ",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DES ANCIENS COMBATTANTS",
+    "bp": "",
+    "cp": "29530",
+    "VILLE": "PLONEVEZ DU FAOU    ",
+    "tel": "298869420",
+    "telecopie": "298868068",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81237186200010",
+    "lng": "-3.82546860310189",
+    "lat": "48.253140492609"
+  },
+  {
+    "finess": "290020510",
+    "raison_sociale": "EHPAD DU PAYS DARDOUP",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "DU STADE",
+    "bp": "",
+    "cp": "29530",
+    "VILLE": "PLONEVEZ DU FAOU    ",
+    "tel": "298869330",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26290303200023",
+    "lng": "-3.82748092820532",
+    "lat": "48.2514634069926"
+  }
+]

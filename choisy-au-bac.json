@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "600004717",
+    "raison_sociale": "PHARMACIE COSACIENNE",
+    "numero voie": "90",
+    "type_voie": "R",
+    "libelle_voie": "DE ROYAUMONT",
+    "bp": "",
+    "cp": "60750",
+    "VILLE": "CHOISY AU BAC    ",
+    "tel": "344401739",
+    "telecopie": "344852497",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88130791200017",
+    "lng": "2.88041244993369",
+    "lat": "49.4418322321799"
+  },
+  {
+    "finess": "600101596",
+    "raison_sociale": "M E C S  L ACACIA",
+    "numero voie": "250",
+    "type_voie": "R",
+    "libelle_voie": "DE ROYAUMONT",
+    "bp": "",
+    "cp": "60750",
+    "VILLE": "CHOISY AU BAC    ",
+    "tel": "344752515",
+    "telecopie": "344753823",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "77562815900011",
+    "lng": "2.88179507459493",
+    "lat": "49.4417814593632"
+  }
+]

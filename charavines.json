@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "380003954",
+    "raison_sociale": "GRANDE PHARMACIE DU LAC",
+    "numero voie": "65",
+    "type_voie": "R",
+    "libelle_voie": "des Bains",
+    "bp": "",
+    "cp": "38850",
+    "VILLE": "CHARAVINES ",
+    "tel": "476066032",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81429900400022",
+    "lng": "5.5142068473797",
+    "lat": "45.4333237307611"
+  },
+  {
+    "finess": "380796250",
+    "raison_sociale": "SCE TRAVAIL.FAMIL. CHARAVINES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38850",
+    "VILLE": "CHARAVINES ",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37843897200010",
+    "lng": "5.51622073597467",
+    "lat": "45.4289955975256"
+  },
+  {
+    "finess": "380796920",
+    "raison_sociale": "SCE AIDES MENAG. CHARAVINES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38850",
+    "VILLE": "CHARAVINES ",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37852465600014",
+    "lng": "5.51622073597467",
+    "lat": "45.4289955975256"
+  }
+]

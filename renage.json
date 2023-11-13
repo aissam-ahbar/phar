@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "380008854",
+    "raison_sociale": "SARL PHARMACIE DU CENTRE",
+    "numero voie": "890",
+    "type_voie": "R",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "38140",
+    "VILLE": "RENAGE ",
+    "tel": "476910219",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51359136200019",
+    "lng": "5.48369422922862",
+    "lat": "45.3330583306756"
+  },
+  {
+    "finess": "380008870",
+    "raison_sociale": "PHARMACIE DU PLAN",
+    "numero voie": "85",
+    "type_voie": "R",
+    "libelle_voie": "PAUL LANGEVIN",
+    "bp": "",
+    "cp": "38140",
+    "VILLE": "RENAGE ",
+    "tel": "476914549",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79913056200017",
+    "lng": "5.49380975806829",
+    "lat": "45.3420594322809"
+  },
+  {
+    "finess": "380026286",
+    "raison_sociale": "MAISON DE SANTE DE RENAGE",
+    "numero voie": "100",
+    "type_voie": "PL",
+    "libelle_voie": "CARDINALE",
+    "bp": "",
+    "cp": "38140",
+    "VILLE": "RENAGE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "94850058200010",
+    "lng": "5.48578727164642",
+    "lat": "45.3320767371199"
+  }
+]

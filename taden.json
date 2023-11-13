@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "220012652",
+    "raison_sociale": "PHARMACIE DE TADEN",
+    "numero voie": "",
+    "type_voie": "ZAC",
+    "libelle_voie": "DE DOMBRIAND",
+    "bp": "",
+    "cp": "22100",
+    "VILLE": "TADEN ",
+    "tel": "296851942",
+    "telecopie": "296879487",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44304669300026",
+    "lng": "-2.04364664447341",
+    "lat": "48.4765721849071"
+  },
+  {
+    "finess": "220023030",
+    "raison_sociale": "D.P.F. ACAP DINAN",
+    "numero voie": "3",
+    "type_voie": "BD",
+    "libelle_voie": "DU PETIT PARIS",
+    "bp": "B.P. 46329",
+    "cp": "22100",
+    "VILLE": "TADEN ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "344",
+    "libelle categorie": "Service délégué aux prestations familiales",
+    "siret": "",
+    "lng": "-2.05832728801726",
+    "lat": "48.466216575784"
+  }
+]

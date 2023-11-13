@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "20002861",
+    "raison_sociale": "SELARL PHARMACIE VAN INGHELANDT",
+    "numero voie": "28",
+    "type_voie": "R",
+    "libelle_voie": "DU GENERAL AUGEREAU",
+    "bp": "",
+    "cp": "2420",
+    "VILLE": "LE CATELET",
+    "tel": "323662177",
+    "telecopie": "323662177",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48994361300013",
+    "lng": "3.24496907710355",
+    "lat": "50.0023319657361"
+  },
+  {
+    "finess": "20005039",
+    "raison_sociale": "SSIAD SIVOM LE CATELET",
+    "numero voie": "14",
+    "type_voie": "R",
+    "libelle_voie": "DE QUINCAMPOIX",
+    "bp": "",
+    "cp": "2420",
+    "VILLE": "LE CATELET",
+    "tel": "323662654",
+    "telecopie": "323661371",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "24020005500020",
+    "lng": "3.242567126854",
+    "lat": "50.0015669797472"
+  },
+  {
+    "finess": "20013900",
+    "raison_sociale": "SAAD SIVOM LE CATELET",
+    "numero voie": "14",
+    "type_voie": "R",
+    "libelle_voie": "QUINCAMPOIX",
+    "bp": "",
+    "cp": "2420",
+    "VILLE": "LE CATELET",
+    "tel": "323662390",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "24020005500046",
+    "lng": "3.242567126854",
+    "lat": "50.0015669797472"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "80003130",
+    "raison_sociale": "PHARMACIE DU MAGNE",
+    "numero voie": "76",
+    "type_voie": "RTE",
+    "libelle_voie": "Nationale",
+    "bp": "",
+    "cp": "8140",
+    "VILLE": "DOUZY ",
+    "tel": "324263175",
+    "telecopie": "324263730",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82008001800022",
+    "lng": "5.03702947636639",
+    "lat": "49.6712348858559"
+  },
+  {
+    "finess": "80011562",
+    "raison_sociale": "MSP DE DOUZY",
+    "numero voie": "74",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "8140",
+    "VILLE": "DOUZY ",
+    "tel": "324263005",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "89150808700022",
+    "lng": "5.0378596679085",
+    "lat": "49.6714582808881"
+  }
+]

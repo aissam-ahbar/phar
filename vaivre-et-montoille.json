@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "700002942",
+    "raison_sociale": "PHARMACIE CHARLES",
+    "numero voie": "2",
+    "type_voie": "IMP",
+    "libelle_voie": "DES TILLEULS",
+    "bp": "",
+    "cp": "70000",
+    "VILLE": "VAIVRE ET MONTOILLE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83413272200010",
+    "lng": "6.11266786618619",
+    "lat": "47.6315348501538"
+  },
+  {
+    "finess": "700784721",
+    "raison_sociale": "EHPAD KORIAN LE LAC",
+    "numero voie": "17",
+    "type_voie": "AV",
+    "libelle_voie": "DU LAC",
+    "bp": "",
+    "cp": "70000",
+    "VILLE": "VAIVRE ET MONTOILLE    ",
+    "tel": "384962828",
+    "telecopie": "384960798",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "34117411800693",
+    "lng": "6.10669729103723",
+    "lat": "47.6352349051624"
+  }
+]

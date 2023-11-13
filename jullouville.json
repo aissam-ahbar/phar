@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "500011093",
+    "raison_sociale": "PHARMACIE LITTORAL",
+    "numero voie": "2",
+    "type_voie": "AV",
+    "libelle_voie": "du Docteur Lemonnier",
+    "bp": "",
+    "cp": "50610",
+    "VILLE": "JULLOUVILLE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44780022800028",
+    "lng": "-1.56556543439575",
+    "lat": "48.7779908430084"
+  },
+  {
+    "finess": "500019740",
+    "raison_sociale": "EHPAD \"LES JARDINS D'HENRIETTE\"",
+    "numero voie": "23",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "50610",
+    "VILLE": "JULLOUVILLE ",
+    "tel": "233912480",
+    "telecopie": "233912481",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26500150300035",
+    "lng": "-1.56741531942124",
+    "lat": "48.7739786571483"
+  }
+]

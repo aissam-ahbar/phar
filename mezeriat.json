@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "10004356",
+    "raison_sociale": "S.E.L PHARMAXINE",
+    "numero voie": "156",
+    "type_voie": "",
+    "libelle_voie": "Grand rue",
+    "bp": "",
+    "cp": "1660",
+    "VILLE": "MEZERIAT ",
+    "tel": "474302623",
+    "telecopie": "474252181",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79921856500015",
+    "lng": "5.0476838478825",
+    "lat": "46.2339752108334"
+  },
+  {
+    "finess": "10010759",
+    "raison_sociale": "MAISON DE SANTE DE MEZERIAT",
+    "numero voie": "131",
+    "type_voie": "CHE",
+    "libelle_voie": "DES BADELLES",
+    "bp": "",
+    "cp": "1660",
+    "VILLE": "MEZERIAT ",
+    "tel": "474252099",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "5.04616221807469",
+    "lat": "46.2385893770275"
+  },
+  {
+    "finess": "10784635",
+    "raison_sociale": "RESIDENCE LES ORCHIDEES",
+    "numero voie": "39",
+    "type_voie": "CHE",
+    "libelle_voie": "DES BADELLES",
+    "bp": "",
+    "cp": "1660",
+    "VILLE": "MEZERIAT ",
+    "tel": "437625926",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26010292600011",
+    "lng": "5.04640408234898",
+    "lat": "46.2377662151336"
+  }
+]

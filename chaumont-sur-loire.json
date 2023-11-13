@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "410001978",
+    "raison_sociale": "PHARMACIE DE CHAUMONT SUR LOIRE",
+    "numero voie": "24",
+    "type_voie": "R",
+    "libelle_voie": "du Maréchal Leclerc",
+    "bp": "",
+    "cp": "41150",
+    "VILLE": "CHAUMONT SUR LOIRE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82815384100014",
+    "lng": "1.19146747166505",
+    "lat": "47.4820290104138"
+  },
+  {
+    "finess": "410005383",
+    "raison_sociale": "M.E.C.S.  LES FRILEUSES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "41150",
+    "VILLE": "CHAUMONT SUR LOIRE    ",
+    "tel": "254512727",
+    "telecopie": "254512728",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "35170804500015",
+    "lng": "1.1689095940913",
+    "lat": "47.4754474759892"
+  }
+]

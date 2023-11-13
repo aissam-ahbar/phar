@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "400780565",
+    "raison_sociale": "IME PIERRE DUPLAA",
+    "numero voie": "515",
+    "type_voie": "RTE",
+    "libelle_voie": "DE BOURREGUET",
+    "bp": "BP 15",
+    "cp": "40260",
+    "VILLE": "LESPERON ",
+    "tel": "558896017",
+    "telecopie": "558896460",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "81378556500140",
+    "lng": "-1.09613980133407",
+    "lat": "43.9653126231409"
+  },
+  {
+    "finess": "400781423",
+    "raison_sociale": "ESAT DU MARENSIN",
+    "numero voie": "685",
+    "type_voie": "RTE",
+    "libelle_voie": "DU BOURREGUET",
+    "bp": "",
+    "cp": "40260",
+    "VILLE": "LESPERON ",
+    "tel": "558892888",
+    "telecopie": "558892889",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "81378556500033",
+    "lng": "-1.09538686162804",
+    "lat": "43.9636033735987"
+  }
+]

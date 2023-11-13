@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "90000597",
+    "raison_sociale": "EHPAD DE LUZENAC",
+    "numero voie": "",
+    "type_voie": "QUA",
+    "libelle_voie": "SANTOULIS",
+    "bp": "",
+    "cp": "9250",
+    "VILLE": "LUZENAC ",
+    "tel": "561646868",
+    "telecopie": "561646869",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20007660200016",
+    "lng": "1.76295988940251",
+    "lat": "42.7609363016625"
+  },
+  {
+    "finess": "90003419",
+    "raison_sociale": "CLIC DES VALLEES AX",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "COMPLEXE SOCIAL LE SANTOULI",
+    "bp": "",
+    "cp": "9250",
+    "VILLE": "LUZENAC ",
+    "tel": "561032684",
+    "telecopie": "561030986",
+    "categorie etablissement": "463",
+    "libelle categorie": "Centres Locaux Information Coordination P.A .(C.L.I.C.)",
+    "siret": "",
+    "lng": "1.76318300483458",
+    "lat": "42.760774312101"
+  },
+  {
+    "finess": "90784117",
+    "raison_sociale": "SSIAD DES VALLEES D'AX",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "PRINCIPALE",
+    "bp": "26 LE SANTOULIS",
+    "cp": "9250",
+    "VILLE": "LUZENAC ",
+    "tel": "561644210",
+    "telecopie": "561035971",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "77665630800041",
+    "lng": "1.76128589748724",
+    "lat": "42.7615482459122"
+  }
+]

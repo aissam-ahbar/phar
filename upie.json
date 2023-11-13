@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "260001888",
+    "raison_sociale": "PHARMACIE LES CLOTS",
+    "numero voie": "5",
+    "type_voie": "IMP",
+    "libelle_voie": "des Clots",
+    "bp": "",
+    "cp": "26120",
+    "VILLE": "UPIE ",
+    "tel": "475847198",
+    "telecopie": "475847314",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49815038200014",
+    "lng": "4.97622247174001",
+    "lat": "44.8033205734708"
+  },
+  {
+    "finess": "260016290",
+    "raison_sociale": "SAAD ADMR UPIE",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "26120",
+    "VILLE": "UPIE ",
+    "tel": "475844557",
+    "telecopie": "475844557",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "77941363200026",
+    "lng": "4.9787764621351",
+    "lat": "44.8043611548691"
+  }
+]

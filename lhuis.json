@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "10010056",
+    "raison_sociale": "PROPHARMACIE PERROUD JEAN-CLAUDE",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LA GUIGARDIERE",
+    "bp": "",
+    "cp": "1680",
+    "VILLE": "LHUIS ",
+    "tel": "474398254",
+    "telecopie": "",
+    "categorie etablissement": "627",
+    "libelle categorie": "Propharmacie",
+    "siret": "31475848300023",
+    "lng": "5.53611718600681",
+    "lat": "45.7403452998202"
+  },
+  {
+    "finess": "10788438",
+    "raison_sociale": "EHPAD PLEIN SOLEIL LHUIS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "SAINT MARTIN",
+    "cp": "1680",
+    "VILLE": "LHUIS ",
+    "tel": "474398588",
+    "telecopie": "474398120",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26010452600017",
+    "lng": "5.54568887608099",
+    "lat": "45.7412368346114"
+  }
+]

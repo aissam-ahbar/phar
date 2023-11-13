@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "140006297",
+    "raison_sociale": "SAD ASS LOCALE ADMR MOYAUX ET ENVIRONS",
+    "numero voie": "21",
+    "type_voie": "ALL",
+    "libelle_voie": "DU BAQUET",
+    "bp": "",
+    "cp": "14590",
+    "VILLE": "MOYAUX ",
+    "tel": "231639034",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32028007600052",
+    "lng": "0.359967499994867",
+    "lat": "49.1960340482672"
+  },
+  {
+    "finess": "140010612",
+    "raison_sociale": "PHARMACIE DE MOYAUX",
+    "numero voie": "6",
+    "type_voie": "PL",
+    "libelle_voie": "DE VERDUN",
+    "bp": "",
+    "cp": "14590",
+    "VILLE": "MOYAUX ",
+    "tel": "231636148",
+    "telecopie": "231630983",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82114727900011",
+    "lng": "0.356350315732598",
+    "lat": "49.1949139467377"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "280004201",
+    "raison_sociale": "PHARMACIE PONTOISE",
+    "numero voie": "3",
+    "type_voie": "",
+    "libelle_voie": "Le Pignon Blanc",
+    "bp": "",
+    "cp": "28200",
+    "VILLE": "ST DENIS LANNERAY    ",
+    "tel": "237455432",
+    "telecopie": "237458310",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45206401700018",
+    "lng": "1.29278228984024",
+    "lat": "48.0670895933211"
+  },
+  {
+    "finess": "280009085",
+    "raison_sociale": "ADMR VALLEE DU LOIR -ST DENIS LANNERAY",
+    "numero voie": "11",
+    "type_voie": "ZA",
+    "libelle_voie": "LES CATHELINES",
+    "bp": "",
+    "cp": "28200",
+    "VILLE": "ST DENIS LANNERAY    ",
+    "tel": "237351714",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "44340793700061",
+    "lng": "1.30596587263884",
+    "lat": "48.0696678447509"
+  }
+]

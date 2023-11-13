@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "130036536",
+    "raison_sociale": "PHARMACIE DE BOULBON",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DE L EGLISE",
+    "bp": "",
+    "cp": "13150",
+    "VILLE": "BOULBON ",
+    "tel": "490438080",
+    "telecopie": "490438081",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50302728600031",
+    "lng": "4.69327904067122",
+    "lat": "43.8622342380681"
+  },
+  {
+    "finess": "130792781",
+    "raison_sociale": "CONSULTATIONS DE PMI - BOULBON",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "BARBERIN VICTOR",
+    "bp": "",
+    "cp": "13150",
+    "VILLE": "BOULBON ",
+    "tel": "490911547",
+    "telecopie": "",
+    "categorie etablissement": "230",
+    "libelle categorie": "Etablissement Consultation Protection Infantile",
+    "siret": "22130001501187",
+    "lng": "4.69362294449926",
+    "lat": "43.8627140679773"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "460004591",
+    "raison_sociale": "MARPA LES TOURNESOLS",
+    "numero voie": "134",
+    "type_voie": "RTE",
+    "libelle_voie": "DU LEMBOULAS",
+    "bp": "",
+    "cp": "46230",
+    "VILLE": "MONTDOUMERC ",
+    "tel": "565316515",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "37972936100020",
+    "lng": "1.51788306013143",
+    "lat": "44.2865215353825"
+  },
+  {
+    "finess": "460007792",
+    "raison_sociale": "LVA MONTDOU'NID",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "MALAUDIES",
+    "cp": "46230",
+    "VILLE": "MONTDOUMERC ",
+    "tel": "660277842",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "53512048900021",
+    "lng": "1.47076719806559",
+    "lat": "44.3047914067674"
+  }
+]

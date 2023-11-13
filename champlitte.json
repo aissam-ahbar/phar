@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "700001340",
+    "raison_sociale": "PHARMACIE DES TROIS PROVINCES",
+    "numero voie": "94",
+    "type_voie": "R",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "70600",
+    "VILLE": "CHAMPLITTE ",
+    "tel": "384676407",
+    "telecopie": "372271090",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39096316300014",
+    "lng": "5.51440544398504",
+    "lat": "47.6143666697536"
+  },
+  {
+    "finess": "700005010",
+    "raison_sociale": "MAISON SANTE DES TROIS PROVINCES",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "DU TRAMWAY",
+    "bp": "",
+    "cp": "70600",
+    "VILLE": "CHAMPLITTE ",
+    "tel": "381674842",
+    "telecopie": "384674790",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "51771061200014",
+    "lng": "5.51080363644787",
+    "lat": "47.6135346233626"
+  },
+  {
+    "finess": "700780240",
+    "raison_sociale": "EHPAD LES LAVIERES",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DES BOICHEUX",
+    "bp": "BP 3",
+    "cp": "70600",
+    "VILLE": "CHAMPLITTE ",
+    "tel": "384677600",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "",
+    "lng": "5.50801367352557",
+    "lat": "47.6171950471701"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "550003867",
+    "raison_sociale": "ESAT DE LACHAUSSEE",
+    "numero voie": "",
+    "type_voie": "DOM",
+    "libelle_voie": "DU VIEUX MOULIN",
+    "bp": "",
+    "cp": "55210",
+    "VILLE": "LACHAUSSEE ",
+    "tel": "329893602",
+    "telecopie": "329900047",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77568873202935",
+    "lng": "5.81960431948554",
+    "lat": "49.0369901727442"
+  },
+  {
+    "finess": "550007835",
+    "raison_sociale": "FOYER DU GRAND ETANG",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "RIAUVAUX",
+    "bp": "",
+    "cp": "55210",
+    "VILLE": "LACHAUSSEE ",
+    "tel": "329900248",
+    "telecopie": "",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "",
+    "lng": "5.81899943603248",
+    "lat": "49.0373174888197"
+  },
+  {
+    "finess": "550007843",
+    "raison_sociale": "MAISON DES APPRENTISSAGES (MDA)",
+    "numero voie": "12",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "55210",
+    "VILLE": "LACHAUSSEE ",
+    "tel": "329900248",
+    "telecopie": "",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "",
+    "lng": "5.81790385263203",
+    "lat": "49.0362950093281"
+  }
+]

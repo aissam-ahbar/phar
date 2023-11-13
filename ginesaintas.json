@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "110003852",
+    "raison_sociale": "SAAD CIAS DU SIVU DU SUD MINERVOIS",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE MIREPEISSET",
+    "bp": "BP 1",
+    "cp": "11120",
+    "VILLE": "GINESTAS ",
+    "tel": "468461220",
+    "telecopie": "468463176",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "20002758900023",
+    "lng": "2.88392912482431",
+    "lat": "43.2740273999099"
+  },
+  {
+    "finess": "110009537",
+    "raison_sociale": "RESIDENCE AUTONOMIE UN SI BEAU SOLEIL",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "11120",
+    "VILLE": "GINESTAS ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "",
+    "lng": "2.87201690660371",
+    "lat": "43.2673914846752"
+  },
+  {
+    "finess": "110790466",
+    "raison_sociale": "PHARMACIE SIRVEN",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA GINESTO",
+    "bp": "",
+    "cp": "11120",
+    "VILLE": "GINESTAS ",
+    "tel": "468461207",
+    "telecopie": "468461531",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "33849381000018",
+    "lng": "2.87765991733094",
+    "lat": "43.2695830164174"
+  }
+]

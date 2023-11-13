@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "220006753",
+    "raison_sociale": "EHPAD DE HENON",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE L'ARMEL",
+    "bp": "",
+    "cp": "22150",
+    "VILLE": "HENON ",
+    "tel": "296734247",
+    "telecopie": "296734771",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26220203900026",
+    "lng": "-2.68420232947529",
+    "lat": "48.38719987487"
+  },
+  {
+    "finess": "220010367",
+    "raison_sociale": "PHARMACIE LE RALL HELENE",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "ST PIERRE",
+    "bp": "",
+    "cp": "22150",
+    "VILLE": "HENON ",
+    "tel": "296735690",
+    "telecopie": "296735145",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38184705200036",
+    "lng": "-2.68392390455951",
+    "lat": "48.3853785667196"
+  }
+]

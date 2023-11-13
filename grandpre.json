@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "80006521",
+    "raison_sociale": "PHARMACIE MOUTON HOCQUERELLE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "de Chantereine",
+    "bp": "",
+    "cp": "8250",
+    "VILLE": "GRANDPRE ",
+    "tel": "324305170",
+    "telecopie": "324719584",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "31782545300028",
+    "lng": "4.87306530016771",
+    "lat": "49.3445887445571"
+  },
+  {
+    "finess": "80006737",
+    "raison_sociale": "FH VILLA STE MARGUERITE",
+    "numero voie": "49",
+    "type_voie": "R",
+    "libelle_voie": "MONTFLIX",
+    "bp": "",
+    "cp": "8250",
+    "VILLE": "GRANDPRE ",
+    "tel": "324302704",
+    "telecopie": "324711564",
+    "categorie etablissement": "252",
+    "libelle categorie": "Foyer Hébergement Adultes Handicapés",
+    "siret": "20001113800142",
+    "lng": "4.86448166236896",
+    "lat": "49.3399290588531"
+  },
+  {
+    "finess": "80006794",
+    "raison_sociale": "ESAT GRANDPRE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE TERMES",
+    "bp": "",
+    "cp": "8250",
+    "VILLE": "GRANDPRE ",
+    "tel": "324302720",
+    "telecopie": "324711564",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "20001113800134",
+    "lng": "4.85916548331533",
+    "lat": "49.3386532703822"
+  }
+]

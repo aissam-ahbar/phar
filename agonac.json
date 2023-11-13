@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "240003566",
+    "raison_sociale": "PHARMACIE D'AGONAC",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "Dalby de Fayard",
+    "bp": "",
+    "cp": "24460",
+    "VILLE": "AGONAC ",
+    "tel": "553063513",
+    "telecopie": "553351774",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39077616900018",
+    "lng": "0.750864861689702",
+    "lat": "45.2914901393412"
+  },
+  {
+    "finess": "240008565",
+    "raison_sociale": "EHPAD LES CHENES VERTS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE  LYONNET",
+    "bp": "",
+    "cp": "24460",
+    "VILLE": "AGONAC ",
+    "tel": "553024000",
+    "telecopie": "553024070",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "35113164400020",
+    "lng": "0.744633772668211",
+    "lat": "45.2530725236053"
+  },
+  {
+    "finess": "240018143",
+    "raison_sociale": "MSP ASSOCIATIVE AGONACOISE",
+    "numero voie": "4",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA BEAURONNE",
+    "bp": "",
+    "cp": "24460",
+    "VILLE": "AGONAC ",
+    "tel": "553063709",
+    "telecopie": "553069988",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "90937525500017",
+    "lng": "0.751680007409876",
+    "lat": "45.2928271048094"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "490000841",
+    "raison_sociale": "EHPAD RESIDENCES AU FIL DU LOIR",
+    "numero voie": "6",
+    "type_voie": "PL",
+    "libelle_voie": "ANDRE MOINE",
+    "bp": "BP 9",
+    "cp": "49140",
+    "VILLE": "SEICHES SUR LE LOIR   ",
+    "tel": "241214242",
+    "telecopie": "241766447",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26490032500012",
+    "lng": "-0.359644910830295",
+    "lat": "47.5738084380811"
+  },
+  {
+    "finess": "490014016",
+    "raison_sociale": "SAAD ADMR SEICHES SUR LE LOIR",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "HUBERT ET CHARLOTTE NEVEU",
+    "bp": "",
+    "cp": "49140",
+    "VILLE": "SEICHES SUR LE LOIR   ",
+    "tel": "241335584",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "78621432000099",
+    "lng": "-0.359039497234943",
+    "lat": "47.5750628717316"
+  },
+  {
+    "finess": "490534195",
+    "raison_sociale": "SELARL S.S.L.",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "HENRI REGNIER",
+    "bp": "",
+    "cp": "49140",
+    "VILLE": "SEICHES SUR LE LOIR   ",
+    "tel": "241762057",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53817883100011",
+    "lng": "-0.35749657831067",
+    "lat": "47.5749595489145"
+  }
+]

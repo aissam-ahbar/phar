@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "620010611",
+    "raison_sociale": "PHARMACIE COCKENPOT-DEAN",
+    "numero voie": "16",
+    "type_voie": "R",
+    "libelle_voie": "JEAN JAURES",
+    "bp": "",
+    "cp": "62138",
+    "VILLE": "DOUVRIN ",
+    "tel": "321799840",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "35394969600010",
+    "lng": "2.82881950615751",
+    "lat": "50.5084514493462"
+  },
+  {
+    "finess": "620010645",
+    "raison_sociale": "PHARMACIE GONTHIER-STOPIN",
+    "numero voie": "194",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LENS",
+    "bp": "",
+    "cp": "62138",
+    "VILLE": "DOUVRIN ",
+    "tel": "321275305",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81528096100013",
+    "lng": "2.80771667736185",
+    "lat": "50.5094015460925"
+  },
+  {
+    "finess": "620119313",
+    "raison_sociale": "EHPAD \"LES HELIANTINES\"",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU QUEVALON",
+    "bp": "",
+    "cp": "62138",
+    "VILLE": "DOUVRIN ",
+    "tel": "321643411",
+    "telecopie": "321376704",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "38473987600090",
+    "lng": "2.83331446537197",
+    "lat": "50.5052791998413"
+  }
+]

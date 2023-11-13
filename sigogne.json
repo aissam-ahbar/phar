@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "160011508",
+    "raison_sociale": "PHARMACIE DES FINS BOIS",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DE FONTAINEBLEAU",
+    "bp": "",
+    "cp": "16200",
+    "VILLE": "SIGOGNE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52373599100011",
+    "lng": "-0.15721691933158",
+    "lat": "45.7382147027452"
+  },
+  {
+    "finess": "160016978",
+    "raison_sociale": "CDS POLYVALENT OUEST CHARENTE",
+    "numero voie": "20",
+    "type_voie": "R",
+    "libelle_voie": "DES DOUILLONS",
+    "bp": "",
+    "cp": "16200",
+    "VILLE": "SIGOGNE ",
+    "tel": "516095170",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "22160001800875",
+    "lng": "-0.15465415360348",
+    "lat": "45.737848477215"
+  }
+]

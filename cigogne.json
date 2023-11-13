@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "370009029",
+    "raison_sociale": "EAM MAISON PERCE-NEIGE",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DU CLOS D'ALBAN",
+    "bp": "LA MARQUETTERIE",
+    "cp": "37310",
+    "VILLE": "CIGOGNE ",
+    "tel": "247236270",
+    "telecopie": "",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "78504100500360",
+    "lng": "0.911478276362498",
+    "lat": "47.260268234622"
+  },
+  {
+    "finess": "370009078",
+    "raison_sociale": "MAS MAISON PERCE-NEIGE",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DU CLOS D'ALBAN",
+    "bp": "LA MARQUETTERIE",
+    "cp": "37310",
+    "VILLE": "CIGOGNE ",
+    "tel": "247236270",
+    "telecopie": "",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "78504100500360",
+    "lng": "0.911478276362498",
+    "lat": "47.260268234622"
+  }
+]

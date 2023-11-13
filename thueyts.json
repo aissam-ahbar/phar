@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "70003850",
+    "raison_sociale": "PHARMACIE LAPIERRE",
+    "numero voie": "4",
+    "type_voie": "AV",
+    "libelle_voie": "DU VAL D'ARDECHE",
+    "bp": "",
+    "cp": "7330",
+    "VILLE": "THUEYTS ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38902005800019",
+    "lng": "4.22359800523425",
+    "lat": "44.6753183658382"
+  },
+  {
+    "finess": "70780242",
+    "raison_sociale": "MAISON DE CONVALESCENCE LA CONDAMINE",
+    "numero voie": "6",
+    "type_voie": "IMP",
+    "libelle_voie": "DU COUDERC",
+    "bp": "",
+    "cp": "7330",
+    "VILLE": "THUEYTS ",
+    "tel": "475364900",
+    "telecopie": "475364945",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "65552024500250",
+    "lng": "4.22105876466661",
+    "lat": "44.674604496235"
+  },
+  {
+    "finess": "70783709",
+    "raison_sociale": "EHPAD RESIDENCE \"LES VERGERS\"",
+    "numero voie": "80",
+    "type_voie": "R",
+    "libelle_voie": "DES HIGOUX",
+    "bp": "",
+    "cp": "7330",
+    "VILLE": "THUEYTS ",
+    "tel": "475364950",
+    "telecopie": "475364452",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77622946000071",
+    "lng": "4.22007491848487",
+    "lat": "44.6766628274294"
+  }
+]

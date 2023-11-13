@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "20002630",
+    "raison_sociale": "PHARMACIE CAMUT",
+    "numero voie": "47",
+    "type_voie": "R",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "2450",
+    "VILLE": "BOUE ",
+    "tel": "323600080",
+    "telecopie": "323601965",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49828413200012",
+    "lng": "3.69450871457591",
+    "lat": "50.0081219785571"
+  },
+  {
+    "finess": "20013843",
+    "raison_sociale": "SAAD SIVOM BOUÉ",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "2450",
+    "VILLE": "BOUE ",
+    "tel": "323600426",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "24020006300040",
+    "lng": "3.69819997607792",
+    "lat": "50.0125328691407"
+  }
+]

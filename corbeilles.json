@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "450005384",
+    "raison_sociale": "SELARL DE CORBEILLES",
+    "numero voie": "23",
+    "type_voie": "PL",
+    "libelle_voie": "ST GERMAIN",
+    "bp": "",
+    "cp": "45490",
+    "VILLE": "CORBEILLES ",
+    "tel": "238922495",
+    "telecopie": "238964229",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80427627700014",
+    "lng": "2.54902807213677",
+    "lat": "48.0717212124523"
+  },
+  {
+    "finess": "450021514",
+    "raison_sociale": "MARPA DE CORBEILLES",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MOTTE",
+    "bp": "",
+    "cp": "45490",
+    "VILLE": "CORBEILLES ",
+    "tel": "238961681",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "",
+    "lng": "2.54764377744882",
+    "lat": "48.0726616834087"
+  }
+]

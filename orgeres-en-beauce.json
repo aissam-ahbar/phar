@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "280004136",
+    "raison_sociale": "SELARL PHARMACIE VENOT",
+    "numero voie": "37",
+    "type_voie": "R",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "28140",
+    "VILLE": "ORGERES EN BEAUCE    ",
+    "tel": "237997130",
+    "telecopie": "970604773",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81887969400011",
+    "lng": "1.6830292784295",
+    "lat": "48.1456185801499"
+  },
+  {
+    "finess": "280500240",
+    "raison_sociale": "SAAD ADMR ORGERES EN BEAUCE",
+    "numero voie": "66",
+    "type_voie": "R",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "28140",
+    "VILLE": "ORGERES EN BEAUCE    ",
+    "tel": "237351714",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32632991900020",
+    "lng": "1.67943527155118",
+    "lat": "48.1453849162221"
+  },
+  {
+    "finess": "280500513",
+    "raison_sociale": "EHPAD TEXIER GALLAS ORGERES EN BEAUCE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "TEXIER GALLAS",
+    "bp": "",
+    "cp": "28140",
+    "VILLE": "ORGERES EN BEAUCE    ",
+    "tel": "237997664",
+    "telecopie": "237998164",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77557533500044",
+    "lng": "1.68479464941697",
+    "lat": "48.1493568618877"
+  }
+]

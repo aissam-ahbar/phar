@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "10005072",
+    "raison_sociale": "PHARMACIE DES BORDS DE L'AIN",
+    "numero voie": "16",
+    "type_voie": "R",
+    "libelle_voie": "du 1er septembre 1944",
+    "bp": "",
+    "cp": "1160",
+    "VILLE": "PONT D AIN    ",
+    "tel": "474390166",
+    "telecopie": "474391978",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88929998800010",
+    "lng": "5.33415595113991",
+    "lat": "46.0492364805814"
+  },
+  {
+    "finess": "10009496",
+    "raison_sociale": "MAISON DE SANTE PONT-D'AIN",
+    "numero voie": "16",
+    "type_voie": "R",
+    "libelle_voie": "DU 1ER SEPTEMBRE 1944",
+    "bp": "",
+    "cp": "1160",
+    "VILLE": "PONT D AIN    ",
+    "tel": "474397900",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "79008281200013",
+    "lng": "5.33415595113991",
+    "lat": "46.0492364805814"
+  },
+  {
+    "finess": "10781078",
+    "raison_sociale": "EHPAD LA CATHERINETTE PONT D'AIN",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA CATHERINETTE",
+    "bp": "",
+    "cp": "1160",
+    "VILLE": "PONT D AIN    ",
+    "tel": "474390575",
+    "telecopie": "474392503",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26010019300010",
+    "lng": "5.33966748052119",
+    "lat": "46.055432680011"
+  }
+]

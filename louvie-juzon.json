@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "640010195",
+    "raison_sociale": "SELARL PHARMACIE DE LOUVIE",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "CAMPS",
+    "bp": "",
+    "cp": "64260",
+    "VILLE": "LOUVIE JUZON",
+    "tel": "559056122",
+    "telecopie": "559056331",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79865455400012",
+    "lng": "-0.418953456619588",
+    "lat": "43.086470571154"
+  },
+  {
+    "finess": "640795662",
+    "raison_sociale": "SSIAD DE LA VALLEE D'OSSAU",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "BRIAND",
+    "bp": "",
+    "cp": "64260",
+    "VILLE": "LOUVIE JUZON",
+    "tel": "559056918",
+    "telecopie": "",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "44831775000066",
+    "lng": "-0.418693403887869",
+    "lat": "43.0949547602428"
+  }
+]

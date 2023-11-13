@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "600006852",
+    "raison_sociale": "PHARMACIE PLOTIN-DEQUIDT",
+    "numero voie": "29",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "60420",
+    "VILLE": "TRICOT ",
+    "tel": "344510282",
+    "telecopie": "344510155",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "35166626800013",
+    "lng": "2.58778481649562",
+    "lat": "49.5610058394153"
+  },
+  {
+    "finess": "600112098",
+    "raison_sociale": "LF RÉSID'OISE TRICOT",
+    "numero voie": "62",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "60420",
+    "VILLE": "TRICOT ",
+    "tel": "344510647",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "31021419200133",
+    "lng": "2.5887666595371",
+    "lat": "49.560028696479"
+  }
+]

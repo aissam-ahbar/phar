@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "80002025",
+    "raison_sociale": "EHPAD LES VIGNES",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "MORTEAU",
+    "bp": "",
+    "cp": "8360",
+    "VILLE": "CHATEAU PORCIEN",
+    "tel": "324728042",
+    "telecopie": "324721809",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26080005700010",
+    "lng": "4.24423386740199",
+    "lat": "49.5282860832567"
+  },
+  {
+    "finess": "80003015",
+    "raison_sociale": "PHARMACIE ULPAT-GUERLINCE",
+    "numero voie": "4",
+    "type_voie": "FG",
+    "libelle_voie": "DE LIESSE",
+    "bp": "",
+    "cp": "8360",
+    "VILLE": "CHATEAU PORCIEN",
+    "tel": "324728007",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44122955600010",
+    "lng": "4.24395937537836",
+    "lat": "49.5295535428988"
+  }
+]

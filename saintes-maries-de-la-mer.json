@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "130013162",
+    "raison_sociale": "PHARMACIE CAMBON",
+    "numero voie": "18",
+    "type_voie": "R",
+    "libelle_voie": "VICTOR HUGO",
+    "bp": "",
+    "cp": "13460",
+    "VILLE": "SAINTES MARIES DE LA MER  ",
+    "tel": "490978302",
+    "telecopie": "490977632",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "35102548100018",
+    "lng": "4.42785453730574",
+    "lat": "43.4512094226846"
+  },
+  {
+    "finess": "130046329",
+    "raison_sociale": "RESIDENCE AUTONOMIE LES TERRASSES",
+    "numero voie": "3",
+    "type_voie": "AV",
+    "libelle_voie": "CDT JACQUES YVES COUSTEAU",
+    "bp": "",
+    "cp": "13460",
+    "VILLE": "SAINTES MARIES DE LA MER  ",
+    "tel": "490541402",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "82795782000026",
+    "lng": "4.43500003047196",
+    "lat": "43.4535544491669"
+  },
+  {
+    "finess": "130799828",
+    "raison_sociale": "CENTRE DE CONSULTATIONS DE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "DISPENSAIRE",
+    "bp": "",
+    "cp": "13460",
+    "VILLE": "SAINTES MARIES DE LA MER  ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "230",
+    "libelle categorie": "Etablissement Consultation Protection Infantile",
+    "siret": "22130001501534",
+    "lng": "4.4290808067558",
+    "lat": "43.453240342322"
+  }
+]

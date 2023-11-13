@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "30001432",
+    "raison_sociale": "PHARMACIE DES 4 SAISONS",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DES FORGES",
+    "bp": "",
+    "cp": "3330",
+    "VILLE": "BELLENAVES ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79832460400015",
+    "lng": "3.07971333571477",
+    "lat": "46.1993550812818"
+  },
+  {
+    "finess": "30007371",
+    "raison_sociale": "MAISON DE SANTE DE BELLENAVES",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DU 8 MAI 1945",
+    "bp": "",
+    "cp": "3330",
+    "VILLE": "BELLENAVES ",
+    "tel": "470906102",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "80852926700011",
+    "lng": "3.0776021122155",
+    "lat": "46.2011710165997"
+  },
+  {
+    "finess": "30782775",
+    "raison_sociale": "LE HAMEAU DE L'AMITIE",
+    "numero voie": "22",
+    "type_voie": "R",
+    "libelle_voie": "DE LA CHENEVIERE",
+    "bp": "",
+    "cp": "3330",
+    "VILLE": "BELLENAVES ",
+    "tel": "470583355",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26030048800020",
+    "lng": "3.07840478803968",
+    "lat": "46.1974919891587"
+  }
+]

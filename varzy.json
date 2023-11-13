@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "580003424",
+    "raison_sociale": "PHARMACIE GRANIER-SIMON",
+    "numero voie": "",
+    "type_voie": "FG",
+    "libelle_voie": "DE MARCY",
+    "bp": "",
+    "cp": "58210",
+    "VILLE": "VARZY ",
+    "tel": "386294202",
+    "telecopie": "386297391",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "32842665500010",
+    "lng": "3.38819853209499",
+    "lat": "47.35604440637"
+  },
+  {
+    "finess": "580006591",
+    "raison_sociale": "CATTP ADULTER VARZY",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "NICOLAS COLBERT",
+    "bp": "",
+    "cp": "58210",
+    "VILLE": "VARZY ",
+    "tel": "386297377",
+    "telecopie": "386297444",
+    "categorie etablissement": "425",
+    "libelle categorie": "Centre d'Accueil Thérapeutique à temps partiel (C.A.T.T.P.)",
+    "siret": "",
+    "lng": "3.3858244246599",
+    "lat": "47.356580747998"
+  },
+  {
+    "finess": "580780724",
+    "raison_sociale": "EHPAD LES PETITES PROMENADES",
+    "numero voie": "17",
+    "type_voie": "BD",
+    "libelle_voie": "D AUXERRE",
+    "bp": "",
+    "cp": "58210",
+    "VILLE": "VARZY ",
+    "tel": "386294523",
+    "telecopie": "386294039",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26580019300012",
+    "lng": "3.38853034391963",
+    "lat": "47.3607037801591"
+  }
+]

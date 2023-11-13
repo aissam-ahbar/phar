@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "640019899",
+    "raison_sociale": "PROPHARMACIE LA PIERRE SAINT MARTIN",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU PIC D'ARLAS",
+    "bp": "",
+    "cp": "64570",
+    "VILLE": "ARETTE ",
+    "tel": "670486000",
+    "telecopie": "",
+    "categorie etablissement": "627",
+    "libelle categorie": "Propharmacie",
+    "siret": "",
+    "lng": "-0.749806074146961",
+    "lat": "42.9780941668011"
+  },
+  {
+    "finess": "640020426",
+    "raison_sociale": "SAAD ADMR DU BARETOUS",
+    "numero voie": "3",
+    "type_voie": "ESPA",
+    "libelle_voie": "JEAN MARIE LONNE PEYRET",
+    "bp": "",
+    "cp": "64570",
+    "VILLE": "ARETTE ",
+    "tel": "559889540",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "38829848100028",
+    "lng": "-0.716552257206045",
+    "lat": "43.094322165882"
+  },
+  {
+    "finess": "640781175",
+    "raison_sociale": "COLONIE SANITAIRE DES PEP",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "64570",
+    "VILLE": "ARETTE ",
+    "tel": "559838304",
+    "telecopie": "",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "77563866100204",
+    "lng": "-0.716240242992803",
+    "lat": "43.0952216451259"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "290005891",
+    "raison_sociale": "EHPAD  DE KERLIZOU",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DE KERLIZOU",
+    "bp": "BP 42",
+    "cp": "29660",
+    "VILLE": "CARANTEC ",
+    "tel": "298679190",
+    "telecopie": "298670960",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26290086300024",
+    "lng": "-3.91845029729088",
+    "lat": "48.6664471899334"
+  },
+  {
+    "finess": "290014109",
+    "raison_sociale": "PHARMACIE  DES DEUX BAIES",
+    "numero voie": "29",
+    "type_voie": "R",
+    "libelle_voie": "DES MARINS FRANÇAIS LIBRES",
+    "bp": "",
+    "cp": "29660",
+    "VILLE": "CARANTEC ",
+    "tel": "298670028",
+    "telecopie": "298679617",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "35285497000030",
+    "lng": "-3.91403947399624",
+    "lat": "48.6678486635898"
+  }
+]

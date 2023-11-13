@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "240005686",
+    "raison_sociale": "CENTRE DE P M I",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "24150",
+    "VILLE": "COUZE ET ST FRONT   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "223",
+    "libelle categorie": "Protection Maternelle et Infantile (P.M.I.)",
+    "siret": "26240593900519",
+    "lng": "0.704661503294023",
+    "lat": "44.8285289613084"
+  },
+  {
+    "finess": "240009951",
+    "raison_sociale": "PHARMACIE REVOL",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CAHORS",
+    "bp": "",
+    "cp": "24150",
+    "VILLE": "COUZE ET ST FRONT   ",
+    "tel": "553610132",
+    "telecopie": "553585306",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34051796000019",
+    "lng": "0.706023906332605",
+    "lat": "44.8267809485865"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "390783405",
+    "raison_sociale": "FOYER LES GLYCINES CRAMANS",
+    "numero voie": "38",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "39600",
+    "VILLE": "CRAMANS ",
+    "tel": "384376657",
+    "telecopie": "384377169",
+    "categorie etablissement": "252",
+    "libelle categorie": "Foyer Hébergement Adultes Handicapés",
+    "siret": "81229736400091",
+    "lng": "5.77880968935084",
+    "lat": "47.0131093067885"
+  },
+  {
+    "finess": "390783413",
+    "raison_sociale": "ESAT LES GLYCINES CRAMANS",
+    "numero voie": "38",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "39600",
+    "VILLE": "CRAMANS ",
+    "tel": "384376492",
+    "telecopie": "384377169",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "81229736400067",
+    "lng": "5.77880968935084",
+    "lat": "47.0131093067885"
+  }
+]

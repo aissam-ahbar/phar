@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "630002137",
+    "raison_sociale": "SESSAD DU MARTHURET",
+    "numero voie": "10",
+    "type_voie": "RTE",
+    "libelle_voie": "DE GIMEAUX",
+    "bp": "ZAC DU GRAND CHIROL",
+    "cp": "63200",
+    "VILLE": "ST BONNET PRES RIOM   ",
+    "tel": "473641072",
+    "telecopie": "",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "77639319100098",
+    "lng": "3.10938825597517",
+    "lat": "45.9328977523833"
+  },
+  {
+    "finess": "630008266",
+    "raison_sociale": "PHARMACIE DES BRAYAUDS",
+    "numero voie": "1",
+    "type_voie": "ALL",
+    "libelle_voie": "Roucombatoux",
+    "bp": "",
+    "cp": "63200",
+    "VILLE": "ST BONNET PRES RIOM   ",
+    "tel": "473633070",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51276321000022",
+    "lng": "3.11616538706426",
+    "lat": "45.929477226683"
+  }
+]

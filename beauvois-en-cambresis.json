@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590011151",
+    "raison_sociale": "PHARMACIE MODARELLI",
+    "numero voie": "50",
+    "type_voie": "R",
+    "libelle_voie": "BERTHELOT",
+    "bp": "",
+    "cp": "59157",
+    "VILLE": "BEAUVOIS EN CAMBRESIS    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82825054800017",
+    "lng": "3.38063874913546",
+    "lat": "50.1381431263167"
+  },
+  {
+    "finess": "590032199",
+    "raison_sociale": "HOPITAL A DOMICILE DU CAMBRESIS",
+    "numero voie": "93",
+    "type_voie": "R",
+    "libelle_voie": "VICTOR WATTREMEZ",
+    "bp": "",
+    "cp": "59157",
+    "VILLE": "BEAUVOIS EN CAMBRESIS    ",
+    "tel": "327720750",
+    "telecopie": "327720760",
+    "categorie etablissement": "127",
+    "libelle categorie": "Hospitalisation à Domicile",
+    "siret": "78371204500302",
+    "lng": "3.37736208859961",
+    "lat": "50.1420876139329"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "160009080",
+    "raison_sociale": "C.S.S.R. LES GLAMOTS - ROULLET ST E.",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LES GLAMOTS",
+    "bp": "BP 90021",
+    "cp": "16440",
+    "VILLE": "ROULLET ST ESTEPHE    ",
+    "tel": "545942727",
+    "telecopie": "545664327",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "38499040400012",
+    "lng": "0.043127593324134",
+    "lat": "45.5778948057917"
+  },
+  {
+    "finess": "160011326",
+    "raison_sociale": "PHARMACIE ALLARY-NOBLET",
+    "numero voie": "22",
+    "type_voie": "R",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "16440",
+    "VILLE": "ROULLET ST ESTEPHE    ",
+    "tel": "545663016",
+    "telecopie": "545663729",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40336472200013",
+    "lng": "0.04710678183143",
+    "lat": "45.584564880125"
+  },
+  {
+    "finess": "160016374",
+    "raison_sociale": "SSR ANTENNE CRBVTA LES GLAMOTS",
+    "numero voie": "5",
+    "type_voie": "ALL",
+    "libelle_voie": "LES GLAMOTS",
+    "bp": "",
+    "cp": "16440",
+    "VILLE": "ROULLET ST ESTEPHE    ",
+    "tel": "545942727",
+    "telecopie": "",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "78979809700042",
+    "lng": "0.044012432404194",
+    "lat": "45.5786750112878"
+  }
+]

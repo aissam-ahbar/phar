@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590026217",
+    "raison_sociale": "PHARMACIE COULON",
+    "numero voie": "55",
+    "type_voie": "R",
+    "libelle_voie": "DU COLONEL GLINEUR",
+    "bp": "",
+    "cp": "59243",
+    "VILLE": "QUAROUBLE ",
+    "tel": "327361605",
+    "telecopie": "327354667",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53351905400027",
+    "lng": "3.62096671492695",
+    "lat": "50.3891165805609"
+  },
+  {
+    "finess": "590034997",
+    "raison_sociale": "EHPAD GRAND MERE PARIS",
+    "numero voie": "4",
+    "type_voie": "ALL",
+    "libelle_voie": "DE L'ABBE DESILVE",
+    "bp": "",
+    "cp": "59243",
+    "VILLE": "QUAROUBLE ",
+    "tel": "327414678",
+    "telecopie": "327288799",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "41986768400047",
+    "lng": "3.62305645220403",
+    "lat": "50.3866291046028"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "530008978",
+    "raison_sociale": "MAISON D ACCUEIL D ARGENTRE",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DES BOSSARDS",
+    "bp": "",
+    "cp": "53210",
+    "VILLE": "ARGENTRE ",
+    "tel": "243664588",
+    "telecopie": "",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "22530001100080",
+    "lng": "-0.6384862016969",
+    "lat": "48.0847461693369"
+  },
+  {
+    "finess": "530030246",
+    "raison_sociale": "PHARMACIE  NOTRE DAME",
+    "numero voie": "12",
+    "type_voie": "PL",
+    "libelle_voie": "DE L EGLISE",
+    "bp": "",
+    "cp": "53210",
+    "VILLE": "ARGENTRE ",
+    "tel": "243373225",
+    "telecopie": "243378176",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49936426300016",
+    "lng": "-0.641314507299528",
+    "lat": "48.0837453196921"
+  }
+]

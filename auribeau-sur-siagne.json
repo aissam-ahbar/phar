@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "60004157",
+    "raison_sociale": "SELARL PHARMACIE D'AURIBEAU",
+    "numero voie": "",
+    "type_voie": "QUA",
+    "libelle_voie": "DU MOULIN VIEUX",
+    "bp": "",
+    "cp": "6810",
+    "VILLE": "AURIBEAU SUR SIAGNE    ",
+    "tel": "493423383",
+    "telecopie": "493423589",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "91000649300019",
+    "lng": "6.91470131060489",
+    "lat": "43.6071325528661"
+  },
+  {
+    "finess": "60012259",
+    "raison_sociale": "EHPAD LA BASTIDE DU MOULIN",
+    "numero voie": "3",
+    "type_voie": "CHE",
+    "libelle_voie": "DE L'AVARIE",
+    "bp": "",
+    "cp": "6810",
+    "VILLE": "AURIBEAU SUR SIAGNE    ",
+    "tel": "497011500",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "47854097400043",
+    "lng": "6.91904318349121",
+    "lat": "43.6041426660051"
+  }
+]

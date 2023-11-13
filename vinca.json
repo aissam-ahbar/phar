@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "660785338",
+    "raison_sociale": "SAAD CCAS VINCA",
+    "numero voie": "17",
+    "type_voie": "AV",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "66320",
+    "VILLE": "VINCA ",
+    "tel": "468059077",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26660042800012",
+    "lng": "2.52907923095443",
+    "lat": "42.6447915564154"
+  },
+  {
+    "finess": "660789538",
+    "raison_sociale": "PHARMACIE DE VINCA",
+    "numero voie": "62",
+    "type_voie": "AV",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "66320",
+    "VILLE": "VINCA ",
+    "tel": "468058243",
+    "telecopie": "484886403",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38798971800011",
+    "lng": "2.52697145068369",
+    "lat": "42.6452048183799"
+  },
+  {
+    "finess": "660790304",
+    "raison_sociale": "EHPAD FRANCIS CATALA",
+    "numero voie": "12",
+    "type_voie": "AV",
+    "libelle_voie": "CONVENTIONNEL FABRE",
+    "bp": "",
+    "cp": "66320",
+    "VILLE": "VINCA ",
+    "tel": "468054700",
+    "telecopie": "468054707",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26660068300012",
+    "lng": "2.52491447157539",
+    "lat": "42.6432662978926"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "440032829",
+    "raison_sociale": "PHARMACIE LE FLEM-VAUCHELET",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DE CHATEAUBRIANT",
+    "bp": "",
+    "cp": "44110",
+    "VILLE": "ST AUBIN DES CHATEAUX   ",
+    "tel": "240284129",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38250276300016",
+    "lng": "-1.4846357168652",
+    "lat": "47.7200834962727"
+  },
+  {
+    "finess": "440056091",
+    "raison_sociale": "FV RESIDENCE LA GAUDINAIS",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "DE LA GAUDINAIS",
+    "bp": "",
+    "cp": "44110",
+    "VILLE": "ST AUBIN DES CHATEAUX   ",
+    "tel": "240815980",
+    "telecopie": "",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "26440313000042",
+    "lng": "-1.48648030446592",
+    "lat": "47.7202534153494"
+  }
+]

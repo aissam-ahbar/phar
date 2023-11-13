@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "240002600",
+    "raison_sociale": "FOYER DE VIE LYSANDER",
+    "numero voie": "",
+    "type_voie": "FON",
+    "libelle_voie": "D'UZERCHE",
+    "bp": "",
+    "cp": "24330",
+    "VILLE": "BASSILLAC ET AUBEROCHE    ",
+    "tel": "553026080",
+    "telecopie": "553026084",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "78170365700127",
+    "lng": "0.812666703151471",
+    "lat": "45.1945802453579"
+  },
+  {
+    "finess": "240005090",
+    "raison_sociale": "PHARMACIE DE BASSILLAC",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "Francois Mitterand",
+    "bp": "",
+    "cp": "24330",
+    "VILLE": "BASSILLAC ET AUBEROCHE    ",
+    "tel": "553544655",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49931784000027",
+    "lng": "0.809754954393157",
+    "lat": "45.1925216633136"
+  },
+  {
+    "finess": "240008789",
+    "raison_sociale": "EHPAD LA CHENERAIE",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DU PETIT PRINCE",
+    "bp": "",
+    "cp": "24330",
+    "VILLE": "BASSILLAC ET AUBEROCHE    ",
+    "tel": "553028000",
+    "telecopie": "553032728",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "39246926800115",
+    "lng": "0.814166735180957",
+    "lat": "45.1926459585363"
+  }
+]

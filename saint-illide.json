@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "150002582",
+    "raison_sociale": "FAM BOS DARNIS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "CENTRE ALBART",
+    "cp": "15310",
+    "VILLE": "ST ILLIDE",
+    "tel": "471497410",
+    "telecopie": "471497411",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "77556255600271",
+    "lng": "2.29636689676892",
+    "lat": "45.0621565537603"
+  },
+  {
+    "finess": "150782282",
+    "raison_sociale": "EHPAD \"LES JARDINS DE ST ILLIDE\"",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LE BOURG",
+    "cp": "15310",
+    "VILLE": "ST ILLIDE",
+    "tel": "471497101",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26150012800010",
+    "lng": "2.31440372151334",
+    "lat": "45.0617845773652"
+  },
+  {
+    "finess": "150782811",
+    "raison_sociale": "FOYER DE VIE BOS DARNIS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "ALBART",
+    "bp": "",
+    "cp": "15310",
+    "VILLE": "ST ILLIDE",
+    "tel": "471497410",
+    "telecopie": "471497411",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "77556255600289",
+    "lng": "2.29636689676892",
+    "lat": "45.0621565537603"
+  }
+]

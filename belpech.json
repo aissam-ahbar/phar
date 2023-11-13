@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "110780715",
+    "raison_sociale": "EHPAD LE GARNAGUES",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE CURTIS",
+    "bp": "BP 21",
+    "cp": "11420",
+    "VILLE": "BELPECH ",
+    "tel": "468606031",
+    "telecopie": "468606863",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26110001000014",
+    "lng": "1.7512924386372",
+    "lat": "43.1973322451959"
+  },
+  {
+    "finess": "110789799",
+    "raison_sociale": "PHARMACIE DES DEUX SUD",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "ST JEAN",
+    "bp": "",
+    "cp": "11420",
+    "VILLE": "BELPECH ",
+    "tel": "468606679",
+    "telecopie": "468606860",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82994319000027",
+    "lng": "1.75027792409078",
+    "lat": "43.1967105691869"
+  },
+  {
+    "finess": "110790243",
+    "raison_sociale": "SSIAD PA EHPAD LE GARNAGUES",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE CURTIS",
+    "bp": "BP 21",
+    "cp": "11420",
+    "VILLE": "BELPECH ",
+    "tel": "468606880",
+    "telecopie": "468606981",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "26110001000022",
+    "lng": "1.7512924386372",
+    "lat": "43.1973322451959"
+  }
+]

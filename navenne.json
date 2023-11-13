@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "700002363",
+    "raison_sociale": "PHARMACIE  RICHARD - VALENTINI",
+    "numero voie": "25",
+    "type_voie": "R",
+    "libelle_voie": "PIERRE CURIE",
+    "bp": "",
+    "cp": "70000",
+    "VILLE": "NAVENNE ",
+    "tel": "384767721",
+    "telecopie": "384752566",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48897342100016",
+    "lng": "6.15863423999077",
+    "lat": "47.6135881981389"
+  },
+  {
+    "finess": "700005887",
+    "raison_sociale": "SAAD 1 DISPENSABLE DE NAVENNE",
+    "numero voie": "33",
+    "type_voie": "R",
+    "libelle_voie": "PIERRE CURIE",
+    "bp": "",
+    "cp": "70000",
+    "VILLE": "NAVENNE ",
+    "tel": "986256615",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "53374455300090",
+    "lng": "6.15666790210744",
+    "lat": "47.613340520173"
+  },
+  {
+    "finess": "700784887",
+    "raison_sociale": "CRF NAVENNE",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "PAUL MOREL",
+    "bp": "BP 293",
+    "cp": "70000",
+    "VILLE": "NAVENNE ",
+    "tel": "826207827",
+    "telecopie": "384962412",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "30116075000982",
+    "lng": "6.15809769132258",
+    "lat": "47.6094066487254"
+  }
+]

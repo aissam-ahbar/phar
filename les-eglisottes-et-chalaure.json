@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "330045931",
+    "raison_sociale": "PHARMACIE DU CHALAURE",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LACOMBE",
+    "bp": "LES EGLISOTTES",
+    "cp": "33230",
+    "VILLE": "LES EGLISOTTES ET CHALAURE   ",
+    "tel": "557695006",
+    "telecopie": "557495779",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "33868018400037",
+    "lng": "-0.057053051889175",
+    "lat": "45.0874655934814"
+  },
+  {
+    "finess": "330785411",
+    "raison_sociale": "ESAT LES ATELIERS DU BREUIL",
+    "numero voie": "19",
+    "type_voie": "",
+    "libelle_voie": "LE BREUIL",
+    "bp": "",
+    "cp": "33230",
+    "VILLE": "LES EGLISOTTES ET CHALAURE   ",
+    "tel": "557695185",
+    "telecopie": "557695657",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "78193151400108",
+    "lng": "-0.048350155754273",
+    "lat": "45.0939043030785"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "610009185",
+    "raison_sociale": "PSLA SAINT GEORGES DES GROSEILLERS",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DU JARDIN",
+    "bp": "",
+    "cp": "61100",
+    "VILLE": "ST GEORGES DES GROSEILLERS   ",
+    "tel": "682510670",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "89332449100016",
+    "lng": "-0.573196942794091",
+    "lat": "48.770825094651"
+  },
+  {
+    "finess": "610786733",
+    "raison_sociale": "PHARMACIE LE SECQ-DUVAL",
+    "numero voie": "5",
+    "type_voie": "PL",
+    "libelle_voie": "DU COMMERCE",
+    "bp": "",
+    "cp": "61100",
+    "VILLE": "ST GEORGES DES GROSEILLERS   ",
+    "tel": "233653180",
+    "telecopie": "233649121",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "43788891000019",
+    "lng": "-0.573163813126176",
+    "lat": "48.770639721902"
+  },
+  {
+    "finess": "610789422",
+    "raison_sociale": "EHPAD \"L'HORIZON\"-ST GEORGES DES GROS",
+    "numero voie": "17",
+    "type_voie": "R",
+    "libelle_voie": "DE LA GARENNE",
+    "bp": "",
+    "cp": "61100",
+    "VILLE": "ST GEORGES DES GROSEILLERS   ",
+    "tel": "233666544",
+    "telecopie": "233660646",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "39071902900022",
+    "lng": "-0.568741422422818",
+    "lat": "48.7571646633792"
+  }
+]

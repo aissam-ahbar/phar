@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "400009254",
+    "raison_sociale": "PHARMACIE MALLET",
+    "numero voie": "531",
+    "type_voie": "RTE",
+    "libelle_voie": "de Mimizan",
+    "bp": "",
+    "cp": "40110",
+    "VILLE": "ONESSE LAHARIE",
+    "tel": "558073295",
+    "telecopie": "532006171",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84452218500017",
+    "lng": "-1.07405627589218",
+    "lat": "44.0648999210753"
+  },
+  {
+    "finess": "400781100",
+    "raison_sociale": "EHPAD A NOSTE",
+    "numero voie": "52",
+    "type_voie": "CHE",
+    "libelle_voie": "DU LAVOIR",
+    "bp": "",
+    "cp": "40110",
+    "VILLE": "ONESSE LAHARIE",
+    "tel": "558073048",
+    "telecopie": "558073206",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "78210423600016",
+    "lng": "-1.06828815902512",
+    "lat": "44.0619467634624"
+  }
+]

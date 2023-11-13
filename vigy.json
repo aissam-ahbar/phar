@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "570021261",
+    "raison_sociale": "PHARMACIE NEU - ROGOWSKI",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "PASTEUR",
+    "bp": "",
+    "cp": "57640",
+    "VILLE": "VIGY ",
+    "tel": "387779108",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79110101700014",
+    "lng": "6.298252918846",
+    "lat": "49.202679473399"
+  },
+  {
+    "finess": "570023382",
+    "raison_sociale": "EHPAD RESIDENCE ANDRE COPIN",
+    "numero voie": "27",
+    "type_voie": "R",
+    "libelle_voie": "DU VAL DE METZ",
+    "bp": "",
+    "cp": "57640",
+    "VILLE": "VIGY ",
+    "tel": "387533450",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "",
+    "lng": "6.29394073093287",
+    "lat": "49.2045710071632"
+  },
+  {
+    "finess": "570028753",
+    "raison_sociale": "MSP DE VIGY",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU PRESBYTERE",
+    "bp": "",
+    "cp": "57640",
+    "VILLE": "VIGY ",
+    "tel": "387515604",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "85265409400014",
+    "lng": "6.29772655494251",
+    "lat": "49.2034479262894"
+  }
+]

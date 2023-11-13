@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "10005932",
+    "raison_sociale": "PHARMACIE DE TOSSIAT",
+    "numero voie": "15",
+    "type_voie": "RTE",
+    "libelle_voie": "DE MONTAGNAT",
+    "bp": "",
+    "cp": "1250",
+    "VILLE": "TOSSIAT ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53881353600025",
+    "lng": "5.31614253260319",
+    "lat": "46.1418214710648"
+  },
+  {
+    "finess": "10010353",
+    "raison_sociale": "MAISON DE SANTE TOSSIAT",
+    "numero voie": "51",
+    "type_voie": "RTE",
+    "libelle_voie": "DE MONTAGNAT",
+    "bp": "",
+    "cp": "1250",
+    "VILLE": "TOSSIAT ",
+    "tel": "474552256",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "80942866700012",
+    "lng": "5.3159489159423",
+    "lat": "46.1421164022291"
+  }
+]

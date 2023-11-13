@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "500000492",
+    "raison_sociale": "EHPAD \"LA CLAIRIÈRE DES BERNARDINS\"",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DES BERNARDINS",
+    "bp": "",
+    "cp": "50160",
+    "VILLE": "TORIGNY LES VILLES    ",
+    "tel": "233772020",
+    "telecopie": "233772029",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26500111500012",
+    "lng": "-0.984280771248572",
+    "lat": "49.0382369582551"
+  },
+  {
+    "finess": "500011721",
+    "raison_sociale": "PHARMACIE DU CHATEAU",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "Havin",
+    "bp": "",
+    "cp": "50160",
+    "VILLE": "TORIGNY LES VILLES    ",
+    "tel": "233567068",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48000218700015",
+    "lng": "-0.979395511404318",
+    "lat": "49.0353370928457"
+  },
+  {
+    "finess": "500020409",
+    "raison_sociale": "SSIAD - TORIGNI/VIRE",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DES BERNARDINS",
+    "bp": "",
+    "cp": "50160",
+    "VILLE": "TORIGNY LES VILLES    ",
+    "tel": "233772020",
+    "telecopie": "233772029",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "26500111500020",
+    "lng": "-0.984280771248572",
+    "lat": "49.0382369582551"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "490003696",
+    "raison_sociale": "EHPAD LES JARDINS D'IROISE DE BRION",
+    "numero voie": "24",
+    "type_voie": "",
+    "libelle_voie": "GRAND RUE",
+    "bp": "BRION",
+    "cp": "49250",
+    "VILLE": "LES BOIS D ANJOU   ",
+    "tel": "241572402",
+    "telecopie": "241446219",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "37769643000018",
+    "lng": "-0.157055461485121",
+    "lat": "47.4419616445019"
+  },
+  {
+    "finess": "490021698",
+    "raison_sociale": "SAAD RESIDENCE QUARTIER DE VIE",
+    "numero voie": "24",
+    "type_voie": "",
+    "libelle_voie": "GRAND'RUE",
+    "bp": "",
+    "cp": "49250",
+    "VILLE": "LES BOIS D ANJOU   ",
+    "tel": "241978888",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "83131526200012",
+    "lng": "-0.157055461485121",
+    "lat": "47.4419616445019"
+  }
+]

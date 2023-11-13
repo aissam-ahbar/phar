@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "620012575",
+    "raison_sociale": "PHARMACIE DE LABOURSE",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "ACHILLE LARUE",
+    "bp": "",
+    "cp": "62113",
+    "VILLE": "LABOURSE ",
+    "tel": "321652823",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75067829400026",
+    "lng": "2.68397077625077",
+    "lat": "50.5001643484226"
+  },
+  {
+    "finess": "620015768",
+    "raison_sociale": "EHPAD LES HÉLIANTINES",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "ACHILLE LARUE",
+    "bp": "",
+    "cp": "62113",
+    "VILLE": "LABOURSE ",
+    "tel": "321649009",
+    "telecopie": "321649055",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "38473987600116",
+    "lng": "2.68011107103339",
+    "lat": "50.4996275392053"
+  },
+  {
+    "finess": "620028985",
+    "raison_sociale": "ANTENNE ESAT CÉDATRA",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "62113",
+    "VILLE": "LABOURSE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "",
+    "lng": "2.68140297156352",
+    "lat": "50.4989621515403"
+  }
+]

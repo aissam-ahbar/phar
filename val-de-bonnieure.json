@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "160009874",
+    "raison_sociale": "EHPAD RESIDENCE LES JONQUILLES",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DES PLANTES",
+    "bp": "",
+    "cp": "16230",
+    "VILLE": "VAL DE BONNIEURE    ",
+    "tel": "545392330",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "35216855300019",
+    "lng": "0.286756427099165",
+    "lat": "45.8460583460531"
+  },
+  {
+    "finess": "160011409",
+    "raison_sociale": "PHARMACIE DE SAINT ANGEAU",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "des Charrons",
+    "bp": "",
+    "cp": "16230",
+    "VILLE": "VAL DE BONNIEURE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81339464000029",
+    "lng": "0.288583129507268",
+    "lat": "45.8476096258993"
+  },
+  {
+    "finess": "160015996",
+    "raison_sociale": "MSP DE ST ANGEAU",
+    "numero voie": "5",
+    "type_voie": "COUR",
+    "libelle_voie": "MARCHANDE",
+    "bp": "",
+    "cp": "16230",
+    "VILLE": "VAL DE BONNIEURE    ",
+    "tel": "545205785",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "81501416200011",
+    "lng": "0.287093396034258",
+    "lat": "45.8489848554942"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "520781584",
+    "raison_sociale": "EHPAD JEAN-FRANÇOIS BONNET CH CHAUMONT",
+    "numero voie": "18",
+    "type_voie": "R",
+    "libelle_voie": "CHENEVIERES",
+    "bp": "",
+    "cp": "52000",
+    "VILLE": "RIAUCOURT ",
+    "tel": "325307103",
+    "telecopie": "325307201",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26520004800055",
+    "lng": "5.1518565346303",
+    "lat": "48.1784021186931"
+  },
+  {
+    "finess": "520782939",
+    "raison_sociale": "USLD DU CH DE CHAUMONT",
+    "numero voie": "18",
+    "type_voie": "R",
+    "libelle_voie": "CHENEVIERES",
+    "bp": "",
+    "cp": "52000",
+    "VILLE": "RIAUCOURT ",
+    "tel": "325014598",
+    "telecopie": "",
+    "categorie etablissement": "362",
+    "libelle categorie": "Etablissement de Soins Longue Durée",
+    "siret": "26520004800071",
+    "lng": "5.1518565346303",
+    "lat": "48.1784021186931"
+  }
+]

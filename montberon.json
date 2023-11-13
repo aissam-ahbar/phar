@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "310009675",
+    "raison_sociale": "SELARL PHARMACIE DE LA FONTAINE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA FONTAINE",
+    "bp": "",
+    "cp": "31140",
+    "VILLE": "MONTBERON ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84875000600019",
+    "lng": "1.47859366422238",
+    "lat": "43.715241637663"
+  },
+  {
+    "finess": "310780119",
+    "raison_sociale": "CL DE MONTBERON",
+    "numero voie": "6",
+    "type_voie": "AV",
+    "libelle_voie": "DE NEUVILLE",
+    "bp": "",
+    "cp": "31140",
+    "VILLE": "MONTBERON ",
+    "tel": "562220077",
+    "telecopie": "",
+    "categorie etablissement": "161",
+    "libelle categorie": "Maison de Santé pour Maladies Mentales",
+    "siret": "66080199400014",
+    "lng": "1.48513658230128",
+    "lat": "43.720398094759"
+  }
+]

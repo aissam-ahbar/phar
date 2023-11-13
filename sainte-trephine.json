@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "220008932",
+    "raison_sociale": "SSIAD DE SAINTE TREPHINE",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DE L'ECOLE",
+    "bp": "",
+    "cp": "22480",
+    "VILLE": "STE TREPHINE",
+    "tel": "296292214",
+    "telecopie": "296292210",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "34221040800023",
+    "lng": "-3.15634941394141",
+    "lat": "48.2675462512933"
+  },
+  {
+    "finess": "220021992",
+    "raison_sociale": "SAAD COMITE D'ENTRAIDE KREIZ BREIZH",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DE L'ECOLE",
+    "bp": "",
+    "cp": "22480",
+    "VILLE": "STE TREPHINE",
+    "tel": "296292210",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "34221040800023",
+    "lng": "-3.15634941394141",
+    "lat": "48.2675462512933"
+  }
+]

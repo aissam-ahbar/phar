@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "600006753",
+    "raison_sociale": "PHARMACIE ROMBAUX",
+    "numero voie": "8",
+    "type_voie": "PL",
+    "libelle_voie": "MARIUS HAUSSY",
+    "bp": "",
+    "cp": "60890",
+    "VILLE": "MAREUIL SUR OURCQ    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80376645000024",
+    "lng": "3.0774948435681",
+    "lat": "49.1377533173807"
+  },
+  {
+    "finess": "600111017",
+    "raison_sociale": "SERVICE D'AIDE MENAGERE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "60890",
+    "VILLE": "MAREUIL SUR OURCQ    ",
+    "tel": "344872438",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37896649300025",
+    "lng": "3.080298750003",
+    "lat": "49.1388384692001"
+  },
+  {
+    "finess": "600111033",
+    "raison_sociale": "SCE AIDE MENAGERE A LA FAMILLE",
+    "numero voie": "31",
+    "type_voie": "R",
+    "libelle_voie": "DE MEAUX",
+    "bp": "",
+    "cp": "60890",
+    "VILLE": "MAREUIL SUR OURCQ    ",
+    "tel": "344872438",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37896649300017",
+    "lng": "3.07729040852395",
+    "lat": "49.1366583659566"
+  }
+]

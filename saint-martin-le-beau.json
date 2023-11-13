@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "370007460",
+    "raison_sociale": "PHARMACIE DE SAINT MARTIN",
+    "numero voie": "22",
+    "type_voie": "R",
+    "libelle_voie": "du Gros Buisson",
+    "bp": "",
+    "cp": "37270",
+    "VILLE": "ST MARTIN LE BEAU   ",
+    "tel": "247506723",
+    "telecopie": "234881191",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81056973100021",
+    "lng": "0.891665498522258",
+    "lat": "47.3628180866818"
+  },
+  {
+    "finess": "370010100",
+    "raison_sociale": "SAAD ADMR VALLEE DU CHER",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DE TOURS",
+    "bp": "",
+    "cp": "37270",
+    "VILLE": "ST MARTIN LE BEAU   ",
+    "tel": "247506059",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "79039889500017",
+    "lng": "0.9089237320773",
+    "lat": "47.3554664339074"
+  },
+  {
+    "finess": "370103574",
+    "raison_sociale": "SAAD ADMR SAINT MARTIN LE BEAU",
+    "numero voie": "12",
+    "type_voie": "R",
+    "libelle_voie": "DE TOURS",
+    "bp": "",
+    "cp": "37270",
+    "VILLE": "ST MARTIN LE BEAU   ",
+    "tel": "247735760",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31290725600019",
+    "lng": "0.90837646220551",
+    "lat": "47.3557033283383"
+  }
+]

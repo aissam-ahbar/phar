@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "140010497",
+    "raison_sociale": "PHARMACIE DE LA MER",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "DE L ETOILE",
+    "bp": "",
+    "cp": "14530",
+    "VILLE": "LUC SUR MER    ",
+    "tel": "231973210",
+    "telecopie": "231971986",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53970028600013",
+    "lng": "-0.357090646039752",
+    "lat": "49.316506022854"
+  },
+  {
+    "finess": "140026998",
+    "raison_sociale": "EHPAD RESIDENCE EMERA - LUC SUR MER",
+    "numero voie": "12",
+    "type_voie": "R",
+    "libelle_voie": "MARIN L'ABBE",
+    "bp": "",
+    "cp": "14530",
+    "VILLE": "LUC SUR MER    ",
+    "tel": "231255300",
+    "telecopie": "231255399",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "",
+    "lng": "-0.35217019729342",
+    "lat": "49.3124347234671"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "670007988",
+    "raison_sociale": "EHPAD ABRAPA THAL MARMOUTIER",
+    "numero voie": "39",
+    "type_voie": "R",
+    "libelle_voie": "BALLERICH",
+    "bp": "",
+    "cp": "67440",
+    "VILLE": "THAL MARMOUTIER",
+    "tel": "388021330",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77564206900659",
+    "lng": "7.35018054441485",
+    "lat": "48.7060697459567"
+  },
+  {
+    "finess": "670782499",
+    "raison_sociale": "CTRE SOINS INF.THAL MARMOUTIER",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "BALLERICH",
+    "bp": "",
+    "cp": "67440",
+    "VILLE": "THAL MARMOUTIER",
+    "tel": "388916545",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "39387100900014",
+    "lng": "7.35165857797606",
+    "lat": "48.7020360155277"
+  }
+]

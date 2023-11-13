@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "20012092",
+    "raison_sociale": "FRANCIS RINGEVAL ET AGNES BELOIU",
+    "numero voie": "33",
+    "type_voie": "AV",
+    "libelle_voie": "DE REIMS",
+    "bp": "",
+    "cp": "2200",
+    "VILLE": "VILLENEUVE ST GERMAIN    ",
+    "tel": "323531268",
+    "telecopie": "323537556",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34523270600019",
+    "lng": "3.33782771201798",
+    "lat": "49.3748520358271"
+  },
+  {
+    "finess": "20017026",
+    "raison_sociale": "MSP DE VILLENEUVE-ST-GERMAIN",
+    "numero voie": "285",
+    "type_voie": "AV",
+    "libelle_voie": "DE REIMS",
+    "bp": "",
+    "cp": "2200",
+    "VILLE": "VILLENEUVE ST GERMAIN    ",
+    "tel": "323533606",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "47861730100054",
+    "lng": "3.34155760792537",
+    "lat": "49.3739193160359"
+  },
+  {
+    "finess": "20017430",
+    "raison_sociale": "EFS VILLENEUVE ST GERMAIN",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "SAINT EXUPERY",
+    "bp": "",
+    "cp": "2200",
+    "VILLE": "VILLENEUVE ST GERMAIN    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "132",
+    "libelle categorie": "Etablissement de Transfusion Sanguine",
+    "siret": "42882285202389",
+    "lng": "3.36289929827074",
+    "lat": "49.3706985066252"
+  }
+]

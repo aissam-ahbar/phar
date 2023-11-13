@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "640014858",
+    "raison_sociale": "EANM FOYER LOU REY",
+    "numero voie": "210",
+    "type_voie": "RTE",
+    "libelle_voie": "DE ST COLOME",
+    "bp": "",
+    "cp": "64260",
+    "VILLE": "SEVIGNACQ MEYRACQ",
+    "tel": "559058288",
+    "telecopie": "559058330",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "77563866100451",
+    "lng": "-0.410149857848147",
+    "lat": "43.1084172099268"
+  },
+  {
+    "finess": "640794822",
+    "raison_sociale": "EHPAD  ARGELAS",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE BESCAT",
+    "bp": "",
+    "cp": "64260",
+    "VILLE": "SEVIGNACQ MEYRACQ",
+    "tel": "559057544",
+    "telecopie": "559056111",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "82862974100020",
+    "lng": "-0.416566547298811",
+    "lat": "43.1167394423189"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "80000169",
+    "raison_sociale": "IME LES SYLVAINS",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "ANDREE PIERRE VIENOT",
+    "bp": "",
+    "cp": "8310",
+    "VILLE": "DRICOURT ",
+    "tel": "324713030",
+    "telecopie": "324713039",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "79102297300030",
+    "lng": "4.5200438949801",
+    "lat": "49.4056164030476"
+  },
+  {
+    "finess": "80007768",
+    "raison_sociale": "SESSAD LES SYLVAINS",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "VIENOT",
+    "bp": "",
+    "cp": "8310",
+    "VILLE": "DRICOURT ",
+    "tel": "324713030",
+    "telecopie": "324713039",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "",
+    "lng": "4.51323355124488",
+    "lat": "49.3951834342765"
+  },
+  {
+    "finess": "80010192",
+    "raison_sociale": "ITEP THERESE ET CHARLES FORTIER",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "ANDREE PIERRE VIENOT",
+    "bp": "",
+    "cp": "8310",
+    "VILLE": "DRICOURT ",
+    "tel": "324713030",
+    "telecopie": "",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "79102297300030",
+    "lng": "4.5200438949801",
+    "lat": "49.4056164030476"
+  }
+]

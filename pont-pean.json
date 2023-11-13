@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "350020657",
+    "raison_sociale": "SELARL PHARMACIE DES GENETS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "35131",
+    "VILLE": "PONT PEAN",
+    "tel": "299524120",
+    "telecopie": "299057945",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49104291700014",
+    "lng": "-1.70596666477849",
+    "lat": "48.0109584058308"
+  },
+  {
+    "finess": "350053062",
+    "raison_sociale": "SAAD ADMR ISE ET BRUYERE",
+    "numero voie": "19",
+    "type_voie": "RTE",
+    "libelle_voie": "DE NANTES",
+    "bp": "",
+    "cp": "35131",
+    "VILLE": "PONT PEAN",
+    "tel": "299579068",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "77766026700058",
+    "lng": "-1.70325289622669",
+    "lat": "48.0146937702546"
+  }
+]

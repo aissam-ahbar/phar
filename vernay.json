@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "690035662",
+    "raison_sociale": "INTERNAT SCOLAIRE MAUCHAMP",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "CHATEAU D'AMIGNIE",
+    "cp": "69430",
+    "VILLE": "VERNAY ",
+    "tel": "474692788",
+    "telecopie": "474692271",
+    "categorie etablissement": "378",
+    "libelle categorie": "Etablissement Expérimental Enfance Protégée",
+    "siret": "77990467100152",
+    "lng": "4.51940271286998",
+    "lat": "46.1703080641823"
+  },
+  {
+    "finess": "690045430",
+    "raison_sociale": "SERVICE ACCUEIL MINEURS NON ACCOMPAGNÉ",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "CHATEAU D'AMIGNIE",
+    "cp": "69430",
+    "VILLE": "VERNAY ",
+    "tel": "474692788",
+    "telecopie": "474692271",
+    "categorie etablissement": "378",
+    "libelle categorie": "Etablissement Expérimental Enfance Protégée",
+    "siret": "77990467100152",
+    "lng": "4.51940271286998",
+    "lat": "46.1703080641823"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "540024320",
+    "raison_sociale": "EXPAIR SANTE",
+    "numero voie": "37",
+    "type_voie": "R",
+    "libelle_voie": "PROPER CABIROL",
+    "bp": "",
+    "cp": "54940",
+    "VILLE": "BELLEVILLE ",
+    "tel": "953139381",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "78917154300018",
+    "lng": "6.10855310677402",
+    "lat": "48.8187059109419"
+  },
+  {
+    "finess": "690000583",
+    "raison_sociale": "CH DE BELLEVILLE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "PAULIN BUSSIERES",
+    "bp": "CS 60004",
+    "cp": "69824",
+    "VILLE": "BELLEVILLE ",
+    "tel": "474065250",
+    "telecopie": "474663819",
+    "categorie etablissement": "106",
+    "libelle categorie": "Centre hospitalier",
+    "siret": "",
+    "lng": "4.74757589433344",
+    "lat": "46.1109689587016"
+  },
+  {
+    "finess": "690027719",
+    "raison_sociale": "SAD",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "FRANÇOIS BOURDY",
+    "bp": "BP 168",
+    "cp": "69823",
+    "VILLE": "BELLEVILLE ",
+    "tel": "474696050",
+    "telecopie": "474664468",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "77965939000040",
+    "lng": "4.74949082385323",
+    "lat": "46.1071753950725"
+  }
+]

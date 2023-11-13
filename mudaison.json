@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "340029214",
+    "raison_sociale": "CPTS MONTPELLIER EST-BERANGE",
+    "numero voie": "18",
+    "type_voie": "R",
+    "libelle_voie": "DES CARRIETTES",
+    "bp": "",
+    "cp": "34130",
+    "VILLE": "MUDAISON ",
+    "tel": "664335617",
+    "telecopie": "",
+    "categorie etablissement": "604",
+    "libelle categorie": "Communautés professionnelles territoriales de santé (CPTS)",
+    "siret": "88274175400015",
+    "lng": "4.04120529646282",
+    "lat": "43.6489967140184"
+  },
+  {
+    "finess": "340794940",
+    "raison_sociale": "PHARMACIE D'AGATA",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DES CARRIERETTES",
+    "bp": "",
+    "cp": "34130",
+    "VILLE": "MUDAISON ",
+    "tel": "467700598",
+    "telecopie": "467708431",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80259792200011",
+    "lng": "4.03818174374865",
+    "lat": "43.6489419357233"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "90003799",
+    "raison_sociale": "HJ PIJ L'HERM CH ARIEGE COUSERANS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LA VERGNIERE",
+    "bp": "",
+    "cp": "9000",
+    "VILLE": "L HERM",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "355",
+    "libelle categorie": "Centre Hospitalier (C.H.)",
+    "siret": "26090016200330",
+    "lng": "1.67372600191487",
+    "lat": "42.9780960974827"
+  },
+  {
+    "finess": "90780354",
+    "raison_sociale": "IME DE LA VERGNIERE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "9000",
+    "VILLE": "L HERM",
+    "tel": "534098409",
+    "telecopie": "561026442",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "26090022000013",
+    "lng": "1.68651862223197",
+    "lat": "42.9720388153733"
+  }
+]

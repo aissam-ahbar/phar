@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "340007715",
+    "raison_sociale": "PHARMACIE DES MATELLES",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DES SANTOLINES",
+    "bp": "",
+    "cp": "34270",
+    "VILLE": "LES MATELLES",
+    "tel": "467840679",
+    "telecopie": "467666537",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52261316500011",
+    "lng": "3.80967687454303",
+    "lat": "43.7278084595771"
+  },
+  {
+    "finess": "340784115",
+    "raison_sociale": "EHPAD NOTRE DAME DES CHAMPS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "34270",
+    "VILLE": "LES MATELLES",
+    "tel": "467668686",
+    "telecopie": "467668687",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "52313258700024",
+    "lng": "3.81063034089289",
+    "lat": "43.7302058687089"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "330012758",
+    "raison_sociale": "LIEU DE VIE LA FERMETTE MARILLAC",
+    "numero voie": "43",
+    "type_voie": "",
+    "libelle_voie": "LA GACHE",
+    "bp": "",
+    "cp": "33920",
+    "VILLE": "ST CHRISTOLY DE BLAYE   ",
+    "tel": "557425887",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "47968737800014",
+    "lng": "-0.488842605948945",
+    "lat": "45.1444437186712"
+  },
+  {
+    "finess": "330050824",
+    "raison_sociale": "SELARL  PHARMACIE SAINT CHRISTOPHE",
+    "numero voie": "43",
+    "type_voie": "R",
+    "libelle_voie": "DU 19 MARS 1962",
+    "bp": "",
+    "cp": "33920",
+    "VILLE": "ST CHRISTOLY DE BLAYE   ",
+    "tel": "557425033",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80397649700021",
+    "lng": "-0.508080836652284",
+    "lat": "45.1295969409703"
+  }
+]

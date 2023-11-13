@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "140011123",
+    "raison_sociale": "PHARMACIE DE RANVILLE",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "du stade de Ranville",
+    "bp": "",
+    "cp": "14860",
+    "VILLE": "RANVILLE ",
+    "tel": "231787687",
+    "telecopie": "826387504",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52962784600023",
+    "lng": "-0.257136986826863",
+    "lat": "49.2321089658887"
+  },
+  {
+    "finess": "140032863",
+    "raison_sociale": "HUAS RANVILLE SARL UN TOIT POUR TOUS",
+    "numero voie": "21",
+    "type_voie": "R",
+    "libelle_voie": "DU GENERAL LECLERC",
+    "bp": "",
+    "cp": "14860",
+    "VILLE": "RANVILLE ",
+    "tel": "231845859",
+    "telecopie": "231345555",
+    "categorie etablissement": "219",
+    "libelle categorie": "Autre Centre d'Accueil",
+    "siret": "79117288500018",
+    "lng": "-0.255257650002786",
+    "lat": "49.2290150764553"
+  },
+  {
+    "finess": "140032996",
+    "raison_sociale": "SAD ASSOCIATION ETRE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DES AIRBORNES",
+    "bp": "",
+    "cp": "14860",
+    "VILLE": "RANVILLE ",
+    "tel": "231340398",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "39061801500049",
+    "lng": "-0.256532692567228",
+    "lat": "49.2316331276359"
+  }
+]

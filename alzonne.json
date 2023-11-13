@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "110787058",
+    "raison_sociale": "ATELIER PROTEGE DE CENNE MONESTIES",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE BRAM",
+    "bp": "BP 38",
+    "cp": "11170",
+    "VILLE": "ALZONNE ",
+    "tel": "468942016",
+    "telecopie": "468942364",
+    "categorie etablissement": "247",
+    "libelle categorie": "Entreprise adaptée",
+    "siret": "",
+    "lng": "2.17588765445385",
+    "lat": "43.2464209477477"
+  },
+  {
+    "finess": "110789740",
+    "raison_sociale": "PHARMACIE D'ALZONNE",
+    "numero voie": "31",
+    "type_voie": "AV",
+    "libelle_voie": "Antoine Courrière",
+    "bp": "",
+    "cp": "11170",
+    "VILLE": "ALZONNE ",
+    "tel": "468760011",
+    "telecopie": "468760526",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80443314200010",
+    "lng": "2.17847675473685",
+    "lat": "43.2537731458888"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "290011634",
+    "raison_sociale": "HEUILLON",
+    "numero voie": "1",
+    "type_voie": "ALL",
+    "libelle_voie": "DU STADE",
+    "bp": "",
+    "cp": "29550",
+    "VILLE": "PLONEVEZ PORZAY",
+    "tel": "298925034",
+    "telecopie": "298925799",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "35006696500020",
+    "lng": "-4.22064294019242",
+    "lat": "48.1254952221493"
+  },
+  {
+    "finess": "290035997",
+    "raison_sociale": "SISA DU PORZAY",
+    "numero voie": "",
+    "type_voie": "PARC",
+    "libelle_voie": "D'ACTIVITE DU PORZAY",
+    "bp": "",
+    "cp": "29550",
+    "VILLE": "PLONEVEZ PORZAY",
+    "tel": "298925534",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "82781798200016",
+    "lng": "-4.22042185887916",
+    "lat": "48.1258223483565"
+  }
+]

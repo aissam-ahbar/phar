@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "10003655",
+    "raison_sociale": "PHARMACIE DE FAREINS",
+    "numero voie": "279",
+    "type_voie": "RTE",
+    "libelle_voie": "de Flechères",
+    "bp": "",
+    "cp": "1480",
+    "VILLE": "FAREINS ",
+    "tel": "474678715",
+    "telecopie": "474679250",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83358331300014",
+    "lng": "4.76072945326636",
+    "lat": "46.020860887865"
+  },
+  {
+    "finess": "10011963",
+    "raison_sociale": "SAAD ANCR'AGES A DOMICILE",
+    "numero voie": "87",
+    "type_voie": "CHE",
+    "libelle_voie": "DE CHASSINAL",
+    "bp": "",
+    "cp": "1480",
+    "VILLE": "FAREINS ",
+    "tel": "474672431",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "52933788300043",
+    "lng": "4.75730584015594",
+    "lat": "46.0204168333436"
+  }
+]

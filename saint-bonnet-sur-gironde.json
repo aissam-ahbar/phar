@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "170014526",
+    "raison_sociale": "PHARMACIE ANGIBAUD-ROCHER",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "de la Mairie",
+    "bp": "",
+    "cp": "17150",
+    "VILLE": "ST BONNET SUR GIRONDE   ",
+    "tel": "545686016",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34203201800026",
+    "lng": "-0.659057251428711",
+    "lat": "45.3532727561723"
+  },
+  {
+    "finess": "170805691",
+    "raison_sociale": "EHPAD LE JARDIN DES LOGES",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DE LA CROIX",
+    "bp": "",
+    "cp": "17150",
+    "VILLE": "ST BONNET SUR GIRONDE   ",
+    "tel": "546860808",
+    "telecopie": "546860111",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "39480654100014",
+    "lng": "-0.659375891715086",
+    "lat": "45.3521499919843"
+  }
+]

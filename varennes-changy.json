@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "450016811",
+    "raison_sociale": "PHARMACIE DE VARENNES-CHANGY",
+    "numero voie": "20",
+    "type_voie": "R",
+    "libelle_voie": "DE NOGENT",
+    "bp": "",
+    "cp": "45290",
+    "VILLE": "VARENNES CHANGY",
+    "tel": "238945212",
+    "telecopie": "238945009",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "85171959100014",
+    "lng": "2.66158996390872",
+    "lat": "47.8651957784205"
+  },
+  {
+    "finess": "450022934",
+    "raison_sociale": "CPTS DU GATINAIS MONTARGOIS",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "PORTEAU",
+    "bp": "",
+    "cp": "45290",
+    "VILLE": "VARENNES CHANGY",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "604",
+    "libelle categorie": "Communautés professionnelles territoriales de santé (CPTS)",
+    "siret": "",
+    "lng": "2.66490451023396",
+    "lat": "47.8638724006071"
+  }
+]

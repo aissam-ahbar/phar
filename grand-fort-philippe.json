@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "590017570",
+    "raison_sociale": "PHARMACIE PRUVOST",
+    "numero voie": "12",
+    "type_voie": "ALL",
+    "libelle_voie": "DES PEUPLIERS",
+    "bp": "",
+    "cp": "59153",
+    "VILLE": "GRAND FORT PHILIPPE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82888816400013",
+    "lng": "2.11226739020545",
+    "lat": "50.9906045500051"
+  },
+  {
+    "finess": "590017604",
+    "raison_sociale": "PHARMACIE LEMAIRE",
+    "numero voie": "28",
+    "type_voie": "R",
+    "libelle_voie": "DU MARECHAL FOCH",
+    "bp": "",
+    "cp": "59153",
+    "VILLE": "GRAND FORT PHILIPPE    ",
+    "tel": "328230706",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38130216500018",
+    "lng": "2.10375224675278",
+    "lat": "51.0032720416909"
+  },
+  {
+    "finess": "590017620",
+    "raison_sociale": "SELARL PHARMACIE DUHAMEL",
+    "numero voie": "18",
+    "type_voie": "R",
+    "libelle_voie": "ALBERT 1ER",
+    "bp": "",
+    "cp": "59153",
+    "VILLE": "GRAND FORT PHILIPPE    ",
+    "tel": "328230716",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79490944000016",
+    "lng": "2.10462080428499",
+    "lat": "51.0015345378087"
+  }
+]

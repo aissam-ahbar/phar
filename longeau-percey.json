@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "520001850",
+    "raison_sociale": "SNC PHARMACIE DE LONGEAU",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DE FRANCHE COMTE",
+    "bp": "",
+    "cp": "52250",
+    "VILLE": "LONGEAU PERCEY",
+    "tel": "325884135",
+    "telecopie": "325885632",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40497665600029",
+    "lng": "5.3106262697546",
+    "lat": "47.7647076087192"
+  },
+  {
+    "finess": "520781733",
+    "raison_sociale": "EHPAD SAINT AUGUSTIN",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "LAUSANNE",
+    "bp": "",
+    "cp": "52250",
+    "VILLE": "LONGEAU PERCEY",
+    "tel": "325884227",
+    "telecopie": "325876765",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "78047783200015",
+    "lng": "5.31759441016827",
+    "lat": "47.7583173265387"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "110005709",
+    "raison_sociale": "EAM ST VINCENT",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "CHEMIN DE PEYROUNET",
+    "bp": "",
+    "cp": "11290",
+    "VILLE": "MONTREAL ",
+    "tel": "468104853",
+    "telecopie": "",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "51267423500142",
+    "lng": "2.14976493652556",
+    "lat": "43.1961227382514"
+  },
+  {
+    "finess": "110780756",
+    "raison_sociale": "RESIDENCE DE LA MALEPERE",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DES TINS",
+    "bp": "BP 9",
+    "cp": "11290",
+    "VILLE": "MONTREAL ",
+    "tel": "468762053",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26110009300010",
+    "lng": "2.14035764947857",
+    "lat": "43.1939099979773"
+  },
+  {
+    "finess": "110790706",
+    "raison_sociale": "PHARMACIE GAUTHERON",
+    "numero voie": "22",
+    "type_voie": "AV",
+    "libelle_voie": "DU LAURAGAIS",
+    "bp": "",
+    "cp": "11290",
+    "VILLE": "MONTREAL ",
+    "tel": "468762024",
+    "telecopie": "890342084",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "33890505200019",
+    "lng": "2.14154549995779",
+    "lat": "43.2005167263285"
+  }
+]

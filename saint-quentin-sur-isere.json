@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380010421",
+    "raison_sociale": "SELARL PHARMACIE DU MARTINET",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LE MARTINET",
+    "bp": "",
+    "cp": "38210",
+    "VILLE": "ST QUENTIN SUR ISERE   ",
+    "tel": "476936808",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80957394200012",
+    "lng": "5.5393548193933",
+    "lat": "45.2788531252511"
+  },
+  {
+    "finess": "380024067",
+    "raison_sociale": "SAAD ADMR BAS GRESIVAUDAN",
+    "numero voie": "481",
+    "type_voie": "R",
+    "libelle_voie": "DU VERCORS",
+    "bp": "",
+    "cp": "38210",
+    "VILLE": "ST QUENTIN SUR ISERE   ",
+    "tel": "476655724",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "5.54437286199813",
+    "lat": "45.2799282321561"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "560000242",
+    "raison_sociale": "CPCR  BILLIERS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "DOMAINE DES PRIERES",
+    "bp": "",
+    "cp": "56190",
+    "VILLE": "BILLIERS ",
+    "tel": "297486161",
+    "telecopie": "297486162",
+    "categorie etablissement": "430",
+    "libelle categorie": "Centre Postcure Malades Mentaux",
+    "siret": "41205961000045",
+    "lng": "-2.48881685009102",
+    "lat": "47.5250782170999"
+  },
+  {
+    "finess": "560030199",
+    "raison_sociale": "EANM CPRB DE BILLIERS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "DOMAINE DES PRIERES",
+    "bp": "",
+    "cp": "56190",
+    "VILLE": "BILLIERS ",
+    "tel": "297267700",
+    "telecopie": "",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "",
+    "lng": "-2.48881685009102",
+    "lat": "47.5250782170999"
+  },
+  {
+    "finess": "560031403",
+    "raison_sociale": "SAVS EN ARBENN",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "DOMAINE DE PRIERES",
+    "bp": "",
+    "cp": "56190",
+    "VILLE": "BILLIERS ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "446",
+    "libelle categorie": "Service d'Accompagnement à la Vie Sociale (S.A.V.S.)",
+    "siret": "",
+    "lng": "-2.48881685009102",
+    "lat": "47.5250782170999"
+  }
+]

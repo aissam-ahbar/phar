@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "180002990",
+    "raison_sociale": "SARL PHARMACIE BORGET - JAVOT",
+    "numero voie": "55",
+    "type_voie": "AV",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "18340",
+    "VILLE": "LEVET ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51859115100015",
+    "lng": "2.404606343707",
+    "lat": "46.9278166987443"
+  },
+  {
+    "finess": "180009896",
+    "raison_sociale": "MSP DE LEVET - ET",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DES CHARMILLES",
+    "bp": "",
+    "cp": "18340",
+    "VILLE": "LEVET ",
+    "tel": "248251030",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "84376439000012",
+    "lng": "2.40815368596873",
+    "lat": "46.9231286542721"
+  }
+]

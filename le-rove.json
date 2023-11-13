@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "130014897",
+    "raison_sociale": "PHARMACIE DU ROVE",
+    "numero voie": "64",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE 568",
+    "bp": "",
+    "cp": "13740",
+    "VILLE": "LE ROVE",
+    "tel": "491469035",
+    "telecopie": "491099137",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "78978852800014",
+    "lng": "5.25157217592463",
+    "lat": "43.3683030403963"
+  },
+  {
+    "finess": "130040801",
+    "raison_sociale": "LBM INOVIE LABOSUD PROVENCE SITE LE RO",
+    "numero voie": "64",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE 568",
+    "bp": "",
+    "cp": "13740",
+    "VILLE": "LE ROVE",
+    "tel": "491099819",
+    "telecopie": "491099807",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "",
+    "lng": "5.25157217592463",
+    "lat": "43.3683030403963"
+  },
+  {
+    "finess": "130043797",
+    "raison_sociale": "EHPAD LA CARRAIRADE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU DEVEN",
+    "bp": "",
+    "cp": "13740",
+    "VILLE": "LE ROVE",
+    "tel": "491962349",
+    "telecopie": "491962393",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "49017361400036",
+    "lng": "5.24871145117131",
+    "lat": "43.3668190672485"
+  }
+]

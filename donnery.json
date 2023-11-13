@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "450005517",
+    "raison_sociale": "PHARMACIE BOIDIN-GUILHON",
+    "numero voie": "5",
+    "type_voie": "AV",
+    "libelle_voie": "PONSON DU TERRAIL",
+    "bp": "",
+    "cp": "45450",
+    "VILLE": "DONNERY ",
+    "tel": "238595417",
+    "telecopie": "238595417",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "42993433400021",
+    "lng": "2.10254931389451",
+    "lat": "47.9152446202071"
+  },
+  {
+    "finess": "450022645",
+    "raison_sociale": "SAAD DONNERY ESPACE ACCUEIL",
+    "numero voie": "12",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "45450",
+    "VILLE": "DONNERY ",
+    "tel": "238462631",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "39969080900013",
+    "lng": "2.10182349559667",
+    "lat": "47.9150185681045"
+  }
+]

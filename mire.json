@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "490002789",
+    "raison_sociale": "EHPAD BEAUSOLEIL",
+    "numero voie": "1",
+    "type_voie": "AV",
+    "libelle_voie": "DE BRETAGNE",
+    "bp": "",
+    "cp": "49330",
+    "VILLE": "MIRE ",
+    "tel": "241328228",
+    "telecopie": "241695261",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "78617698200019",
+    "lng": "-0.494259120105405",
+    "lat": "47.7609698647432"
+  },
+  {
+    "finess": "490533544",
+    "raison_sociale": "PHARMACIE DE MIRE",
+    "numero voie": "7",
+    "type_voie": "AV",
+    "libelle_voie": "DU HAUT ANJOU",
+    "bp": "",
+    "cp": "49330",
+    "VILLE": "MIRE ",
+    "tel": "241328097",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "33008135700031",
+    "lng": "-0.491902375530733",
+    "lat": "47.7574914831875"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "20002747",
+    "raison_sociale": "PHARMACIE DE BRUYÈRES",
+    "numero voie": "2",
+    "type_voie": "PL",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "2860",
+    "VILLE": "BRUYERES ET MONTBERAULT    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53477929300024",
+    "lng": "3.66439799201142",
+    "lat": "49.5241854489788"
+  },
+  {
+    "finess": "20013777",
+    "raison_sociale": "SAD ADMR MONTHENAULT ET ENVIRONS",
+    "numero voie": "3",
+    "type_voie": "PL",
+    "libelle_voie": "DU GÉNÉRAL DE GAULLE",
+    "bp": "",
+    "cp": "2860",
+    "VILLE": "BRUYERES ET MONTBERAULT    ",
+    "tel": "323240123",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "3.66438777879242",
+    "lat": "49.5239293616188"
+  }
+]

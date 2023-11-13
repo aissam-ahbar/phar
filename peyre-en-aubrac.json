@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "480003565",
+    "raison_sociale": "SAAD ADMR TERRE DE PEYRE",
+    "numero voie": "1",
+    "type_voie": "AV",
+    "libelle_voie": "DE PEYRE",
+    "bp": "",
+    "cp": "48130",
+    "VILLE": "PEYRE EN AUBRAC    ",
+    "tel": "466429732",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "44087127500036",
+    "lng": "3.28310441784867",
+    "lat": "44.7217684304617"
+  },
+  {
+    "finess": "480780865",
+    "raison_sociale": "EHPAD COS LA GINESTADO",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "PAILLADE",
+    "bp": "",
+    "cp": "48130",
+    "VILLE": "PEYRE EN AUBRAC    ",
+    "tel": "466428580",
+    "telecopie": "466429417",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "49329278300039",
+    "lng": "3.28806766225522",
+    "lat": "44.7240892119031"
+  },
+  {
+    "finess": "480782788",
+    "raison_sociale": "PHARMACIE DE PEYRE",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA CROIX",
+    "bp": "",
+    "cp": "48130",
+    "VILLE": "PEYRE EN AUBRAC    ",
+    "tel": "466428011",
+    "telecopie": "466429306",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84032065900013",
+    "lng": "3.28610399422176",
+    "lat": "44.7226061045403"
+  }
+]

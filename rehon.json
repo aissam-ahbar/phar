@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "540017142",
+    "raison_sociale": "PHARMACIE WILLEMIN",
+    "numero voie": "16",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CHENIERES",
+    "bp": "HEUMONT",
+    "cp": "54430",
+    "VILLE": "REHON ",
+    "tel": "382243476",
+    "telecopie": "382251906",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39484116700015",
+    "lng": "5.75495679816511",
+    "lat": "49.4911936184689"
+  },
+  {
+    "finess": "540017175",
+    "raison_sociale": "PHARMACIE CHANTRAINE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "du Calvaire",
+    "bp": "",
+    "cp": "54430",
+    "VILLE": "REHON ",
+    "tel": "382243113",
+    "telecopie": "382254238",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50266079800021",
+    "lng": "5.75097839849977",
+    "lat": "49.497030485133"
+  }
+]

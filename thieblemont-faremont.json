@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "510002124",
+    "raison_sociale": "EHPAD DE THIEBLEMONT",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "LAURENT GERARD",
+    "bp": "",
+    "cp": "51300",
+    "VILLE": "THIEBLEMONT FAREMONT",
+    "tel": "326738005",
+    "telecopie": "326726388",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26510017200013",
+    "lng": "4.73128226776189",
+    "lat": "48.6929495026057"
+  },
+  {
+    "finess": "510021942",
+    "raison_sociale": "PHARMACIE SAINT-MARTIN",
+    "numero voie": "14",
+    "type_voie": "R",
+    "libelle_voie": "LAURENT GERARD",
+    "bp": "",
+    "cp": "51300",
+    "VILLE": "THIEBLEMONT FAREMONT",
+    "tel": "326738299",
+    "telecopie": "326738406",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "41779083900027",
+    "lng": "4.73092515473995",
+    "lat": "48.6909475304508"
+  }
+]

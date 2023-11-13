@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "610002412",
+    "raison_sociale": "SSIAD  - MORTAGNE",
+    "numero voie": "6",
+    "type_voie": "CHE",
+    "libelle_voie": "BU BREUIL",
+    "bp": "",
+    "cp": "61400",
+    "VILLE": "ST LANGIS LES MORTAGNE   ",
+    "tel": "233839700",
+    "telecopie": "233739168",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "",
+    "lng": "0.533430212165206",
+    "lat": "48.5247871519045"
+  },
+  {
+    "finess": "610007387",
+    "raison_sociale": "FJT RESIDENCE SOCIALE MORTAGNE ALTHEA",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "D'ALENCON",
+    "bp": "",
+    "cp": "61400",
+    "VILLE": "ST LANGIS LES MORTAGNE   ",
+    "tel": "232254190",
+    "telecopie": "",
+    "categorie etablissement": "257",
+    "libelle categorie": "Foyer de Jeunes Travailleurs (résidence sociale ou non)",
+    "siret": "78093671200022",
+    "lng": "0.533411478224921",
+    "lat": "48.5261934826916"
+  }
+]

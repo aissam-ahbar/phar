@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "370006595",
+    "raison_sociale": "PHARMACIE DE NEUVY",
+    "numero voie": "8",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "37370",
+    "VILLE": "NEUVY LE ROI    ",
+    "tel": "247244052",
+    "telecopie": "247248610",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80740774700011",
+    "lng": "0.594638408177057",
+    "lat": "47.6038336182729"
+  },
+  {
+    "finess": "370010266",
+    "raison_sociale": "SERVICE AIDE DOMICILE NEUVY LE ROI",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DU 11 NOVEMBRE",
+    "bp": "",
+    "cp": "37370",
+    "VILLE": "NEUVY LE ROI    ",
+    "tel": "247249869",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31622137300020",
+    "lng": "0.594195981942462",
+    "lat": "47.6032211433955"
+  },
+  {
+    "finess": "370015000",
+    "raison_sociale": "CPTS NORD TOURAINE - ET",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "37370",
+    "VILLE": "NEUVY LE ROI    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "604",
+    "libelle categorie": "Communautés professionnelles territoriales de santé (CPTS)",
+    "siret": "82110378500019",
+    "lng": "0.594928214715396",
+    "lat": "47.6038143754986"
+  }
+]

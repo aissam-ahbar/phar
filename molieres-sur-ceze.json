@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "300007093",
+    "raison_sociale": "PHARMACIE JACQUEMET",
+    "numero voie": "1",
+    "type_voie": "AV",
+    "libelle_voie": "PASTEUR",
+    "bp": "",
+    "cp": "30410",
+    "VILLE": "MOLIERES SUR CEZE    ",
+    "tel": "466242882",
+    "telecopie": "466243959",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38149690000022",
+    "lng": "4.14749659495693",
+    "lat": "44.2701683673733"
+  },
+  {
+    "finess": "300783479",
+    "raison_sociale": "EHPAD NOTRE DAME DES MINES",
+    "numero voie": "",
+    "type_voie": "QUA",
+    "libelle_voie": "LA FRIGOULE",
+    "bp": "",
+    "cp": "30410",
+    "VILLE": "MOLIERES SUR CEZE    ",
+    "tel": "466240618",
+    "telecopie": "466246113",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26300037400011",
+    "lng": "4.15848692466467",
+    "lat": "44.2612849527027"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "370003717",
+    "raison_sociale": "PHARMACIE DE LA CROIX",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "D AMBOISE",
+    "bp": "",
+    "cp": "37150",
+    "VILLE": "LA CROIX EN TOURAINE   ",
+    "tel": "247579428",
+    "telecopie": "247235926",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "35058541000029",
+    "lng": "0.989867668801696",
+    "lat": "47.3474344012021"
+  },
+  {
+    "finess": "370013914",
+    "raison_sociale": "MSP DE LA CROIX EN TOURAINE - ET",
+    "numero voie": "27",
+    "type_voie": "RTE",
+    "libelle_voie": "D'AMBOISE",
+    "bp": "",
+    "cp": "37150",
+    "VILLE": "LA CROIX EN TOURAINE   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "0.989086973544255",
+    "lat": "47.3432704164863"
+  },
+  {
+    "finess": "370014896",
+    "raison_sociale": "CPTS ASCLEPIOS - ET",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "D'AMBOISE",
+    "bp": "",
+    "cp": "37150",
+    "VILLE": "LA CROIX EN TOURAINE   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "604",
+    "libelle categorie": "Communautés professionnelles territoriales de santé (CPTS)",
+    "siret": "83818758100015",
+    "lng": "0.989867668801696",
+    "lat": "47.3474344012021"
+  }
+]

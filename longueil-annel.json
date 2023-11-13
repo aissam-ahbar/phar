@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "600003636",
+    "raison_sociale": "SELARL PHARMACIE DE LONGUEIL-ANNEL",
+    "numero voie": "",
+    "type_voie": "ZAC",
+    "libelle_voie": "DU CHAMP SAINTE CROIX",
+    "bp": "",
+    "cp": "60150",
+    "VILLE": "LONGUEIL ANNEL",
+    "tel": "344760156",
+    "telecopie": "344762250",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84789339300011",
+    "lng": "2.86391581355736",
+    "lat": "49.4690516271699"
+  },
+  {
+    "finess": "600012132",
+    "raison_sociale": "DITEP NOUVELLE FORGE LONGUEIL-ANNEL",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DEVIN DE GRAVILLE",
+    "bp": "CS 40059",
+    "cp": "60150",
+    "VILLE": "LONGUEIL ANNEL",
+    "tel": "344963000",
+    "telecopie": "344963001",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "77562852200093",
+    "lng": "2.84507610248794",
+    "lat": "49.462567700501"
+  }
+]

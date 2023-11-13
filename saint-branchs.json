@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "370007213",
+    "raison_sociale": "PHARMACIE POIRIER",
+    "numero voie": "9",
+    "type_voie": "PL",
+    "libelle_voie": "DU 11 NOVEMBRE",
+    "bp": "",
+    "cp": "37320",
+    "VILLE": "ST BRANCHS",
+    "tel": "247263623",
+    "telecopie": "247263120",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40853924500014",
+    "lng": "0.771935048922404",
+    "lat": "47.228381003319"
+  },
+  {
+    "finess": "370010183",
+    "raison_sociale": "SAAD ADMR SAINT BRANCHS",
+    "numero voie": "40",
+    "type_voie": "R",
+    "libelle_voie": "DU COMMERCE",
+    "bp": "",
+    "cp": "37320",
+    "VILLE": "ST BRANCHS",
+    "tel": "247656788",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "77530329000016",
+    "lng": "0.772462517558406",
+    "lat": "47.2265313537417"
+  },
+  {
+    "finess": "370014839",
+    "raison_sociale": "POLE SANTE DE L'ECHANDON",
+    "numero voie": "11",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA FOIRE",
+    "bp": "",
+    "cp": "37320",
+    "VILLE": "ST BRANCHS",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "48287592900010",
+    "lng": "0.769297174810265",
+    "lat": "47.2288003837086"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "540014982",
+    "raison_sociale": "PHARMACIE DE MAIDIERES",
+    "numero voie": "28",
+    "type_voie": "R",
+    "libelle_voie": "ST PIERRE",
+    "bp": "",
+    "cp": "54700",
+    "VILLE": "MAIDIERES ",
+    "tel": "383810439",
+    "telecopie": "383812535",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48879622800010",
+    "lng": "6.04260895855103",
+    "lat": "48.9028613128469"
+  },
+  {
+    "finess": "540023116",
+    "raison_sociale": "LBM LABORATOIRE ATOUTBIO BELLE FONTAIN",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DU GENERAL LECLERC",
+    "bp": "",
+    "cp": "54700",
+    "VILLE": "MAIDIERES ",
+    "tel": "383490033",
+    "telecopie": "383490809",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "40139823500101",
+    "lng": "6.04429424425258",
+    "lat": "48.8987209804764"
+  }
+]

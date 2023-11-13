@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "40001588",
+    "raison_sociale": "PHARMACIE DU LAC D'ALLOS",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "PRE DE FOIRE",
+    "bp": "",
+    "cp": "4260",
+    "VILLE": "ALLOS ",
+    "tel": "492830153",
+    "telecopie": "492830153",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49863232200034",
+    "lng": "6.62740815547343",
+    "lat": "44.2414220139387"
+  },
+  {
+    "finess": "40003022",
+    "raison_sociale": "PHARMACIE BLANC-DOUMAS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "CTRE DE LA STATION LA FOUX",
+    "bp": "",
+    "cp": "4260",
+    "VILLE": "ALLOS ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "664066800023",
+    "lng": "6.57775317870411",
+    "lat": "44.2773633570033"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "690010954",
+    "raison_sociale": "PHARMACIE DE MONTROTTIER",
+    "numero voie": "60",
+    "type_voie": "",
+    "libelle_voie": "Grand Rue",
+    "bp": "",
+    "cp": "69770",
+    "VILLE": "MONTROTTIER ",
+    "tel": "474701370",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "89020243500016",
+    "lng": "4.46573816024914",
+    "lat": "45.7915265782582"
+  },
+  {
+    "finess": "690048871",
+    "raison_sociale": "CPTS DES MONTS DU LYONNAIS",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DU CENTRE",
+    "bp": "",
+    "cp": "69770",
+    "VILLE": "MONTROTTIER ",
+    "tel": "689553253",
+    "telecopie": "",
+    "categorie etablissement": "604",
+    "libelle categorie": "Communautés professionnelles territoriales de santé (CPTS)",
+    "siret": "88474592800017",
+    "lng": "4.46646618508118",
+    "lat": "45.7900950023257"
+  }
+]

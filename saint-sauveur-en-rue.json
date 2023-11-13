@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "420780942",
+    "raison_sociale": "MAS LE ROSIER BLANC",
+    "numero voie": "4",
+    "type_voie": "PL",
+    "libelle_voie": "DU 11 NOVEMBRE",
+    "bp": "",
+    "cp": "42220",
+    "VILLE": "ST SAUVEUR EN RUE   ",
+    "tel": "477392036",
+    "telecopie": "477392369",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "38462875600015",
+    "lng": "4.4952580959642",
+    "lat": "45.2698391427938"
+  },
+  {
+    "finess": "420782658",
+    "raison_sociale": "RESIDENCE LA TOUR DES CEDRES",
+    "numero voie": "16",
+    "type_voie": "R",
+    "libelle_voie": "DE LA VIALLE",
+    "bp": "",
+    "cp": "42220",
+    "VILLE": "ST SAUVEUR EN RUE   ",
+    "tel": "477392161",
+    "telecopie": "477392425",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "42157582000194",
+    "lng": "4.49566995295883",
+    "lat": "45.2693599217462"
+  },
+  {
+    "finess": "420792814",
+    "raison_sociale": "SCE DE TRAVAILLEUSES FAMILIALES",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "DU 8 MAI 1945",
+    "bp": "",
+    "cp": "42220",
+    "VILLE": "ST SAUVEUR EN RUE   ",
+    "tel": "477392033",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "4.49513250440012",
+    "lat": "45.2693887239831"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "600014583",
+    "raison_sociale": "RESIDENCE SOCIALE CPCV PUISEUX",
+    "numero voie": "82",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "60540",
+    "VILLE": "PUISEUX LE HAUBERGER    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "259",
+    "libelle categorie": "Autre Résidence Sociale (hors Maison Relais",
+    "siret": "",
+    "lng": "2.23607692993394",
+    "lat": "49.2170538417965"
+  },
+  {
+    "finess": "600014591",
+    "raison_sociale": "CAU CPCV PUISEUX LE HAUBERGER",
+    "numero voie": "82",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "60540",
+    "VILLE": "PUISEUX LE HAUBERGER    ",
+    "tel": "344315351",
+    "telecopie": "",
+    "categorie etablissement": "219",
+    "libelle categorie": "Autre Centre d'Accueil",
+    "siret": "48308794600024",
+    "lng": "2.23607692993394",
+    "lat": "49.2170538417965"
+  }
+]

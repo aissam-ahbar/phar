@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "330035619",
+    "raison_sociale": "EHPAD RESIDENCE DU TERTRE",
+    "numero voie": "7",
+    "type_voie": "",
+    "libelle_voie": "LAGUE SUD",
+    "bp": "",
+    "cp": "33126",
+    "VILLE": "FRONSAC ",
+    "tel": "557741867",
+    "telecopie": "557513998",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "50232058300037",
+    "lng": "-0.272855945167265",
+    "lat": "44.9258970773827"
+  },
+  {
+    "finess": "330046343",
+    "raison_sociale": "PHARMACIE RICHARD",
+    "numero voie": "37",
+    "type_voie": "R",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "33126",
+    "VILLE": "FRONSAC ",
+    "tel": "557512536",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "37997166600027",
+    "lng": "-0.27318943993739",
+    "lat": "44.9241570835189"
+  }
+]

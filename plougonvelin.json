@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "290011048",
+    "raison_sociale": "PHARMACIE RIVOALEN-COUSIN",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "du General de Gaulle",
+    "bp": "",
+    "cp": "29217",
+    "VILLE": "PLOUGONVELIN ",
+    "tel": "298483468",
+    "telecopie": "298483196",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48929729100010",
+    "lng": "-4.71926289560662",
+    "lat": "48.3417250652613"
+  },
+  {
+    "finess": "290020569",
+    "raison_sociale": "EHPAD LES MOUETTES",
+    "numero voie": "31",
+    "type_voie": "R",
+    "libelle_voie": "DES MOUETTES",
+    "bp": "",
+    "cp": "29217",
+    "VILLE": "PLOUGONVELIN ",
+    "tel": "298482448",
+    "telecopie": "298482052",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "32948955300142",
+    "lng": "-4.70627424506167",
+    "lat": "48.3458659157309"
+  }
+]

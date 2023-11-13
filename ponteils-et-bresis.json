@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "300000478",
+    "raison_sociale": "CH LES CHATAIGNIERS PONTEILS",
+    "numero voie": "1817",
+    "type_voie": "RTE",
+    "libelle_voie": "DE VILLEFORT",
+    "bp": "",
+    "cp": "30450",
+    "VILLE": "PONTEILS ET BRESIS    ",
+    "tel": "466564700",
+    "telecopie": "",
+    "categorie etablissement": "355",
+    "libelle categorie": "Centre Hospitalier (C.H.)",
+    "siret": "26300050700016",
+    "lng": "3.93292813524235",
+    "lat": "44.3947676615399"
+  },
+  {
+    "finess": "300013364",
+    "raison_sociale": "EHPAD CH PONTEILS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "30450",
+    "VILLE": "PONTEILS ET BRESIS    ",
+    "tel": "466564700",
+    "telecopie": "466612020",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26300050700040",
+    "lng": "3.97576996395974",
+    "lat": "44.4033160086254"
+  }
+]

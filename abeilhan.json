@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "340017177",
+    "raison_sociale": "EHPAD LA MAISON ENSOLEILLEE",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "MARCEL PAGNOL",
+    "bp": "",
+    "cp": "34290",
+    "VILLE": "ABEILHAN ",
+    "tel": "467624385",
+    "telecopie": "467393055",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "49501393000013",
+    "lng": "3.29351582260628",
+    "lat": "43.4464493177974"
+  },
+  {
+    "finess": "340025295",
+    "raison_sociale": "SAAD SOLUTIA BEZIERS",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DU MARECHAL GALLIENI",
+    "bp": "",
+    "cp": "34290",
+    "VILLE": "ABEILHAN ",
+    "tel": "663381467",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "51951316200023",
+    "lng": "3.29382102383456",
+    "lat": "43.4498744454355"
+  },
+  {
+    "finess": "340792332",
+    "raison_sociale": "SELARL PHARMACIE PUECH",
+    "numero voie": "64",
+    "type_voie": "R",
+    "libelle_voie": "du Moulin à Vent",
+    "bp": "",
+    "cp": "34290",
+    "VILLE": "ABEILHAN ",
+    "tel": "467392338",
+    "telecopie": "467393833",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48190825900023",
+    "lng": "3.29396785894118",
+    "lat": "43.4488853057913"
+  }
+]

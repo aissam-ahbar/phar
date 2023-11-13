@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "640010526",
+    "raison_sociale": "PHARMACIE MADRE",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE L EGLISE",
+    "bp": "",
+    "cp": "64990",
+    "VILLE": "MOUGUERRE ",
+    "tel": "559318352",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50020447400018",
+    "lng": "-1.41574986584169",
+    "lat": "43.4667759834548"
+  },
+  {
+    "finess": "640794079",
+    "raison_sociale": "SAAD DU CCAS DE MOUGUERRE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "64990",
+    "VILLE": "MOUGUERRE ",
+    "tel": "559318323",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26640388000013",
+    "lng": "-1.4124315464201",
+    "lat": "43.4644530723482"
+  }
+]

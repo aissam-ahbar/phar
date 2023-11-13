@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "110009883",
+    "raison_sociale": "SAVS MINERVOIS CORBIERES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "DOMAINE DE L'ETANG",
+    "bp": "",
+    "cp": "11700",
+    "VILLE": "PUICHERIC ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "446",
+    "libelle categorie": "Service d'Accompagnement à la Vie Sociale (S.A.V.S.)",
+    "siret": "",
+    "lng": "2.59700450314853",
+    "lat": "43.2318504163012"
+  },
+  {
+    "finess": "110781150",
+    "raison_sociale": "EANM PUICHERIC",
+    "numero voie": "",
+    "type_voie": "DOM",
+    "libelle_voie": "DE L' ETANG",
+    "bp": "",
+    "cp": "11700",
+    "VILLE": "PUICHERIC ",
+    "tel": "468437005",
+    "telecopie": "468437126",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "77555569100135",
+    "lng": "2.59700450314853",
+    "lat": "43.2318504163012"
+  },
+  {
+    "finess": "110791043",
+    "raison_sociale": "PHARMACIE TOLSA",
+    "numero voie": "346",
+    "type_voie": "RTE",
+    "libelle_voie": "MINERVOISE",
+    "bp": "",
+    "cp": "11700",
+    "VILLE": "PUICHERIC ",
+    "tel": "468437006",
+    "telecopie": "468437006",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "41404822300013",
+    "lng": "2.6273860287147",
+    "lat": "43.2240266054487"
+  }
+]

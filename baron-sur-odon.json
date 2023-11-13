@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "140002320",
+    "raison_sociale": "DITEP \"VALLÉE DE L'ODON\"",
+    "numero voie": "",
+    "type_voie": "CHT",
+    "libelle_voie": "DE TOURMAUVILLE",
+    "bp": "",
+    "cp": "14210",
+    "VILLE": "BARON SUR ODON    ",
+    "tel": "231712610",
+    "telecopie": "231712619",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "78071704700069",
+    "lng": "-0.494839604533542",
+    "lat": "49.1281299697043"
+  },
+  {
+    "finess": "140030057",
+    "raison_sociale": "SAD BARON SUR ODON EURL LM&SENIORS",
+    "numero voie": "6",
+    "type_voie": "CHE",
+    "libelle_voie": "DES VILAINS",
+    "bp": "",
+    "cp": "14210",
+    "VILLE": "BARON SUR ODON    ",
+    "tel": "779251041",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "79957874500025",
+    "lng": "-0.498482239249539",
+    "lat": "49.126956673073"
+  }
+]

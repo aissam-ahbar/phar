@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "340021237",
+    "raison_sociale": "EHPAD LES TERRASSES DU CAROUX",
+    "numero voie": "3",
+    "type_voie": "RTE",
+    "libelle_voie": "DE THEZAN",
+    "bp": "",
+    "cp": "34490",
+    "VILLE": "CORNEILHAN ",
+    "tel": "467308308",
+    "telecopie": "468466300",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "50218327000029",
+    "lng": "3.18895124811978",
+    "lat": "43.4011497177216"
+  },
+  {
+    "finess": "340026327",
+    "raison_sociale": "EHPA LES TERRASSES DU CAROUX",
+    "numero voie": "3",
+    "type_voie": "RTE",
+    "libelle_voie": "DE THEZAN",
+    "bp": "",
+    "cp": "34490",
+    "VILLE": "CORNEILHAN ",
+    "tel": "467218246",
+    "telecopie": "",
+    "categorie etablissement": "502",
+    "libelle categorie": "EHPA ne percevant pas des crédits d'assurance maladie",
+    "siret": "50218327000029",
+    "lng": "3.18895124811978",
+    "lat": "43.4011497177216"
+  }
+]

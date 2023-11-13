@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "170011530",
+    "raison_sociale": "PHARMACIE  DE LA JARNE",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "17220",
+    "VILLE": "LA JARNE",
+    "tel": "546566643",
+    "telecopie": "546566516",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53441866000021",
+    "lng": "-1.07980265724532",
+    "lat": "46.1299339351296"
+  },
+  {
+    "finess": "170015499",
+    "raison_sociale": "EHPAD RESIDENCE LES PETITES VIGNES",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "FIEF CLUZEAU",
+    "bp": "",
+    "cp": "17220",
+    "VILLE": "LA JARNE",
+    "tel": "546565300",
+    "telecopie": "546436857",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "44945320800018",
+    "lng": "-1.06869881868347",
+    "lat": "46.1250054737901"
+  }
+]

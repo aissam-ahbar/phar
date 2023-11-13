@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "220010458",
+    "raison_sociale": "PHARMACIE LE MEE",
+    "numero voie": "41",
+    "type_voie": "R",
+    "libelle_voie": "du Stade",
+    "bp": "",
+    "cp": "22510",
+    "VILLE": "BREHAND ",
+    "tel": "296427081",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82075633600013",
+    "lng": "-2.58160374750425",
+    "lat": "48.4043290815566"
+  },
+  {
+    "finess": "220025019",
+    "raison_sociale": "MSP DE BREHAND",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "SAINT YVES",
+    "bp": "",
+    "cp": "22510",
+    "VILLE": "BREHAND ",
+    "tel": "296426509",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "89192203100010",
+    "lng": "-2.57496774110768",
+    "lat": "48.4024149418322"
+  }
+]

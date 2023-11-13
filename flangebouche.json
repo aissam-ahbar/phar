@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "250002078",
+    "raison_sociale": "EHPAD SAINT JOSEPH  FLANGEBOUCHE",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DE L HOPITAL",
+    "bp": "",
+    "cp": "25390",
+    "VILLE": "FLANGEBOUCHE ",
+    "tel": "381431313",
+    "telecopie": "381432779",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26250243800019",
+    "lng": "6.47186750823519",
+    "lat": "47.1406466332453"
+  },
+  {
+    "finess": "250011582",
+    "raison_sociale": "SSIAD FLANGEBOUCHE",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DE L'HOPITAL",
+    "bp": "",
+    "cp": "25390",
+    "VILLE": "FLANGEBOUCHE ",
+    "tel": "381431306",
+    "telecopie": "",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "26250243800027",
+    "lng": "6.47186750823519",
+    "lat": "47.1406466332453"
+  }
+]

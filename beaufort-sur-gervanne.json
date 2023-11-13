@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "260016324",
+    "raison_sociale": "ASS ADMR BEAUFORT SUR GERVANNE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "26400",
+    "VILLE": "BEAUFORT SUR GERVANNE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32761217200012",
+    "lng": "5.14305661559487",
+    "lat": "44.77614557641"
+  },
+  {
+    "finess": "260019237",
+    "raison_sociale": "PROPHARMACIE FROGER ALAIN",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE SUZE",
+    "bp": "",
+    "cp": "26400",
+    "VILLE": "BEAUFORT SUR GERVANNE    ",
+    "tel": "475764240",
+    "telecopie": "",
+    "categorie etablissement": "627",
+    "libelle categorie": "Propharmacie",
+    "siret": "32580884800015",
+    "lng": "5.12981444000016",
+    "lat": "44.7701161810175"
+  }
+]

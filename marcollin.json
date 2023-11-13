@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380018317",
+    "raison_sociale": "LIEU DE VIE LE CLOS DES MOMES",
+    "numero voie": "57",
+    "type_voie": "RTE",
+    "libelle_voie": "DE BEAUFORT",
+    "bp": "",
+    "cp": "38270",
+    "VILLE": "MARCOLLIN ",
+    "tel": "979392168",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "48469106800015",
+    "lng": "5.11519517394673",
+    "lat": "45.309152454349"
+  },
+  {
+    "finess": "380797894",
+    "raison_sociale": "SCE AIDE MENAGERE MARCOLLIN",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38270",
+    "VILLE": "MARCOLLIN ",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37863970200018",
+    "lng": "5.08692664705047",
+    "lat": "45.3052795479283"
+  }
+]

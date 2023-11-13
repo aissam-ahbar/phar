@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "600009096",
+    "raison_sociale": "SESSAD ADSEAO BEAUVAIS",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU FAY SAINT-QUENTIN",
+    "bp": "",
+    "cp": "60510",
+    "VILLE": "LAVERSINES ",
+    "tel": "344150487",
+    "telecopie": "344152601",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "30169114300368",
+    "lng": "2.19230997976522",
+    "lat": "49.4266243892285"
+  },
+  {
+    "finess": "600100895",
+    "raison_sociale": "ITEP ADSEAO LAVERSINES",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DE BRESLES",
+    "bp": "",
+    "cp": "60510",
+    "VILLE": "LAVERSINES ",
+    "tel": "344077111",
+    "telecopie": "344074581",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "30169114300020",
+    "lng": "2.19849755518832",
+    "lat": "49.4243096033243"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "440015113",
+    "raison_sociale": "PHARMACIE HEULINOISE",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "André Ripoche",
+    "bp": "",
+    "cp": "44330",
+    "VILLE": "LA CHAPELLE HEULIN    ",
+    "tel": "240067155",
+    "telecopie": "240067816",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53497265800023",
+    "lng": "-1.33996059292335",
+    "lat": "47.176849118388"
+  },
+  {
+    "finess": "440056794",
+    "raison_sociale": "SAAD LA VIE COMME D'HAB",
+    "numero voie": "14",
+    "type_voie": "R",
+    "libelle_voie": "DES RAGONNIERES",
+    "bp": "",
+    "cp": "44330",
+    "VILLE": "LA CHAPELLE HEULIN    ",
+    "tel": "643680112",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "87995681100019",
+    "lng": "-1.3574259484746",
+    "lat": "47.1715084875672"
+  },
+  {
+    "finess": "440059921",
+    "raison_sociale": "SAAD VIVRE ADOM CLISSON",
+    "numero voie": "1",
+    "type_voie": "ALL",
+    "libelle_voie": "DES CAUDALIES",
+    "bp": "",
+    "cp": "44330",
+    "VILLE": "LA CHAPELLE HEULIN    ",
+    "tel": "249626678",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "83279067900050",
+    "lng": "-1.34061184769743",
+    "lat": "47.1763657476898"
+  }
+]

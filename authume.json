@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "390002046",
+    "raison_sociale": "PHARMACIE CORTIULA",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "DU CHANOIS",
+    "bp": "",
+    "cp": "39100",
+    "VILLE": "AUTHUME ",
+    "tel": "384823381",
+    "telecopie": "384824198",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49011012900015",
+    "lng": "5.50253085603347",
+    "lat": "47.1260719128811"
+  },
+  {
+    "finess": "390007334",
+    "raison_sociale": "MAISON SANTE AUTHUME",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "PATOT",
+    "bp": "",
+    "cp": "39100",
+    "VILLE": "AUTHUME ",
+    "tel": "682028600",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "79794071500015",
+    "lng": "5.50483929993931",
+    "lat": "47.1257634238246"
+  }
+]

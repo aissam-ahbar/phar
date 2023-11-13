@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "340009307",
+    "raison_sociale": "PHARMACIE ROQUE",
+    "numero voie": "",
+    "type_voie": "LOT",
+    "libelle_voie": "LES PRES",
+    "bp": "",
+    "cp": "34820",
+    "VILLE": "TEYRAN ",
+    "tel": "467879698",
+    "telecopie": "467700158",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "41193698200015",
+    "lng": "3.9198495095405",
+    "lat": "43.6820758217283"
+  },
+  {
+    "finess": "340787860",
+    "raison_sociale": "EHPAD D'AUBETERRE",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DES PILLES",
+    "bp": "",
+    "cp": "34820",
+    "VILLE": "TEYRAN ",
+    "tel": "467708707",
+    "telecopie": "467709389",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26340080600026",
+    "lng": "3.92593999571808",
+    "lat": "43.6810675912038"
+  },
+  {
+    "finess": "340795772",
+    "raison_sociale": "SELARL PHARMACIE D'AUBETERRE",
+    "numero voie": "120",
+    "type_voie": "R",
+    "libelle_voie": "DU JEU DE MAIL",
+    "bp": "",
+    "cp": "34820",
+    "VILLE": "TEYRAN ",
+    "tel": "467706068",
+    "telecopie": "467708126",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49366657200018",
+    "lng": "3.92718655509143",
+    "lat": "43.6834695423755"
+  }
+]

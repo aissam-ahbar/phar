@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "620035691",
+    "raison_sociale": "UNITÉ DE VIE WITTERNESSE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "D'AIRE",
+    "bp": "",
+    "cp": "62120",
+    "VILLE": "WITTERNESSE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "",
+    "lng": "2.36935801361632",
+    "lat": "50.6156840697204"
+  },
+  {
+    "finess": "620106195",
+    "raison_sociale": "FAM L'ABBAYE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "D'AIRE",
+    "bp": "BP 69",
+    "cp": "62120",
+    "VILLE": "WITTERNESSE ",
+    "tel": "321390673",
+    "telecopie": "321123046",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "51513059900142",
+    "lng": "2.36859218983206",
+    "lat": "50.6141024053214"
+  }
+]

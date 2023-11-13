@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "510019730",
+    "raison_sociale": "PHARMACIE BOUDESOCQUE-JACQUINET",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DES CRAYÈRES",
+    "bp": "",
+    "cp": "51240",
+    "VILLE": "POGNY ",
+    "tel": "326677124",
+    "telecopie": "326677124",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "90285392800015",
+    "lng": "4.48132718750304",
+    "lat": "48.864244018652"
+  },
+  {
+    "finess": "510025349",
+    "raison_sociale": "MAISON DE SANTE DE POGNY",
+    "numero voie": "50",
+    "type_voie": "RTE",
+    "libelle_voie": "DES CRAYERES",
+    "bp": "",
+    "cp": "51240",
+    "VILLE": "POGNY ",
+    "tel": "611663655",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "4.48388588037995",
+    "lat": "48.861985219619"
+  }
+]

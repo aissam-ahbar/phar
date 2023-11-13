@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590025888",
+    "raison_sociale": "SERVICE D'AIDE A DOMICILE ADMR",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DE CAMPAGNE",
+    "bp": "",
+    "cp": "59173",
+    "VILLE": "RENESCURE ",
+    "tel": "328439931",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "78378092700027",
+    "lng": "2.36507480182722",
+    "lat": "50.7264452050318"
+  },
+  {
+    "finess": "590026704",
+    "raison_sociale": "PHARMACIE BECK-DENOEUD DELECROIX",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "DE SAINT OMER",
+    "bp": "",
+    "cp": "59173",
+    "VILLE": "RENESCURE ",
+    "tel": "328498207",
+    "telecopie": "328498992",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44153947500018",
+    "lng": "2.36917919104533",
+    "lat": "50.7281001240048"
+  }
+]

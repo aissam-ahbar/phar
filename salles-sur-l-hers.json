@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "110007549",
+    "raison_sociale": "MSP SALLES SUR L'HERS",
+    "numero voie": "5",
+    "type_voie": "RTE",
+    "libelle_voie": "DE TOULOUSE",
+    "bp": "",
+    "cp": "11410",
+    "VILLE": "SALLES SUR L HERS   ",
+    "tel": "468603035",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "1.78512212577663",
+    "lat": "43.2942518593605"
+  },
+  {
+    "finess": "110009552",
+    "raison_sociale": "MARPA DE LA PIEGE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "11410",
+    "VILLE": "SALLES SUR L HERS   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "",
+    "lng": "1.78827162695673",
+    "lat": "43.2925472538725"
+  },
+  {
+    "finess": "110791175",
+    "raison_sociale": "PHARMACIE COHENDET",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "PAUL DIMEUR",
+    "bp": "",
+    "cp": "11410",
+    "VILLE": "SALLES SUR L HERS   ",
+    "tel": "468603117",
+    "telecopie": "468603051",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34511035700018",
+    "lng": "1.78656631625608",
+    "lat": "43.2933423225641"
+  }
+]

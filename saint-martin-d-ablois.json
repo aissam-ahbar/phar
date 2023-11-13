@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "510008774",
+    "raison_sociale": "RESIDENCE LES CLOS DE SAINT MARTIN",
+    "numero voie": "2",
+    "type_voie": "AV",
+    "libelle_voie": "DE PARIS",
+    "bp": "",
+    "cp": "51530",
+    "VILLE": "ST MARTIN D ABLOIS   ",
+    "tel": "326572424",
+    "telecopie": "326572400",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "48008096900037",
+    "lng": "3.85819783033583",
+    "lat": "49.0078914406857"
+  },
+  {
+    "finess": "510017742",
+    "raison_sociale": "PHARMACIE PRIEUR-JACQUOT",
+    "numero voie": "11",
+    "type_voie": "PL",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "51530",
+    "VILLE": "ST MARTIN D ABLOIS   ",
+    "tel": "326599330",
+    "telecopie": "970610265",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51258023400015",
+    "lng": "3.86774523315354",
+    "lat": "49.0123532045357"
+  }
+]

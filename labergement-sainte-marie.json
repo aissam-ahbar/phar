@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "250010105",
+    "raison_sociale": "SCE DE TRAVAILLEUSES FAMILIALES",
+    "numero voie": "28",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "25160",
+    "VILLE": "LABERGEMENT STE MARIE    ",
+    "tel": "381697592",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "77831850100054",
+    "lng": "6.27881292993556",
+    "lat": "46.7781411513069"
+  },
+  {
+    "finess": "250010113",
+    "raison_sociale": "SERVICE D'AIDES MENAGERES",
+    "numero voie": "28",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "25160",
+    "VILLE": "LABERGEMENT STE MARIE    ",
+    "tel": "381697592",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "77831850100054",
+    "lng": "6.27881292993556",
+    "lat": "46.7781411513069"
+  },
+  {
+    "finess": "250010923",
+    "raison_sociale": "PHARMACIE DES DEUX LACS",
+    "numero voie": "12",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "25160",
+    "VILLE": "LABERGEMENT STE MARIE    ",
+    "tel": "381693279",
+    "telecopie": "381693750",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79208548200018",
+    "lng": "6.27987787576289",
+    "lat": "46.7757091202316"
+  }
+]

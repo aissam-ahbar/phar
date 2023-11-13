@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "440017317",
+    "raison_sociale": "PHARMACIE GERGAUD",
+    "numero voie": "39",
+    "type_voie": "R",
+    "libelle_voie": "DU MARECHAL LECLERC",
+    "bp": "",
+    "cp": "44420",
+    "VILLE": "LA TURBALLE",
+    "tel": "240233012",
+    "telecopie": "240118084",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80130624200018",
+    "lng": "-2.50972002434631",
+    "lat": "47.3475719759053"
+  },
+  {
+    "finess": "440017325",
+    "raison_sociale": "PHARMACIE ORIO-MAZERAT",
+    "numero voie": "53",
+    "type_voie": "R",
+    "libelle_voie": "DU MAL DE LATTRE DE TASSIGN",
+    "bp": "",
+    "cp": "44420",
+    "VILLE": "LA TURBALLE",
+    "tel": "240234015",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51901251200017",
+    "lng": "-2.51178571708885",
+    "lat": "47.3484980819762"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "470009937",
+    "raison_sociale": "SARL PHARMACIE I-CARE",
+    "numero voie": "4",
+    "type_voie": "BD",
+    "libelle_voie": "DU COUCHANT",
+    "bp": "",
+    "cp": "47310",
+    "VILLE": "LAPLUME ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53238838600023",
+    "lng": "0.529783770763554",
+    "lat": "44.1130912353676"
+  },
+  {
+    "finess": "470016007",
+    "raison_sociale": "SISA LAC SITE DE LAPLUME",
+    "numero voie": "1",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CONDOM",
+    "bp": "",
+    "cp": "47310",
+    "VILLE": "LAPLUME ",
+    "tel": "553671039",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "81154647200010",
+    "lng": "0.522727072363728",
+    "lat": "44.1090715097472"
+  },
+  {
+    "finess": "470018268",
+    "raison_sociale": "SAAD ASSAD LAPLUME",
+    "numero voie": "8",
+    "type_voie": "PL",
+    "libelle_voie": "EMMANUEL LABAT",
+    "bp": "",
+    "cp": "47310",
+    "VILLE": "LAPLUME ",
+    "tel": "553686812",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "30135223300011",
+    "lng": "0.531847818937178",
+    "lat": "44.1106316970952"
+  }
+]

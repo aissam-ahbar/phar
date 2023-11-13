@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "270021744",
+    "raison_sociale": "PHARMACIE DE SAINT OUEN",
+    "numero voie": "126",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "27310",
+    "VILLE": "ST OUEN DE THOUBERVILLE   ",
+    "tel": "232562648",
+    "telecopie": "232562873",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49138416000017",
+    "lng": "0.888282788737353",
+    "lat": "49.3566295932246"
+  },
+  {
+    "finess": "270030703",
+    "raison_sociale": "MSP SAINT OUEN DE THOUBERVILLE",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DES CHAMPS",
+    "bp": "",
+    "cp": "27310",
+    "VILLE": "ST OUEN DE THOUBERVILLE   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "97884059300013",
+    "lng": "0.891176549653387",
+    "lat": "49.3589479034987"
+  }
+]

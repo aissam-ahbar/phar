@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "260003611",
+    "raison_sociale": "PHARMACIE DE LA BEGUDE",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "MAURICE DELOULE",
+    "bp": "",
+    "cp": "26160",
+    "VILLE": "LA BEGUDE DE MAZENC   ",
+    "tel": "475462021",
+    "telecopie": "475462976",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50933742400014",
+    "lng": "4.93490784485589",
+    "lat": "44.5441707774343"
+  },
+  {
+    "finess": "260016134",
+    "raison_sociale": "ASS ADMR LA BEGUDE DE MAZENC",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "26160",
+    "VILLE": "LA BEGUDE DE MAZENC   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "4.93563904659793",
+    "lat": "44.5458491038898"
+  },
+  {
+    "finess": "260022231",
+    "raison_sociale": "LIEU DE VIE LA PIVERDIERE",
+    "numero voie": "175",
+    "type_voie": "CHE",
+    "libelle_voie": "DE LA PIVERDIERE",
+    "bp": "",
+    "cp": "26160",
+    "VILLE": "LA BEGUDE DE MAZENC   ",
+    "tel": "625065891",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "77941170100054",
+    "lng": "4.9268949504166",
+    "lat": "44.5496833258022"
+  }
+]

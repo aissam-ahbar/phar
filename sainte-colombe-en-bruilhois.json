@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "470005513",
+    "raison_sociale": "ESAT AGNELIS - SITE POMARET",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LIEU-DIT POMARET",
+    "bp": "BP 4",
+    "cp": "47310",
+    "VILLE": "STE COLOMBE EN BRUILHOIS   ",
+    "tel": "553774130",
+    "telecopie": "553687146",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "33280351900153",
+    "lng": "0.511687795445877",
+    "lat": "44.2008818313864"
+  },
+  {
+    "finess": "470011131",
+    "raison_sociale": "SSIAD SOINS 2000",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LE BOURG",
+    "cp": "47310",
+    "VILLE": "STE COLOMBE EN BRUILHOIS   ",
+    "tel": "553688788",
+    "telecopie": "553688788",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "41508084500019",
+    "lng": "0.515608613060973",
+    "lat": "44.1777027955724"
+  },
+  {
+    "finess": "470017344",
+    "raison_sociale": "SAAD ADMR DU BRUILHOIS",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "RIVELIN",
+    "bp": "",
+    "cp": "47310",
+    "VILLE": "STE COLOMBE EN BRUILHOIS   ",
+    "tel": "553670314",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31371138400039",
+    "lng": "0.515935234283273",
+    "lat": "44.1779596382911"
+  }
+]

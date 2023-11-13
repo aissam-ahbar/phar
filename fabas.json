@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "90780461",
+    "raison_sociale": "EHPAD DE FABAS",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA HALLE",
+    "bp": "",
+    "cp": "9230",
+    "VILLE": "FABAS ",
+    "tel": "561964061",
+    "telecopie": "561964214",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77665263800011",
+    "lng": "1.10601036740819",
+    "lat": "43.1075504375931"
+  },
+  {
+    "finess": "90783937",
+    "raison_sociale": "MAISON ENFANTS CARACT. SOC. LA PLANTE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE CAZERES",
+    "bp": "",
+    "cp": "9230",
+    "VILLE": "FABAS ",
+    "tel": "561662677",
+    "telecopie": "561663416",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "33952478700035",
+    "lng": "1.10933420665266",
+    "lat": "43.1281038139202"
+  }
+]

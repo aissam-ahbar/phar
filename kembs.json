@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "680003456",
+    "raison_sociale": "ACCUEIL DE JOUR PA LE PFARRHUS",
+    "numero voie": "56",
+    "type_voie": "R",
+    "libelle_voie": "DU MARECHAL FOCH",
+    "bp": "",
+    "cp": "68680",
+    "VILLE": "KEMBS ",
+    "tel": "389484798",
+    "telecopie": "389816545",
+    "categorie etablissement": "207",
+    "libelle categorie": "Centre de Jour pour Personnes Agées",
+    "siret": "",
+    "lng": "7.50393974877337",
+    "lat": "47.6887666868931"
+  },
+  {
+    "finess": "680009230",
+    "raison_sociale": "PHARMACIE DU  RHIN",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE L'ARTISANAT",
+    "bp": "",
+    "cp": "68680",
+    "VILLE": "KEMBS ",
+    "tel": "389483031",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81265701300015",
+    "lng": "7.50101141589057",
+    "lat": "47.6790473525331"
+  },
+  {
+    "finess": "680015369",
+    "raison_sociale": "EHPAD LES FONTAINES DE KEMBS",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DE ST LOUIS",
+    "bp": "LIEU DIT NEUWEG",
+    "cp": "68680",
+    "VILLE": "KEMBS ",
+    "tel": "389817074",
+    "telecopie": "389759155",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "38448199000057",
+    "lng": "7.49786704642577",
+    "lat": "47.67293792768"
+  }
+]

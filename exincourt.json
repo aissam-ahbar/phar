@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "250004520",
+    "raison_sociale": "LA MAISON DES COLLINES",
+    "numero voie": "19",
+    "type_voie": "R",
+    "libelle_voie": "LUCIEN QUELET",
+    "bp": "",
+    "cp": "25400",
+    "VILLE": "EXINCOURT ",
+    "tel": "381312880",
+    "telecopie": "381312881",
+    "categorie etablissement": "175",
+    "libelle categorie": "Foyer de l'Enfance",
+    "siret": "22250001900393",
+    "lng": "6.82922441081293",
+    "lat": "47.4970488808986"
+  },
+  {
+    "finess": "250009313",
+    "raison_sociale": "PHARMACIE D'EXINCOURT",
+    "numero voie": "19",
+    "type_voie": "R",
+    "libelle_voie": "D EGOUTTES",
+    "bp": "",
+    "cp": "25400",
+    "VILLE": "EXINCOURT ",
+    "tel": "381942281",
+    "telecopie": "381940191",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80790667200017",
+    "lng": "6.83093142646675",
+    "lat": "47.5004020413441"
+  },
+  {
+    "finess": "250009362",
+    "raison_sociale": "PHARMACIE  CARETTI",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "Philippe Goudey",
+    "bp": "",
+    "cp": "25400",
+    "VILLE": "EXINCOURT ",
+    "tel": "381945366",
+    "telecopie": "381322523",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "37933334700027",
+    "lng": "6.83925987138569",
+    "lat": "47.4969103349546"
+  }
+]

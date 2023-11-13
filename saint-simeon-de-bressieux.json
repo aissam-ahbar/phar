@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "380010553",
+    "raison_sociale": "PHARMACIE TOYEN",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "BELLECOUR",
+    "bp": "",
+    "cp": "38870",
+    "VILLE": "ST SIMEON DE BRESSIEUX   ",
+    "tel": "474200725",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "42946487800025",
+    "lng": "5.26148367234941",
+    "lat": "45.3282796893845"
+  },
+  {
+    "finess": "380023481",
+    "raison_sociale": "SAAD ADI",
+    "numero voie": "419",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "38870",
+    "VILLE": "ST SIMEON DE BRESSIEUX   ",
+    "tel": "474870345",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "5.26134321247306",
+    "lat": "45.328374410516"
+  },
+  {
+    "finess": "380795963",
+    "raison_sociale": "SCE TRAV.FAMIL.ST-SIM.-BRESSIEU",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "CHATEAU",
+    "bp": "",
+    "cp": "38870",
+    "VILLE": "ST SIMEON DE BRESSIEUX   ",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37924543400012",
+    "lng": "5.27131894304317",
+    "lat": "45.3276706368369"
+  }
+]

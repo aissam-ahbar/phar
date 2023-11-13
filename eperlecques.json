@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "620010744",
+    "raison_sociale": "PHARMACIE SEILLIER",
+    "numero voie": "107",
+    "type_voie": "R",
+    "libelle_voie": "DU GANSPETTE",
+    "bp": "",
+    "cp": "62910",
+    "VILLE": "EPERLECQUES ",
+    "tel": "321935246",
+    "telecopie": "321950909",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83932821800012",
+    "lng": "2.17446382817986",
+    "lat": "50.8177113100732"
+  },
+  {
+    "finess": "620025197",
+    "raison_sociale": "MAS LE DOMAINE DE RACHEL",
+    "numero voie": "",
+    "type_voie": "IMP",
+    "libelle_voie": "DU CLUSE",
+    "bp": "",
+    "cp": "62910",
+    "VILLE": "EPERLECQUES ",
+    "tel": "321683838",
+    "telecopie": "321648002",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "78393831900036",
+    "lng": "2.17220855366769",
+    "lat": "50.8156865599755"
+  },
+  {
+    "finess": "620032052",
+    "raison_sociale": "MSP EPERLECQUES",
+    "numero voie": "18",
+    "type_voie": "R",
+    "libelle_voie": "DE BLEUE MAISON",
+    "bp": "",
+    "cp": "62910",
+    "VILLE": "EPERLECQUES ",
+    "tel": "321958384",
+    "telecopie": "376030026",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "2.19751261711681",
+    "lat": "50.8215359589722"
+  }
+]

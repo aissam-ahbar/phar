@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "220012116",
+    "raison_sociale": "PHARMACIE ST EMILION - LE JEANNE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE PLOUNEVEZ MOEDEC",
+    "bp": "",
+    "cp": "22780",
+    "VILLE": "LOGUIVY PLOUGRAS",
+    "tel": "296385555",
+    "telecopie": "970622054",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82222592600010",
+    "lng": "-3.48318617380834",
+    "lat": "48.5244742107053"
+  },
+  {
+    "finess": "220016216",
+    "raison_sociale": "MAPA RESIDENCE ST EMILION",
+    "numero voie": "3",
+    "type_voie": "RTE",
+    "libelle_voie": "DE DRESNAY",
+    "bp": "",
+    "cp": "22780",
+    "VILLE": "LOGUIVY PLOUGRAS",
+    "tel": "296385307",
+    "telecopie": "296385790",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77568030901619",
+    "lng": "-3.48522647327363",
+    "lat": "48.5218371425288"
+  }
+]

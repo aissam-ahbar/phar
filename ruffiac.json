@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "560020877",
+    "raison_sociale": "PHARMACIE DE RUFFIAC",
+    "numero voie": "4",
+    "type_voie": "PL",
+    "libelle_voie": "LOUIS GUILLEMOT",
+    "bp": "",
+    "cp": "56140",
+    "VILLE": "RUFFIAC ",
+    "tel": "297937241",
+    "telecopie": "297937395",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84523751000019",
+    "lng": "-2.28296680705964",
+    "lat": "47.8184617520705"
+  },
+  {
+    "finess": "560028409",
+    "raison_sociale": "SAAD ADMR RUFFIAC",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DES TILLEULS",
+    "bp": "",
+    "cp": "56140",
+    "VILLE": "RUFFIAC ",
+    "tel": "297937966",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "33934984700022",
+    "lng": "-2.28173906182927",
+    "lat": "47.8195156956208"
+  }
+]

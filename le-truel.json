@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "120005210",
+    "raison_sociale": "SAAD AL ADMR LA VALLEE DES RASPES",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE SOLAGES",
+    "bp": "",
+    "cp": "12430",
+    "VILLE": "LE TRUEL",
+    "tel": "565772222",
+    "telecopie": "565772220",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "2.74474874397918",
+    "lat": "44.055115426291"
+  },
+  {
+    "finess": "120007521",
+    "raison_sociale": "FOYER DE VIE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LE BOURG",
+    "cp": "12430",
+    "VILLE": "LE TRUEL",
+    "tel": "565596000",
+    "telecopie": "",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "78988563900011",
+    "lng": "2.75443437688355",
+    "lat": "44.0499273506881"
+  }
+]

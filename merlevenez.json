@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "560012254",
+    "raison_sociale": "RESIDENCE LE VERGER",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "56700",
+    "VILLE": "MERLEVENEZ ",
+    "tel": "297657797",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26560059300023",
+    "lng": "-3.23306850145766",
+    "lat": "47.7367652587352"
+  },
+  {
+    "finess": "560017279",
+    "raison_sociale": "SAAD GCSMS CANTON PORT LOUIS",
+    "numero voie": "",
+    "type_voie": "ALL",
+    "libelle_voie": "DE TI NEUE",
+    "bp": "",
+    "cp": "56700",
+    "VILLE": "MERLEVENEZ ",
+    "tel": "297656290",
+    "telecopie": "297656840",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "13001756900018",
+    "lng": "-3.22586546446921",
+    "lat": "47.7378978616104"
+  },
+  {
+    "finess": "560018996",
+    "raison_sociale": "SARL PHARMACIE DE LA MADELEINE",
+    "numero voie": "",
+    "type_voie": "ZA",
+    "libelle_voie": "DE BELLEVUE",
+    "bp": "",
+    "cp": "56700",
+    "VILLE": "MERLEVENEZ ",
+    "tel": "297657524",
+    "telecopie": "982111200",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75129866200014",
+    "lng": "-3.22215092751526",
+    "lat": "47.7416214099259"
+  }
+]

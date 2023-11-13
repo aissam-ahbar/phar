@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "120002811",
+    "raison_sociale": "DE LA PHARMACIE DU MONASTERE",
+    "numero voie": "36",
+    "type_voie": "AV",
+    "libelle_voie": "DE MILLAU",
+    "bp": "LES RIVES DE L'AVEYRON",
+    "cp": "12000",
+    "VILLE": "LE MONASTERE",
+    "tel": "565782444",
+    "telecopie": "565782477",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83413246600014",
+    "lng": "2.58040344195305",
+    "lat": "44.3446671698335"
+  },
+  {
+    "finess": "120008297",
+    "raison_sociale": "SAAD AUTISME AVEYRON SAP",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LES PEYSSIERES",
+    "cp": "12000",
+    "VILLE": "LE MONASTERE",
+    "tel": "972484919",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "52393544300011",
+    "lng": "2.58258621172948",
+    "lat": "44.3248962287902"
+  }
+]

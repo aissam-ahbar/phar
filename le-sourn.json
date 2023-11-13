@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "560021347",
+    "raison_sociale": "SELARL PHARMACIE DU SOURN",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE TALFETAN",
+    "bp": "",
+    "cp": "56300",
+    "VILLE": "LE SOURN",
+    "tel": "297279033",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83141414900011",
+    "lng": "-2.99165343179703",
+    "lat": "48.0429562070897"
+  },
+  {
+    "finess": "560026825",
+    "raison_sociale": "CDS MÉDICAL DE LE SOURN",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DES OISEAUX",
+    "bp": "",
+    "cp": "56300",
+    "VILLE": "LE SOURN",
+    "tel": "297252062",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "21560246700114",
+    "lng": "-2.98704008683593",
+    "lat": "48.0453328934567"
+  }
+]

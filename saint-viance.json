@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "190012724",
+    "raison_sociale": "ALCURA FRANCE",
+    "numero voie": "",
+    "type_voie": "ZAC",
+    "libelle_voie": "DE LA NAU",
+    "bp": "",
+    "cp": "19240",
+    "VILLE": "ST VIANCE",
+    "tel": "970810088",
+    "telecopie": "555850565",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "30494047100994",
+    "lng": "1.4527027598403",
+    "lat": "45.2172880311139"
+  },
+  {
+    "finess": "190012757",
+    "raison_sociale": "SOS OXYGENE GARONNE",
+    "numero voie": "",
+    "type_voie": "IMP",
+    "libelle_voie": "DES ROSEAUX",
+    "bp": "",
+    "cp": "19240",
+    "VILLE": "ST VIANCE",
+    "tel": "555231353",
+    "telecopie": "555234032",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "42514176900108",
+    "lng": "1.46837416126483",
+    "lat": "45.1942741785415"
+  }
+]

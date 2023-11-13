@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "170009880",
+    "raison_sociale": "EHPAD LES DEUX CEDRES",
+    "numero voie": "19",
+    "type_voie": "AV",
+    "libelle_voie": "DE COGNAC",
+    "bp": "",
+    "cp": "17770",
+    "VILLE": "ST HILAIRE DE VILLEFRANCHE   ",
+    "tel": "546953364",
+    "telecopie": "546954100",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20008519900020",
+    "lng": "-0.527171662864541",
+    "lat": "45.8515473868872"
+  },
+  {
+    "finess": "170014765",
+    "raison_sociale": "PHARMACIE ASSIANDI",
+    "numero voie": "32",
+    "type_voie": "AV",
+    "libelle_voie": "DE SAINTES",
+    "bp": "",
+    "cp": "17770",
+    "VILLE": "ST HILAIRE DE VILLEFRANCHE   ",
+    "tel": "546953020",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40068029400024",
+    "lng": "-0.533100881101205",
+    "lat": "45.8474923457098"
+  }
+]

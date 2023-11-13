@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "620007476",
+    "raison_sociale": "PHARMACIE LATOUR-MASQUELIN",
+    "numero voie": "30",
+    "type_voie": "R",
+    "libelle_voie": "GEORGES CLEMENCEAU",
+    "bp": "",
+    "cp": "62118",
+    "VILLE": "BIACHE ST VAAST    ",
+    "tel": "321500272",
+    "telecopie": "321249937",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "41507560500014",
+    "lng": "2.94559002179541",
+    "lat": "50.3102370347411"
+  },
+  {
+    "finess": "620007492",
+    "raison_sociale": "PHARMACIE VERMERSCH JEAN-PIERRE",
+    "numero voie": "40",
+    "type_voie": "R",
+    "libelle_voie": "EDOUARD HERRIOT",
+    "bp": "",
+    "cp": "62118",
+    "VILLE": "BIACHE ST VAAST    ",
+    "tel": "321501772",
+    "telecopie": "321500026",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "42951386400018",
+    "lng": "2.94553375856222",
+    "lat": "50.311707670547"
+  },
+  {
+    "finess": "620115584",
+    "raison_sociale": "CENTRE DE POST-CURE ECOIVRES I",
+    "numero voie": "36",
+    "type_voie": "R",
+    "libelle_voie": "E HERRIOT",
+    "bp": "",
+    "cp": "62118",
+    "VILLE": "BIACHE ST VAAST    ",
+    "tel": "321514325",
+    "telecopie": "",
+    "categorie etablissement": "430",
+    "libelle categorie": "Centre Postcure Malades Mentaux",
+    "siret": "78404793800021",
+    "lng": "2.94514407848076",
+    "lat": "50.3116195096458"
+  }
+]

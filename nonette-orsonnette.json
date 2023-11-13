@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "630781086",
+    "raison_sociale": "IME DE NONETTE",
+    "numero voie": "5",
+    "type_voie": "RTE",
+    "libelle_voie": "DE PARENTIGNAT",
+    "bp": "",
+    "cp": "63340",
+    "VILLE": "NONETTE ORSONNETTE",
+    "tel": "473716593",
+    "telecopie": "473716278",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "34833845000029",
+    "lng": "3.28440671488777",
+    "lat": "45.4827952666086"
+  },
+  {
+    "finess": "630790269",
+    "raison_sociale": "FOYER DE NONETTE",
+    "numero voie": "5",
+    "type_voie": "RTE",
+    "libelle_voie": "DE PARENTIGNAT",
+    "bp": "",
+    "cp": "63340",
+    "VILLE": "NONETTE ORSONNETTE",
+    "tel": "473716593",
+    "telecopie": "473716278",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "34833845000037",
+    "lng": "3.28440671488777",
+    "lat": "45.4827952666086"
+  }
+]

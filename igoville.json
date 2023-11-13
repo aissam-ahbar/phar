@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "270013923",
+    "raison_sociale": "FOYER OCCUP LES TOURELLES",
+    "numero voie": "52",
+    "type_voie": "R",
+    "libelle_voie": "DU 8 MAI 1945",
+    "bp": "",
+    "cp": "27460",
+    "VILLE": "IGOVILLE ",
+    "tel": "235237287",
+    "telecopie": "235237302",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "82941829200142",
+    "lng": "1.14744386784731",
+    "lat": "49.3190219629494"
+  },
+  {
+    "finess": "270020514",
+    "raison_sociale": "PHARMACIE CENTRALE",
+    "numero voie": "47",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LYONS",
+    "bp": "",
+    "cp": "27460",
+    "VILLE": "IGOVILLE ",
+    "tel": "235232229",
+    "telecopie": "235020669",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39789147400017",
+    "lng": "1.15628233753993",
+    "lat": "49.3189531094282"
+  }
+]

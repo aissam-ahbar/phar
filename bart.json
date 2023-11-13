@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "250003225",
+    "raison_sociale": "PHARMACIE BERGEROT",
+    "numero voie": "48",
+    "type_voie": "R",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "25420",
+    "VILLE": "BART ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82380785400018",
+    "lng": "6.771336617611",
+    "lat": "47.4915306234199"
+  },
+  {
+    "finess": "250016318",
+    "raison_sociale": "EHPAD LE CHANT DE L EAU BART",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE DUNG",
+    "bp": "",
+    "cp": "25420",
+    "VILLE": "BART ",
+    "tel": "381953246",
+    "telecopie": "381953237",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77557127600515",
+    "lng": "6.76758083530459",
+    "lat": "47.4923290280302"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "450013578",
+    "raison_sociale": "MARPA LES ALOUETTES",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DES ALOUETTES",
+    "bp": "",
+    "cp": "45300",
+    "VILLE": "SERMAISES ",
+    "tel": "238305355",
+    "telecopie": "238305375",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "53389739300013",
+    "lng": "2.19675741806649",
+    "lat": "48.296041819043"
+  },
+  {
+    "finess": "450016662",
+    "raison_sociale": "PHARMACIE SERENI - DUFOUR",
+    "numero voie": "22",
+    "type_voie": "R",
+    "libelle_voie": "DE PARIS",
+    "bp": "",
+    "cp": "45300",
+    "VILLE": "SERMAISES ",
+    "tel": "238397145",
+    "telecopie": "238390610",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "41750284600013",
+    "lng": "2.20116083754357",
+    "lat": "48.2964387360965"
+  }
+]

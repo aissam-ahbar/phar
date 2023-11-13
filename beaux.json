@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "430000364",
+    "raison_sociale": "EHPAD LES CEDRES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "MALATAVERNE",
+    "cp": "43200",
+    "VILLE": "BEAUX ",
+    "tel": "471751670",
+    "telecopie": "471655558",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "52511297500020",
+    "lng": "4.07298181374242",
+    "lat": "45.1723476091981"
+  },
+  {
+    "finess": "430007302",
+    "raison_sociale": "FAM LES CEDRES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "MALATAVERNE",
+    "cp": "43200",
+    "VILLE": "BEAUX ",
+    "tel": "471751670",
+    "telecopie": "471655558",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "52201250900033",
+    "lng": "4.07298181374242",
+    "lat": "45.1723476091981"
+  },
+  {
+    "finess": "430007963",
+    "raison_sociale": "MAS LES CEDRES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "MALATAVERNE",
+    "cp": "43200",
+    "VILLE": "BEAUX ",
+    "tel": "471751670",
+    "telecopie": "",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "52201250900041",
+    "lng": "4.07298181374242",
+    "lat": "45.1723476091981"
+  }
+]

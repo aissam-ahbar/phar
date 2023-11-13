@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "650007115",
+    "raison_sociale": "SAVS SITE DE SARP",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "RESIDENCE BAROUSSE",
+    "bp": "",
+    "cp": "65370",
+    "VILLE": "SARP ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "446",
+    "libelle categorie": "Service d'Accompagnement à la Vie Sociale (S.A.V.S.)",
+    "siret": "20006733800216",
+    "lng": "0.589509993833907",
+    "lat": "43.0153325001099"
+  },
+  {
+    "finess": "650789332",
+    "raison_sociale": "ESAT DE SARP",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "QUARTIER LA LIERE",
+    "bp": "",
+    "cp": "65370",
+    "VILLE": "SARP ",
+    "tel": "562317322",
+    "telecopie": "562317325",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "20006733800059",
+    "lng": "0.590793721587684",
+    "lat": "43.0183710127375"
+  }
+]

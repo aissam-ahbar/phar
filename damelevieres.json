@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "540004892",
+    "raison_sociale": "RESIDENCE AUTONOMIE ANDRE CLAUDEL",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE LA RESISTANCE",
+    "bp": "",
+    "cp": "54360",
+    "VILLE": "DAMELEVIERES ",
+    "tel": "383757523",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26540070500033",
+    "lng": "6.3834697715251",
+    "lat": "48.5571326232924"
+  },
+  {
+    "finess": "540009511",
+    "raison_sociale": "PHARMACIE  HENN - HENRY",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DE LORRAINE",
+    "bp": "",
+    "cp": "54360",
+    "VILLE": "DAMELEVIERES ",
+    "tel": "383757073",
+    "telecopie": "383750257",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34091598200011",
+    "lng": "6.38805447731983",
+    "lat": "48.5568849962719"
+  }
+]

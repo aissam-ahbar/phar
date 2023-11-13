@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "700002595",
+    "raison_sociale": "PHARMACIE CHRETIEN CLAIRE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU COLONEL BOIGEY",
+    "bp": "",
+    "cp": "70280",
+    "VILLE": "RADDON ET CHAPENDU    ",
+    "tel": "384946102",
+    "telecopie": "384946102",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "42892044100022",
+    "lng": "6.47218821823174",
+    "lat": "47.8411770354613"
+  },
+  {
+    "finess": "700005861",
+    "raison_sociale": "MAISON DE SANTE LA CHENAIE",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "70280",
+    "VILLE": "RADDON ET CHAPENDU    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "88358875800010",
+    "lng": "6.46774579030752",
+    "lat": "47.8426148023692"
+  }
+]

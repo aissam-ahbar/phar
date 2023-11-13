@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "470012436",
+    "raison_sociale": "PHARMACIE DE LA BASTIDE",
+    "numero voie": "23",
+    "type_voie": "BD",
+    "libelle_voie": "de la Gare",
+    "bp": "",
+    "cp": "47230",
+    "VILLE": "VIANNE ",
+    "tel": "553972222",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80279422200017",
+    "lng": "0.320470743751622",
+    "lat": "44.198164574092"
+  },
+  {
+    "finess": "470017716",
+    "raison_sociale": "SAAD ADMR VIANNE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "47230",
+    "VILLE": "VIANNE ",
+    "tel": "553977049",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "30251905300011",
+    "lng": "0.320541602050835",
+    "lat": "44.1964506503846"
+  }
+]

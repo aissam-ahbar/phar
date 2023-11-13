@@ -1,0 +1,19 @@
+[
+  {
+    "finess": "140010737",
+    "raison_sociale": "PHARMACIE DE SAINT-AUBIN",
+    "numero voie": "23",
+    "type_voie": "R",
+    "libelle_voie": "PASTEUR",
+    "bp": "",
+    "cp": "14750",
+    "VILLE": "ST AUBIN SUR MER   ",
+    "tel": "231973028",
+    "telecopie": "231976675",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40385402900028",
+    "lng": "-0.391610659106229",
+    "lat": "49.3310993737662"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "480001064",
+    "raison_sociale": "PHARMACIE MALAVAL-ANDRE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DROITE",
+    "bp": "",
+    "cp": "48000",
+    "VILLE": "ST ETIENNE DU VALDONNEZ   ",
+    "tel": "466480054",
+    "telecopie": "466480064",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "41510328200018",
+    "lng": "3.56331464788949",
+    "lat": "44.4566680493631"
+  },
+  {
+    "finess": "480004001",
+    "raison_sociale": "SESSAD MARIA VINCENT",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "VILLAGE",
+    "bp": "",
+    "cp": "48000",
+    "VILLE": "ST ETIENNE DU VALDONNEZ   ",
+    "tel": "466480284",
+    "telecopie": "",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "42169735000021",
+    "lng": "3.56510201360391",
+    "lat": "44.4562979131239"
+  },
+  {
+    "finess": "480780691",
+    "raison_sociale": "ITEP MARIA VINCENT",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "VILLAGE",
+    "bp": "",
+    "cp": "48000",
+    "VILLE": "ST ETIENNE DU VALDONNEZ   ",
+    "tel": "466480284",
+    "telecopie": "466480380",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "42169735000021",
+    "lng": "3.56510201360391",
+    "lat": "44.4562979131239"
+  }
+]

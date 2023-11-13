@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "500017157",
+    "raison_sociale": "MAISON ASSOCIATIVE COURCY - FBS MANCHE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE PRESBYTERE",
+    "bp": "",
+    "cp": "50200",
+    "VILLE": "COURCY ",
+    "tel": "233070496",
+    "telecopie": "",
+    "categorie etablissement": "292",
+    "libelle categorie": "Centre Hospitalier Spécialisé lutte Maladies Mentales",
+    "siret": "",
+    "lng": "-1.39264975367261",
+    "lat": "49.0421778637574"
+  },
+  {
+    "finess": "510018625",
+    "raison_sociale": "PHARMACIE HARLAUT-TURPIN",
+    "numero voie": "13",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "51220",
+    "VILLE": "COURCY ",
+    "tel": "326496153",
+    "telecopie": "326496463",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34972680200011",
+    "lng": "4.00181192179219",
+    "lat": "49.3231523727567"
+  },
+  {
+    "finess": "510026206",
+    "raison_sociale": "MSP DE COURCY",
+    "numero voie": "2",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "51220",
+    "VILLE": "COURCY ",
+    "tel": "326496102",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "88215751400010",
+    "lng": "4.00278395618499",
+    "lat": "49.3223576955298"
+  }
+]

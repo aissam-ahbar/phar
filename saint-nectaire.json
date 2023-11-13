@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "630008555",
+    "raison_sociale": "SARL PHARMACIE DE SAINT-NECTAIRE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE BAS OUEST",
+    "bp": "",
+    "cp": "63710",
+    "VILLE": "ST NECTAIRE",
+    "tel": "473885226",
+    "telecopie": "473885043",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52035290700015",
+    "lng": "2.9923406570044",
+    "lat": "45.5895936692572"
+  },
+  {
+    "finess": "630784841",
+    "raison_sociale": "EHPAD \"RESIDENCE JEANSON\"",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DE SAY",
+    "bp": "",
+    "cp": "63710",
+    "VILLE": "ST NECTAIRE",
+    "tel": "473885087",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "42238351300013",
+    "lng": "2.99025357089946",
+    "lat": "45.5845148219083"
+  },
+  {
+    "finess": "630789139",
+    "raison_sociale": "SCE AIDE MENAG DOM PERS AGEES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "63710",
+    "VILLE": "ST NECTAIRE",
+    "tel": "473885041",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "2.9923406570044",
+    "lat": "45.5895936692572"
+  }
+]

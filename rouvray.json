@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "210006656",
+    "raison_sociale": "PHARMACIE BOUTEILLER",
+    "numero voie": "2",
+    "type_voie": "PL",
+    "libelle_voie": "LORAIN",
+    "bp": "",
+    "cp": "21530",
+    "VILLE": "ROUVRAY ",
+    "tel": "380647196",
+    "telecopie": "380647950",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50110157000015",
+    "lng": "4.104602700621",
+    "lat": "47.4248585657749"
+  },
+  {
+    "finess": "210012613",
+    "raison_sociale": "CADA ROUVRAY",
+    "numero voie": "4",
+    "type_voie": "",
+    "libelle_voie": "ESPACE MARCEL BOILLIN",
+    "bp": "ALLEE LORAIN",
+    "cp": "21530",
+    "VILLE": "ROUVRAY ",
+    "tel": "380902593",
+    "telecopie": "",
+    "categorie etablissement": "443",
+    "libelle categorie": "Centre Accueil Demandeurs Asile (C.A.D.A.)",
+    "siret": "77568030903243",
+    "lng": "4.1057921725019",
+    "lat": "47.4261211616358"
+  },
+  {
+    "finess": "210986295",
+    "raison_sociale": "EHPAD SAINT DIDIER",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "MOISSON",
+    "bp": "",
+    "cp": "21530",
+    "VILLE": "ROUVRAY ",
+    "tel": "380647769",
+    "telecopie": "380648046",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77556776100397",
+    "lng": "4.10365718722515",
+    "lat": "47.4241023014582"
+  }
+]

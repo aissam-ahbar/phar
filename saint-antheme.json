@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "630008217",
+    "raison_sociale": "PHARMACIE ROUSSET-CHAPUIS",
+    "numero voie": "26",
+    "type_voie": "PL",
+    "libelle_voie": "DE L' AUBEPIN",
+    "bp": "",
+    "cp": "63660",
+    "VILLE": "ST ANTHEME",
+    "tel": "473954008",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "89227368100015",
+    "lng": "3.91630870860851",
+    "lat": "45.5276765408276"
+  },
+  {
+    "finess": "630009173",
+    "raison_sociale": "EHPAD LE GONFALON",
+    "numero voie": "29",
+    "type_voie": "RTE",
+    "libelle_voie": "DE SAINT CLÉMENT",
+    "bp": "",
+    "cp": "63660",
+    "VILLE": "ST ANTHEME",
+    "tel": "473958346",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26630199300033",
+    "lng": "3.91786094151339",
+    "lat": "45.5208243389873"
+  },
+  {
+    "finess": "630787679",
+    "raison_sociale": "LOGEMENT-FOYER \"LES TILLEULS\"",
+    "numero voie": "27",
+    "type_voie": "RTE",
+    "libelle_voie": "DE SAINT CLEMENT",
+    "bp": "",
+    "cp": "63660",
+    "VILLE": "ST ANTHEME",
+    "tel": "473954865",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26630199300025",
+    "lng": "3.91786094151339",
+    "lat": "45.5208243389873"
+  }
+]

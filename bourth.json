@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "270019110",
+    "raison_sociale": "PHARMACIE DUFAY - LAUNAY",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DE CHANDAI",
+    "bp": "",
+    "cp": "27580",
+    "VILLE": "BOURTH ",
+    "tel": "232326022",
+    "telecopie": "970824046",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48430385400018",
+    "lng": "0.806781459335656",
+    "lat": "48.7711919674309"
+  },
+  {
+    "finess": "270027030",
+    "raison_sociale": "MSP DE BOURTH",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "CREUSE",
+    "bp": "",
+    "cp": "27580",
+    "VILLE": "BOURTH ",
+    "tel": "232326377",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "0.806039280606987",
+    "lat": "48.7712323197682"
+  }
+]

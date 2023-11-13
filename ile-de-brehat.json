@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "220013064",
+    "raison_sociale": "RESIDENCE KREIZ AR MOR",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "CRECH KERIO",
+    "bp": "",
+    "cp": "22870",
+    "VILLE": "ILE DE BREHAT    ",
+    "tel": "296200257",
+    "telecopie": "296200585",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26220011600115",
+    "lng": "-3.00259295365287",
+    "lat": "48.841399718328"
+  },
+  {
+    "finess": "220022206",
+    "raison_sociale": "PROPHARMACIE MONSIEUR TRIMAILLE YVES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "22870",
+    "VILLE": "ILE DE BREHAT    ",
+    "tel": "296200951",
+    "telecopie": "",
+    "categorie etablissement": "627",
+    "libelle categorie": "Propharmacie",
+    "siret": "",
+    "lng": "-2.99991855497169",
+    "lat": "48.8461123563455"
+  }
+]

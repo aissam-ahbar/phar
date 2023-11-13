@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "140010869",
+    "raison_sociale": "PHARMACIE DE THAON",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE BARBIERES",
+    "bp": "",
+    "cp": "14610",
+    "VILLE": "THAON ",
+    "tel": "231800188",
+    "telecopie": "231081663",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80049305800013",
+    "lng": "-0.449998310213772",
+    "lat": "49.2593770363001"
+  },
+  {
+    "finess": "140016429",
+    "raison_sociale": "EHPAD \"LA RÉSIDENCE DU PARC\" - THAON",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU CHATEAU D'EAU",
+    "bp": "",
+    "cp": "14610",
+    "VILLE": "THAON ",
+    "tel": "231802210",
+    "telecopie": "231081458",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "40320138700038",
+    "lng": "-0.461748944411199",
+    "lat": "49.2607724035889"
+  }
+]

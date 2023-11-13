@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "240000414",
+    "raison_sociale": "CENTRE HOSPITALIER DE DOMME",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DE L'HOPITAL",
+    "bp": "",
+    "cp": "24250",
+    "VILLE": "DOMME ",
+    "tel": "553314949",
+    "telecopie": "553297924",
+    "categorie etablissement": "106",
+    "libelle categorie": "Centre hospitalier",
+    "siret": "",
+    "lng": "1.21535116820843",
+    "lat": "44.803407258414"
+  },
+  {
+    "finess": "240007658",
+    "raison_sociale": "EHPAD DU CH DE DOMME",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE L'HOPITAL",
+    "bp": "",
+    "cp": "24250",
+    "VILLE": "DOMME ",
+    "tel": "553314949",
+    "telecopie": "553297924",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26240570700023",
+    "lng": "1.21522869736247",
+    "lat": "44.8033602598748"
+  },
+  {
+    "finess": "240009316",
+    "raison_sociale": "SSIAD DU CH DE DOMME",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE L'HÔPITAL",
+    "bp": "",
+    "cp": "24250",
+    "VILLE": "DOMME ",
+    "tel": "553314949",
+    "telecopie": "553297924",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "26240570700049",
+    "lng": "1.21522869736247",
+    "lat": "44.8033602598748"
+  }
+]

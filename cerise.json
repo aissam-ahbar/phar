@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "610004400",
+    "raison_sociale": "EA ANAIS CUISINE LEGUMERIE GRAND OUEST",
+    "numero voie": "21",
+    "type_voie": "R",
+    "libelle_voie": "DE L'EXPANSION",
+    "bp": "PARC D'ACTIVITÉ DU LONDEAU",
+    "cp": "61000",
+    "VILLE": "CERISE ",
+    "tel": "233803073",
+    "telecopie": "233803051",
+    "categorie etablissement": "247",
+    "libelle categorie": "Entreprise adaptée",
+    "siret": "77562927200672",
+    "lng": "0.117145473042385",
+    "lat": "48.4448075778414"
+  },
+  {
+    "finess": "610785875",
+    "raison_sociale": "EA ANAIS PAYS D'ALENÇON ESPACES VERTS",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "DE L'INDUSTRIE",
+    "bp": "PARC D'ACTIVITÉ DU LONDEAU",
+    "cp": "61000",
+    "VILLE": "CERISE ",
+    "tel": "233812760",
+    "telecopie": "233270773",
+    "categorie etablissement": "247",
+    "libelle categorie": "Entreprise adaptée",
+    "siret": "77562927201480",
+    "lng": "0.113827362002778",
+    "lat": "48.4453300541321"
+  },
+  {
+    "finess": "610787699",
+    "raison_sociale": "ESAT DU PAYS D'ALENÇON - SITE CERISE",
+    "numero voie": "27",
+    "type_voie": "R",
+    "libelle_voie": "DE L'INDUSTRIE",
+    "bp": "",
+    "cp": "61000",
+    "VILLE": "CERISE ",
+    "tel": "233803060",
+    "telecopie": "233803078",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "",
+    "lng": "0.114537356176825",
+    "lat": "48.4460513054305"
+  }
+]

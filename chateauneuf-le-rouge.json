@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "130027899",
+    "raison_sociale": "EHPAD RESIDENCE L'ESCALETTE",
+    "numero voie": "",
+    "type_voie": "ALL",
+    "libelle_voie": "ARSENE SARI",
+    "bp": "",
+    "cp": "13790",
+    "VILLE": "CHATEAUNEUF LE ROUGE    ",
+    "tel": "442581010",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "44508571500024",
+    "lng": "5.5644739089089",
+    "lat": "43.4889444877596"
+  },
+  {
+    "finess": "130035843",
+    "raison_sociale": "SELEURL PHARMACIE DES ARCADES",
+    "numero voie": "32",
+    "type_voie": "PL",
+    "libelle_voie": "BARET",
+    "bp": "",
+    "cp": "13790",
+    "VILLE": "CHATEAUNEUF LE ROUGE    ",
+    "tel": "442125465",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82423401700013",
+    "lng": "5.56715422566262",
+    "lat": "43.4895786847649"
+  }
+]

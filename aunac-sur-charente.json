@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "160010625",
+    "raison_sociale": "PHARMACIE D'AUNAC",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DU DOCTEUR DEGORCE",
+    "bp": "",
+    "cp": "16460",
+    "VILLE": "AUNAC SUR CHARENTE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53820329000027",
+    "lng": "0.24099202857877",
+    "lat": "45.919063972183"
+  },
+  {
+    "finess": "160015822",
+    "raison_sociale": "PSP-MSP AUNAC BORDS DE CHARENTE",
+    "numero voie": "16",
+    "type_voie": "R",
+    "libelle_voie": "DE LA CHARENTE",
+    "bp": "",
+    "cp": "16460",
+    "VILLE": "AUNAC SUR CHARENTE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "80455613200012",
+    "lng": "0.240310491963465",
+    "lat": "45.918804061364"
+  }
+]

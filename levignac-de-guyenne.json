@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "470010117",
+    "raison_sociale": "PHARMACIE VOISIN-LANSADE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "AU BOURG",
+    "bp": "",
+    "cp": "47120",
+    "VILLE": "LEVIGNAC DE GUYENNE    ",
+    "tel": "553837203",
+    "telecopie": "553947605",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "35145435000015",
+    "lng": "0.199170803941269",
+    "lat": "44.6283277108867"
+  },
+  {
+    "finess": "470015983",
+    "raison_sociale": "POLE DE SANTE SITE LEVIGNAC DE GUYENNE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE SEYCHES",
+    "bp": "MAUCA",
+    "cp": "47120",
+    "VILLE": "LEVIGNAC DE GUYENNE    ",
+    "tel": "553398958",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "81428660500013",
+    "lng": "0.198778500613837",
+    "lat": "44.6295203768725"
+  }
+]

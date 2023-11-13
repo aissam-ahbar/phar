@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "570005074",
+    "raison_sociale": "IEM DE MOSELLE-TERRITOIRE THIONVILLE",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "MOZART",
+    "bp": "",
+    "cp": "57270",
+    "VILLE": "UCKANGE ",
+    "tel": "382862223",
+    "telecopie": "382865930",
+    "categorie etablissement": "192",
+    "libelle categorie": "Institut d'éducation motrice",
+    "siret": "77568873200467",
+    "lng": "6.15284387999513",
+    "lat": "49.2988688290562"
+  },
+  {
+    "finess": "570021147",
+    "raison_sociale": "PHARMACIE DAHM - CANTIANI",
+    "numero voie": "30",
+    "type_voie": "R",
+    "libelle_voie": "DES ALLIES",
+    "bp": "",
+    "cp": "57270",
+    "VILLE": "UCKANGE ",
+    "tel": "382862588",
+    "telecopie": "382863910",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53856972400015",
+    "lng": "6.15317863871803",
+    "lat": "49.3032674675204"
+  },
+  {
+    "finess": "570021162",
+    "raison_sociale": "PHARMACIE DE L'HOTEL DE VILLE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE L EGLISE",
+    "bp": "",
+    "cp": "57270",
+    "VILLE": "UCKANGE ",
+    "tel": "382862550",
+    "telecopie": "382862539",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82866430000013",
+    "lng": "6.15892924420626",
+    "lat": "49.3006133544361"
+  }
+]

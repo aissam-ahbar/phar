@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "450014691",
+    "raison_sociale": "EHPAD PIERRE MONDINE",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "D'ARCONVILLE",
+    "bp": "",
+    "cp": "45480",
+    "VILLE": "OUTARVILLE ",
+    "tel": "238345600",
+    "telecopie": "238345689",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26450579300010",
+    "lng": "2.01462548103375",
+    "lat": "48.2110820820396"
+  },
+  {
+    "finess": "450015441",
+    "raison_sociale": "SELARL PHARMACIE MESSEANT",
+    "numero voie": "6",
+    "type_voie": "AV",
+    "libelle_voie": "D ARCONVILLE",
+    "bp": "",
+    "cp": "45480",
+    "VILLE": "OUTARVILLE ",
+    "tel": "238395380",
+    "telecopie": "238396138",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81512401100017",
+    "lng": "2.01964258781511",
+    "lat": "48.2114774666975"
+  },
+  {
+    "finess": "450023460",
+    "raison_sociale": "SAAD ADMR D'OUTARVILLE",
+    "numero voie": "71",
+    "type_voie": "VOI",
+    "libelle_voie": "ROMAINE D'ACQUEBOUILLE",
+    "bp": "",
+    "cp": "45480",
+    "VILLE": "OUTARVILLE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "30801724300038",
+    "lng": "2.06385404432986",
+    "lat": "48.2030742467681"
+  }
+]

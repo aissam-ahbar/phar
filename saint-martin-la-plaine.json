@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "420009144",
+    "raison_sociale": "PHARMACIE DE SAINT MARTIN",
+    "numero voie": "7",
+    "type_voie": "PL",
+    "libelle_voie": "de la Bascule",
+    "bp": "",
+    "cp": "42800",
+    "VILLE": "ST MARTIN LA PLAINE   ",
+    "tel": "477755446",
+    "telecopie": "477834765",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51173572200023",
+    "lng": "4.59393040659724",
+    "lat": "45.5453509152555"
+  },
+  {
+    "finess": "420017378",
+    "raison_sociale": "MAISON DE SANTE DE ST MARTIN LA PLAINE",
+    "numero voie": "7",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA BASCULE",
+    "bp": "",
+    "cp": "42800",
+    "VILLE": "ST MARTIN LA PLAINE   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "4.59393040659724",
+    "lat": "45.5453509152555"
+  }
+]

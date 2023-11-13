@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "260003223",
+    "raison_sociale": "ESAT LES TILLEULS",
+    "numero voie": "",
+    "type_voie": "QU",
+    "libelle_voie": "SAINT JUST",
+    "bp": "",
+    "cp": "26770",
+    "VILLE": "ST PANTALEON LES VIGNES   ",
+    "tel": "475279750",
+    "telecopie": "475279779",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "32108866800033",
+    "lng": "5.02057083243627",
+    "lat": "44.4068441591273"
+  },
+  {
+    "finess": "260017033",
+    "raison_sociale": "ATELIER PROTEGE LES AMIS DES TILLEULS",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "ROUSSET",
+    "bp": "",
+    "cp": "26770",
+    "VILLE": "ST PANTALEON LES VIGNES   ",
+    "tel": "475536150",
+    "telecopie": "",
+    "categorie etablissement": "247",
+    "libelle categorie": "Entreprise adaptée",
+    "siret": "",
+    "lng": "5.04742488357812",
+    "lat": "44.4026706173792"
+  }
+]

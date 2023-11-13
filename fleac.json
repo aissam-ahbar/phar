@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "160009940",
+    "raison_sociale": "EHPAD LE HAUT BOIS",
+    "numero voie": "4",
+    "type_voie": "AV",
+    "libelle_voie": "DES SPORTS",
+    "bp": "",
+    "cp": "16730",
+    "VILLE": "FLEAC ",
+    "tel": "545910106",
+    "telecopie": "545275490",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26160073800023",
+    "lng": "0.088372223100644",
+    "lat": "45.662546851169"
+  },
+  {
+    "finess": "160010963",
+    "raison_sociale": "PHARMACIE DE FLEAC",
+    "numero voie": "17",
+    "type_voie": "R",
+    "libelle_voie": "DES PETITS PRES",
+    "bp": "",
+    "cp": "16730",
+    "VILLE": "FLEAC ",
+    "tel": "545910440",
+    "telecopie": "545911632",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51800100300012",
+    "lng": "0.093535451678119",
+    "lat": "45.6637030295314"
+  }
+]

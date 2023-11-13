@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "150001055",
+    "raison_sociale": "PHARMACIE LAJARRIGE",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DU 19 MARS 1962",
+    "bp": "",
+    "cp": "15350",
+    "VILLE": "CHAMPAGNAC ",
+    "tel": "471696415",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51047038800016",
+    "lng": "2.40989812086998",
+    "lat": "45.3557090440377"
+  },
+  {
+    "finess": "170021091",
+    "raison_sociale": "MAIS. D'ACC. D'ADO CHAMPAGNAC",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LA MOTTE",
+    "bp": "",
+    "cp": "17500",
+    "VILLE": "CHAMPAGNAC ",
+    "tel": "546047859",
+    "telecopie": "",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "38512666900030",
+    "lng": "-0.385969682409861",
+    "lat": "45.4292588357242"
+  }
+]

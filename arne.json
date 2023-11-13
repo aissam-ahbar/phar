@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "650005408",
+    "raison_sociale": "PROPHARMACIE MR JEAN PIERRE LEVADE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "VIE DE LALANDE",
+    "bp": "",
+    "cp": "65670",
+    "VILLE": "ARNE ",
+    "tel": "562994351",
+    "telecopie": "562994351",
+    "categorie etablissement": "627",
+    "libelle categorie": "Propharmacie",
+    "siret": "32829098600012",
+    "lng": "0.503580780012515",
+    "lat": "43.1857905487121"
+  },
+  {
+    "finess": "650007032",
+    "raison_sociale": "SAAD MAGNOAC SERVICES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LE VILLAGE",
+    "cp": "65670",
+    "VILLE": "ARNE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "84276500000018",
+    "lng": "0.505840047565015",
+    "lat": "43.1885804112235"
+  }
+]

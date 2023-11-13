@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "240005132",
+    "raison_sociale": "EHPAD RESIDENCE SAINTE-MARTHE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "STE MARTHE",
+    "bp": "",
+    "cp": "24320",
+    "VILLE": "LA TOUR BLANCHE CERCLES   ",
+    "tel": "553925100",
+    "telecopie": "553925101",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "43997564000749",
+    "lng": "0.445589833663456",
+    "lat": "45.3644131182302"
+  },
+  {
+    "finess": "240012807",
+    "raison_sociale": "SARL PHARMACIE DE LA TOUR BLANCHE",
+    "numero voie": "11",
+    "type_voie": "PL",
+    "libelle_voie": "DE NANCHAPT",
+    "bp": "",
+    "cp": "24320",
+    "VILLE": "LA TOUR BLANCHE CERCLES   ",
+    "tel": "553911165",
+    "telecopie": "553909382",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "78880354200018",
+    "lng": "0.445974929084367",
+    "lat": "45.3656849921037"
+  }
+]

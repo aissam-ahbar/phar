@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "570024968",
+    "raison_sociale": "FAM \" LES HORIZONS \"",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU CHAMPS PLAISANT",
+    "bp": "",
+    "cp": "57245",
+    "VILLE": "JURY ",
+    "tel": "387218620",
+    "telecopie": "387218626",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "78001412200078",
+    "lng": "6.25768564366687",
+    "lat": "49.073139353519"
+  },
+  {
+    "finess": "570028431",
+    "raison_sociale": "ISIS LORRAINE",
+    "numero voie": "4",
+    "type_voie": "LOT",
+    "libelle_voie": "LE BREUIL",
+    "bp": "",
+    "cp": "57245",
+    "VILLE": "JURY ",
+    "tel": "387642512",
+    "telecopie": "387642527",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "83050903000011",
+    "lng": "6.26438659505708",
+    "lat": "49.0779501115393"
+  }
+]

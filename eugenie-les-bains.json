@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "400008082",
+    "raison_sociale": "PHARMACIE LES SOURCES",
+    "numero voie": "130",
+    "type_voie": "RTE",
+    "libelle_voie": "de l'Eglise",
+    "bp": "",
+    "cp": "40320",
+    "VILLE": "EUGENIE LES BAINS    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51321152400014",
+    "lng": "-0.378293796617998",
+    "lat": "43.6945628349867"
+  },
+  {
+    "finess": "400780128",
+    "raison_sociale": "THERMES EUGENIE LES BAINS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "BOURG",
+    "bp": "",
+    "cp": "40320",
+    "VILLE": "EUGENIE LES BAINS    ",
+    "tel": "558511901",
+    "telecopie": "",
+    "categorie etablissement": "126",
+    "libelle categorie": "Etablissement Thermal",
+    "siret": "31107857000018",
+    "lng": "-0.377701923352919",
+    "lat": "43.6950504542316"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "110007937",
+    "raison_sociale": "MSP ASCLEPIOS-CAZILHAC",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "11570",
+    "VILLE": "CAZILHAC ",
+    "tel": "468784987",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "84059486500015",
+    "lng": "2.36312506215573",
+    "lat": "43.1845910554064"
+  },
+  {
+    "finess": "110790292",
+    "raison_sociale": "PHARMACIE DE PECH - ANGES",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "11570",
+    "VILLE": "CAZILHAC ",
+    "tel": "468796159",
+    "telecopie": "468797854",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49538575900024",
+    "lng": "2.36312506215573",
+    "lat": "43.1845910554064"
+  }
+]

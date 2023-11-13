@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "600014062",
+    "raison_sociale": "EHPAD LES JARDINS DE L'AUNETTE",
+    "numero voie": "6",
+    "type_voie": "AV",
+    "libelle_voie": "DU POTEAU",
+    "bp": "",
+    "cp": "60300",
+    "VILLE": "CHAMANT ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "",
+    "lng": "2.59488249505277",
+    "lat": "49.217735613128"
+  },
+  {
+    "finess": "600015812",
+    "raison_sociale": "ASSOC. DES CENTRES DE SANTE DOCREZO",
+    "numero voie": "4",
+    "type_voie": "AV",
+    "libelle_voie": "DU POTEAU",
+    "bp": "",
+    "cp": "60300",
+    "VILLE": "CHAMANT ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "88229637900010",
+    "lng": "2.5947789960076",
+    "lat": "49.2178080859898"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "600006472",
+    "raison_sociale": "PHARMACIE LASSAVE",
+    "numero voie": "22",
+    "type_voie": "R",
+    "libelle_voie": "DE L ARONDE",
+    "bp": "",
+    "cp": "60280",
+    "VILLE": "CLAIROIX ",
+    "tel": "344832900",
+    "telecopie": "344832900",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52976512500016",
+    "lng": "2.84537525917646",
+    "lat": "49.4414779822465"
+  },
+  {
+    "finess": "600110605",
+    "raison_sociale": "FV UNAPEI60 CLAIROIX",
+    "numero voie": "18",
+    "type_voie": "R",
+    "libelle_voie": "D'ORADOUR",
+    "bp": "",
+    "cp": "60280",
+    "VILLE": "CLAIROIX ",
+    "tel": "344900053",
+    "telecopie": "344830401",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "77562913200256",
+    "lng": "2.85131224299842",
+    "lat": "49.441827860354"
+  }
+]

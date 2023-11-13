@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "170014930",
+    "raison_sociale": "PHARMACIE   LAROCHE - BIREAU",
+    "numero voie": "77",
+    "type_voie": "RTE",
+    "libelle_voie": "de Poitiers",
+    "bp": "",
+    "cp": "17400",
+    "VILLE": "ST JULIEN DE L ESCAP  ",
+    "tel": "546590649",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82790899700022",
+    "lng": "-0.485649700338306",
+    "lat": "45.9352733227215"
+  },
+  {
+    "finess": "170020218",
+    "raison_sociale": "RESIDENCE LES JARDINS DE MATHIS",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "LES PERRIERES",
+    "bp": "",
+    "cp": "17400",
+    "VILLE": "ST JULIEN DE L ESCAP  ",
+    "tel": "546592350",
+    "telecopie": "546582665",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "80967416100033",
+    "lng": "-0.486779040161281",
+    "lat": "45.9317484003306"
+  }
+]

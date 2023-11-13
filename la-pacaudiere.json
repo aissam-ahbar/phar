@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "420004830",
+    "raison_sociale": "SELARL PHARMACIE DE LA PACAUDIERE",
+    "numero voie": "202",
+    "type_voie": "RTE",
+    "libelle_voie": "DE PARIS",
+    "bp": "",
+    "cp": "42310",
+    "VILLE": "LA PACAUDIERE",
+    "tel": "477643578",
+    "telecopie": "477641749",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88387690600016",
+    "lng": "3.86643560297666",
+    "lat": "46.1766592118811"
+  },
+  {
+    "finess": "420781890",
+    "raison_sociale": "EHPAD FONDATION GRIMAUD",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "ANTOINETTE GRIMAUD",
+    "bp": "",
+    "cp": "42310",
+    "VILLE": "LA PACAUDIERE",
+    "tel": "477664080",
+    "telecopie": "477641014",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26420021300017",
+    "lng": "3.86388634109967",
+    "lat": "46.1757951870905"
+  },
+  {
+    "finess": "420792665",
+    "raison_sociale": "SCE DE TRAVAILLEUSES FAMILIALES",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "42310",
+    "VILLE": "LA PACAUDIERE",
+    "tel": "477643018",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "3.86693060136402",
+    "lat": "46.1759079898892"
+  }
+]

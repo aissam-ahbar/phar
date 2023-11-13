@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "430001750",
+    "raison_sociale": "PHARMACIE  POIRIER",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "43490",
+    "VILLE": "COSTAROS ",
+    "tel": "471571648",
+    "telecopie": "961364689",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82859682500012",
+    "lng": "3.8502424560391",
+    "lat": "44.8942051510914"
+  },
+  {
+    "finess": "430004077",
+    "raison_sociale": "CENTRE SOINS PLATEAU VELLAVE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAISON DES SERVICES PUBLICS",
+    "bp": "",
+    "cp": "43490",
+    "VILLE": "COSTAROS ",
+    "tel": "471571873",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "31274524300013",
+    "lng": "3.8502424560391",
+    "lat": "44.8942051510914"
+  },
+  {
+    "finess": "430004101",
+    "raison_sociale": "SERVICE D'AIDE AUX PERSONNES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "43490",
+    "VILLE": "COSTAROS ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "39166131100012",
+    "lng": "3.8502424560391",
+    "lat": "44.8942051510914"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "120002845",
+    "raison_sociale": "MERCIER - PICARD",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DU MARCHE",
+    "bp": "",
+    "cp": "12220",
+    "VILLE": "MONTBAZENS ",
+    "tel": "565806247",
+    "telecopie": "565806334",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84211152800019",
+    "lng": "2.22844201835472",
+    "lat": "44.4761138437477"
+  },
+  {
+    "finess": "120005251",
+    "raison_sociale": "SAAD AL ADMR DE MONTBAZENS",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "MARIUS GARRIC",
+    "bp": "LE FARGAL",
+    "cp": "12220",
+    "VILLE": "MONTBAZENS ",
+    "tel": "565772222",
+    "telecopie": "565772220",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "2.22432386387681",
+    "lat": "44.4666080439546"
+  },
+  {
+    "finess": "120782339",
+    "raison_sociale": "EHPAD \"PARC  DE JAUNAC\"",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DU PARC DE JAUNAC",
+    "bp": "",
+    "cp": "12220",
+    "VILLE": "MONTBAZENS ",
+    "tel": "565806222",
+    "telecopie": "565804474",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26120121400036",
+    "lng": "2.22356553000706",
+    "lat": "44.4710229199741"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380008953",
+    "raison_sociale": "PHARMACIE BERAUD",
+    "numero voie": "19",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA LIBÉRATION",
+    "bp": "",
+    "cp": "38370",
+    "VILLE": "LES ROCHES DE CONDRIEU   ",
+    "tel": "474564129",
+    "telecopie": "474563970",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "33462244600030",
+    "lng": "4.7679555024733",
+    "lat": "45.4532482698976"
+  },
+  {
+    "finess": "380021063",
+    "raison_sociale": "LOGEMENT-FOYER CANTEDOR",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "EMILE ROMANET",
+    "bp": "",
+    "cp": "38370",
+    "VILLE": "LES ROCHES DE CONDRIEU   ",
+    "tel": "774564083",
+    "telecopie": "474565600",
+    "categorie etablissement": "502",
+    "libelle categorie": "EHPA ne percevant pas des crédits d'assurance maladie",
+    "siret": "26381029300021",
+    "lng": "4.76476029413183",
+    "lat": "45.4513621091173"
+  }
+]

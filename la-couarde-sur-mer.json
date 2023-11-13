@@ -1,0 +1,19 @@
+[
+  {
+    "finess": "170011043",
+    "raison_sociale": "PHARMACIE D'ANTIOCHE",
+    "numero voie": "1",
+    "type_voie": "AV",
+    "libelle_voie": "D'ANTIOCHE",
+    "bp": "",
+    "cp": "17670",
+    "VILLE": "LA COUARDE SUR MER   ",
+    "tel": "546298121",
+    "telecopie": "546299321",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88282390900016",
+    "lng": "-1.429323775454",
+    "lat": "46.1923515387363"
+  }
+]

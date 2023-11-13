@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "220010748",
+    "raison_sociale": "PHARMACIE DE PLOUASNE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "BERTRAND DUGUESCLIN",
+    "bp": "",
+    "cp": "22830",
+    "VILLE": "PLOUASNE ",
+    "tel": "296864878",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "41418992800024",
+    "lng": "-2.00277266470834",
+    "lat": "48.2988895587242"
+  },
+  {
+    "finess": "220022644",
+    "raison_sociale": "PSP DE PLOUASNE",
+    "numero voie": "23",
+    "type_voie": "R",
+    "libelle_voie": "BERTRAND DUGUESCLIN",
+    "bp": "",
+    "cp": "22830",
+    "VILLE": "PLOUASNE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "-1.99020304028517",
+    "lat": "48.3104312709527"
+  }
+]

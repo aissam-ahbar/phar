@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "370003683",
+    "raison_sociale": "PHARMACIE DE L'ABBAYE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "Le Chaumenier",
+    "bp": "",
+    "cp": "37320",
+    "VILLE": "CORMERY ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52969841700019",
+    "lng": "0.839482025447594",
+    "lat": "47.2644517859561"
+  },
+  {
+    "finess": "370005167",
+    "raison_sociale": "EHPAD L ABBATIALE",
+    "numero voie": "35",
+    "type_voie": "R",
+    "libelle_voie": "MONTRESOR",
+    "bp": "",
+    "cp": "37320",
+    "VILLE": "CORMERY ",
+    "tel": "247434023",
+    "telecopie": "247433902",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "52389836900013",
+    "lng": "0.838506095735839",
+    "lat": "47.2680260522049"
+  },
+  {
+    "finess": "370013930",
+    "raison_sociale": "MSP CORMERY -TAUXIGNY - ET",
+    "numero voie": "238",
+    "type_voie": "R",
+    "libelle_voie": "ANTOINE LAURENT DE LAVOISIE",
+    "bp": "",
+    "cp": "37320",
+    "VILLE": "CORMERY ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "0.835678559899022",
+    "lat": "47.2681273210586"
+  }
+]

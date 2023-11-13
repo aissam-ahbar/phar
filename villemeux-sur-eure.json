@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "280004755",
+    "raison_sociale": "PHARMACIE VOISIN-GAVELLE",
+    "numero voie": "53",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "28210",
+    "VILLE": "VILLEMEUX SUR EURE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49124902500025",
+    "lng": "1.46154627822976",
+    "lat": "48.6734935741215"
+  },
+  {
+    "finess": "280007691",
+    "raison_sociale": "MSP DE VILLEMEUX-SUR-EURE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "28210",
+    "VILLE": "VILLEMEUX SUR EURE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "84796937500017",
+    "lng": "1.46057770870772",
+    "lat": "48.6746487967219"
+  }
+]

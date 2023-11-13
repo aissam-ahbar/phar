@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "480780626",
+    "raison_sociale": "EHPAD VIALAS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "48220",
+    "VILLE": "VIALAS ",
+    "tel": "466410163",
+    "telecopie": "466410555",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26480013700012",
+    "lng": "3.89193105494829",
+    "lat": "44.3293158295273"
+  },
+  {
+    "finess": "480782630",
+    "raison_sociale": "SSIAD PA EHPAD VIALAS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "SAGNE",
+    "bp": "",
+    "cp": "48220",
+    "VILLE": "VIALAS ",
+    "tel": "466410163",
+    "telecopie": "466410555",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "26480013700020",
+    "lng": "3.89193105494829",
+    "lat": "44.3293158295273"
+  }
+]

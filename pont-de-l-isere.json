@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "260008834",
+    "raison_sociale": "PHARMACIE DE PONT DE L'ISERE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU CHATEAU D'EAU",
+    "bp": "",
+    "cp": "26600",
+    "VILLE": "PONT DE L ISERE   ",
+    "tel": "475845014",
+    "telecopie": "475847151",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49242881800024",
+    "lng": "4.86889382977648",
+    "lat": "45.0091370592744"
+  },
+  {
+    "finess": "260015847",
+    "raison_sociale": "ASS ADMR PONT DE L'ISERE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "26600",
+    "VILLE": "PONT DE L ISERE   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "77943777100024",
+    "lng": "4.8718554016766",
+    "lat": "45.0039203768225"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590026001",
+    "raison_sociale": "PHARMACIE SEVIN",
+    "numero voie": "136",
+    "type_voie": "",
+    "libelle_voie": "GRAND RUE",
+    "bp": "",
+    "cp": "59138",
+    "VILLE": "PONT SUR SAMBRE    ",
+    "tel": "327672144",
+    "telecopie": "327665614",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49180525500016",
+    "lng": "3.84716611972957",
+    "lat": "50.2211033470135"
+  },
+  {
+    "finess": "590034815",
+    "raison_sociale": "CTRE D'AUTODIALYSE PONT/SAMBRE",
+    "numero voie": "232",
+    "type_voie": "CITE",
+    "libelle_voie": "LES QUESNOYS",
+    "bp": "",
+    "cp": "59138",
+    "VILLE": "PONT SUR SAMBRE    ",
+    "tel": "327638322",
+    "telecopie": "327538333",
+    "categorie etablissement": "146",
+    "libelle categorie": "Structure d'Alternative à la dialyse en centre",
+    "siret": "30684976100052",
+    "lng": "3.85464012589094",
+    "lat": "50.2191065982905"
+  }
+]

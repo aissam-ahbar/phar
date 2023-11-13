@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "140010513",
+    "raison_sociale": "SELARL PHARMACIE DE MAY",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "DU CANADA",
+    "bp": "",
+    "cp": "14320",
+    "VILLE": "MAY SUR ORNE    ",
+    "tel": "231798094",
+    "telecopie": "231790184",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75329444600012",
+    "lng": "-0.374539362628234",
+    "lat": "49.1026092910446"
+  },
+  {
+    "finess": "140017955",
+    "raison_sociale": "FERME THERAPEUTHIQUE HDJ - EPSM CAEN",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MINE",
+    "bp": "",
+    "cp": "14320",
+    "VILLE": "MAY SUR ORNE    ",
+    "tel": "231799990",
+    "telecopie": "",
+    "categorie etablissement": "292",
+    "libelle categorie": "Centre Hospitalier Spécialisé lutte Maladies Mentales",
+    "siret": "26140127700155",
+    "lng": "-0.379717671423908",
+    "lat": "49.1002373379802"
+  }
+]

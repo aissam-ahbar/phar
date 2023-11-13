@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "390003861",
+    "raison_sociale": "PHARMACIE PONTOISE",
+    "numero voie": "41",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "39130",
+    "VILLE": "PONT DE POITTE    ",
+    "tel": "384483405",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39473830600015",
+    "lng": "5.69632161402042",
+    "lat": "46.5858378819846"
+  },
+  {
+    "finess": "390785350",
+    "raison_sociale": "SAAD ASS ADMR DE PONT DE POITTE",
+    "numero voie": "72",
+    "type_voie": "GR",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "39130",
+    "VILLE": "PONT DE POITTE    ",
+    "tel": "384447994",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "77841363300026",
+    "lng": "5.69436778340077",
+    "lat": "46.5865199595141"
+  }
+]

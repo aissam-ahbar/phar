@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "670010222",
+    "raison_sociale": "PHARMACIE NOWAK-DEISS",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE HATTEN",
+    "bp": "",
+    "cp": "67470",
+    "VILLE": "SELTZ ",
+    "tel": "388865015",
+    "telecopie": "388861593",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39904125000024",
+    "lng": "8.09122215653782",
+    "lat": "48.8956318044421"
+  },
+  {
+    "finess": "670018654",
+    "raison_sociale": "LBM DE SELTZ",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "MARCEL BISCH",
+    "bp": "",
+    "cp": "67470",
+    "VILLE": "SELTZ ",
+    "tel": "388061606",
+    "telecopie": "388061656",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "44454273200086",
+    "lng": "8.0893639829777",
+    "lat": "48.8968526643329"
+  },
+  {
+    "finess": "670781095",
+    "raison_sociale": "EHPAD SELTZ",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "PRINCIPALE",
+    "bp": "",
+    "cp": "67470",
+    "VILLE": "SELTZ ",
+    "tel": "388055500",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26670058200148",
+    "lng": "8.10698704462809",
+    "lat": "48.8931068092011"
+  }
+]

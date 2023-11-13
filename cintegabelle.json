@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "310007976",
+    "raison_sociale": "PHARMACIE DE CINTEGABELLE",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "de la République",
+    "bp": "",
+    "cp": "31550",
+    "VILLE": "CINTEGABELLE ",
+    "tel": "",
+    "telecopie": "561088973",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83058218500013",
+    "lng": "1.53160034514627",
+    "lat": "43.3135855553769"
+  },
+  {
+    "finess": "310010368",
+    "raison_sociale": "FAM LES HAUTS DE LAUREDE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "31550",
+    "VILLE": "CINTEGABELLE ",
+    "tel": "534478808",
+    "telecopie": "534481387",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "77558122601094",
+    "lng": "1.53157569073923",
+    "lat": "43.3139730047857"
+  },
+  {
+    "finess": "310787064",
+    "raison_sociale": "SAAD SIAS",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "31550",
+    "VILLE": "CINTEGABELLE ",
+    "tel": "561088569",
+    "telecopie": "534480893",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "25310295800019",
+    "lng": "1.53207292226508",
+    "lat": "43.3138016096058"
+  }
+]

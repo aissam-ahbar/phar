@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "240002139",
+    "raison_sociale": "EHPAD FAUBOURG NOTRE DAME",
+    "numero voie": "1620",
+    "type_voie": "RTE",
+    "libelle_voie": "DES BORDS DE DRONNE",
+    "bp": "",
+    "cp": "24310",
+    "VILLE": "BOURDEILLES ",
+    "tel": "553023535",
+    "telecopie": "553023534",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20004092100047",
+    "lng": "0.583985375823507",
+    "lat": "45.3240060182644"
+  },
+  {
+    "finess": "240006866",
+    "raison_sociale": "FOYER LA PRADA",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LA PRAIRIE",
+    "cp": "24310",
+    "VILLE": "BOURDEILLES ",
+    "tel": "553037295",
+    "telecopie": "553048227",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "20004092100021",
+    "lng": "0.588472436533066",
+    "lat": "45.3251063691342"
+  }
+]

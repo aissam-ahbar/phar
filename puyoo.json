@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "640012191",
+    "raison_sociale": "PHARMACIE DE LA SEGALINE",
+    "numero voie": "1421",
+    "type_voie": "RTE",
+    "libelle_voie": "Départementale 817",
+    "bp": "",
+    "cp": "64270",
+    "VILLE": "PUYOO ",
+    "tel": "559651011",
+    "telecopie": "559651011",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84997905900011",
+    "lng": "-0.911212354198678",
+    "lat": "43.5251910767838"
+  },
+  {
+    "finess": "640021804",
+    "raison_sociale": "MSP LES RIVES DU GAVE",
+    "numero voie": "1225",
+    "type_voie": "RTE",
+    "libelle_voie": "RD 817",
+    "bp": "",
+    "cp": "64270",
+    "VILLE": "PUYOO ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "91347502600013",
+    "lng": "-0.913718185670369",
+    "lat": "43.5256285411966"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "240009407",
+    "raison_sociale": "EHPAD LA FEUILLERAIE",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "LEO LAGRANGE",
+    "bp": "",
+    "cp": "24430",
+    "VILLE": "RAZAC SUR L ISLE   ",
+    "tel": "553036000",
+    "telecopie": "553036049",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "38286437900104",
+    "lng": "0.60055083288226",
+    "lat": "45.1611260345046"
+  },
+  {
+    "finess": "240011734",
+    "raison_sociale": "PHARMACIE DE RAZAC",
+    "numero voie": "26",
+    "type_voie": "AV",
+    "libelle_voie": "PASTEUR",
+    "bp": "",
+    "cp": "24430",
+    "VILLE": "RAZAC SUR L ISLE   ",
+    "tel": "553546052",
+    "telecopie": "553043080",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81758625800011",
+    "lng": "0.603233953451939",
+    "lat": "45.1626916864629"
+  }
+]

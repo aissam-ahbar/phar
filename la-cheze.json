@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "220011035",
+    "raison_sociale": "FORCEVILLE VÉRONIQUE",
+    "numero voie": "23",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MADELEINE",
+    "bp": "",
+    "cp": "22210",
+    "VILLE": "LA CHEZE",
+    "tel": "296267016",
+    "telecopie": "296266418",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84284620600014",
+    "lng": "-2.65642412896149",
+    "lat": "48.1317991443673"
+  },
+  {
+    "finess": "220023006",
+    "raison_sociale": "CDS CENTRE MEDICAL DE LA CHEZE",
+    "numero voie": "",
+    "type_voie": "PAS",
+    "libelle_voie": "ANDRE JOUET",
+    "bp": "",
+    "cp": "22210",
+    "VILLE": "LA CHEZE",
+    "tel": "296567290",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "21220039800106",
+    "lng": "-2.65771051184656",
+    "lat": "48.1318059080237"
+  }
+]

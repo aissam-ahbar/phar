@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "430004374",
+    "raison_sociale": "SERVICE D'AIDE AUX PERSONNES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "43200",
+    "VILLE": "LAPTE ",
+    "tel": "471593613",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "30688195400011",
+    "lng": "4.21692970236369",
+    "lat": "45.1850957456713"
+  },
+  {
+    "finess": "430009852",
+    "raison_sociale": "ADMR GRAZAC-LAPTE",
+    "numero voie": "20",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LA SUCHERE",
+    "bp": "",
+    "cp": "43200",
+    "VILLE": "LAPTE ",
+    "tel": "471584764",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "30688195400037",
+    "lng": "4.22099532132932",
+    "lat": "45.1702881887228"
+  }
+]

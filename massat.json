@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "90001231",
+    "raison_sociale": "PHARMACIE PIE",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DE L EUROPE",
+    "bp": "",
+    "cp": "9320",
+    "VILLE": "MASSAT ",
+    "tel": "561969581",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82873531600014",
+    "lng": "1.34257751591958",
+    "lat": "42.891056973391"
+  },
+  {
+    "finess": "90781998",
+    "raison_sociale": "EHPAD DE MASSAT",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DE L'EUROPE",
+    "bp": "",
+    "cp": "9320",
+    "VILLE": "MASSAT ",
+    "tel": "561040200",
+    "telecopie": "561040257",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20000841500024",
+    "lng": "1.34257751591958",
+    "lat": "42.891056973391"
+  }
+]

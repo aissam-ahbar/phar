@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "490020054",
+    "raison_sociale": "MSP DES VIGNES",
+    "numero voie": "6",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "BREZE",
+    "cp": "49260",
+    "VILLE": "BELLEVIGNE LES CHATEAUX    ",
+    "tel": "241529873",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "-0.069815645303798",
+    "lat": "47.2141664671791"
+  },
+  {
+    "finess": "490532876",
+    "raison_sociale": "PHARMACIE DU CHATEAU",
+    "numero voie": "6",
+    "type_voie": "PL",
+    "libelle_voie": "DE L EGLISE",
+    "bp": "",
+    "cp": "49260",
+    "VILLE": "BELLEVIGNE LES CHATEAUX    ",
+    "tel": "241516866",
+    "telecopie": "241516866",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49287435900010",
+    "lng": "-0.069815645303798",
+    "lat": "47.2141664671791"
+  }
+]

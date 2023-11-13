@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "540010295",
+    "raison_sociale": "PHARMACIE REMY",
+    "numero voie": "66",
+    "type_voie": "R",
+    "libelle_voie": "DU CHATEAU",
+    "bp": "",
+    "cp": "54710",
+    "VILLE": "FLEVILLE DEVANT NANCY    ",
+    "tel": "383256580",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40750698900018",
+    "lng": "6.20938902093974",
+    "lat": "48.6302391870005"
+  },
+  {
+    "finess": "540027067",
+    "raison_sociale": "PUI ALTIR",
+    "numero voie": "375",
+    "type_voie": "R",
+    "libelle_voie": "JEAN PROUVE",
+    "bp": "",
+    "cp": "54710",
+    "VILLE": "FLEVILLE DEVANT NANCY    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "698",
+    "libelle categorie": "Autre Etablissement Loi Hospitalière",
+    "siret": "30089908500058",
+    "lng": "6.20813888204945",
+    "lat": "48.6142611081931"
+  }
+]

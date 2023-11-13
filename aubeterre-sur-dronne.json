@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "160002093",
+    "raison_sociale": "EHPAD LES MINIMES",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "PIERRE VERY",
+    "bp": "",
+    "cp": "16390",
+    "VILLE": "AUBETERRE SUR DRONNE    ",
+    "tel": "545985027",
+    "telecopie": "545986014",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26160014200010",
+    "lng": "0.16815895209882",
+    "lat": "45.2729116136382"
+  },
+  {
+    "finess": "160005674",
+    "raison_sociale": "PHARMACIE ROIBAN ZAHER RANYA",
+    "numero voie": "2",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LAPRADE",
+    "bp": "QUARTIER PLAISANCE",
+    "cp": "16390",
+    "VILLE": "AUBETERRE SUR DRONNE    ",
+    "tel": "545985007",
+    "telecopie": "545986459",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "87826469600013",
+    "lng": "0.172644806028472",
+    "lat": "45.2738838273446"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "670006279",
+    "raison_sociale": "EHPAD PAUL BERTOLOLY",
+    "numero voie": "15",
+    "type_voie": "",
+    "libelle_voie": "LOTISSEMENT EICHHOLZ",
+    "bp": "",
+    "cp": "67510",
+    "VILLE": "LEMBACH ",
+    "tel": "388942105",
+    "telecopie": "388942512",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77561815000467",
+    "lng": "7.78862198417871",
+    "lat": "48.9971696638122"
+  },
+  {
+    "finess": "670008200",
+    "raison_sociale": "PHARMACIE DE LEMBACH",
+    "numero voie": "18",
+    "type_voie": "RTE",
+    "libelle_voie": "DE WOERTH",
+    "bp": "",
+    "cp": "67510",
+    "VILLE": "LEMBACH ",
+    "tel": "388944282",
+    "telecopie": "388942584",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "41403190600046",
+    "lng": "7.78918679463764",
+    "lat": "49.001969392984"
+  },
+  {
+    "finess": "670010719",
+    "raison_sociale": "CENTRE DE SOINS INFIRMIERS DE LEMBACH",
+    "numero voie": "26",
+    "type_voie": "R",
+    "libelle_voie": "DE WOERTH",
+    "bp": "",
+    "cp": "67510",
+    "VILLE": "LEMBACH ",
+    "tel": "388944031",
+    "telecopie": "388944031",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "31112778100095",
+    "lng": "7.78814891859863",
+    "lat": "49.0011235121419"
+  }
+]

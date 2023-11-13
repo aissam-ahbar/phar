@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "540004504",
+    "raison_sociale": "PHARMACIE REGIONALE",
+    "numero voie": "14",
+    "type_voie": "R",
+    "libelle_voie": "DES MARTYRS",
+    "bp": "",
+    "cp": "54580",
+    "VILLE": "AUBOUE ",
+    "tel": "382222303",
+    "telecopie": "382229366",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52303913900010",
+    "lng": "5.97644038793784",
+    "lat": "49.2111002806945"
+  },
+  {
+    "finess": "540005535",
+    "raison_sociale": "RA MONMOUSSEAU OHS",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "54580",
+    "VILLE": "AUBOUE ",
+    "tel": "382222010",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "77561531300944",
+    "lng": "5.97417797329015",
+    "lat": "49.2112542197746"
+  },
+  {
+    "finess": "540012499",
+    "raison_sociale": "CSP FILIERIS DE AUBOUE",
+    "numero voie": "10",
+    "type_voie": "PARC",
+    "libelle_voie": "LEONOV",
+    "bp": "",
+    "cp": "54580",
+    "VILLE": "AUBOUE ",
+    "tel": "382221130",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "77568531600215",
+    "lng": "5.9790003691529",
+    "lat": "49.2105340953849"
+  }
+]

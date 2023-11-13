@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "230004673",
+    "raison_sociale": "MAISON SANTE PLURIPRO LA CELLE DUNOISE",
+    "numero voie": "20",
+    "type_voie": "R",
+    "libelle_voie": "DES PRADELLES",
+    "bp": "",
+    "cp": "23800",
+    "VILLE": "LA CELLE DUNOISE    ",
+    "tel": "555892224",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "1.77358248420263",
+    "lat": "46.3085404067785"
+  },
+  {
+    "finess": "230004681",
+    "raison_sociale": "MAFPAH",
+    "numero voie": "17",
+    "type_voie": "R",
+    "libelle_voie": "DES PRADELLES",
+    "bp": "",
+    "cp": "23800",
+    "VILLE": "LA CELLE DUNOISE    ",
+    "tel": "555895800",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26231760500075",
+    "lng": "1.77390000640307",
+    "lat": "46.3084051344865"
+  }
+]

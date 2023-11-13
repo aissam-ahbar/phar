@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "710006230",
+    "raison_sociale": "PHARMACIE MARMORAT-BERTRAND",
+    "numero voie": "4",
+    "type_voie": "PL",
+    "libelle_voie": "DU CHAMP DE FOIRE",
+    "bp": "",
+    "cp": "71710",
+    "VILLE": "MONTCENIS ",
+    "tel": "385553330",
+    "telecopie": "385559877",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "37875843700016",
+    "lng": "4.38908910902618",
+    "lat": "46.7916149963815"
+  },
+  {
+    "finess": "710780586",
+    "raison_sociale": "EHPAD MONTCENIS",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DES PALAINS",
+    "bp": "",
+    "cp": "71710",
+    "VILLE": "MONTCENIS ",
+    "tel": "385739450",
+    "telecopie": "385739456",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26710031100021",
+    "lng": "4.38693789141616",
+    "lat": "46.7888114962911"
+  },
+  {
+    "finess": "710970948",
+    "raison_sociale": "SERVICE D'AIDE MENAGERE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "71710",
+    "VILLE": "MONTCENIS ",
+    "tel": "385553501",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26710065900023",
+    "lng": "4.38884890543649",
+    "lat": "46.7904273939089"
+  }
+]

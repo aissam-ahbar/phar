@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "160012720",
+    "raison_sociale": "F. DE VIE - LE LOGIS DE LA COUR - APEC",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LE LOGIS DE LA COUR",
+    "bp": "",
+    "cp": "16700",
+    "VILLE": "LES ADJOTS",
+    "tel": "545602064",
+    "telecopie": "545602710",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "78122707900139",
+    "lng": "0.218946275389182",
+    "lat": "46.0721549496834"
+  },
+  {
+    "finess": "160017471",
+    "raison_sociale": "LDVA UN TEMPS POUR SOI",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "16700",
+    "VILLE": "LES ADJOTS",
+    "tel": "953840122",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "90906203600019",
+    "lng": "0.205300200473429",
+    "lat": "46.0772618494762"
+  }
+]

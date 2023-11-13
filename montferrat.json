@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "380008102",
+    "raison_sociale": "PHARMACIE DE MONTFERRAT",
+    "numero voie": "280",
+    "type_voie": "R",
+    "libelle_voie": "du Bourg",
+    "bp": "",
+    "cp": "38620",
+    "VILLE": "MONTFERRAT ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48849694400015",
+    "lng": "5.59265317430834",
+    "lat": "45.4887328015356"
+  },
+  {
+    "finess": "380026740",
+    "raison_sociale": "MAISON DE SANTE LES HAUTS DU LAC",
+    "numero voie": "280",
+    "type_voie": "R",
+    "libelle_voie": "DU BOURG",
+    "bp": "",
+    "cp": "38620",
+    "VILLE": "MONTFERRAT ",
+    "tel": "476323411",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "91878819100016",
+    "lng": "5.59265317430834",
+    "lat": "45.4887328015356"
+  },
+  {
+    "finess": "380785550",
+    "raison_sociale": "RESIDENCE AUTONOMIE LE PLEIN SOLEIL",
+    "numero voie": "100",
+    "type_voie": "R",
+    "libelle_voie": "PLEIN SOLEIL",
+    "bp": "",
+    "cp": "38620",
+    "VILLE": "MONTFERRAT ",
+    "tel": "476323335",
+    "telecopie": "476323149",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "",
+    "lng": "5.58960812885308",
+    "lat": "45.4885607536573"
+  }
+]

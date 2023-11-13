@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "260001789",
+    "raison_sociale": "PHARMACIE ARACIL",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DU COLONEL BERTRAND",
+    "bp": "",
+    "cp": "26130",
+    "VILLE": "ST RESTITUT",
+    "tel": "475960062",
+    "telecopie": "475964615",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44160135800019",
+    "lng": "4.79078691867651",
+    "lat": "44.3316132455794"
+  },
+  {
+    "finess": "260020847",
+    "raison_sociale": "AUX P'TITS SOINS",
+    "numero voie": "69",
+    "type_voie": "CHE",
+    "libelle_voie": "DU FIGERET",
+    "bp": "",
+    "cp": "26130",
+    "VILLE": "ST RESTITUT",
+    "tel": "475517599",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "75333626200013",
+    "lng": "4.78663240007759",
+    "lat": "44.3376629260977"
+  }
+]

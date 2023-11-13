@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "490004249",
+    "raison_sociale": "EHPAD LE VAL D'EVRE",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DE LA QUINTAINE",
+    "bp": "",
+    "cp": "49340",
+    "VILLE": "TREMENTINES ",
+    "tel": "241624052",
+    "telecopie": "241629818",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20003163100084",
+    "lng": "-0.784756404491027",
+    "lat": "47.120838519285"
+  },
+  {
+    "finess": "490534278",
+    "raison_sociale": "PHARMACIE FONTENEAU",
+    "numero voie": "70",
+    "type_voie": "R",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "49340",
+    "VILLE": "TREMENTINES ",
+    "tel": "241624724",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "37898811700024",
+    "lng": "-0.78837797277621",
+    "lat": "47.1226893115499"
+  }
+]

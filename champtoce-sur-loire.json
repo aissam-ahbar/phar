@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "490002110",
+    "raison_sociale": "EHPAD LES HAUTS DU CHATEAU",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU TIRE JARRETS",
+    "bp": "",
+    "cp": "49123",
+    "VILLE": "CHAMPTOCE SUR LOIRE    ",
+    "tel": "241399166",
+    "telecopie": "241391898",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26490025900088",
+    "lng": "-0.862627678805606",
+    "lat": "47.4130207652918"
+  },
+  {
+    "finess": "490532975",
+    "raison_sociale": "PHARMACIE GUERIN-RIGAUD",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "DE L EGLISE",
+    "bp": "",
+    "cp": "49123",
+    "VILLE": "CHAMPTOCE SUR LOIRE    ",
+    "tel": "241399111",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34005710800011",
+    "lng": "-0.865101321020705",
+    "lat": "47.4121382035222"
+  }
+]

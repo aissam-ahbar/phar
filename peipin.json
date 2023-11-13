@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "40002263",
+    "raison_sociale": "PHARMACIE TETRE - LUIGI",
+    "numero voie": "",
+    "type_voie": "IMP",
+    "libelle_voie": "DE LA FENIERE",
+    "bp": "",
+    "cp": "4200",
+    "VILLE": "PEIPIN ",
+    "tel": "492624212",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "43777451600029",
+    "lng": "5.96649064924753",
+    "lat": "44.1384698906508"
+  },
+  {
+    "finess": "40003899",
+    "raison_sociale": "EHPAD L'OUSTAOU DE LURE",
+    "numero voie": "",
+    "type_voie": "MTE",
+    "libelle_voie": "DES OLIVIERS",
+    "bp": "",
+    "cp": "4200",
+    "VILLE": "PEIPIN ",
+    "tel": "492616210",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "43997564001143",
+    "lng": "5.95825845553743",
+    "lat": "44.1357291326952"
+  }
+]

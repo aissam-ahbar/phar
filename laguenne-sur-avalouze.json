@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "190006254",
+    "raison_sociale": "RESIDENCE AUTONOMIE RENE CASSIN",
+    "numero voie": "1",
+    "type_voie": "SQ",
+    "libelle_voie": "RENE CASSIN",
+    "bp": "LAGUENNE",
+    "cp": "19150",
+    "VILLE": "LAGUENNE SUR AVALOUZE    ",
+    "tel": "555200921",
+    "telecopie": "555208348",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "20008434100029",
+    "lng": "1.77702652333095",
+    "lat": "45.2449879268892"
+  },
+  {
+    "finess": "190008383",
+    "raison_sociale": "PHARMACIE DE LAGUENNE",
+    "numero voie": "32",
+    "type_voie": "AV",
+    "libelle_voie": "DU COLOMBIER",
+    "bp": "",
+    "cp": "19150",
+    "VILLE": "LAGUENNE SUR AVALOUZE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50005948000029",
+    "lng": "1.77715661923846",
+    "lat": "45.2459151016222"
+  },
+  {
+    "finess": "190010058",
+    "raison_sociale": "CLIC DE TULLE-LAGUENNE",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DU PUY DU JOUR",
+    "bp": "",
+    "cp": "19150",
+    "VILLE": "LAGUENNE SUR AVALOUZE    ",
+    "tel": "555263014",
+    "telecopie": "555263046",
+    "categorie etablissement": "463",
+    "libelle categorie": "Centres Locaux Information Coordination P.A .(C.L.I.C.)",
+    "siret": "35081463800028",
+    "lng": "1.78199731314258",
+    "lat": "45.2421649974907"
+  }
+]

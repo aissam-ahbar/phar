@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "350000253",
+    "raison_sociale": "EHPAD L'OREE DU BOIS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LA PRIERE",
+    "bp": "",
+    "cp": "35540",
+    "VILLE": "LE TRONCHET",
+    "tel": "299589578",
+    "telecopie": "299581441",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20009472000030",
+    "lng": "-1.83358935594541",
+    "lat": "48.4913620611731"
+  },
+  {
+    "finess": "350032835",
+    "raison_sociale": "EANM RESIDENCE L'OREE DU BOIS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LA PRIERE",
+    "bp": "",
+    "cp": "35540",
+    "VILLE": "LE TRONCHET",
+    "tel": "299589578",
+    "telecopie": "299581441",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "20009472000048",
+    "lng": "-1.83358935594541",
+    "lat": "48.4913620611731"
+  }
+]

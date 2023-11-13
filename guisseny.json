@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "290011873",
+    "raison_sociale": "PHARMACIE TREAL",
+    "numero voie": "17",
+    "type_voie": "R",
+    "libelle_voie": "de Kerlouan",
+    "bp": "",
+    "cp": "29880",
+    "VILLE": "GUISSENY ",
+    "tel": "298256112",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84975375100015",
+    "lng": "-4.40608491591713",
+    "lat": "48.6346921912499"
+  },
+  {
+    "finess": "290037969",
+    "raison_sociale": "MSP DE GUISSENY",
+    "numero voie": "37",
+    "type_voie": "R",
+    "libelle_voie": "DE KERLOUAN",
+    "bp": "",
+    "cp": "29880",
+    "VILLE": "GUISSENY ",
+    "tel": "683412885",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "88226453400018",
+    "lng": "-4.4035065921265",
+    "lat": "48.6351483502837"
+  }
+]

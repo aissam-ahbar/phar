@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "310007562",
+    "raison_sociale": "PHARMACIE HOFF",
+    "numero voie": "",
+    "type_voie": "CHEM",
+    "libelle_voie": "DE MONTPLAISIR",
+    "bp": "",
+    "cp": "31460",
+    "VILLE": "CARAMAN ",
+    "tel": "561831041",
+    "telecopie": "561832538",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49163057000027",
+    "lng": "1.76225811471851",
+    "lat": "43.5370486814303"
+  },
+  {
+    "finess": "310007596",
+    "raison_sociale": "PHARMACIE RAMIO - CLAUDE",
+    "numero voie": "18",
+    "type_voie": "R",
+    "libelle_voie": "VICTOR HUGO",
+    "bp": "",
+    "cp": "31460",
+    "VILLE": "CARAMAN ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53041915900013",
+    "lng": "1.75886207544086",
+    "lat": "43.5295853755909"
+  },
+  {
+    "finess": "310034319",
+    "raison_sociale": "SAAD LAURAG'AIDE CARAMAN",
+    "numero voie": "5",
+    "type_voie": "PL",
+    "libelle_voie": "DE WOILLEMONT",
+    "bp": "",
+    "cp": "31460",
+    "VILLE": "CARAMAN ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "51407779100028",
+    "lng": "1.75930438267297",
+    "lat": "43.5299494659137"
+  }
+]

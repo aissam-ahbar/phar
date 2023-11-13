@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "70004510",
+    "raison_sociale": "FOYER DE VIE LES TILLEULS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "VILLAGE",
+    "bp": "",
+    "cp": "7590",
+    "VILLE": "ST ETIENNE DE LUGDARES   ",
+    "tel": "466467000",
+    "telecopie": "466467001",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "20006824500022",
+    "lng": "3.95230979796054",
+    "lat": "44.6515884271879"
+  },
+  {
+    "finess": "70008909",
+    "raison_sociale": "ADMR LES PAGELS",
+    "numero voie": "778",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LUC",
+    "bp": "",
+    "cp": "7590",
+    "VILLE": "ST ETIENNE DE LUGDARES   ",
+    "tel": "466460399",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "41265223200015",
+    "lng": "3.95252782402668",
+    "lat": "44.6504584286887"
+  }
+]

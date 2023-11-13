@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "260004163",
+    "raison_sociale": "PHARMACIE DE CHATILLON",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU RECLUS",
+    "bp": "",
+    "cp": "26410",
+    "VILLE": "CHATILLON EN DIOIS    ",
+    "tel": "475211640",
+    "telecopie": "428510007",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82801287200010",
+    "lng": "5.48806065121894",
+    "lat": "44.6944659741067"
+  },
+  {
+    "finess": "260011705",
+    "raison_sociale": "SERENIDE ST JEAN",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "JARDINS",
+    "bp": "",
+    "cp": "26410",
+    "VILLE": "CHATILLON EN DIOIS    ",
+    "tel": "475211844",
+    "telecopie": "475824885",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "77947198600181",
+    "lng": "5.48838252852959",
+    "lat": "44.6951486982072"
+  }
+]

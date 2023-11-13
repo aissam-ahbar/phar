@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "110783271",
+    "raison_sociale": "EHPAD LOS AINATS",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DU STADE",
+    "bp": "",
+    "cp": "11160",
+    "VILLE": "CAUNES MINERVOIS",
+    "tel": "468244684",
+    "telecopie": "468787790",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26110053100050",
+    "lng": "2.52740892567265",
+    "lat": "43.3218118290977"
+  },
+  {
+    "finess": "110790284",
+    "raison_sociale": "PHARMACIE DE CAUNES MINERVOIS",
+    "numero voie": "1",
+    "type_voie": "AV",
+    "libelle_voie": "de l'Argent Double",
+    "bp": "",
+    "cp": "11160",
+    "VILLE": "CAUNES MINERVOIS",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88354758000018",
+    "lng": "2.52575569024237",
+    "lat": "43.3274666719362"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "140010620",
+    "raison_sociale": "PHARMACIE NOYERS-BOCAGE SARL",
+    "numero voie": "2",
+    "type_voie": "PL",
+    "libelle_voie": "DE L EGLISE",
+    "bp": "NOYERS BOCAGE",
+    "cp": "14210",
+    "VILLE": "VAL D ARRY    ",
+    "tel": "231779703",
+    "telecopie": "231779547",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38245947700016",
+    "lng": "-0.568068983544042",
+    "lat": "49.1217536483475"
+  },
+  {
+    "finess": "140031840",
+    "raison_sociale": "EVALUATION MISE A L'ABRI MNA VALD'ARRY",
+    "numero voie": "8",
+    "type_voie": "RTE",
+    "libelle_voie": "DE BOUGY",
+    "bp": "MISSY",
+    "cp": "14210",
+    "VILLE": "VAL D ARRY    ",
+    "tel": "233579581",
+    "telecopie": "233570812",
+    "categorie etablissement": "378",
+    "libelle categorie": "Etablissement Expérimental Enfance Protégée",
+    "siret": "78092451000347",
+    "lng": "-0.538427973017435",
+    "lat": "49.1175563705301"
+  }
+]

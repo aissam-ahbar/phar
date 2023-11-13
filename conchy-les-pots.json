@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "600007033",
+    "raison_sociale": "PHARMACIE OUTURQUIN",
+    "numero voie": "28",
+    "type_voie": "R",
+    "libelle_voie": "DES FLANDRES",
+    "bp": "",
+    "cp": "60490",
+    "VILLE": "CONCHY LES POTS    ",
+    "tel": "344850782",
+    "telecopie": "344850782",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48152150800012",
+    "lng": "2.72478542632707",
+    "lat": "49.6012063760246"
+  },
+  {
+    "finess": "600016125",
+    "raison_sociale": "CSP-ADMR DU PAYS DES SOURCES",
+    "numero voie": "60",
+    "type_voie": "R",
+    "libelle_voie": "DES FLANDRES",
+    "bp": "",
+    "cp": "60490",
+    "VILLE": "CONCHY LES POTS    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "91073544800011",
+    "lng": "2.72796171463711",
+    "lat": "49.6040154967544"
+  }
+]

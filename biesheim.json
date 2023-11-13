@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "680006665",
+    "raison_sociale": "PHARMACIE CHIODETTI",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "ALBERT SCHWEITZER",
+    "bp": "",
+    "cp": "68600",
+    "VILLE": "BIESHEIM ",
+    "tel": "389726061",
+    "telecopie": "389727495",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40497047700018",
+    "lng": "7.5452889971393",
+    "lat": "48.042126027213"
+  },
+  {
+    "finess": "680018215",
+    "raison_sociale": "LIEU DE VIE CRISTO",
+    "numero voie": "1",
+    "type_voie": "RTE",
+    "libelle_voie": "DU RHIN",
+    "bp": "",
+    "cp": "68600",
+    "VILLE": "BIESHEIM ",
+    "tel": "389727160",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "41014290500018",
+    "lng": "7.55238458728931",
+    "lat": "48.0351588163352"
+  }
+]

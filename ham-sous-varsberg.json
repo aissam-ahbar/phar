@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "570017095",
+    "raison_sociale": "PHARMACIE DU LION",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "DE CREUTZWALD",
+    "bp": "",
+    "cp": "57880",
+    "VILLE": "HAM SOUS VARSBERG    ",
+    "tel": "387930638",
+    "telecopie": "387826335",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83407551700013",
+    "lng": "6.66317823885101",
+    "lat": "49.1868216826616"
+  },
+  {
+    "finess": "570018978",
+    "raison_sociale": "CSP FILIERIS DE HAM SOUS VARSBERG",
+    "numero voie": "127",
+    "type_voie": "R",
+    "libelle_voie": "DE HAM",
+    "bp": "",
+    "cp": "57880",
+    "VILLE": "HAM SOUS VARSBERG    ",
+    "tel": "387931243",
+    "telecopie": "387901743",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "77568531603375",
+    "lng": "6.66259645892609",
+    "lat": "49.1868078847775"
+  }
+]

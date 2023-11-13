@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "10005023",
+    "raison_sociale": "PHARMACIE DE LA VEYLE",
+    "numero voie": "117",
+    "type_voie": "RTE",
+    "libelle_voie": "DE BOURG EN BRESSE",
+    "bp": "",
+    "cp": "1310",
+    "VILLE": "POLLIAT ",
+    "tel": "474304048",
+    "telecopie": "474257584",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48296601700022",
+    "lng": "5.12803917485532",
+    "lat": "46.2491563566467"
+  },
+  {
+    "finess": "10011807",
+    "raison_sociale": "MAISON DE SANTE DE POLLIAT",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "DE L'IRAGNON",
+    "bp": "",
+    "cp": "1310",
+    "VILLE": "POLLIAT ",
+    "tel": "474304020",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "89012072800013",
+    "lng": "5.12570358829508",
+    "lat": "46.248897340006"
+  },
+  {
+    "finess": "10785699",
+    "raison_sociale": "RESIDENCE DE POLLIAT",
+    "numero voie": "367",
+    "type_voie": "RTE",
+    "libelle_voie": "D'ATTIGNAT",
+    "bp": "",
+    "cp": "1310",
+    "VILLE": "POLLIAT ",
+    "tel": "474304533",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "21010301600049",
+    "lng": "5.13372777953555",
+    "lat": "46.2506911037086"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "450004296",
+    "raison_sociale": "SELARL PHARMACIE DELANOUE-MERCIER",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "de Pithiviers",
+    "bp": "",
+    "cp": "45480",
+    "VILLE": "BAZOCHES LES GALLERANDES    ",
+    "tel": "238394038",
+    "telecopie": "238393832",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82470276500010",
+    "lng": "2.04593095175162",
+    "lat": "48.1612048384159"
+  },
+  {
+    "finess": "450022603",
+    "raison_sociale": "CPTS BEAUCE-GATINAIS - ET",
+    "numero voie": "38",
+    "type_voie": "R",
+    "libelle_voie": "DE PITHIVIERS",
+    "bp": "",
+    "cp": "45480",
+    "VILLE": "BAZOCHES LES GALLERANDES    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "604",
+    "libelle categorie": "Communautés professionnelles territoriales de santé (CPTS)",
+    "siret": "85278106100019",
+    "lng": "2.05072365556287",
+    "lat": "48.1609618230378"
+  }
+]

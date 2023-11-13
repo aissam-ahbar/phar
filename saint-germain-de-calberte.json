@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "480003441",
+    "raison_sociale": "SAAD ADMR LA CALBERTOISE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "HAUTE",
+    "bp": "",
+    "cp": "48370",
+    "VILLE": "ST GERMAIN DE CALBERTE   ",
+    "tel": "466452765",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "33886758300027",
+    "lng": "3.80866551020065",
+    "lat": "44.2187048189608"
+  },
+  {
+    "finess": "480003946",
+    "raison_sociale": "LVA L'ABRIGADOU",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "48370",
+    "VILLE": "ST GERMAIN DE CALBERTE   ",
+    "tel": "466312724",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "88270188100014",
+    "lng": "3.80844468691122",
+    "lat": "44.2185795248072"
+  }
+]

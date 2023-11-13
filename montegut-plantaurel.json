@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "90003906",
+    "raison_sociale": "ENTREPRISE ADAPTEE LE SABARTHES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LE CHAI",
+    "cp": "9120",
+    "VILLE": "MONTEGUT PLANTAUREL",
+    "tel": "561053333",
+    "telecopie": "561053360",
+    "categorie etablissement": "247",
+    "libelle categorie": "Entreprise adaptée",
+    "siret": "32912211300122",
+    "lng": "1.48555395205873",
+    "lat": "43.0691451979131"
+  },
+  {
+    "finess": "90004920",
+    "raison_sociale": "ESAT VIEPROFESSIONNELLE SITE SABARTHES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "9120",
+    "VILLE": "MONTEGUT PLANTAUREL",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "",
+    "lng": "1.48555395205873",
+    "lat": "43.0691451979131"
+  },
+  {
+    "finess": "90782327",
+    "raison_sociale": "FOYER HEBERG HANDI MONTEGUT PLANTAUREL",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "9120",
+    "VILLE": "MONTEGUT PLANTAUREL",
+    "tel": "561053939",
+    "telecopie": "561050361",
+    "categorie etablissement": "252",
+    "libelle categorie": "Foyer Hébergement Adultes Handicapés",
+    "siret": "32912211300023",
+    "lng": "1.48555395205873",
+    "lat": "43.0691451979131"
+  }
+]

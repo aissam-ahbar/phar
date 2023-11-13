@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "110008562",
+    "raison_sociale": "LVA NEW LIFE",
+    "numero voie": "15",
+    "type_voie": "CHE",
+    "libelle_voie": "DES GERBIERS",
+    "bp": "",
+    "cp": "11120",
+    "VILLE": "ARGELIERS ",
+    "tel": "468707762",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "83818871200015",
+    "lng": "2.91607101585272",
+    "lat": "43.3153371904936"
+  },
+  {
+    "finess": "110789757",
+    "raison_sociale": "PHARMACIE MIRMAN",
+    "numero voie": "7",
+    "type_voie": "CRS",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "11120",
+    "VILLE": "ARGELIERS ",
+    "tel": "468461849",
+    "telecopie": "468463740",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38788214500015",
+    "lng": "2.91030010488126",
+    "lat": "43.3083968337795"
+  }
+]

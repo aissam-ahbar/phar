@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "280001645",
+    "raison_sociale": "PHARMACIE DE LA BAZOCHE",
+    "numero voie": "92",
+    "type_voie": "R",
+    "libelle_voie": "du Général Leclerc",
+    "bp": "",
+    "cp": "28330",
+    "VILLE": "LA BAZOCHE GOUET    ",
+    "tel": "237492141",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83222242600013",
+    "lng": "0.984566355329094",
+    "lat": "48.1383214971663"
+  },
+  {
+    "finess": "280506064",
+    "raison_sociale": "EHPAD RESIDENCE AQUARELLE",
+    "numero voie": "12",
+    "type_voie": "R",
+    "libelle_voie": "DU PERCHE",
+    "bp": "",
+    "cp": "28330",
+    "VILLE": "LA BAZOCHE GOUET    ",
+    "tel": "237492828",
+    "telecopie": "237492803",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "83208448700020",
+    "lng": "0.97200587493395",
+    "lat": "48.1362906398725"
+  }
+]

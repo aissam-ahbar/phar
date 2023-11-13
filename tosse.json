@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "400009528",
+    "raison_sociale": "FOYER TOURNESOLEIL UNITE DE JOUR TOSSE",
+    "numero voie": "73",
+    "type_voie": "AV",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "40230",
+    "VILLE": "TOSSE ",
+    "tel": "558499291",
+    "telecopie": "558919052",
+    "categorie etablissement": "379",
+    "libelle categorie": "Etablissement Expérimental pour Adultes Handicapés",
+    "siret": "77559848500149",
+    "lng": "-1.32989497319696",
+    "lat": "43.6936257663878"
+  },
+  {
+    "finess": "400010666",
+    "raison_sociale": "PHARMACIE DE MAREMNE",
+    "numero voie": "40",
+    "type_voie": "AV",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "40230",
+    "VILLE": "TOSSE ",
+    "tel": "558430503",
+    "telecopie": "558430626",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79185180100021",
+    "lng": "-1.33209869923139",
+    "lat": "43.6898737953984"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "240008839",
+    "raison_sociale": "MAISON SAINT VINCENT",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "SOEUR JEAN GABRIEL",
+    "bp": "",
+    "cp": "24460",
+    "VILLE": "CHATEAU L EVEQUE    ",
+    "tel": "553543071",
+    "telecopie": "",
+    "categorie etablissement": "502",
+    "libelle categorie": "EHPA ne percevant pas des crédits d'assurance maladie",
+    "siret": "",
+    "lng": "0.684155366349925",
+    "lat": "45.2447039222029"
+  },
+  {
+    "finess": "240009357",
+    "raison_sociale": "PHARMACIE BERAUD",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "du Royer",
+    "bp": "",
+    "cp": "24460",
+    "VILLE": "CHATEAU L EVEQUE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52295929500026",
+    "lng": "0.689270505769658",
+    "lat": "45.2396148229692"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590033023",
+    "raison_sociale": "PHARMACIE DE LA VICTOIRE",
+    "numero voie": "26",
+    "type_voie": "R",
+    "libelle_voie": "JEAN BAPTISTE LEBAS",
+    "bp": "",
+    "cp": "59780",
+    "VILLE": "WILLEMS ",
+    "tel": "320793113",
+    "telecopie": "320641444",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "35165674900022",
+    "lng": "3.23592636549052",
+    "lat": "50.6312793923677"
+  },
+  {
+    "finess": "590034534",
+    "raison_sociale": "FOYER D'ACCOMPAGNEMENT FAMCHON",
+    "numero voie": "12",
+    "type_voie": "R",
+    "libelle_voie": "DU BICENTENAIRE",
+    "bp": "",
+    "cp": "59780",
+    "VILLE": "WILLEMS ",
+    "tel": "328370088",
+    "telecopie": "328370082",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "",
+    "lng": "3.23612841392391",
+    "lat": "50.629237342736"
+  }
+]

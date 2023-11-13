@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "100002690",
+    "raison_sociale": "SELARL PHARMACIE HENTZIEN",
+    "numero voie": "3",
+    "type_voie": "PL",
+    "libelle_voie": "DU MARECHAL FOCH",
+    "bp": "",
+    "cp": "10380",
+    "VILLE": "PLANCY L ABBAYE    ",
+    "tel": "325374408",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49189601500022",
+    "lng": "3.96828384924689",
+    "lat": "48.5686508590422"
+  },
+  {
+    "finess": "100011873",
+    "raison_sociale": "MSP PLANCY L'ABBAYE",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "PIERRE LABONDE",
+    "bp": "",
+    "cp": "10380",
+    "VILLE": "PLANCY L ABBAYE    ",
+    "tel": "325377205",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "90503348600010",
+    "lng": "3.96765235596112",
+    "lat": "48.5702015257444"
+  },
+  {
+    "finess": "100012194",
+    "raison_sociale": "SAAD DE PLANCY L'ABBAYE - ADMR",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "PIERRE LABONDE",
+    "bp": "",
+    "cp": "10380",
+    "VILLE": "PLANCY L ABBAYE    ",
+    "tel": "325379017",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "33213717300016",
+    "lng": "3.96741718716904",
+    "lat": "48.5697986142038"
+  }
+]

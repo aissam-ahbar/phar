@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "160011185",
+    "raison_sociale": "PHARMACIE GOMARD",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "GRAND-RUE",
+    "bp": "",
+    "cp": "16310",
+    "VILLE": "MONTEMBOEUF ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "37918412000010",
+    "lng": "0.554157881839099",
+    "lat": "45.7764794838895"
+  },
+  {
+    "finess": "160011995",
+    "raison_sociale": "RA MARPA LES CEDRES",
+    "numero voie": "9",
+    "type_voie": "RTE",
+    "libelle_voie": "DE MOUZON",
+    "bp": "",
+    "cp": "16310",
+    "VILLE": "MONTEMBOEUF ",
+    "tel": "545651413",
+    "telecopie": "545614986",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "20002017000037",
+    "lng": "0.555685684704248",
+    "lat": "45.7780027216089"
+  },
+  {
+    "finess": "160017182",
+    "raison_sociale": "CDS DENTAIRE MEDIMGP",
+    "numero voie": "5",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "16310",
+    "VILLE": "MONTEMBOEUF ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "89247132700023",
+    "lng": "0.553147128930534",
+    "lat": "45.7771494727725"
+  }
+]

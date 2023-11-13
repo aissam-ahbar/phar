@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "520000985",
+    "raison_sociale": "EURL PHARMACIE DES DUCS DE BAR",
+    "numero voie": "61",
+    "type_voie": "R",
+    "libelle_voie": "du Faubourg de France",
+    "bp": "",
+    "cp": "52150",
+    "VILLE": "BOURMONT ENTRE MEUSE ET MO  ",
+    "tel": "325324503",
+    "telecopie": "325324503",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39162371700025",
+    "lng": "5.58545834348695",
+    "lat": "48.198587011832"
+  },
+  {
+    "finess": "520783002",
+    "raison_sociale": "SSIAD DE SAINT-THIEBAULT",
+    "numero voie": "63",
+    "type_voie": "R",
+    "libelle_voie": "DU FAUBOURG DE FRANCE",
+    "bp": "",
+    "cp": "52150",
+    "VILLE": "BOURMONT ENTRE MEUSE ET MO  ",
+    "tel": "325011754",
+    "telecopie": "",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "34079509500033",
+    "lng": "5.58485317655544",
+    "lat": "48.1992358560269"
+  },
+  {
+    "finess": "520783150",
+    "raison_sociale": "EHPAD DE BOURMONT",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DU STADE",
+    "bp": "",
+    "cp": "52150",
+    "VILLE": "BOURMONT ENTRE MEUSE ET MO  ",
+    "tel": "325010228",
+    "telecopie": "325017910",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20006252900025",
+    "lng": "5.58749809395475",
+    "lat": "48.199925150691"
+  }
+]

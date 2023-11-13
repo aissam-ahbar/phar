@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "260000468",
+    "raison_sociale": "IME ADAPEI 26 - TRIORS",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA SAINT-VINCENT",
+    "bp": "",
+    "cp": "26750",
+    "VILLE": "TRIORS ",
+    "tel": "475454556",
+    "telecopie": "475454554",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "77557345400037",
+    "lng": "5.1153895176736",
+    "lat": "45.0966158054753"
+  },
+  {
+    "finess": "260012042",
+    "raison_sociale": "SESSAD ADAPEI 26 ROMANS",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA SAINT-VINCENT",
+    "bp": "BP 2 CHATILLON SAINT JEAN",
+    "cp": "26750",
+    "VILLE": "TRIORS ",
+    "tel": "475454556",
+    "telecopie": "475454554",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "77557345400037",
+    "lng": "5.1153895176736",
+    "lat": "45.0966158054753"
+  }
+]

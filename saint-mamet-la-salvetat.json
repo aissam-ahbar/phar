@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "150002046",
+    "raison_sociale": "SELARL PHARMACIE HEINRICH",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "Arsene Lacarriere Latour",
+    "bp": "",
+    "cp": "15220",
+    "VILLE": "ST MAMET LA SALVETAT   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "42943140600017",
+    "lng": "2.30593189565922",
+    "lat": "44.858057452412"
+  },
+  {
+    "finess": "150003572",
+    "raison_sociale": "MAISON DE SANTE DE SAINT-MAMET",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "ARSENE LACARRIERE LATOUR",
+    "bp": "",
+    "cp": "15220",
+    "VILLE": "ST MAMET LA SALVETAT   ",
+    "tel": "471492018",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "91136634200010",
+    "lng": "2.30622123873043",
+    "lat": "44.8581015784445"
+  }
+]

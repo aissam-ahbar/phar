@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "610005357",
+    "raison_sociale": "SAD  ASSOCIATION ADMR DE REMALARD",
+    "numero voie": "18",
+    "type_voie": "PL",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "61110",
+    "VILLE": "SABLONS SUR HUISNE    ",
+    "tel": "233837210",
+    "telecopie": "233837210",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37796348300047",
+    "lng": "0.850631837058937",
+    "lat": "48.3799956654918"
+  },
+  {
+    "finess": "610786295",
+    "raison_sociale": "PHARMACIE DES SABLONS",
+    "numero voie": "13",
+    "type_voie": "PL",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "61110",
+    "VILLE": "SABLONS SUR HUISNE    ",
+    "tel": "233733132",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83504428000013",
+    "lng": "0.850204080626749",
+    "lat": "48.3799168056411"
+  }
+]

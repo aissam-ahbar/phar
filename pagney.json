@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "390003697",
+    "raison_sociale": "PHARMACIE DE PAGNEY",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "des Saules",
+    "bp": "",
+    "cp": "39350",
+    "VILLE": "PAGNEY ",
+    "tel": "384810087",
+    "telecopie": "384810623",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "87844242500012",
+    "lng": "5.70544302955822",
+    "lat": "47.251625743104"
+  },
+  {
+    "finess": "390007086",
+    "raison_sociale": "MAISON SANTE PAGNEY",
+    "numero voie": "7",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "39350",
+    "VILLE": "PAGNEY ",
+    "tel": "384810017",
+    "telecopie": "384810967",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "31872444000017",
+    "lng": "5.70579650617926",
+    "lat": "47.2510788228563"
+  }
+]

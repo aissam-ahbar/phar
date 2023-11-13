@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "140029471",
+    "raison_sociale": "SAD MOUEN SARL DOMICILIS",
+    "numero voie": "155",
+    "type_voie": "R",
+    "libelle_voie": "DE L'ORMELET",
+    "bp": "ZA DES RIVES DE L'ODON",
+    "cp": "14790",
+    "VILLE": "MOUEN ",
+    "tel": "231539598",
+    "telecopie": "231539599",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "48915728900021",
+    "lng": "-0.477038922068632",
+    "lat": "49.1510197352258"
+  },
+  {
+    "finess": "140030693",
+    "raison_sociale": "HOMEPERF - MOUEN",
+    "numero voie": "470",
+    "type_voie": "R",
+    "libelle_voie": "DE L'ODON",
+    "bp": "",
+    "cp": "14790",
+    "VILLE": "MOUEN ",
+    "tel": "231440816",
+    "telecopie": "231442865",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "41376698100745",
+    "lng": "-0.473854712966979",
+    "lat": "49.1506329574728"
+  }
+]

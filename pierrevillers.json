@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "570000745",
+    "raison_sociale": "I.M.E. \"LE POINT DU JOUR\"",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DE SILVANGE",
+    "bp": "",
+    "cp": "57120",
+    "VILLE": "PIERREVILLERS ",
+    "tel": "387679800",
+    "telecopie": "387673927",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "77561911700036",
+    "lng": "6.11221324497085",
+    "lat": "49.2307941696889"
+  },
+  {
+    "finess": "570004507",
+    "raison_sociale": "ESAT \"LE POINT DU JOUR\"",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DE SILVANGE",
+    "bp": "",
+    "cp": "57120",
+    "VILLE": "PIERREVILLERS ",
+    "tel": "387679470",
+    "telecopie": "387670675",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77561911700044",
+    "lng": "6.11221324497085",
+    "lat": "49.2307941696889"
+  },
+  {
+    "finess": "570022517",
+    "raison_sociale": "FOYER  MARIE LOUISE LAURICHESSE",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DE SILVANGE",
+    "bp": "",
+    "cp": "57120",
+    "VILLE": "PIERREVILLERS ",
+    "tel": "387723881",
+    "telecopie": "",
+    "categorie etablissement": "252",
+    "libelle categorie": "Foyer Hébergement Adultes Handicapés",
+    "siret": "77561911700143",
+    "lng": "6.11221324497085",
+    "lat": "49.2307941696889"
+  }
+]

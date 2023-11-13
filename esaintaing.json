@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "120002225",
+    "raison_sociale": "PHARMACIE D'ESTAING",
+    "numero voie": "39",
+    "type_voie": "R",
+    "libelle_voie": "FRANÇOIS D'ESTAING",
+    "bp": "",
+    "cp": "12190",
+    "VILLE": "ESTAING ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44969276300013",
+    "lng": "2.67137398727547",
+    "lat": "44.5555538892078"
+  },
+  {
+    "finess": "120005061",
+    "raison_sociale": "SAAD AL ADMR VALLEE D'OLT",
+    "numero voie": "39",
+    "type_voie": "R",
+    "libelle_voie": "FRANCOIS D'ESTAING",
+    "bp": "",
+    "cp": "12190",
+    "VILLE": "ESTAING ",
+    "tel": "565772222",
+    "telecopie": "565772220",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "2.67137398727547",
+    "lat": "44.5555538892078"
+  },
+  {
+    "finess": "120784046",
+    "raison_sociale": "SSIAD DES TROIS VALLEES",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "FRANCOIS D ESTAING",
+    "bp": "",
+    "cp": "12190",
+    "VILLE": "ESTAING ",
+    "tel": "565729146",
+    "telecopie": "",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "32735537600010",
+    "lng": "2.67221784531431",
+    "lat": "44.5535533541602"
+  }
+]

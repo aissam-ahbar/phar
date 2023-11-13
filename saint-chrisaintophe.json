@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "170016539",
+    "raison_sociale": "LIEU DE VIE \"AU P'TIT BONHEUR\"",
+    "numero voie": "11",
+    "type_voie": "CHE",
+    "libelle_voie": "DU TREUIL AU ROY",
+    "bp": "",
+    "cp": "17220",
+    "VILLE": "ST CHRISTOPHE",
+    "tel": "983019670",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "44985439700022",
+    "lng": "-0.958488227206655",
+    "lat": "46.1367479717309"
+  },
+  {
+    "finess": "730790243",
+    "raison_sociale": "SERVICE D'AIDE MENAGERE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "73360",
+    "VILLE": "ST CHRISTOPHE",
+    "tel": "479366279",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26731008400012",
+    "lng": "5.77602356968996",
+    "lat": "45.4508806561075"
+  },
+  {
+    "finess": "730790250",
+    "raison_sociale": "ALARME MEDICO SOCIALE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "73360",
+    "VILLE": "ST CHRISTOPHE",
+    "tel": "479366279",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "5.77602356968996",
+    "lat": "45.4508806561075"
+  }
+]

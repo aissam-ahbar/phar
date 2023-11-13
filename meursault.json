@@ -1,0 +1,19 @@
+[
+  {
+    "finess": "210006003",
+    "raison_sociale": "PHARMACIE GUYOT - PHIE DE MEURSAULT",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DES ECOLES",
+    "bp": "",
+    "cp": "21190",
+    "VILLE": "MEURSAULT ",
+    "tel": "380212226",
+    "telecopie": "380212873",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83013212200011",
+    "lng": "4.76910908175339",
+    "lat": "46.9778370730539"
+  }
+]

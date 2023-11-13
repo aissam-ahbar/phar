@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "400008355",
+    "raison_sociale": "PHARMACIE DUNOGUIER",
+    "numero voie": "15",
+    "type_voie": "CRS",
+    "libelle_voie": "MAUBEC",
+    "bp": "",
+    "cp": "40240",
+    "VILLE": "LABASTIDE D ARMAGNAC    ",
+    "tel": "558448119",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83226098800015",
+    "lng": "-0.186359480781032",
+    "lat": "43.9687700018788"
+  },
+  {
+    "finess": "400015087",
+    "raison_sociale": "SAAD CIAS DES LANDES D'ARMAGNAC",
+    "numero voie": "500",
+    "type_voie": "RTE",
+    "libelle_voie": "DE SAINT-JUSTIN",
+    "bp": "",
+    "cp": "40240",
+    "VILLE": "LABASTIDE D ARMAGNAC    ",
+    "tel": "558455885",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "20003555800028",
+    "lng": "-0.189112168644091",
+    "lat": "43.9703578130541"
+  }
+]

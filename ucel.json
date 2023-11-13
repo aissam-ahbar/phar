@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "70007836",
+    "raison_sociale": "SAAD DU CCAS D'UCEL",
+    "numero voie": "16",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LA MANUFACTURE ROYALE",
+    "bp": "",
+    "cp": "7200",
+    "VILLE": "UCEL ",
+    "tel": "475376025",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26071012400017",
+    "lng": "4.39723537348823",
+    "lat": "44.6266360567074"
+  },
+  {
+    "finess": "70780705",
+    "raison_sociale": "ITEP LE HOME VIVAROIS (DITEP)",
+    "numero voie": "18",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LA MANUFACTURE ROYALE",
+    "bp": "LE PONT",
+    "cp": "7200",
+    "VILLE": "UCEL ",
+    "tel": "475353288",
+    "telecopie": "475358595",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "52825217400032",
+    "lng": "4.39883020939552",
+    "lat": "44.6263259601043"
+  },
+  {
+    "finess": "70783584",
+    "raison_sociale": "EHPAD LE SANDRON",
+    "numero voie": "1",
+    "type_voie": "IMP",
+    "libelle_voie": "DU SANDRON",
+    "bp": "",
+    "cp": "7200",
+    "VILLE": "UCEL ",
+    "tel": "475376025",
+    "telecopie": "475370449",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26071012400025",
+    "lng": "4.38697897610054",
+    "lat": "44.6456223689967"
+  }
+]

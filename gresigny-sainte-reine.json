@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "210008454",
+    "raison_sociale": "SERV.AIDE MÉNAG.DOM.",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "21150",
+    "VILLE": "GRESIGNY STE REINE    ",
+    "tel": "380962091",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "34337415300017",
+    "lng": "4.50108253031838",
+    "lat": "47.5561517872989"
+  },
+  {
+    "finess": "210008843",
+    "raison_sociale": "SERV.AUXIL.VIE HAND",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "21150",
+    "VILLE": "GRESIGNY STE REINE    ",
+    "tel": "380962091",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "4.50108253031838",
+    "lat": "47.5561517872989"
+  },
+  {
+    "finess": "210008850",
+    "raison_sociale": "SERV.TRAV.FAMILIALES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "21150",
+    "VILLE": "GRESIGNY STE REINE    ",
+    "tel": "380962091",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "4.50108253031838",
+    "lat": "47.5561517872989"
+  }
+]

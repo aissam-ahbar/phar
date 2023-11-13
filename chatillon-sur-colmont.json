@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "530003730",
+    "raison_sociale": "SAAD ADMR DE LA COLMONT",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "VAUBOIRE",
+    "bp": "",
+    "cp": "53100",
+    "VILLE": "CHATILLON SUR COLMONT    ",
+    "tel": "243036561",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32922477800020",
+    "lng": "-0.746185590932193",
+    "lat": "48.337837306554"
+  },
+  {
+    "finess": "530003938",
+    "raison_sociale": "RESIDENCE CLAIRE DEMEURE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DU HAMEAU DE LA DAVIERE",
+    "bp": "",
+    "cp": "53100",
+    "VILLE": "CHATILLON SUR COLMONT    ",
+    "tel": "243001492",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26530103600025",
+    "lng": "-0.740923162965233",
+    "lat": "48.3378317325532"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "220011191",
+    "raison_sociale": "SELARL PHARMACIE DE LA BLANCHE",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "DES ROUAIRIES",
+    "bp": "",
+    "cp": "22980",
+    "VILLE": "PLELAN LE PETIT    ",
+    "tel": "296276273",
+    "telecopie": "296270270",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82141427300010",
+    "lng": "-2.21673094286515",
+    "lat": "48.4310802460058"
+  },
+  {
+    "finess": "220013890",
+    "raison_sociale": "RESIDENCE LES CHENES",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DES CHENES",
+    "bp": "",
+    "cp": "22980",
+    "VILLE": "PLELAN LE PETIT    ",
+    "tel": "296270600",
+    "telecopie": "296276812",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20001496700034",
+    "lng": "-2.22088100557229",
+    "lat": "48.4326763197366"
+  },
+  {
+    "finess": "220020556",
+    "raison_sociale": "EHPA PLELAN LE PETIT",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DES CHENES",
+    "bp": "",
+    "cp": "22980",
+    "VILLE": "PLELAN LE PETIT    ",
+    "tel": "296270600",
+    "telecopie": "296276812",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "20001496700042",
+    "lng": "-2.22088100557229",
+    "lat": "48.4326763197366"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "710004813",
+    "raison_sociale": "PHARMACIE DES HUILIERS",
+    "numero voie": "35",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "71590",
+    "VILLE": "GERGY ",
+    "tel": "385916149",
+    "telecopie": "385917628",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48022019300019",
+    "lng": "4.94689555517178",
+    "lat": "46.8751299288291"
+  },
+  {
+    "finess": "710014614",
+    "raison_sociale": "SAÔNE SOINS ET SANTÉ",
+    "numero voie": "37",
+    "type_voie": "",
+    "libelle_voie": "A GRANDE RUE",
+    "bp": "",
+    "cp": "71590",
+    "VILLE": "GERGY ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "81936839000012",
+    "lng": "4.94695666935703",
+    "lat": "46.8753684674066"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590793899",
+    "raison_sociale": "SCE D'AIDE  A DOMICILE",
+    "numero voie": "14",
+    "type_voie": "R",
+    "libelle_voie": "LEON GAMBETTA",
+    "bp": "",
+    "cp": "59157",
+    "VILLE": "FONTAINE AU PIRE    ",
+    "tel": "327851003",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "78362059400029",
+    "lng": "3.37528415045419",
+    "lat": "50.130371606487"
+  },
+  {
+    "finess": "590815106",
+    "raison_sociale": "EHPAD ORPEA FONTAINE-AU-PIRE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DES TILLEULS",
+    "bp": "",
+    "cp": "59157",
+    "VILLE": "FONTAINE AU PIRE    ",
+    "tel": "327850038",
+    "telecopie": "327762562",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "40125156600634",
+    "lng": "3.38224643101112",
+    "lat": "50.1297152048724"
+  }
+]

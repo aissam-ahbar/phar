@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "620017376",
+    "raison_sociale": "PHARMACIE DU BEAU PRE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "ZAC LE VILLAGE 2800",
+    "bp": "",
+    "cp": "62131",
+    "VILLE": "VERQUIN ",
+    "tel": "321574190",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39118247400026",
+    "lng": "2.64186282210246",
+    "lat": "50.5012471094138"
+  },
+  {
+    "finess": "620028928",
+    "raison_sociale": "PF HABITAT INSERTION VERQUIN",
+    "numero voie": "1",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "62131",
+    "VILLE": "VERQUIN ",
+    "tel": "321579674",
+    "telecopie": "321579556",
+    "categorie etablissement": "258",
+    "libelle categorie": "Maisons Relais - Pensions de Famille",
+    "siret": "38795027200121",
+    "lng": "2.65631107338842",
+    "lat": "50.4892438519204"
+  },
+  {
+    "finess": "620102277",
+    "raison_sociale": "EHPAD SAINT CAMILLE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DESMAZIERES",
+    "bp": "BP 5",
+    "cp": "62131",
+    "VILLE": "VERQUIN ",
+    "tel": "321687540",
+    "telecopie": "321687542",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "78409305600017",
+    "lng": "2.63884636439094",
+    "lat": "50.5017068985462"
+  }
+]

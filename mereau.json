@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "180003394",
+    "raison_sociale": "EURL PHARMACIE HENRY",
+    "numero voie": "70",
+    "type_voie": "AV",
+    "libelle_voie": "VIERZON",
+    "bp": "",
+    "cp": "18120",
+    "VILLE": "MEREAU ",
+    "tel": "248714844",
+    "telecopie": "248715230",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44328775000022",
+    "lng": "2.05739618492666",
+    "lat": "47.1973467780402"
+  },
+  {
+    "finess": "180009250",
+    "raison_sociale": "MARPAHVIE DE MEREAU",
+    "numero voie": "4",
+    "type_voie": "RTE",
+    "libelle_voie": "D AUTRY",
+    "bp": "",
+    "cp": "18120",
+    "VILLE": "MEREAU ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "77502216300833",
+    "lng": "2.05681540453087",
+    "lat": "47.1972466147767"
+  }
+]

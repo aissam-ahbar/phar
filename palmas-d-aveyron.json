@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "120004700",
+    "raison_sociale": "MAISON DE RETRAITE COUVENT COEUR MARIE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "CRUEJOULS",
+    "cp": "12310",
+    "VILLE": "PALMAS D AVEYRON    ",
+    "tel": "565449389",
+    "telecopie": "565449725",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "38513504100023",
+    "lng": "2.83650327912646",
+    "lat": "44.4148865339405"
+  },
+  {
+    "finess": "120782131",
+    "raison_sociale": "EHPAD ST LAURENT",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "CRUEJOULS",
+    "cp": "12310",
+    "VILLE": "PALMAS D AVEYRON    ",
+    "tel": "565449016",
+    "telecopie": "565449725",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77670334000013",
+    "lng": "2.83650327912646",
+    "lat": "44.4148865339405"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "230000200",
+    "raison_sociale": "EHPAD RESIDENCE LAULADE",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "LAULADE",
+    "bp": "",
+    "cp": "23170",
+    "VILLE": "BUDELIERE ",
+    "tel": "555828311",
+    "telecopie": "555828167",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "43951788900101",
+    "lng": "2.46464405726462",
+    "lat": "46.2198915793537"
+  },
+  {
+    "finess": "230781593",
+    "raison_sociale": "MAS DE SAUZET",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "SAUZET",
+    "cp": "23170",
+    "VILLE": "BUDELIERE ",
+    "tel": "555823950",
+    "telecopie": "555828179",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "38379245400126",
+    "lng": "2.46789172644094",
+    "lat": "46.2063461434395"
+  }
+]

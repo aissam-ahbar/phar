@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "130032485",
+    "raison_sociale": "SELAS  PHARMACIE DE PALETTE",
+    "numero voie": "203",
+    "type_voie": "RTE",
+    "libelle_voie": "N7",
+    "bp": "DOMAINE DE L'ESCAPADE BT D",
+    "cp": "13100",
+    "VILLE": "LE THOLONET",
+    "tel": "442668020",
+    "telecopie": "442668416",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75056650700026",
+    "lng": "5.51282790062806",
+    "lat": "43.5214865865956"
+  },
+  {
+    "finess": "130055114",
+    "raison_sociale": "LBM CERBALLIANCE PROVENCE SITE AIX EN",
+    "numero voie": "1",
+    "type_voie": "BD",
+    "libelle_voie": "FERDINAND LESSEPS",
+    "bp": "",
+    "cp": "13100",
+    "VILLE": "LE THOLONET",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "51876746200022",
+    "lng": "5.51282790062806",
+    "lat": "43.5214865865956"
+  },
+  {
+    "finess": "130055171",
+    "raison_sociale": "LBM LABIO SITE AIX/VILLA PONTIER",
+    "numero voie": "17",
+    "type_voie": "AV",
+    "libelle_voie": "HENRI PONTIER",
+    "bp": "",
+    "cp": "13100",
+    "VILLE": "LE THOLONET",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "44229508500017",
+    "lng": "5.51282790062806",
+    "lat": "43.5214865865956"
+  }
+]

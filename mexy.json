@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "540008232",
+    "raison_sociale": "EHPAD RESIDENCE LES HIBISCUS",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU SAUCI FOSSE",
+    "bp": "",
+    "cp": "54135",
+    "VILLE": "MEXY ",
+    "tel": "382258567",
+    "telecopie": "382395745",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "33421500100010",
+    "lng": "5.78996992228705",
+    "lat": "49.5012129192181"
+  },
+  {
+    "finess": "540015286",
+    "raison_sociale": "PHARMACIE CONDE - GOURDIN",
+    "numero voie": "20",
+    "type_voie": "R",
+    "libelle_voie": "DE LA RESISTANCE",
+    "bp": "",
+    "cp": "54135",
+    "VILLE": "MEXY ",
+    "tel": "382244074",
+    "telecopie": "382253902",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84910546500017",
+    "lng": "5.78167868377895",
+    "lat": "49.500994328061"
+  }
+]

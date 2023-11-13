@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "240011189",
+    "raison_sociale": "EAM LA MEYNARDIE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "24410",
+    "VILLE": "ST PRIVAT EN PERIGORD   ",
+    "tel": "553924800",
+    "telecopie": "553925253",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "20005293400078",
+    "lng": "0.215117674329283",
+    "lat": "45.2264452145703"
+  },
+  {
+    "finess": "240015131",
+    "raison_sociale": "EHPAD LA MEYNARDIE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "24410",
+    "VILLE": "ST PRIVAT EN PERIGORD   ",
+    "tel": "553924800",
+    "telecopie": "553901791",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20005293400045",
+    "lng": "0.215117674329283",
+    "lat": "45.2264452145703"
+  }
+]

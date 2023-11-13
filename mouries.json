@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "130032121",
+    "raison_sociale": "PHARMACIE SANTOIRE",
+    "numero voie": "1",
+    "type_voie": "CRS",
+    "libelle_voie": "PAUL REVOIL",
+    "bp": "",
+    "cp": "13890",
+    "VILLE": "MOURIES ",
+    "tel": "490475007",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34380720200027",
+    "lng": "4.87099157914862",
+    "lat": "43.6892134561064"
+  },
+  {
+    "finess": "130799786",
+    "raison_sociale": "CENTRE DE CONSULTATIONS DE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "13890",
+    "VILLE": "MOURIES ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "230",
+    "libelle categorie": "Etablissement Consultation Protection Infantile",
+    "siret": "22130001501492",
+    "lng": "4.8713577281233",
+    "lat": "43.6889929419272"
+  }
+]

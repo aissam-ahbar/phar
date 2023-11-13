@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "450019831",
+    "raison_sociale": "MSP DES CITEAUX",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LES CITEAUX",
+    "cp": "45190",
+    "VILLE": "TAVERS ",
+    "tel": "238445045",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "79484694900012",
+    "lng": "1.61771011153844",
+    "lat": "47.7677908813511"
+  },
+  {
+    "finess": "450019963",
+    "raison_sociale": "LBM BIOALLIANCE TAVERS",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DE MARPALU",
+    "bp": "",
+    "cp": "45190",
+    "VILLE": "TAVERS ",
+    "tel": "238446464",
+    "telecopie": "238440440",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "38939406500301",
+    "lng": "1.61340522550647",
+    "lat": "47.764619985379"
+  }
+]

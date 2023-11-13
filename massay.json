@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "180003196",
+    "raison_sociale": "PHARMACIE BROCHARD-GRENIER",
+    "numero voie": "52",
+    "type_voie": "AV",
+    "libelle_voie": "DU MARECHAL FOCH",
+    "bp": "",
+    "cp": "18120",
+    "VILLE": "MASSAY ",
+    "tel": "248519136",
+    "telecopie": "248519976",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "42270274600021",
+    "lng": "1.99733571291895",
+    "lat": "47.1573348807531"
+  },
+  {
+    "finess": "180005860",
+    "raison_sociale": "EHPAD HOSTELLERIE DU CHATEAU",
+    "numero voie": "2",
+    "type_voie": "RTE",
+    "libelle_voie": "DE REUILLY",
+    "bp": "",
+    "cp": "18120",
+    "VILLE": "MASSAY ",
+    "tel": "248519167",
+    "telecopie": "248511021",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "47994446400029",
+    "lng": "1.99495136590886",
+    "lat": "47.1502868601358"
+  },
+  {
+    "finess": "180010829",
+    "raison_sociale": "ANNEXE LVA ''LA PREE''",
+    "numero voie": "39",
+    "type_voie": "AV",
+    "libelle_voie": "DU MARECHAL FOCH",
+    "bp": "",
+    "cp": "18120",
+    "VILLE": "MASSAY ",
+    "tel": "254341926",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "77519711400058",
+    "lng": "1.9955777154543",
+    "lat": "47.1550588274136"
+  }
+]

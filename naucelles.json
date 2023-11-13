@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "150001600",
+    "raison_sociale": "PHARMACIE  DELORT",
+    "numero voie": "7",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA HALLE",
+    "bp": "",
+    "cp": "15250",
+    "VILLE": "NAUCELLES ",
+    "tel": "471472282",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48208662600025",
+    "lng": "2.41854232235644",
+    "lat": "44.959757057537"
+  },
+  {
+    "finess": "150003507",
+    "raison_sociale": "SOS OXYGENE AUVERGNE NAUCELLES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "ZONE D'ACTIVITE DES 4 CHEMINS",
+    "cp": "15250",
+    "VILLE": "NAUCELLES ",
+    "tel": "473691010",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "49822862600020",
+    "lng": "2.41976570124425",
+    "lat": "44.9362705893069"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "190006130",
+    "raison_sociale": "MAISON D'ACCUEIL SPECIALISEE",
+    "numero voie": "2",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LAJOINIE",
+    "bp": "",
+    "cp": "19270",
+    "VILLE": "STE FEREOLE",
+    "tel": "555856643",
+    "telecopie": "555857130",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "77796706800282",
+    "lng": "1.57916542630928",
+    "lat": "45.2318129114682"
+  },
+  {
+    "finess": "190009100",
+    "raison_sociale": "PHARMACIE DE STE FEREOLE",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA BESSE",
+    "bp": "",
+    "cp": "19270",
+    "VILLE": "STE FEREOLE",
+    "tel": "555856872",
+    "telecopie": "555856884",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82028470100019",
+    "lng": "1.58105537867898",
+    "lat": "45.2289632058958"
+  }
+]

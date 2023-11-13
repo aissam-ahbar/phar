@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "300007010",
+    "raison_sociale": "PHARMACIE GARNIER",
+    "numero voie": "1",
+    "type_voie": "CHE",
+    "libelle_voie": "DES PRES",
+    "bp": "",
+    "cp": "30840",
+    "VILLE": "MEYNES ",
+    "tel": "466574922",
+    "telecopie": "466576390",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39189343500027",
+    "lng": "4.56337924432196",
+    "lat": "43.8829487245722"
+  },
+  {
+    "finess": "300013018",
+    "raison_sociale": "EHPAD MEYNES",
+    "numero voie": "57",
+    "type_voie": "R",
+    "libelle_voie": "HENRI PITOT",
+    "bp": "",
+    "cp": "30840",
+    "VILLE": "MEYNES ",
+    "tel": "466010440",
+    "telecopie": "466751458",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "79322533500025",
+    "lng": "4.55847618779383",
+    "lat": "43.8839126401517"
+  }
+]

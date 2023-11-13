@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "220011613",
+    "raison_sociale": "PHARMACIE ROCHOISE",
+    "numero voie": "10",
+    "type_voie": "PL",
+    "libelle_voie": "du Martray",
+    "bp": "",
+    "cp": "22450",
+    "VILLE": "LA ROCHE JAUDY    ",
+    "tel": "296913629",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53294070700013",
+    "lng": "-3.26129023333158",
+    "lat": "48.7459455059869"
+  },
+  {
+    "finess": "220013965",
+    "raison_sociale": "EHPAD KERAMBELLEC",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "ALAIN LE DIUZET",
+    "bp": "",
+    "cp": "22450",
+    "VILLE": "LA ROCHE JAUDY    ",
+    "tel": "296915468",
+    "telecopie": "296913341",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20008420000027",
+    "lng": "-3.26231217589871",
+    "lat": "48.7484325167585"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380017392",
+    "raison_sociale": "LBM BIOPTIMA SAINT JEAN DE SOUDAIN",
+    "numero voie": "481",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LYON",
+    "bp": "",
+    "cp": "38110",
+    "VILLE": "ST JEAN DE SOUDAIN   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "49270906800026",
+    "lng": "5.43126253901264",
+    "lat": "45.5680114995123"
+  },
+  {
+    "finess": "380026377",
+    "raison_sociale": "MAISON DE SANTE DE LA TOUR DU PIN",
+    "numero voie": "710",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LYON",
+    "bp": "",
+    "cp": "38110",
+    "VILLE": "ST JEAN DE SOUDAIN   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "91108073700016",
+    "lng": "5.42878134181126",
+    "lat": "45.5683210036065"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590015822",
+    "raison_sociale": "PHARMACIE WESTEEL",
+    "numero voie": "17",
+    "type_voie": "R",
+    "libelle_voie": "JEAN JAURES",
+    "bp": "",
+    "cp": "59710",
+    "VILLE": "ENNEVELIN ",
+    "tel": "320614721",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45192137300010",
+    "lng": "3.12927517109708",
+    "lat": "50.5398077839077"
+  },
+  {
+    "finess": "590065603",
+    "raison_sociale": "MSP MME ENNEVELIN SANTE",
+    "numero voie": "26",
+    "type_voie": "R",
+    "libelle_voie": "JEAN JAURES",
+    "bp": "",
+    "cp": "59710",
+    "VILLE": "ENNEVELIN ",
+    "tel": "320614303",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "89432695800010",
+    "lng": "3.1308208730298",
+    "lat": "50.5395189451766"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "650003221",
+    "raison_sociale": "PHARMACIE DES COTEAUX",
+    "numero voie": "63",
+    "type_voie": "RTE",
+    "libelle_voie": "de Bigorre",
+    "bp": "",
+    "cp": "65350",
+    "VILLE": "POUYASTRUC ",
+    "tel": "562332436",
+    "telecopie": "970601799",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88094223000017",
+    "lng": "0.171583013133804",
+    "lat": "43.2741249249973"
+  },
+  {
+    "finess": "650005572",
+    "raison_sociale": "MSP DES COTEAUX",
+    "numero voie": "63",
+    "type_voie": "RTE",
+    "libelle_voie": "DE BIGORRE",
+    "bp": "",
+    "cp": "65350",
+    "VILLE": "POUYASTRUC ",
+    "tel": "562332222",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "0.171583013133804",
+    "lat": "43.2741249249973"
+  },
+  {
+    "finess": "650006216",
+    "raison_sociale": "SAAD ADMR POUYASTRUC",
+    "numero voie": "64",
+    "type_voie": "R",
+    "libelle_voie": "DES ECOLES",
+    "bp": "",
+    "cp": "65350",
+    "VILLE": "POUYASTRUC ",
+    "tel": "562332970",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31816548700048",
+    "lng": "0.174766993203359",
+    "lat": "43.2709408007801"
+  }
+]

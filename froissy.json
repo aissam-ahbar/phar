@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "600003172",
+    "raison_sociale": "PHARMACIE GAILLET",
+    "numero voie": "27",
+    "type_voie": "R",
+    "libelle_voie": "DE BEAUVAIS",
+    "bp": "",
+    "cp": "60480",
+    "VILLE": "FROISSY ",
+    "tel": "344807026",
+    "telecopie": "344804073",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81094034600010",
+    "lng": "2.21991421861113",
+    "lat": "49.5653967533587"
+  },
+  {
+    "finess": "600106041",
+    "raison_sociale": "FV SOURCE FROISSY",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE BEAUVAIS",
+    "bp": "",
+    "cp": "60480",
+    "VILLE": "FROISSY ",
+    "tel": "344807038",
+    "telecopie": "",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "81085146900017",
+    "lng": "2.22190789870141",
+    "lat": "49.5669598362447"
+  },
+  {
+    "finess": "600109359",
+    "raison_sociale": "SSIAD AMAPA FROISSY",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DES BOUVIERS",
+    "bp": "",
+    "cp": "60480",
+    "VILLE": "FROISSY ",
+    "tel": "972346971",
+    "telecopie": "",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "",
+    "lng": "2.21646026000338",
+    "lat": "49.5675422178715"
+  }
+]

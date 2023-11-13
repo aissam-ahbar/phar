@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "660011636",
+    "raison_sociale": "SAAD SCOP A LA MAISON",
+    "numero voie": "87",
+    "type_voie": "AV",
+    "libelle_voie": "JEAN JAURES",
+    "bp": "",
+    "cp": "66670",
+    "VILLE": "BAGES ",
+    "tel": "468986651",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "81050350800014",
+    "lng": "2.89359983003572",
+    "lat": "42.6057618276545"
+  },
+  {
+    "finess": "660787953",
+    "raison_sociale": "PHARMACIE SCHLOUCH - CASAMITJANA",
+    "numero voie": "7",
+    "type_voie": "AV",
+    "libelle_voie": "JEAN JAURES",
+    "bp": "",
+    "cp": "66670",
+    "VILLE": "BAGES ",
+    "tel": "468217108",
+    "telecopie": "468212188",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38944031400018",
+    "lng": "2.88962338262666",
+    "lat": "42.6053802068458"
+  }
+]

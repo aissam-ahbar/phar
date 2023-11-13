@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "380025361",
+    "raison_sociale": "CPTS LACS ET MONTAGNES DU SUD ISERE",
+    "numero voie": "13",
+    "type_voie": "RTE",
+    "libelle_voie": "DU TERRIL",
+    "bp": "",
+    "cp": "38350",
+    "VILLE": "SUSVILLE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "604",
+    "libelle categorie": "Communautés professionnelles territoriales de santé (CPTS)",
+    "siret": "87923547100015",
+    "lng": "5.78012769533236",
+    "lat": "44.9171191200942"
+  },
+  {
+    "finess": "380784389",
+    "raison_sociale": "ESAT AFIPH ENTR SUD ISERE GRES SUSVILL",
+    "numero voie": "",
+    "type_voie": "ZA",
+    "libelle_voie": "DU VILLARET",
+    "bp": "",
+    "cp": "38350",
+    "VILLE": "SUSVILLE ",
+    "tel": "476810757",
+    "telecopie": "476815198",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77559590300581",
+    "lng": "5.77757122787851",
+    "lat": "44.9265093054324"
+  },
+  {
+    "finess": "380784413",
+    "raison_sociale": "FOYER LE CAIRN SUSVILLE FSIG",
+    "numero voie": "",
+    "type_voie": "ZI",
+    "libelle_voie": "SUSVILLE",
+    "bp": "",
+    "cp": "38350",
+    "VILLE": "SUSVILLE ",
+    "tel": "476680015",
+    "telecopie": "476680032",
+    "categorie etablissement": "252",
+    "libelle categorie": "Foyer Hébergement Adultes Handicapés",
+    "siret": "",
+    "lng": "5.78012769533236",
+    "lat": "44.9171191200942"
+  }
+]

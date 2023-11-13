@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "120004064",
+    "raison_sociale": "PHARMACIE BERGONNIER-ROUS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "SIGNELONG",
+    "bp": "",
+    "cp": "12560",
+    "VILLE": "ST LAURENT D OLT   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39292147400012",
+    "lng": "3.10944569125803",
+    "lat": "44.441716990419"
+  },
+  {
+    "finess": "120780242",
+    "raison_sociale": "IME DE ST LAURENT D'OLT",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU CHATEAU",
+    "bp": "",
+    "cp": "12560",
+    "VILLE": "ST LAURENT D OLT   ",
+    "tel": "565475960",
+    "telecopie": "565475590",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "30204902800095",
+    "lng": "3.11160782489731",
+    "lat": "44.448548203535"
+  },
+  {
+    "finess": "120782511",
+    "raison_sociale": "EHPAD LE VAL D'OLT",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "12560",
+    "VILLE": "ST LAURENT D OLT   ",
+    "tel": "565703500",
+    "telecopie": "565703517",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20001813300039",
+    "lng": "3.11107277481365",
+    "lat": "44.4461380190501"
+  }
+]

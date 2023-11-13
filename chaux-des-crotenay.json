@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "390002376",
+    "raison_sociale": "PHARMACIE  ALIXANT",
+    "numero voie": "12",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "39150",
+    "VILLE": "CHAUX DES CROTENAY    ",
+    "tel": "384515489",
+    "telecopie": "384515444",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48985429900018",
+    "lng": "5.96389157321705",
+    "lat": "46.6575820204216"
+  },
+  {
+    "finess": "390005379",
+    "raison_sociale": "LA FERME DU SILLON",
+    "numero voie": "15",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CORNU",
+    "bp": "",
+    "cp": "39150",
+    "VILLE": "CHAUX DES CROTENAY    ",
+    "tel": "384515757",
+    "telecopie": "384515842",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "41203217900084",
+    "lng": "5.95526683459097",
+    "lat": "46.6673630657059"
+  },
+  {
+    "finess": "390008464",
+    "raison_sociale": "MAS URTSA DU JURA",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "DE CORNU",
+    "bp": "",
+    "cp": "39150",
+    "VILLE": "CHAUX DES CROTENAY    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "92389422400016",
+    "lng": "5.95526683459097",
+    "lat": "46.6673630657059"
+  }
+]

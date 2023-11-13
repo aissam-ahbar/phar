@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "120782453",
+    "raison_sociale": "EHPAD \"VALLEE DU DOURDOU\"",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LE BOURG",
+    "cp": "12360",
+    "VILLE": "BRUSQUE ",
+    "tel": "565981150",
+    "telecopie": "565981151",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "33439729600016",
+    "lng": "2.95133322671266",
+    "lat": "43.7689518090502"
+  },
+  {
+    "finess": "120786769",
+    "raison_sociale": "LIEU D'ACCUEIL BROX",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "BROX",
+    "bp": "",
+    "cp": "12360",
+    "VILLE": "BRUSQUE ",
+    "tel": "565495760",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "81980298400016",
+    "lng": "2.96624819528557",
+    "lat": "43.7726954930186"
+  }
+]

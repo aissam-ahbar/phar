@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "610788739",
+    "raison_sociale": "PHARMACIE NORMANDE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE BOURG",
+    "bp": "",
+    "cp": "61800",
+    "VILLE": "ST PIERRE D ENTREMONT   ",
+    "tel": "233663302",
+    "telecopie": "233960441",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51272472500019",
+    "lng": "-0.649860174901693",
+    "lat": "48.8088263939995"
+  },
+  {
+    "finess": "730008703",
+    "raison_sociale": "PHARMACIE MATHIEU",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE BOURG",
+    "bp": "",
+    "cp": "73670",
+    "VILLE": "ST PIERRE D ENTREMONT   ",
+    "tel": "479658448",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84888852500013",
+    "lng": "5.85446392445957",
+    "lat": "45.4173233774159"
+  }
+]

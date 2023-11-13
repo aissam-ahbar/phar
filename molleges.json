@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "130026107",
+    "raison_sociale": "SELARL PHARMACIE JEAN CHARBONNIERE C.",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE COURS",
+    "bp": "",
+    "cp": "13940",
+    "VILLE": "MOLLEGES ",
+    "tel": "490951694",
+    "telecopie": "490954482",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82114961400017",
+    "lng": "4.94970589999975",
+    "lat": "43.8056794112421"
+  },
+  {
+    "finess": "130792732",
+    "raison_sociale": "CONSULTATIONS DE PMI MOLLEGES",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'HOTEL DE VILLE",
+    "bp": "",
+    "cp": "13940",
+    "VILLE": "MOLLEGES ",
+    "tel": "490950351",
+    "telecopie": "",
+    "categorie etablissement": "230",
+    "libelle categorie": "Etablissement Consultation Protection Infantile",
+    "siret": "22130001501138",
+    "lng": "4.94812540749672",
+    "lat": "43.8059498112435"
+  }
+]

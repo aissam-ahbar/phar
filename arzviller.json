@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "570029694",
+    "raison_sociale": "MSP MULTI-SITES PHAEVE",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DES FONTAINES",
+    "bp": "",
+    "cp": "57405",
+    "VILLE": "ARZVILLER ",
+    "tel": "387039090",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "89314227300018",
+    "lng": "7.16471160760922",
+    "lat": "48.71966290992"
+  },
+  {
+    "finess": "570030726",
+    "raison_sociale": "CPTS PAYS DE SARREBOURG PHALSBOURG",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DES FONTAINES",
+    "bp": "",
+    "cp": "57405",
+    "VILLE": "ARZVILLER ",
+    "tel": "387039090",
+    "telecopie": "",
+    "categorie etablissement": "604",
+    "libelle categorie": "Communautés professionnelles territoriales de santé (CPTS)",
+    "siret": "91257443100017",
+    "lng": "7.16471160760922",
+    "lat": "48.71966290992"
+  }
+]

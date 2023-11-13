@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "310785290",
+    "raison_sociale": "FV SAINT MEDARD SITE BOIS LA PIERRE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LIEU DIT LE FAURON",
+    "cp": "31390",
+    "VILLE": "BOIS DE LA PIERRE   ",
+    "tel": "561879931",
+    "telecopie": "561878740",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "77572842100204",
+    "lng": "1.1660754856738",
+    "lat": "43.3408477678755"
+  },
+  {
+    "finess": "310794920",
+    "raison_sociale": "ESAT LES QUATRE SAISONS",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "BORDASSE",
+    "bp": "",
+    "cp": "31390",
+    "VILLE": "BOIS DE LA PIERRE   ",
+    "tel": "561879898",
+    "telecopie": "",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77572842100212",
+    "lng": "1.15894980378774",
+    "lat": "43.3418425205669"
+  },
+  {
+    "finess": "310794953",
+    "raison_sociale": "EANM FOYER HEBERGEMENT LES 4 SAISONS",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LA  BOURDASSE",
+    "bp": "",
+    "cp": "31390",
+    "VILLE": "BOIS DE LA PIERRE   ",
+    "tel": "562147200",
+    "telecopie": "561879900",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "",
+    "lng": "1.15149643101507",
+    "lat": "43.3450115295265"
+  }
+]

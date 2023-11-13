@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "220006910",
+    "raison_sociale": "RESIDENCE EHPAD DE PENVENAN",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE POULPIQUET",
+    "bp": "",
+    "cp": "22710",
+    "VILLE": "PENVENAN ",
+    "tel": "296927214",
+    "telecopie": "296928955",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26220390400020",
+    "lng": "-3.29747334724493",
+    "lat": "48.8127566814463"
+  },
+  {
+    "finess": "220011050",
+    "raison_sociale": "PHARMACIE D'ARMOR",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "22710",
+    "VILLE": "PENVENAN ",
+    "tel": "296926570",
+    "telecopie": "296927858",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51105889300013",
+    "lng": "-3.29569257254024",
+    "lat": "48.8114856020636"
+  },
+  {
+    "finess": "220020150",
+    "raison_sociale": "EHPA LE VERGER DES KORRIGANS",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE POULPIQUET",
+    "bp": "",
+    "cp": "22710",
+    "VILLE": "PENVENAN ",
+    "tel": "296927214",
+    "telecopie": "296928955",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26220390400046",
+    "lng": "-3.29747334724493",
+    "lat": "48.8127566814463"
+  }
+]

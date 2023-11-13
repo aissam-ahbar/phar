@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "620104570",
+    "raison_sociale": "MECS LE REGAIN",
+    "numero voie": "6",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "62380",
+    "VILLE": "DOHEM ",
+    "tel": "321123636",
+    "telecopie": "321123649",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "77563137700014",
+    "lng": "2.18708009838569",
+    "lat": "50.637746729872"
+  },
+  {
+    "finess": "620107581",
+    "raison_sociale": "ASSOCIATION A.S.S.A.D.D.  DOHEM",
+    "numero voie": "6",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "62380",
+    "VILLE": "DOHEM ",
+    "tel": "321953342",
+    "telecopie": "321123679",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31457239700011",
+    "lng": "2.18588460548313",
+    "lat": "50.6392367713012"
+  }
+]

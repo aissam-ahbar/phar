@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "70780564",
+    "raison_sociale": "IME LES JARDINS DES TISSERANDS",
+    "numero voie": "2728",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LARGENTIERE",
+    "bp": "",
+    "cp": "7110",
+    "VILLE": "CHASSIERS ",
+    "tel": "475899700",
+    "telecopie": "475899712",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "39066239300011",
+    "lng": "4.32135954485642",
+    "lat": "44.5513026471203"
+  },
+  {
+    "finess": "70785787",
+    "raison_sociale": "MAS  LA LANDE",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "BETHANIE",
+    "bp": "",
+    "cp": "7110",
+    "VILLE": "CHASSIERS ",
+    "tel": "475899700",
+    "telecopie": "475899712",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "39066239300029",
+    "lng": "4.30891839909523",
+    "lat": "44.556967333387"
+  }
+]

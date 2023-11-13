@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "640007829",
+    "raison_sociale": "LIEU DE VIE MENAUTEGIA",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "64240",
+    "VILLE": "BRISCOUS ",
+    "tel": "559317916",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "43185607900014",
+    "lng": "-1.34570618506415",
+    "lat": "43.4651769046685"
+  },
+  {
+    "finess": "640009031",
+    "raison_sociale": "PHARMACIE HEMENGOA",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAISON ETCHE   ALDEA",
+    "bp": "",
+    "cp": "64240",
+    "VILLE": "BRISCOUS ",
+    "tel": "559317018",
+    "telecopie": "559317450",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83029756000013",
+    "lng": "-1.33394342622207",
+    "lat": "43.4601483527773"
+  },
+  {
+    "finess": "640791851",
+    "raison_sociale": "MAS  BIARRITZENIA",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "MUESCA",
+    "bp": "",
+    "cp": "64240",
+    "VILLE": "BRISCOUS ",
+    "tel": "559317082",
+    "telecopie": "559317237",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "33348713000010",
+    "lng": "-1.34249239172906",
+    "lat": "43.4566180125543"
+  }
+]

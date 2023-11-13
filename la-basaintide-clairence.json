@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "640784245",
+    "raison_sociale": "EHPAD BEREBISTE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE PESSAROU",
+    "bp": "",
+    "cp": "64240",
+    "VILLE": "LA BASTIDE CLAIRENCE    ",
+    "tel": "559296647",
+    "telecopie": "559564021",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "78230543700017",
+    "lng": "-1.25423356509245",
+    "lat": "43.425290643475"
+  },
+  {
+    "finess": "640795571",
+    "raison_sociale": "SSIAD DES 3 VALLEES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAISON DARRIEUX",
+    "bp": "",
+    "cp": "64240",
+    "VILLE": "LA BASTIDE CLAIRENCE    ",
+    "tel": "559291363",
+    "telecopie": "559702262",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "78230253300040",
+    "lng": "-1.25634309566643",
+    "lat": "43.4295746659498"
+  }
+]

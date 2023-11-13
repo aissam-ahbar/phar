@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "240012534",
+    "raison_sociale": "LA PHARMACIE DE SIORAC",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LE PORT",
+    "bp": "PARCELLE 1336",
+    "cp": "24170",
+    "VILLE": "SIORAC EN PERIGORD    ",
+    "tel": "553316021",
+    "telecopie": "553594016",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "87906810400014",
+    "lng": "0.989351720917526",
+    "lat": "44.8249577009477"
+  },
+  {
+    "finess": "240017673",
+    "raison_sociale": "SAAD IDEES O LOGIS",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "24170",
+    "VILLE": "SIORAC EN PERIGORD    ",
+    "tel": "553304594",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "51525047000033",
+    "lng": "0.986865051695445",
+    "lat": "44.8205770236426"
+  }
+]

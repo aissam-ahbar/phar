@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "710006347",
+    "raison_sociale": "PHARMACIE  KUNTZ",
+    "numero voie": "10",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LOUHANS",
+    "bp": "",
+    "cp": "71470",
+    "VILLE": "MONTPONT EN BRESSE    ",
+    "tel": "385729349",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50923739200014",
+    "lng": "5.16454149308154",
+    "lat": "46.5570191470407"
+  },
+  {
+    "finess": "710009606",
+    "raison_sociale": "SERVICE DE TRAVAILLEUSES FAMILIALES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "71470",
+    "VILLE": "MONTPONT EN BRESSE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "5.16238239566226",
+    "lat": "46.5542747570065"
+  },
+  {
+    "finess": "710971854",
+    "raison_sociale": "SERVICE D'AIDE MENAGERE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "71470",
+    "VILLE": "MONTPONT EN BRESSE    ",
+    "tel": "385403090",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "5.16238239566226",
+    "lat": "46.5542747570065"
+  }
+]

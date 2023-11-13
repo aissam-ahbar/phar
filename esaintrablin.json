@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380005082",
+    "raison_sociale": "PHARMACIE PILLON",
+    "numero voie": "61",
+    "type_voie": "R",
+    "libelle_voie": "DE L'EUROPE",
+    "bp": "",
+    "cp": "38780",
+    "VILLE": "ESTRABLIN ",
+    "tel": "474580214",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53299733500015",
+    "lng": "4.96408529886013",
+    "lat": "45.5166044428629"
+  },
+  {
+    "finess": "380804328",
+    "raison_sociale": "UNITE ESAT MESSIDOR NORD ISERE",
+    "numero voie": "333",
+    "type_voie": "R",
+    "libelle_voie": "DENIS CRAPON",
+    "bp": "ZA DE L'ABBAYE NORD",
+    "cp": "38780",
+    "VILLE": "ESTRABLIN ",
+    "tel": "474317530",
+    "telecopie": "474532006",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "30593300400304",
+    "lng": "4.92536799277131",
+    "lat": "45.520722059643"
+  }
+]

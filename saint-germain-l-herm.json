@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "630014280",
+    "raison_sociale": "ADMR DU HAUT LIVRADOIS",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA PAIX",
+    "bp": "",
+    "cp": "63630",
+    "VILLE": "ST GERMAIN L HERM   ",
+    "tel": "671307677",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "77923058000028",
+    "lng": "3.54275544582117",
+    "lat": "45.4573853197362"
+  },
+  {
+    "finess": "630015410",
+    "raison_sociale": "CENTRE DE SANTE DE ST GERMAIN L'HERM",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "D'ISSOIRE",
+    "bp": "",
+    "cp": "63630",
+    "VILLE": "ST GERMAIN L HERM   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "",
+    "lng": "3.53637791162689",
+    "lat": "45.4625136227764"
+  },
+  {
+    "finess": "630781581",
+    "raison_sociale": "EHPAD \"ROUX DE BERNY\"",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA RODADE",
+    "bp": "",
+    "cp": "63630",
+    "VILLE": "ST GERMAIN L HERM   ",
+    "tel": "473720026",
+    "telecopie": "473720269",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26630763600016",
+    "lng": "3.54027648613127",
+    "lat": "45.4586471544535"
+  }
+]

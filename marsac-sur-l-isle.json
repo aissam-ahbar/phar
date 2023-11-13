@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "240010652",
+    "raison_sociale": "PHARMACIE DE MARSAC",
+    "numero voie": "87",
+    "type_voie": "RTE",
+    "libelle_voie": "DE BORDEAUX",
+    "bp": "",
+    "cp": "24430",
+    "VILLE": "MARSAC SUR L ISLE   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49895706700024",
+    "lng": "0.657623148045192",
+    "lat": "45.1841653890303"
+  },
+  {
+    "finess": "240012948",
+    "raison_sociale": "SAMSAH APF",
+    "numero voie": "85",
+    "type_voie": "RTE",
+    "libelle_voie": "DE BORDEAUX",
+    "bp": "",
+    "cp": "24430",
+    "VILLE": "MARSAC SUR L ISLE   ",
+    "tel": "553024990",
+    "telecopie": "553024999",
+    "categorie etablissement": "445",
+    "libelle categorie": "Service d'accompagnement médico-social adultes handicapés",
+    "siret": "77568873208650",
+    "lng": "0.658154789465644",
+    "lat": "45.1842756333975"
+  },
+  {
+    "finess": "240016675",
+    "raison_sociale": "ALCURA FRANCE",
+    "numero voie": "",
+    "type_voie": "IMP",
+    "libelle_voie": "DE L'ARTISANT",
+    "bp": "",
+    "cp": "24430",
+    "VILLE": "MARSAC SUR L ISLE   ",
+    "tel": "553086850",
+    "telecopie": "553089603",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "30494047100390",
+    "lng": "0.658890635946174",
+    "lat": "45.1965565459765"
+  }
+]

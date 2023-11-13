@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "230000317",
+    "raison_sociale": "RESIDENCE LES ALBIZIAS",
+    "numero voie": "19",
+    "type_voie": "RTE",
+    "libelle_voie": "DE SORNAC",
+    "bp": "",
+    "cp": "23100",
+    "VILLE": "LA COURTINE",
+    "tel": "555667940",
+    "telecopie": "555667941",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "49384425200137",
+    "lng": "2.26417986320281",
+    "lat": "45.6972095764565"
+  },
+  {
+    "finess": "230002115",
+    "raison_sociale": "PHARMACIE THAUMIAUX",
+    "numero voie": "1",
+    "type_voie": "AV",
+    "libelle_voie": "Jules Tuffery",
+    "bp": "",
+    "cp": "23100",
+    "VILLE": "LA COURTINE",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79468689900020",
+    "lng": "2.25952100444681",
+    "lat": "45.7045372452174"
+  },
+  {
+    "finess": "230003659",
+    "raison_sociale": "EHPAD DE LA COURTINE",
+    "numero voie": "",
+    "type_voie": "ALL",
+    "libelle_voie": "DU CHABANOU",
+    "bp": "",
+    "cp": "23100",
+    "VILLE": "LA COURTINE",
+    "tel": "555677710",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26230080900056",
+    "lng": "2.25985449407711",
+    "lat": "45.6988238048893"
+  }
+]

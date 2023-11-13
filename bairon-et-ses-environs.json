@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "80003064",
+    "raison_sociale": "SELARL PHARMACIE DE BAIRON",
+    "numero voie": "2",
+    "type_voie": "AV",
+    "libelle_voie": "Lucien Lelarge",
+    "bp": "",
+    "cp": "8390",
+    "VILLE": "BAIRON ET SES ENVIRONS   ",
+    "tel": "324301064",
+    "telecopie": "324301732",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83299163200023",
+    "lng": "4.7698411738782",
+    "lat": "49.5147137242539"
+  },
+  {
+    "finess": "80008428",
+    "raison_sociale": "I. T. E. P. EDPAMS",
+    "numero voie": "23",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "8390",
+    "VILLE": "BAIRON ET SES ENVIRONS   ",
+    "tel": "324307073",
+    "telecopie": "",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "20001113800084",
+    "lng": "4.76427471558471",
+    "lat": "49.5132774147747"
+  }
+]

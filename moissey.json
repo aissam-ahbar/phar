@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "390003374",
+    "raison_sociale": "PHARMACIE FLAMION ADELINE",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DE GRAY",
+    "bp": "",
+    "cp": "39290",
+    "VILLE": "MOISSEY ",
+    "tel": "384702669",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83292580400011",
+    "lng": "5.52632428512212",
+    "lat": "47.1992593429127"
+  },
+  {
+    "finess": "390785178",
+    "raison_sociale": "LOGEMENT FOYER PERSONNES AGEES MOISSEY",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DU MONT GUERIN",
+    "bp": "",
+    "cp": "39290",
+    "VILLE": "MOISSEY ",
+    "tel": "384703146",
+    "telecopie": "384703583",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "21390335400040",
+    "lng": "5.5220877379511",
+    "lat": "47.2001983699553"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "630002970",
+    "raison_sociale": "PHARMACIE THOMAS",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "SIDOINE APOLLINAIRE",
+    "bp": "",
+    "cp": "63970",
+    "VILLE": "AYDAT ",
+    "tel": "473793800",
+    "telecopie": "473793800",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81872082300017",
+    "lng": "2.97448692282261",
+    "lat": "45.6608847082199"
+  },
+  {
+    "finess": "630015196",
+    "raison_sociale": "MAISON DE SANTE D'AYDAT",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "SIDOINE APOLLINAIRE",
+    "bp": "",
+    "cp": "63970",
+    "VILLE": "AYDAT ",
+    "tel": "473793030",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "88211465500013",
+    "lng": "2.97451277498581",
+    "lat": "45.6605191181866"
+  }
+]

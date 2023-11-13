@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "590032967",
+    "raison_sociale": "PHARMACIE CORBISE",
+    "numero voie": "70",
+    "type_voie": "R",
+    "libelle_voie": "DE L'INDUSTRIE",
+    "bp": "",
+    "cp": "59117",
+    "VILLE": "WERVICQ SUD",
+    "tel": "320390350",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "47821007300027",
+    "lng": "3.04528568348608",
+    "lat": "50.7720450201281"
+  },
+  {
+    "finess": "590032983",
+    "raison_sociale": "PHARMACIE TITECA",
+    "numero voie": "10",
+    "type_voie": "PL",
+    "libelle_voie": "CHARLES DE GAULLE",
+    "bp": "",
+    "cp": "59117",
+    "VILLE": "WERVICQ SUD",
+    "tel": "320390606",
+    "telecopie": "328369262",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "32948454700024",
+    "lng": "3.04387075643484",
+    "lat": "50.7736937560698"
+  },
+  {
+    "finess": "590797221",
+    "raison_sociale": "LOGEMENT-FOYER \"L'OREE DU BOIS\"",
+    "numero voie": "22",
+    "type_voie": "R",
+    "libelle_voie": "DES FRERES HOLLEBECQUE",
+    "bp": "",
+    "cp": "59117",
+    "VILLE": "WERVICQ SUD",
+    "tel": "320393602",
+    "telecopie": "320394823",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26590656000031",
+    "lng": "3.04642204801341",
+    "lat": "50.770685280328"
+  }
+]

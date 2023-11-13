@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "630006302",
+    "raison_sociale": "PHARMACIE LABONNE - MONNERON",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE SAINT AVIT",
+    "bp": "",
+    "cp": "63620",
+    "VILLE": "GIAT ",
+    "tel": "473217119",
+    "telecopie": "473216712",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40323444600025",
+    "lng": "2.47075644086242",
+    "lat": "45.8068173865593"
+  },
+  {
+    "finess": "630012136",
+    "raison_sociale": "MSP DE GIAT / PONTAUMUR",
+    "numero voie": "6",
+    "type_voie": "PL",
+    "libelle_voie": "DE BASCHURCH",
+    "bp": "",
+    "cp": "63620",
+    "VILLE": "GIAT ",
+    "tel": "473217597",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "2.46788920993642",
+    "lat": "45.8005066378989"
+  },
+  {
+    "finess": "630791788",
+    "raison_sociale": "EHPAD DE GIAT",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DU CHAMP DE FOIRE",
+    "bp": "",
+    "cp": "63620",
+    "VILLE": "GIAT ",
+    "tel": "473217741",
+    "telecopie": "473216974",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26630459100024",
+    "lng": "2.46819692605662",
+    "lat": "45.8013077413685"
+  }
+]

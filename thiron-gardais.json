@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "280004532",
+    "raison_sociale": "PHARMACIE LEROY",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "DU COMMERCE",
+    "bp": "",
+    "cp": "28480",
+    "VILLE": "THIRON GARDAIS",
+    "tel": "237494303",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "37769416100029",
+    "lng": "0.992146870184627",
+    "lat": "48.3116244712928"
+  },
+  {
+    "finess": "280005612",
+    "raison_sociale": "SAAD ADMR THIRON GARDAIS",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "DU COMMERCE",
+    "bp": "",
+    "cp": "28480",
+    "VILLE": "THIRON GARDAIS",
+    "tel": "237351714",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "77515936100044",
+    "lng": "0.992130368919138",
+    "lat": "48.3117033923098"
+  },
+  {
+    "finess": "280500463",
+    "raison_sociale": "EHPAD TEXIER GALLAS DE THIRON GARDAIS",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "DES TILLEULS",
+    "bp": "",
+    "cp": "28480",
+    "VILLE": "THIRON GARDAIS",
+    "tel": "237494542",
+    "telecopie": "237494326",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77557533500077",
+    "lng": "0.994952138698026",
+    "lat": "48.3107675206542"
+  }
+]

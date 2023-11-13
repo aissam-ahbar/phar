@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "210007480",
+    "raison_sociale": "CH HCO SSIAD ALISE SAINTE REINE",
+    "numero voie": "1",
+    "type_voie": "",
+    "libelle_voie": "CHEMIN DES BAINS",
+    "bp": "",
+    "cp": "21150",
+    "VILLE": "ALISE STE REINE    ",
+    "tel": "380897749",
+    "telecopie": "380897799",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "20004781900178",
+    "lng": "4.48592208982522",
+    "lat": "47.5383930670601"
+  },
+  {
+    "finess": "210986808",
+    "raison_sociale": "CH HCO EHPAD ALISE SAINTE REINE",
+    "numero voie": "1",
+    "type_voie": "",
+    "libelle_voie": "CHEMIN DES BAINS",
+    "bp": "",
+    "cp": "21150",
+    "VILLE": "ALISE STE REINE    ",
+    "tel": "380897777",
+    "telecopie": "380897799",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20004781900186",
+    "lng": "4.48592208982522",
+    "lat": "47.5383930670601"
+  },
+  {
+    "finess": "210986931",
+    "raison_sociale": "CH HCO FAM ALISE STE REINE",
+    "numero voie": "1",
+    "type_voie": "",
+    "libelle_voie": "CHEMIN DES BAINS",
+    "bp": "",
+    "cp": "21150",
+    "VILLE": "ALISE STE REINE    ",
+    "tel": "380897701",
+    "telecopie": "380897799",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "20004781900160",
+    "lng": "4.48592208982522",
+    "lat": "47.5383930670601"
+  }
+]

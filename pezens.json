@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "110010105",
+    "raison_sociale": "IFAP DU LEAP EMILE RODAT",
+    "numero voie": "8",
+    "type_voie": "BD",
+    "libelle_voie": "DE PINS",
+    "bp": "",
+    "cp": "11170",
+    "VILLE": "PEZENS ",
+    "tel": "468249035",
+    "telecopie": "",
+    "categorie etablissement": "300",
+    "libelle categorie": "Ecoles Formant aux Professions Sanitaires",
+    "siret": "77582261200013",
+    "lng": "2.26494387620457",
+    "lat": "43.2560207343618"
+  },
+  {
+    "finess": "110791001",
+    "raison_sociale": "SARL PHARMACIE DU CABARDES",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "OCCITANIE",
+    "bp": "",
+    "cp": "11170",
+    "VILLE": "PEZENS ",
+    "tel": "468249031",
+    "telecopie": "468249528",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52239389100026",
+    "lng": "2.26892754029288",
+    "lat": "43.253813226636"
+  }
+]

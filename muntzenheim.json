@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "680012655",
+    "raison_sociale": "PHARMACIE PFEFFER",
+    "numero voie": "14",
+    "type_voie": "R",
+    "libelle_voie": "JOSEPH DE PAUW",
+    "bp": "",
+    "cp": "68320",
+    "VILLE": "MUNTZENHEIM ",
+    "tel": "389474017",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "43902822600025",
+    "lng": "7.46515433401848",
+    "lat": "48.103307168897"
+  },
+  {
+    "finess": "680021797",
+    "raison_sociale": "SAAD ADMR COLMAR",
+    "numero voie": "18",
+    "type_voie": "R",
+    "libelle_voie": "PRINCIPALE",
+    "bp": "",
+    "cp": "68320",
+    "VILLE": "MUNTZENHEIM ",
+    "tel": "889305461",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "50836986500011",
+    "lng": "7.47237328786454",
+    "lat": "48.1021589755395"
+  }
+]

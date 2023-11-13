@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "330048463",
+    "raison_sociale": "EURL PHARMACIE MAPPA",
+    "numero voie": "26",
+    "type_voie": "R",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "33290",
+    "VILLE": "LUDON MEDOC",
+    "tel": "557884415",
+    "telecopie": "557884091",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52830881000019",
+    "lng": "-0.603982774810909",
+    "lat": "44.9814303584252"
+  },
+  {
+    "finess": "330066416",
+    "raison_sociale": "SAAD ORMALI",
+    "numero voie": "19",
+    "type_voie": "RTE",
+    "libelle_voie": "DU GRAND VERGER",
+    "bp": "",
+    "cp": "33290",
+    "VILLE": "LUDON MEDOC",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "81791709900019",
+    "lng": "-0.605207581108931",
+    "lat": "44.9739233108463"
+  },
+  {
+    "finess": "330790957",
+    "raison_sociale": "RESIDENCE AUTONOMIE AQUITAINE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "FRANCOIS MITTERRAND",
+    "bp": "",
+    "cp": "33290",
+    "VILLE": "LUDON MEDOC",
+    "tel": "557884409",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "46120133700031",
+    "lng": "-0.605738954113387",
+    "lat": "44.9796329892196"
+  }
+]

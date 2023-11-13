@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "490017472",
+    "raison_sociale": "FAM LES 3 RIVIERES",
+    "numero voie": "42",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CANTENAY",
+    "bp": "",
+    "cp": "49460",
+    "VILLE": "CANTENAY EPINARD",
+    "tel": "241691731",
+    "telecopie": "241798111",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "78610351500478",
+    "lng": "-0.564547844069388",
+    "lat": "47.5293964276525"
+  },
+  {
+    "finess": "490021193",
+    "raison_sociale": "MSP RIVES DE MAYENNE",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DES CIGOGNES",
+    "bp": "",
+    "cp": "49460",
+    "VILLE": "CANTENAY EPINARD",
+    "tel": "241691659",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "-0.571709811347778",
+    "lat": "47.5395348449599"
+  },
+  {
+    "finess": "490532934",
+    "raison_sociale": "PHARMACIE DE CANTENAY",
+    "numero voie": "21",
+    "type_voie": "R",
+    "libelle_voie": "D ANGERS",
+    "bp": "",
+    "cp": "49460",
+    "VILLE": "CANTENAY EPINARD",
+    "tel": "241321083",
+    "telecopie": "241321083",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84162446300011",
+    "lng": "-0.569107020139993",
+    "lat": "47.5316257545857"
+  }
+]

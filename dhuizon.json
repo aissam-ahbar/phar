@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "410002455",
+    "raison_sociale": "PHARMACIE DE DHUIZON",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE ROMORANTIN",
+    "bp": "",
+    "cp": "41220",
+    "VILLE": "DHUIZON ",
+    "tel": "254983198",
+    "telecopie": "254983741",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "87855843600019",
+    "lng": "1.65849249869343",
+    "lat": "47.5883377771213"
+  },
+  {
+    "finess": "410006134",
+    "raison_sociale": "MARPA LES JARDINS DU GRAND CLOS",
+    "numero voie": "18",
+    "type_voie": "R",
+    "libelle_voie": "DE ROMORANTIN",
+    "bp": "",
+    "cp": "41220",
+    "VILLE": "DHUIZON ",
+    "tel": "254985500",
+    "telecopie": "254837791",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "20001328200021",
+    "lng": "1.65860248420513",
+    "lat": "47.5868725324182"
+  }
+]

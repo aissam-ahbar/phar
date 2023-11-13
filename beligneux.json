@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "10002582",
+    "raison_sociale": "PHARMACIE DE BELIGNEUX",
+    "numero voie": "87",
+    "type_voie": "RTE",
+    "libelle_voie": "DE GENEVE",
+    "bp": "LA VALBONNE",
+    "cp": "1360",
+    "VILLE": "BELIGNEUX ",
+    "tel": "478062147",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83206576700010",
+    "lng": "5.12444471548687",
+    "lat": "45.8499380477531"
+  },
+  {
+    "finess": "10009918",
+    "raison_sociale": "CEFOS - FORMATION D'AMBULANCIERS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "BP 30016",
+    "cp": "1360",
+    "VILLE": "BELIGNEUX ",
+    "tel": "426228709",
+    "telecopie": "426228516",
+    "categorie etablissement": "300",
+    "libelle categorie": "Ecoles Formant aux Professions Sanitaires",
+    "siret": "",
+    "lng": "5.12386651554525",
+    "lat": "45.8493841072095"
+  },
+  {
+    "finess": "10785822",
+    "raison_sociale": "EHPAD LES OPALINES BELIGNEUX",
+    "numero voie": "37",
+    "type_voie": "R",
+    "libelle_voie": "PROFESSEUR ROBERT HUGONOT",
+    "bp": "LE FOLU",
+    "cp": "1360",
+    "VILLE": "BELIGNEUX ",
+    "tel": "437408550",
+    "telecopie": "472885001",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "",
+    "lng": "5.12412046301781",
+    "lat": "45.8521295288115"
+  }
+]

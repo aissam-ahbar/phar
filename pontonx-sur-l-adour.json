@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "400009502",
+    "raison_sociale": "PHARMACIE CURUTCHET",
+    "numero voie": "340",
+    "type_voie": "AV",
+    "libelle_voie": "ROBERT LABEYRIE",
+    "bp": "",
+    "cp": "40465",
+    "VILLE": "PONTONX SUR L ADOUR   ",
+    "tel": "558572167",
+    "telecopie": "558575402",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39142725900018",
+    "lng": "-0.929233739613032",
+    "lat": "43.7864590243323"
+  },
+  {
+    "finess": "400015418",
+    "raison_sociale": "HU CCAS PONTONX SUR L'ADOUR",
+    "numero voie": "45",
+    "type_voie": "R",
+    "libelle_voie": "DE L'HOTEL DE VILLE",
+    "bp": "",
+    "cp": "40465",
+    "VILLE": "PONTONX SUR L ADOUR   ",
+    "tel": "558572013",
+    "telecopie": "",
+    "categorie etablissement": "219",
+    "libelle categorie": "Autre Centre d'Accueil",
+    "siret": "26400227000017",
+    "lng": "-0.92485786394784",
+    "lat": "43.7876088030284"
+  },
+  {
+    "finess": "400780854",
+    "raison_sociale": "EHPAD HESTIADOUR",
+    "numero voie": "52",
+    "type_voie": "R",
+    "libelle_voie": "DU CHAMP DU BOURG",
+    "bp": "",
+    "cp": "40465",
+    "VILLE": "PONTONX SUR L ADOUR   ",
+    "tel": "558572058",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26400353400023",
+    "lng": "-0.92500155986312",
+    "lat": "43.7876910202187"
+  }
+]

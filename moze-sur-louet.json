@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "490536315",
+    "raison_sociale": "PHARMACIE COINTEREAU",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU PATIS",
+    "bp": "",
+    "cp": "49610",
+    "VILLE": "MOZE SUR LOUET    ",
+    "tel": "241457033",
+    "telecopie": "241457561",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75184201400019",
+    "lng": "-0.554406951318095",
+    "lat": "47.3598083187431"
+  },
+  {
+    "finess": "490539178",
+    "raison_sociale": "RESIDENCE LES JONCHERES",
+    "numero voie": "",
+    "type_voie": "PROM",
+    "libelle_voie": "PRE PELOTE",
+    "bp": "",
+    "cp": "49610",
+    "VILLE": "MOZE SUR LOUET    ",
+    "tel": "241457245",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26490240400039",
+    "lng": "-0.553529318909572",
+    "lat": "47.3573516632987"
+  }
+]

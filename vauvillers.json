@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "700002991",
+    "raison_sociale": "PHARMACIE PHILIPPE DOMINIQUE",
+    "numero voie": "18",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "70210",
+    "VILLE": "VAUVILLERS ",
+    "tel": "384928655",
+    "telecopie": "384929036",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "43787578400013",
+    "lng": "6.09792913811725",
+    "lat": "47.9228196294043"
+  },
+  {
+    "finess": "700003676",
+    "raison_sociale": "SAAD ADMR 70 VAUVILLERS",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DES VIGNOTTES",
+    "bp": "",
+    "cp": "70210",
+    "VILLE": "VAUVILLERS ",
+    "tel": "384929559",
+    "telecopie": "384929954",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "33904980100048",
+    "lng": "6.0970447168565",
+    "lat": "47.920546311086"
+  },
+  {
+    "finess": "700784192",
+    "raison_sociale": "SPASAD ADMR 70 JUSSEY-VAUVILLERS",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "VIGNOTTE",
+    "bp": "",
+    "cp": "70210",
+    "VILLE": "VAUVILLERS ",
+    "tel": "384929118",
+    "telecopie": "384929954",
+    "categorie etablissement": "209",
+    "libelle categorie": "Service Polyvalent Aide et Soins A Domicile (S.P.A.S.A.D.)",
+    "siret": "",
+    "lng": "6.0970447168565",
+    "lat": "47.920546311086"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "340017698",
+    "raison_sociale": "EAM ISABELLE MARIE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU PUITS DE L'AMOUR",
+    "bp": "",
+    "cp": "34310",
+    "VILLE": "QUARANTE ",
+    "tel": "467894325",
+    "telecopie": "467893445",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "31884629200130",
+    "lng": "2.95773653883208",
+    "lat": "43.3475694564297"
+  },
+  {
+    "finess": "340795210",
+    "raison_sociale": "PHARMACIE BARRERE",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "PARC DU CHATEAU",
+    "bp": "",
+    "cp": "34310",
+    "VILLE": "QUARANTE ",
+    "tel": "467894555",
+    "telecopie": "958661146",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79361834900021",
+    "lng": "2.96328955905772",
+    "lat": "43.3459117234842"
+  },
+  {
+    "finess": "340798180",
+    "raison_sociale": "FV ISABELLE MARIE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "PUITS DE L'AMOUR",
+    "bp": "",
+    "cp": "34310",
+    "VILLE": "QUARANTE ",
+    "tel": "467894325",
+    "telecopie": "467893445",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "31884629200148",
+    "lng": "2.95773653883208",
+    "lat": "43.3475694564297"
+  }
+]

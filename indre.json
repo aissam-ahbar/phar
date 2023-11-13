@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "440014785",
+    "raison_sociale": "PHARMACIE DES TROIS ILES",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "de la Gare",
+    "bp": "",
+    "cp": "44610",
+    "VILLE": "INDRE ",
+    "tel": "240380703",
+    "telecopie": "240383223",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49484076200012",
+    "lng": "-1.66945407922597",
+    "lat": "47.2005780079315"
+  },
+  {
+    "finess": "440025757",
+    "raison_sociale": "CENTRE DE SOINS INFIRMIERS INDRE",
+    "numero voie": "12",
+    "type_voie": "QU",
+    "libelle_voie": "LANGLOIS",
+    "bp": "",
+    "cp": "44610",
+    "VILLE": "INDRE ",
+    "tel": "240860372",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "30897363500235",
+    "lng": "-1.67908198120798",
+    "lat": "47.2012920877134"
+  }
+]

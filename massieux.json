@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "10004257",
+    "raison_sociale": "PHARMACIE DE MASSIEUX",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DU PREBLANC",
+    "bp": "",
+    "cp": "1600",
+    "VILLE": "MASSIEUX ",
+    "tel": "478983704",
+    "telecopie": "478983837",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45056595700013",
+    "lng": "4.81765353610498",
+    "lat": "45.9094091222797"
+  },
+  {
+    "finess": "10013100",
+    "raison_sociale": "MAISON DE SANTE DE MASSIEUX",
+    "numero voie": "10",
+    "type_voie": "CHE",
+    "libelle_voie": "DE SAONE",
+    "bp": "",
+    "cp": "1600",
+    "VILLE": "MASSIEUX ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "92336048100017",
+    "lng": "4.81553607786266",
+    "lat": "45.9043945379935"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "180007197",
+    "raison_sociale": "SELARL PHARMACIE DE LA PLACE",
+    "numero voie": "7",
+    "type_voie": "PL",
+    "libelle_voie": "DE L EGLISE",
+    "bp": "",
+    "cp": "18240",
+    "VILLE": "SAVIGNY EN SANCERRE    ",
+    "tel": "248721415",
+    "telecopie": "234880154",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44276508700022",
+    "lng": "2.80890278510206",
+    "lat": "47.4419065584003"
+  },
+  {
+    "finess": "180009276",
+    "raison_sociale": "MARPA HAUT BERRY VAL DE LOIRE",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DU STADE",
+    "bp": "",
+    "cp": "18240",
+    "VILLE": "SAVIGNY EN SANCERRE    ",
+    "tel": "248540012",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "81956531800014",
+    "lng": "2.81095557080209",
+    "lat": "47.4445105484691"
+  },
+  {
+    "finess": "180010753",
+    "raison_sociale": "CENTRE DE SANTÉ DE SAVIGNY EN SANCERRE",
+    "numero voie": "11",
+    "type_voie": "PL",
+    "libelle_voie": "DU CHAMP DE FOIRE",
+    "bp": "",
+    "cp": "18240",
+    "VILLE": "SAVIGNY EN SANCERRE    ",
+    "tel": "248724044",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "",
+    "lng": "2.80761603120773",
+    "lat": "47.4403390132475"
+  }
+]

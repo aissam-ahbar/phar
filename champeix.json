@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "630003853",
+    "raison_sociale": "PHARMACIE DU MARCHIDIAL",
+    "numero voie": "35",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA HALLE",
+    "bp": "",
+    "cp": "63320",
+    "VILLE": "CHAMPEIX ",
+    "tel": "473967209",
+    "telecopie": "473962738",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83943368700010",
+    "lng": "3.1289770206557",
+    "lat": "45.5876703928917"
+  },
+  {
+    "finess": "630003887",
+    "raison_sociale": "PHARMACIE BILLARD",
+    "numero voie": "13",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA HALLE",
+    "bp": "",
+    "cp": "63320",
+    "VILLE": "CHAMPEIX ",
+    "tel": "473967107",
+    "telecopie": "473962710",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "32844102700013",
+    "lng": "3.12955899514993",
+    "lat": "45.5880992517131"
+  },
+  {
+    "finess": "630011401",
+    "raison_sociale": "EHPAD LES CAMPELLIS",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CLEMENSAT",
+    "bp": "",
+    "cp": "63320",
+    "VILLE": "CHAMPEIX ",
+    "tel": "473542378",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "81140825100015",
+    "lng": "3.12258575264116",
+    "lat": "45.5821909342085"
+  }
+]

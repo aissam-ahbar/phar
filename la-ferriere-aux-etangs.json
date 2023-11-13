@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "610781270",
+    "raison_sociale": "EHPAD \"SAINTE-ANNE\"",
+    "numero voie": "44",
+    "type_voie": "R",
+    "libelle_voie": "DE FLERS",
+    "bp": "",
+    "cp": "61450",
+    "VILLE": "LA FERRIERE AUX ETANGS   ",
+    "tel": "233623242",
+    "telecopie": "233659443",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "78095357600011",
+    "lng": "-0.522939044139574",
+    "lat": "48.6644975702433"
+  },
+  {
+    "finess": "610784696",
+    "raison_sociale": "SAD ASS UNA DU CANTON DE MESSEI",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DE FLERS",
+    "bp": "",
+    "cp": "61450",
+    "VILLE": "LA FERRIERE AUX ETANGS   ",
+    "tel": "233662960",
+    "telecopie": "233659786",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "78095363400026",
+    "lng": "-0.5200124446108",
+    "lat": "48.6621738019174"
+  },
+  {
+    "finess": "610786469",
+    "raison_sociale": "PHARMACIE DE LA FERRIERE",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "HENRI BURON",
+    "bp": "",
+    "cp": "61450",
+    "VILLE": "LA FERRIERE AUX ETANGS   ",
+    "tel": "233960320",
+    "telecopie": "970320726",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "35236688400026",
+    "lng": "-0.517868016438489",
+    "lat": "48.6613709976867"
+  }
+]

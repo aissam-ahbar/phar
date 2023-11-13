@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "470013590",
+    "raison_sociale": "MAISON D'ACCUEIL LA PASSARELLA",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "AU BOURG",
+    "cp": "47260",
+    "VILLE": "COULX ",
+    "tel": "553882780",
+    "telecopie": "553882167",
+    "categorie etablissement": "501",
+    "libelle categorie": "EHPA percevant des crédits d'assurance maladie",
+    "siret": "79188502300014",
+    "lng": "0.471218021958083",
+    "lat": "44.467515012375"
+  },
+  {
+    "finess": "470017690",
+    "raison_sociale": "SAAD ADMR VERTEUIL COULX",
+    "numero voie": "211",
+    "type_voie": "R",
+    "libelle_voie": "FERNAND CANTIN",
+    "bp": "",
+    "cp": "47260",
+    "VILLE": "COULX ",
+    "tel": "553882780",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "40115284800024",
+    "lng": "0.471218021958083",
+    "lat": "44.467515012375"
+  }
+]

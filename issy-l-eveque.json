@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "710005091",
+    "raison_sociale": "PHARMACIE MASSIAS-LALEMODE",
+    "numero voie": "7",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "71760",
+    "VILLE": "ISSY L EVEQUE    ",
+    "tel": "385249756",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38143602100012",
+    "lng": "3.97340272288759",
+    "lat": "46.7075373051856"
+  },
+  {
+    "finess": "710014010",
+    "raison_sociale": "SSIAD ISSY L EVEQUE BOURBON LANCY",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "71760",
+    "VILLE": "ISSY L EVEQUE    ",
+    "tel": "385896060",
+    "telecopie": "",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "",
+    "lng": "3.97400229436001",
+    "lat": "46.7079041175466"
+  },
+  {
+    "finess": "710780172",
+    "raison_sociale": "EHPAD ISSY L'EVEQUE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DES EMIGRES",
+    "bp": "",
+    "cp": "71760",
+    "VILLE": "ISSY L EVEQUE    ",
+    "tel": "385249116",
+    "telecopie": "385249604",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26710024600011",
+    "lng": "3.97448345242523",
+    "lat": "46.7072886071711"
+  }
+]

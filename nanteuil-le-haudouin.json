@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "600004154",
+    "raison_sociale": "PHARMACIE DU HAUDOUIN",
+    "numero voie": "48",
+    "type_voie": "R",
+    "libelle_voie": "DE PARIS",
+    "bp": "",
+    "cp": "60440",
+    "VILLE": "NANTEUIL LE HAUDOUIN    ",
+    "tel": "344880033",
+    "telecopie": "344880666",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51120806800011",
+    "lng": "2.80957729630564",
+    "lat": "49.1389124064431"
+  },
+  {
+    "finess": "600107593",
+    "raison_sociale": "EHPAD HL NANTEUIL-LE-HAUDOUIN",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "BEAUREGARD",
+    "bp": "",
+    "cp": "60440",
+    "VILLE": "NANTEUIL LE HAUDOUIN    ",
+    "tel": "344880004",
+    "telecopie": "344883040",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26600701200021",
+    "lng": "2.8008614733446",
+    "lat": "49.143351452137"
+  },
+  {
+    "finess": "600109441",
+    "raison_sociale": "SERVICE D'AIDE MENAGERE A DOM.",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "GAMBETTA",
+    "bp": "",
+    "cp": "60440",
+    "VILLE": "NANTEUIL LE HAUDOUIN    ",
+    "tel": "344880194",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "42509190700013",
+    "lng": "2.80935962189332",
+    "lat": "49.1403460990016"
+  }
+]

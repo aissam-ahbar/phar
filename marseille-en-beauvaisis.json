@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "600002471",
+    "raison_sociale": "SELARL PHARMACIE ALLAIS - KAMINSKI",
+    "numero voie": "9",
+    "type_voie": "PL",
+    "libelle_voie": "WARNAULT",
+    "bp": "",
+    "cp": "60690",
+    "VILLE": "MARSEILLE EN BEAUVAISIS    ",
+    "tel": "344462018",
+    "telecopie": "344462271",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82951625100016",
+    "lng": "1.95594739376295",
+    "lat": "49.5742236674042"
+  },
+  {
+    "finess": "600101364",
+    "raison_sociale": "EHPAD MARSEILLE-EN-BEAUVAISIS",
+    "numero voie": "84",
+    "type_voie": "R",
+    "libelle_voie": "DU GÉNÉRAL LECLERC",
+    "bp": "",
+    "cp": "60690",
+    "VILLE": "MARSEILLE EN BEAUVAISIS    ",
+    "tel": "344462007",
+    "telecopie": "344463895",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26600732700015",
+    "lng": "1.95498451867406",
+    "lat": "49.5756974127907"
+  },
+  {
+    "finess": "600108518",
+    "raison_sociale": "SSIAD AMAPA",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "FRÉDÉRIC PETIT",
+    "bp": "",
+    "cp": "60690",
+    "VILLE": "MARSEILLE EN BEAUVAISIS    ",
+    "tel": "972380885",
+    "telecopie": "972380885",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "79107985800019",
+    "lng": "1.95540643484736",
+    "lat": "49.57554286448"
+  }
+]

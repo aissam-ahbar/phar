@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "50003318",
+    "raison_sociale": "EHPAD BONNEDONNE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "PONT DU FOSSE",
+    "bp": "",
+    "cp": "5260",
+    "VILLE": "ST JEAN ST NICOLAS   ",
+    "tel": "492559155",
+    "telecopie": "492559332",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77568030902732",
+    "lng": "6.22790293212384",
+    "lat": "44.664124354341"
+  },
+  {
+    "finess": "50004241",
+    "raison_sociale": "SELARL PHARMACIE DU DRAC",
+    "numero voie": "13",
+    "type_voie": "RTE",
+    "libelle_voie": "de Saint Jean",
+    "bp": "",
+    "cp": "5260",
+    "VILLE": "ST JEAN ST NICOLAS   ",
+    "tel": "492559230",
+    "telecopie": "492559810",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84177460700011",
+    "lng": "6.22351349064495",
+    "lat": "44.6703739723533"
+  },
+  {
+    "finess": "50007707",
+    "raison_sociale": "MSP DU HAUT CHAMPSAUR",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "SAINT JEAN PONT DU FOSSE",
+    "bp": "",
+    "cp": "5260",
+    "VILLE": "ST JEAN ST NICOLAS   ",
+    "tel": "492559245",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "6.22790293212384",
+    "lat": "44.664124354341"
+  }
+]

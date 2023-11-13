@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "570013912",
+    "raison_sociale": "SELARL PHARMACIE DU CHARDON",
+    "numero voie": "1",
+    "type_voie": "IMP",
+    "libelle_voie": "DES MERLETTES",
+    "bp": "",
+    "cp": "57310",
+    "VILLE": "BOUSSE ",
+    "tel": "387737226",
+    "telecopie": "387734885",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52307894700026",
+    "lng": "6.195236906171",
+    "lat": "49.2841218561214"
+  },
+  {
+    "finess": "570027102",
+    "raison_sociale": "CENTRE DE SOINS INFIRMIERS DE BOUSSE",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DE METZ",
+    "bp": "",
+    "cp": "57310",
+    "VILLE": "BOUSSE ",
+    "tel": "387737618",
+    "telecopie": "387738190",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "39049034000036",
+    "lng": "6.19770950937397",
+    "lat": "49.2755038860776"
+  },
+  {
+    "finess": "570028621",
+    "raison_sociale": "LBM ESPACEBIO BOUSSE",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "DE LA FORÊT",
+    "bp": "",
+    "cp": "57310",
+    "VILLE": "BOUSSE ",
+    "tel": "387336856",
+    "telecopie": "",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "77999875600588",
+    "lng": "6.19980281430584",
+    "lat": "49.2753116182279"
+  }
+]

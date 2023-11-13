@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "330022468",
+    "raison_sociale": "ESAT LORIENT - SADIRAC",
+    "numero voie": "",
+    "type_voie": "ZAC",
+    "libelle_voie": "DE BEL AIR",
+    "bp": "LORIENT",
+    "cp": "33670",
+    "VILLE": "SADIRAC ",
+    "tel": "557995090",
+    "telecopie": "557995099",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "78203081100056",
+    "lng": "-0.368528121423024",
+    "lat": "44.7839663652361"
+  },
+  {
+    "finess": "330050592",
+    "raison_sociale": "PHARMACIE DE SADIRAC",
+    "numero voie": "13",
+    "type_voie": "RTE",
+    "libelle_voie": "DE SAINT CAPRAIS",
+    "bp": "",
+    "cp": "33670",
+    "VILLE": "SADIRAC ",
+    "tel": "556306897",
+    "telecopie": "556306459",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50957708600010",
+    "lng": "-0.411233395258542",
+    "lat": "44.7799248746894"
+  }
+]

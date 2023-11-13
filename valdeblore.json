@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "60024536",
+    "raison_sociale": "MSP VALDEBLORE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "PRINCIPALE SAINT DALMAS",
+    "bp": "",
+    "cp": "6420",
+    "VILLE": "VALDEBLORE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "7.20292107495005",
+    "lat": "44.0668977351497"
+  },
+  {
+    "finess": "60031960",
+    "raison_sociale": "MECS PAUL BENOIT -PAJE",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DU SOUN DAL PRA",
+    "bp": "",
+    "cp": "6420",
+    "VILLE": "VALDEBLORE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "378",
+    "libelle categorie": "Etablissement Expérimental Enfance Protégée",
+    "siret": "45062620500113",
+    "lng": "7.20825323816052",
+    "lat": "44.0713353975655"
+  }
+]

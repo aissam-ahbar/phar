@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "290011113",
+    "raison_sociale": "PHARMACIE LE MEUR",
+    "numero voie": "7",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "29430",
+    "VILLE": "PLOUNEVEZ LOCHRIST",
+    "tel": "298614075",
+    "telecopie": "298614627",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49762459300016",
+    "lng": "-4.21029319191195",
+    "lat": "48.6175578826591"
+  },
+  {
+    "finess": "290038603",
+    "raison_sociale": "MSP APS DU 29430",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "29430",
+    "VILLE": "PLOUNEVEZ LOCHRIST",
+    "tel": "680579843",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "91101022100016",
+    "lng": "-4.21127020260531",
+    "lat": "48.6173621684892"
+  }
+]

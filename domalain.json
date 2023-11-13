@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "350005427",
+    "raison_sociale": "MAISON DE RETRAITE DE DOMALAIN",
+    "numero voie": "24",
+    "type_voie": "R",
+    "libelle_voie": "NOTRE DAME DE LOURDES",
+    "bp": "",
+    "cp": "35680",
+    "VILLE": "DOMALAIN ",
+    "tel": "299763620",
+    "telecopie": "299763951",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77767560400014",
+    "lng": "-1.23909879287048",
+    "lat": "47.996445515217"
+  },
+  {
+    "finess": "350040515",
+    "raison_sociale": "FOYER DE VIE SILOE BETHANIE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "NOTRE DAME DE LOURDES",
+    "bp": "",
+    "cp": "35680",
+    "VILLE": "DOMALAIN ",
+    "tel": "299763922",
+    "telecopie": "",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "38916740400026",
+    "lng": "-1.24089594663227",
+    "lat": "47.9959336806615"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "120001904",
+    "raison_sociale": "PHARMACIE DELON",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "12550",
+    "VILLE": "COUPIAC ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "33289239700016",
+    "lng": "2.58054099014575",
+    "lat": "43.954683633886"
+  },
+  {
+    "finess": "120005020",
+    "raison_sociale": "SAAD AL ADMR 7 VALLONS",
+    "numero voie": "5",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "12550",
+    "VILLE": "COUPIAC ",
+    "tel": "565772222",
+    "telecopie": "565772220",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "2.5804565618331",
+    "lat": "43.9546446107204"
+  }
+]

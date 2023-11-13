@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "390008340",
+    "raison_sociale": "PEAD - SERV DE PLACEMENT À DOMICILE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DU VAL D'AMOUR",
+    "bp": "",
+    "cp": "39600",
+    "VILLE": "VILLERS FARLAY",
+    "tel": "384376034",
+    "telecopie": "",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "77568340200165",
+    "lng": "5.75045049384781",
+    "lat": "46.9998538297776"
+  },
+  {
+    "finess": "390780625",
+    "raison_sociale": "MECS \"LA MAISON\"",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DU VAL D'AMOUR",
+    "bp": "",
+    "cp": "39600",
+    "VILLE": "VILLERS FARLAY",
+    "tel": "384376034",
+    "telecopie": "384376538",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "77568340200165",
+    "lng": "5.75045049384781",
+    "lat": "46.9998538297776"
+  }
+]

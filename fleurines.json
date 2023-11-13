@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "600008734",
+    "raison_sociale": "UNITÉ DE DIALYSE DE FLEURINES",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA VALLÉE",
+    "bp": "",
+    "cp": "60700",
+    "VILLE": "FLEURINES ",
+    "tel": "362288000",
+    "telecopie": "320966870",
+    "categorie etablissement": "146",
+    "libelle categorie": "Structure d'Alternative à la dialyse en centre",
+    "siret": "77562471100195",
+    "lng": "2.59178645474791",
+    "lat": "49.2676268002061"
+  },
+  {
+    "finess": "600100317",
+    "raison_sociale": "DITEP UGECAM OISE",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DU PRIEURÉ",
+    "bp": "",
+    "cp": "60700",
+    "VILLE": "FLEURINES ",
+    "tel": "344638410",
+    "telecopie": "344541595",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "42362826200051",
+    "lng": "2.59923516394607",
+    "lat": "49.2603286883244"
+  }
+]

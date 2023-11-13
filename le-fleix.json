@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "240000018",
+    "raison_sociale": "MAISON D'ENFANTS DORDOGNE-PÉRIGORD",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE MUSSIDAN",
+    "bp": "",
+    "cp": "24130",
+    "VILLE": "LE FLEIX",
+    "tel": "553235555",
+    "telecopie": "553576155",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "77556319000062",
+    "lng": "0.244565805413819",
+    "lat": "44.8755670427442"
+  },
+  {
+    "finess": "240010157",
+    "raison_sociale": "PHARMACIE DU VIGNOBLE",
+    "numero voie": "871",
+    "type_voie": "R",
+    "libelle_voie": "HENRI DE NAVARRE",
+    "bp": "",
+    "cp": "24130",
+    "VILLE": "LE FLEIX",
+    "tel": "553246095",
+    "telecopie": "553739149",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79174322200014",
+    "lng": "0.253488758410293",
+    "lat": "44.8740764868109"
+  },
+  {
+    "finess": "240018499",
+    "raison_sociale": "MSP DU VIGNOBLE",
+    "numero voie": "962",
+    "type_voie": "R",
+    "libelle_voie": "HENRI DE NAVARRE",
+    "bp": "",
+    "cp": "24130",
+    "VILLE": "LE FLEIX",
+    "tel": "553225342",
+    "telecopie": "553225751",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "92371627800018",
+    "lng": "0.254501678144744",
+    "lat": "44.8739862308583"
+  }
+]

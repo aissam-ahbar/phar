@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "430003517",
+    "raison_sociale": "PHARMACIE MAURIN",
+    "numero voie": "8",
+    "type_voie": "PL",
+    "libelle_voie": "Félix Tempère",
+    "bp": "",
+    "cp": "43700",
+    "VILLE": "BLAVOZY ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "89219581900016",
+    "lng": "3.98096300519276",
+    "lat": "45.0565930815206"
+  },
+  {
+    "finess": "430006296",
+    "raison_sociale": "SCE AIDE MENAG.DOM.PERSONNES AGEES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "43700",
+    "VILLE": "BLAVOZY ",
+    "tel": "471030788",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "3.9809491516538",
+    "lat": "45.0569623912615"
+  }
+]

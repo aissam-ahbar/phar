@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "470002932",
+    "raison_sociale": "MARPA LA BEGATE",
+    "numero voie": "25",
+    "type_voie": "R",
+    "libelle_voie": "JEAN ORIEUX",
+    "bp": "",
+    "cp": "47120",
+    "VILLE": "DURAS ",
+    "tel": "553833505",
+    "telecopie": "553834977",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26470064200020",
+    "lng": "0.187266697343233",
+    "lat": "44.6789014210584"
+  },
+  {
+    "finess": "470009374",
+    "raison_sociale": "PHARMACIE DU CHATEAU",
+    "numero voie": "6",
+    "type_voie": "PL",
+    "libelle_voie": "Jean Bousquet",
+    "bp": "",
+    "cp": "47120",
+    "VILLE": "DURAS ",
+    "tel": "553837029",
+    "telecopie": "553837669",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49765060600021",
+    "lng": "0.18010542823198",
+    "lat": "44.6762732891388"
+  },
+  {
+    "finess": "470014143",
+    "raison_sociale": "EHPAD KORIAN BELLEVUE",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "BELLEVUE",
+    "bp": "LES BOUTÈRES",
+    "cp": "47120",
+    "VILLE": "DURAS ",
+    "tel": "553940505",
+    "telecopie": "553891156",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "50751218400023",
+    "lng": "0.190671260568827",
+    "lat": "44.6752962503341"
+  }
+]

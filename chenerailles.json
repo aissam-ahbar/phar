@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "230000333",
+    "raison_sociale": "RESIDENCE AUTONOMIE DE L'EAU BONNE",
+    "numero voie": "18",
+    "type_voie": "RTE",
+    "libelle_voie": "D'AHUN",
+    "bp": "",
+    "cp": "23130",
+    "VILLE": "CHENERAILLES ",
+    "tel": "555629329",
+    "telecopie": "555629085",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26230610300025",
+    "lng": "2.16899570619536",
+    "lat": "46.1106253521887"
+  },
+  {
+    "finess": "230002065",
+    "raison_sociale": "PHARMACIE LAVAL",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "ALCIDE SARRE",
+    "bp": "",
+    "cp": "23130",
+    "VILLE": "CHENERAILLES ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50777110300011",
+    "lng": "2.17557639558109",
+    "lat": "46.1130858719254"
+  },
+  {
+    "finess": "230002909",
+    "raison_sociale": "CLIC CREUSE-EST",
+    "numero voie": "29",
+    "type_voie": "RTE",
+    "libelle_voie": "DE GOUZON",
+    "bp": "",
+    "cp": "23130",
+    "VILLE": "CHENERAILLES ",
+    "tel": "555624582",
+    "telecopie": "555624489",
+    "categorie etablissement": "463",
+    "libelle categorie": "Centres Locaux Information Coordination P.A .(C.L.I.C.)",
+    "siret": "43777544800016",
+    "lng": "2.17603208165451",
+    "lat": "46.1133512364637"
+  }
+]

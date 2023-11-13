@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "620012492",
+    "raison_sociale": "PHARMACIE DESLIERS",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "DU GENERAL LECLERC",
+    "bp": "",
+    "cp": "62410",
+    "VILLE": "HULLUCH ",
+    "tel": "321403114",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38980406300011",
+    "lng": "2.81748501598105",
+    "lat": "50.4853954681477"
+  },
+  {
+    "finess": "620015859",
+    "raison_sociale": "EHPAD LES HÉLIANTINES",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU GÉNÉRAL LECLERC",
+    "bp": "",
+    "cp": "62410",
+    "VILLE": "HULLUCH ",
+    "tel": "321643411",
+    "telecopie": "321665280",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "38473987600108",
+    "lng": "2.81434171905488",
+    "lat": "50.4862309669531"
+  },
+  {
+    "finess": "620116236",
+    "raison_sociale": "CSP FILIERIS DE HULLUCH",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "ROGER SALENGRO",
+    "bp": "",
+    "cp": "62410",
+    "VILLE": "HULLUCH ",
+    "tel": "374855788",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "77568531601825",
+    "lng": "2.80884295158282",
+    "lat": "50.4845036487233"
+  }
+]

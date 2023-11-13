@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "520001587",
+    "raison_sociale": "PHARMACIE SEBBAK",
+    "numero voie": "",
+    "type_voie": "LOT",
+    "libelle_voie": "LES HERBAGES",
+    "bp": "",
+    "cp": "52800",
+    "VILLE": "FOULAIN ",
+    "tel": "325312028",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "33419701900014",
+    "lng": "5.21143045699707",
+    "lat": "48.0403040420711"
+  },
+  {
+    "finess": "520003641",
+    "raison_sociale": "RESIDENCE SOCIALE EMMAUS",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DES PICHAUX",
+    "bp": "",
+    "cp": "52800",
+    "VILLE": "FOULAIN ",
+    "tel": "325312001",
+    "telecopie": "325017820",
+    "categorie etablissement": "259",
+    "libelle categorie": "Autre Résidence Sociale (hors Maison Relais",
+    "siret": "",
+    "lng": "5.20736860777001",
+    "lat": "48.0442053915399"
+  }
+]

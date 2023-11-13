@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "540016318",
+    "raison_sociale": "REMM UAO MONCEL",
+    "numero voie": "1",
+    "type_voie": "ALL",
+    "libelle_voie": "DU BOUVREUIL",
+    "bp": "",
+    "cp": "54300",
+    "VILLE": "MONCEL LES LUNEVILLE    ",
+    "tel": "383401657",
+    "telecopie": "",
+    "categorie etablissement": "175",
+    "libelle categorie": "Foyer de l'Enfance",
+    "siret": "22540001901528",
+    "lng": "6.52698463716549",
+    "lat": "48.5752028792752"
+  },
+  {
+    "finess": "540023942",
+    "raison_sociale": "SAAD LOR SUD - AGE D'OR SERVICES",
+    "numero voie": "32",
+    "type_voie": "R",
+    "libelle_voie": "DES HIRONDELLES",
+    "bp": "",
+    "cp": "54300",
+    "VILLE": "MONCEL LES LUNEVILLE    ",
+    "tel": "383761771",
+    "telecopie": "383761772",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "53414264100024",
+    "lng": "6.52654865939178",
+    "lat": "48.5766475010171"
+  }
+]

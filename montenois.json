@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "250012192",
+    "raison_sociale": "PHARMACIE MONTENOIS",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "GUY MOQUET",
+    "bp": "",
+    "cp": "25260",
+    "VILLE": "MONTENOIS ",
+    "tel": "381931333",
+    "telecopie": "978817035",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "35078246200021",
+    "lng": "6.66535094757947",
+    "lat": "47.4921807791166"
+  },
+  {
+    "finess": "250019098",
+    "raison_sociale": "MAISON SANTE MONTENOIS",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "GUY MOQUET",
+    "bp": "",
+    "cp": "25260",
+    "VILLE": "MONTENOIS ",
+    "tel": "381934285",
+    "telecopie": "381931843",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "79053474700015",
+    "lng": "6.66503890610607",
+    "lat": "47.4920896760363"
+  }
+]

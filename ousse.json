@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "640013280",
+    "raison_sociale": "PHARMACIE COUTENET-GARAT",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DES PYRENEES",
+    "bp": "",
+    "cp": "64320",
+    "VILLE": "OUSSE ",
+    "tel": "559818473",
+    "telecopie": "559817769",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "41218323800010",
+    "lng": "-0.270227399462903",
+    "lat": "43.2789278989738"
+  },
+  {
+    "finess": "640022109",
+    "raison_sociale": "MSP PYRENEES SANTE",
+    "numero voie": "2",
+    "type_voie": "PL",
+    "libelle_voie": "DES TILLEULS",
+    "bp": "",
+    "cp": "64320",
+    "VILLE": "OUSSE ",
+    "tel": "564171516",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "92143057500016",
+    "lng": "-0.268813091677924",
+    "lat": "43.2835200489402"
+  }
+]

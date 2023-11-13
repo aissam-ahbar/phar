@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "170010326",
+    "raison_sociale": "PHARMACIE COUTURIER",
+    "numero voie": "7",
+    "type_voie": "PL",
+    "libelle_voie": "DU CHAMP DE FOIRE",
+    "bp": "",
+    "cp": "17520",
+    "VILLE": "ARCHIAC ",
+    "tel": "546491086",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49141004900028",
+    "lng": "-0.30503580517288",
+    "lat": "45.5205896223124"
+  },
+  {
+    "finess": "170026728",
+    "raison_sociale": "MSP ARCHIAC",
+    "numero voie": "19",
+    "type_voie": "RTE",
+    "libelle_voie": "DE SAINT MAIGRIN",
+    "bp": "",
+    "cp": "17520",
+    "VILLE": "ARCHIAC ",
+    "tel": "546491211",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "91037548400011",
+    "lng": "-0.300344354222417",
+    "lat": "45.5176958169714"
+  },
+  {
+    "finess": "170805758",
+    "raison_sociale": "EHPAD RESIDENCE DU PARC",
+    "numero voie": "16",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "17520",
+    "VILLE": "ARCHIAC ",
+    "tel": "546491331",
+    "telecopie": "546491894",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "39153048200010",
+    "lng": "-0.301487122022143",
+    "lat": "45.5216466701116"
+  }
+]

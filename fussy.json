@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "180002776",
+    "raison_sociale": "PHARMACIE ROYAU-AUGER",
+    "numero voie": "2",
+    "type_voie": "IMP",
+    "libelle_voie": "GABRIEL FAURÉ",
+    "bp": "",
+    "cp": "18110",
+    "VILLE": "FUSSY ",
+    "tel": "248693280",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39289774000016",
+    "lng": "2.42948396225116",
+    "lat": "47.1416032387669"
+  },
+  {
+    "finess": "180007148",
+    "raison_sociale": "EHPAD RESIDENCE DE BOISBELLE",
+    "numero voie": "2",
+    "type_voie": "ALL",
+    "libelle_voie": "DU BUISSON BLANC",
+    "bp": "",
+    "cp": "18110",
+    "VILLE": "FUSSY ",
+    "tel": "248276100",
+    "telecopie": "248642118",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "44456253200234",
+    "lng": "2.42608601165664",
+    "lat": "47.1505400968469"
+  }
+]

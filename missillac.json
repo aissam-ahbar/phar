@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "440015717",
+    "raison_sociale": "PHARMACIE BAMMERT",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "Fontaine Saint-Jean",
+    "bp": "",
+    "cp": "44780",
+    "VILLE": "MISSILLAC ",
+    "tel": "240883024",
+    "telecopie": "240883551",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49498827200022",
+    "lng": "-2.1573971000055",
+    "lat": "47.4787853036666"
+  },
+  {
+    "finess": "440028868",
+    "raison_sociale": "EHPAD ST CHARLES",
+    "numero voie": "16",
+    "type_voie": "R",
+    "libelle_voie": "ST CHARLES",
+    "bp": "",
+    "cp": "44780",
+    "VILLE": "MISSILLAC ",
+    "tel": "240004775",
+    "telecopie": "240004777",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "78597300900018",
+    "lng": "-2.15996121049624",
+    "lat": "47.4806047626262"
+  },
+  {
+    "finess": "440042703",
+    "raison_sociale": "ANNEXE DU FOYER DE VIE LA MADELEINE",
+    "numero voie": "44",
+    "type_voie": "R",
+    "libelle_voie": "DU CHATEAU",
+    "bp": "",
+    "cp": "44780",
+    "VILLE": "MISSILLAC ",
+    "tel": "251165500",
+    "telecopie": "240193814",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "26440272800036",
+    "lng": "-2.16252598543924",
+    "lat": "47.4821950098141"
+  }
+]

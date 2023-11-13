@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "350020160",
+    "raison_sociale": "PHARMACIE DE SAINT-LUNAIRE",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "DE L ANCIEN MARCHE",
+    "bp": "",
+    "cp": "35800",
+    "VILLE": "ST LUNAIRE",
+    "tel": "299460297",
+    "telecopie": "299460559",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40082467800025",
+    "lng": "-2.11038573983681",
+    "lat": "48.6359714223022"
+  },
+  {
+    "finess": "350034674",
+    "raison_sociale": "SAAD CCAS SAINT LUNAIRE",
+    "numero voie": "",
+    "type_voie": "BD",
+    "libelle_voie": "FLUSSON",
+    "bp": "",
+    "cp": "35800",
+    "VILLE": "ST LUNAIRE",
+    "tel": "299463051",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26350269200027",
+    "lng": "-2.109109188312",
+    "lat": "48.6359901944468"
+  }
+]

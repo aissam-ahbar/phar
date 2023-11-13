@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "80008923",
+    "raison_sociale": "SELEURL PHARMACIE TISSERAND",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "RENE DUPONT",
+    "bp": "",
+    "cp": "8090",
+    "VILLE": "TOURNES ",
+    "tel": "324529021",
+    "telecopie": "324570367",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75403945100010",
+    "lng": "4.63750121328119",
+    "lat": "49.7960549317517"
+  },
+  {
+    "finess": "80011943",
+    "raison_sociale": "MSP DE TOURNES",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "RENE DUPONT",
+    "bp": "",
+    "cp": "8090",
+    "VILLE": "TOURNES ",
+    "tel": "324526480",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "95085088300014",
+    "lng": "4.63700387946287",
+    "lat": "49.7957839322073"
+  }
+]

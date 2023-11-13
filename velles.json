@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "360003776",
+    "raison_sociale": "EURL PHARMACIE ANACLET JEAN-LUC",
+    "numero voie": "27",
+    "type_voie": "RTE",
+    "libelle_voie": "DE MOSNAY",
+    "bp": "",
+    "cp": "36330",
+    "VILLE": "VELLES ",
+    "tel": "254361554",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52053384500019",
+    "lng": "1.64674246591364",
+    "lat": "46.6863192688804"
+  },
+  {
+    "finess": "360007991",
+    "raison_sociale": "MSP DE VELLES - ET",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DES ANCIENS COMBATTANTS",
+    "bp": "",
+    "cp": "36330",
+    "VILLE": "VELLES ",
+    "tel": "254361613",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "31124888400034",
+    "lng": "1.65009084205015",
+    "lat": "46.6889153696158"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "640019071",
+    "raison_sociale": "ISIS BAYONNE",
+    "numero voie": "151",
+    "type_voie": "R",
+    "libelle_voie": "BERGE",
+    "bp": "",
+    "cp": "64990",
+    "VILLE": "LAHONCE ",
+    "tel": "559448984",
+    "telecopie": "559448913",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "81198796500019",
+    "lng": "-1.42787726897113",
+    "lat": "43.4911044141544"
+  },
+  {
+    "finess": "640019121",
+    "raison_sociale": "SOS OXYGENE ATLANTIQUE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "MAYZOUNAVE BIDEA",
+    "bp": "",
+    "cp": "64990",
+    "VILLE": "LAHONCE ",
+    "tel": "559693333",
+    "telecopie": "559693465",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "43776473100042",
+    "lng": "-1.3867872900764",
+    "lat": "43.4868557676353"
+  }
+]

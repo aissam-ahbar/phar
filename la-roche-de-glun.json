@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "260008982",
+    "raison_sociale": "PHARMACIE DE LA ROCHE DE GLUN",
+    "numero voie": "34",
+    "type_voie": "AV",
+    "libelle_voie": "DES CÉVENNES",
+    "bp": "",
+    "cp": "26600",
+    "VILLE": "LA ROCHE DE GLUN   ",
+    "tel": "475846278",
+    "telecopie": "475847620",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "47990492200024",
+    "lng": "4.84827892418333",
+    "lat": "45.0126659355149"
+  },
+  {
+    "finess": "260010574",
+    "raison_sociale": "EHPAD L'ILE FLEURIE",
+    "numero voie": "33",
+    "type_voie": "RTE",
+    "libelle_voie": "DE VALENCE",
+    "bp": "",
+    "cp": "26600",
+    "VILLE": "LA ROCHE DE GLUN   ",
+    "tel": "475075959",
+    "telecopie": "475846985",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77945636700076",
+    "lng": "4.85387098622025",
+    "lat": "45.0094558658439"
+  },
+  {
+    "finess": "260011754",
+    "raison_sociale": "EHPAD LES PLATANES",
+    "numero voie": "1230",
+    "type_voie": "",
+    "libelle_voie": "ROUTE DU DAUPHINE",
+    "bp": "",
+    "cp": "26600",
+    "VILLE": "LA ROCHE DE GLUN   ",
+    "tel": "475847170",
+    "telecopie": "475846595",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "37858942800010",
+    "lng": "4.87030109712288",
+    "lat": "45.0361071857758"
+  }
+]

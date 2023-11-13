@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "680006640",
+    "raison_sociale": "PHARMACIE DU VIEUX  TILLEUL",
+    "numero voie": "14",
+    "type_voie": "RTE",
+    "libelle_voie": "DU VIN",
+    "bp": "",
+    "cp": "68750",
+    "VILLE": "BERGHEIM ",
+    "tel": "389736341",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38323479600027",
+    "lng": "7.35739487761813",
+    "lat": "48.2055695255741"
+  },
+  {
+    "finess": "680019015",
+    "raison_sociale": "EHPAD INTERCOMMUNAL LES FRAXINELLES",
+    "numero voie": "21",
+    "type_voie": "R",
+    "libelle_voie": "DES FRAXINELLES",
+    "bp": "",
+    "cp": "68750",
+    "VILLE": "BERGHEIM ",
+    "tel": "389736339",
+    "telecopie": "389737143",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20002757100021",
+    "lng": "7.37179467214605",
+    "lat": "48.2027290349229"
+  },
+  {
+    "finess": "680022928",
+    "raison_sociale": "CENTRE D'IMAGERIE MEDICALE DU GIE SICA",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DES ARTISANS",
+    "bp": "",
+    "cp": "68750",
+    "VILLE": "BERGHEIM ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "698",
+    "libelle categorie": "Autre Etablissement Loi Hospitalière",
+    "siret": "",
+    "lng": "7.37690931685739",
+    "lat": "48.192156966288"
+  }
+]

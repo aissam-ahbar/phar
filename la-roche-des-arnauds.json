@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "50002385",
+    "raison_sociale": "MECS LA RECAMPA",
+    "numero voie": "423",
+    "type_voie": "RTE",
+    "libelle_voie": "DE GAP",
+    "bp": "",
+    "cp": "5400",
+    "VILLE": "LA ROCHE DES ARNAUDS   ",
+    "tel": "492526318",
+    "telecopie": "",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "77554975100144",
+    "lng": "5.97633161494931",
+    "lat": "44.5497121245873"
+  },
+  {
+    "finess": "50003805",
+    "raison_sociale": "PHARMACIE FUBIANI",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LES GAUDIS",
+    "bp": "",
+    "cp": "5400",
+    "VILLE": "LA ROCHE DES ARNAUDS   ",
+    "tel": "492578940",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "41260915800016",
+    "lng": "5.95934181738762",
+    "lat": "44.5600929399248"
+  }
+]

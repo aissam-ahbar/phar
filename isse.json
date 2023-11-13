@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "440012318",
+    "raison_sociale": "SAAD CCAS ISSE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE LA COUTRIE",
+    "bp": "",
+    "cp": "44520",
+    "VILLE": "ISSE ",
+    "tel": "240551923",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26440158900017",
+    "lng": "-1.45122175091344",
+    "lat": "47.6232958189586"
+  },
+  {
+    "finess": "440015584",
+    "raison_sociale": "PHARMACIE D'ISSE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "SAINTE BARBE",
+    "bp": "",
+    "cp": "44520",
+    "VILLE": "ISSE ",
+    "tel": "240551241",
+    "telecopie": "240551855",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "89140934400019",
+    "lng": "-1.45200853910635",
+    "lat": "47.6233280054858"
+  },
+  {
+    "finess": "440033413",
+    "raison_sociale": "EHPAD DU DON",
+    "numero voie": "36",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "44520",
+    "VILLE": "ISSE ",
+    "tel": "240551406",
+    "telecopie": "240551495",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "39751001700015",
+    "lng": "-1.45175357406204",
+    "lat": "47.6229095039434"
+  }
+]

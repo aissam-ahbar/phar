@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "540015252",
+    "raison_sociale": "PHARMACIE GERARD",
+    "numero voie": "50",
+    "type_voie": "R",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "54960",
+    "VILLE": "MERCY LE BAS    ",
+    "tel": "382896276",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88266119200014",
+    "lng": "5.75628116358745",
+    "lat": "49.3912497228887"
+  },
+  {
+    "finess": "540023538",
+    "raison_sociale": "MSP CENTRE MEDICAL DE MERCY LE BAS",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "DES TILLEULS",
+    "bp": "",
+    "cp": "54960",
+    "VILLE": "MERCY LE BAS    ",
+    "tel": "382896695",
+    "telecopie": "382294382",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "79012723700010",
+    "lng": "5.76112172511273",
+    "lat": "49.393720554533"
+  }
+]

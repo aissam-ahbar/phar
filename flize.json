@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "80000185",
+    "raison_sociale": "I.M.E.",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DU FOURNEAU",
+    "bp": "BP 1 BOUTANCOURT",
+    "cp": "8160",
+    "VILLE": "FLIZE ",
+    "tel": "324540191",
+    "telecopie": "324545863",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "77555385200028",
+    "lng": "4.77637867818525",
+    "lat": "49.69823908619"
+  },
+  {
+    "finess": "80003163",
+    "raison_sociale": "SELARL PHARMACIE DE FLIZE",
+    "numero voie": "26",
+    "type_voie": "RTE",
+    "libelle_voie": "de Sedan",
+    "bp": "",
+    "cp": "8160",
+    "VILLE": "FLIZE ",
+    "tel": "324540111",
+    "telecopie": "324535822",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75079534600022",
+    "lng": "4.77740610958823",
+    "lat": "49.6980991585625"
+  },
+  {
+    "finess": "80007784",
+    "raison_sociale": "SESSAD ENTRE VENCE ET MEUSE",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DU  FOURNEAU",
+    "bp": "BP 1 BOUTANCOURT",
+    "cp": "8160",
+    "VILLE": "FLIZE ",
+    "tel": "324548652",
+    "telecopie": "324545863",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "77555385200028",
+    "lng": "4.77637867818525",
+    "lat": "49.69823908619"
+  }
+]

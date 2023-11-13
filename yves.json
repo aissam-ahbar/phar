@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "170012710",
+    "raison_sociale": "ESAT DU MAROUILLET",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DES MOUETTES",
+    "bp": "LD LE MAROUILLET",
+    "cp": "17340",
+    "VILLE": "YVES ",
+    "tel": "546563004",
+    "telecopie": "546563336",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77556469300296",
+    "lng": "-1.0448697847932",
+    "lat": "46.0417178979554"
+  },
+  {
+    "finess": "170019541",
+    "raison_sociale": "FOYER D'HEBERGEMENT - ESAT D'YVES",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LE MAROUILLET",
+    "bp": "",
+    "cp": "17340",
+    "VILLE": "YVES ",
+    "tel": "546563004",
+    "telecopie": "546563336",
+    "categorie etablissement": "252",
+    "libelle categorie": "Foyer Hébergement Adultes Handicapés",
+    "siret": "77556469300296",
+    "lng": "-1.04606239699044",
+    "lat": "46.0409106905629"
+  }
+]

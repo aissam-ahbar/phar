@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590012050",
+    "raison_sociale": "PHARMACIE DE BRUILLE",
+    "numero voie": "65",
+    "type_voie": "R",
+    "libelle_voie": "PASTEUR",
+    "bp": "",
+    "cp": "59199",
+    "VILLE": "BRUILLE ST AMAND    ",
+    "tel": "327341712",
+    "telecopie": "327353451",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34330434100013",
+    "lng": "3.52088407314202",
+    "lat": "50.4548631994574"
+  },
+  {
+    "finess": "590037909",
+    "raison_sociale": "EHPAD LES QUATRE VENTS",
+    "numero voie": "30",
+    "type_voie": "RTE",
+    "libelle_voie": "D'HERGNIES",
+    "bp": "",
+    "cp": "59199",
+    "VILLE": "BRUILLE ST AMAND    ",
+    "tel": "327205934",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "49413972800021",
+    "lng": "3.51673225331396",
+    "lat": "50.4639497997581"
+  }
+]

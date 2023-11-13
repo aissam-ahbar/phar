@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "300002383",
+    "raison_sociale": "SESSAD LES GARRIGUES",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "CROIX DE CANDORDY",
+    "bp": "BP 12005",
+    "cp": "30700",
+    "VILLE": "SANILHAC SAGRIES",
+    "tel": "466030940",
+    "telecopie": "466030941",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "77594122200033",
+    "lng": "4.43004827735322",
+    "lat": "43.959774758336"
+  },
+  {
+    "finess": "300780558",
+    "raison_sociale": "ITEP LES GARRIGUES",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "CROIX DE CANDORDY",
+    "bp": "",
+    "cp": "30700",
+    "VILLE": "SANILHAC SAGRIES",
+    "tel": "466030940",
+    "telecopie": "466030941",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "77594122200033",
+    "lng": "4.43004827735322",
+    "lat": "43.959774758336"
+  }
+]

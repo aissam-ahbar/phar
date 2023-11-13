@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "570012047",
+    "raison_sociale": "EHPAD \"LES OPALINES \"",
+    "numero voie": "20",
+    "type_voie": "R",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "57270",
+    "VILLE": "RICHEMONT ",
+    "tel": "387710115",
+    "telecopie": "387719519",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "35394710400017",
+    "lng": "6.16452842251087",
+    "lat": "49.2811841476829"
+  },
+  {
+    "finess": "570018788",
+    "raison_sociale": "MAISON D'ENFANTS DE RICHEMONT",
+    "numero voie": "4",
+    "type_voie": "AV",
+    "libelle_voie": "LENÔTRE",
+    "bp": "",
+    "cp": "57270",
+    "VILLE": "RICHEMONT ",
+    "tel": "387712153",
+    "telecopie": "",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "43842088700269",
+    "lng": "6.16872826961997",
+    "lat": "49.2844782677514"
+  },
+  {
+    "finess": "570019711",
+    "raison_sociale": "PHARMACIE RICHEMONT",
+    "numero voie": "2",
+    "type_voie": "",
+    "libelle_voie": "ROUTE NATIONALE",
+    "bp": "",
+    "cp": "57270",
+    "VILLE": "RICHEMONT ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84182899900018",
+    "lng": "6.17065349798023",
+    "lat": "49.2761227632261"
+  }
+]

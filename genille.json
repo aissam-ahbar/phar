@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "370003857",
+    "raison_sociale": "SELARL PHARMACIE BURRILLON",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DES NOISETIERS",
+    "bp": "",
+    "cp": "37460",
+    "VILLE": "GENILLE ",
+    "tel": "247595037",
+    "telecopie": "247596390",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82252268600010",
+    "lng": "1.09687542113199",
+    "lat": "47.1819232294368"
+  },
+  {
+    "finess": "370012684",
+    "raison_sociale": "MM DE GENILLE",
+    "numero voie": "",
+    "type_voie": "ZONE",
+    "libelle_voie": "DE LA VARENNE",
+    "bp": "",
+    "cp": "37460",
+    "VILLE": "GENILLE ",
+    "tel": "247595656",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "35167328000027",
+    "lng": "1.09478801075963",
+    "lat": "47.1831676753688"
+  }
+]

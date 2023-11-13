@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380781427",
+    "raison_sociale": "IME DE MEYRIEU-LES-ETANGS",
+    "numero voie": "2",
+    "type_voie": "RTE",
+    "libelle_voie": "DU PILAT",
+    "bp": "",
+    "cp": "38440",
+    "VILLE": "MEYRIEU LES ETANGS    ",
+    "tel": "474593190",
+    "telecopie": "474583870",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "77559584600376",
+    "lng": "5.19307521196856",
+    "lat": "45.5128691501136"
+  },
+  {
+    "finess": "380796656",
+    "raison_sociale": "SCE AIDE MENAGERE LES NENUPHARS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38440",
+    "VILLE": "MEYRIEU LES ETANGS    ",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37924052600010",
+    "lng": "5.19960090973264",
+    "lat": "45.5133594628426"
+  }
+]

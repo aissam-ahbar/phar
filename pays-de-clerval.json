@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "250008505",
+    "raison_sociale": "PHARMACIE DU PAYS DE CLERVAL",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE BESANCON",
+    "bp": "",
+    "cp": "25340",
+    "VILLE": "PAYS DE CLERVAL    ",
+    "tel": "381978183",
+    "telecopie": "381938357",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "89066318000010",
+    "lng": "6.49478561968785",
+    "lat": "47.3914556813903"
+  },
+  {
+    "finess": "250010345",
+    "raison_sociale": "SCE DE TRAVAILLEUSES FAMILIALES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "25340",
+    "VILLE": "PAYS DE CLERVAL    ",
+    "tel": "381978046",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32837601700013",
+    "lng": "6.49687282799194",
+    "lat": "47.3933662721839"
+  },
+  {
+    "finess": "250010352",
+    "raison_sociale": "SERVICE D'AIDES MENAGERES",
+    "numero voie": "1",
+    "type_voie": "AV",
+    "libelle_voie": "GASTON RENAUD",
+    "bp": "",
+    "cp": "25340",
+    "VILLE": "PAYS DE CLERVAL    ",
+    "tel": "381978046",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32837601700013",
+    "lng": "6.49429685878208",
+    "lat": "47.3919371425954"
+  }
+]

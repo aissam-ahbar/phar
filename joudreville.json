@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "540012770",
+    "raison_sociale": "PHARMACIE JACQUOT",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA MINE",
+    "bp": "",
+    "cp": "54490",
+    "VILLE": "JOUDREVILLE ",
+    "tel": "382219101",
+    "telecopie": "382210908",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "30665282700016",
+    "lng": "5.78592152483192",
+    "lat": "49.2977470351159"
+  },
+  {
+    "finess": "540019585",
+    "raison_sociale": "RESIDENCE AU GRE DU VENT",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA PISCINE",
+    "bp": "",
+    "cp": "54490",
+    "VILLE": "JOUDREVILLE ",
+    "tel": "382214455",
+    "telecopie": "382214456",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "39830264600078",
+    "lng": "5.78588010339219",
+    "lat": "49.2972343791478"
+  }
+]

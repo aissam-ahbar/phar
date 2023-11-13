@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "630003952",
+    "raison_sociale": "SELARL PHARMACIE METGE",
+    "numero voie": "2",
+    "type_voie": "PL",
+    "libelle_voie": "JEAN JAURES",
+    "bp": "",
+    "cp": "63290",
+    "VILLE": "CHATELDON ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83475659500015",
+    "lng": "3.51957356563423",
+    "lat": "45.9772003851908"
+  },
+  {
+    "finess": "630016566",
+    "raison_sociale": "MAISON DE SANTE DE CHATELDON",
+    "numero voie": "10",
+    "type_voie": "PL",
+    "libelle_voie": "JEAN JAURES",
+    "bp": "",
+    "cp": "63290",
+    "VILLE": "CHATELDON ",
+    "tel": "607346344",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "92230509900017",
+    "lng": "3.51967948027664",
+    "lat": "45.9770639219163"
+  }
+]

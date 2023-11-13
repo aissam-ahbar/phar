@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "350009163",
+    "raison_sociale": "RESIDENCE DU PARMENIER",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "DE DOMLOUP",
+    "bp": "",
+    "cp": "35410",
+    "VILLE": "NOUVOITOU ",
+    "tel": "299372940",
+    "telecopie": "299374506",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "40280241700012",
+    "lng": "-1.54613197671185",
+    "lat": "48.0426757393931"
+  },
+  {
+    "finess": "350021754",
+    "raison_sociale": "PHARMACIE CLAIRE TOREL",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE DOMLOUP",
+    "bp": "",
+    "cp": "35410",
+    "VILLE": "NOUVOITOU ",
+    "tel": "299373237",
+    "telecopie": "299375075",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49375249700021",
+    "lng": "-1.54522153796956",
+    "lat": "48.0430146898254"
+  }
+]

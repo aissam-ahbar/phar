@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "140010331",
+    "raison_sociale": "PHARMACIE LION-SUR-MER",
+    "numero voie": "26",
+    "type_voie": "BD",
+    "libelle_voie": "PAUL DOUMER",
+    "bp": "",
+    "cp": "14780",
+    "VILLE": "LION SUR MER    ",
+    "tel": "231972032",
+    "telecopie": "231972032",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49039190100017",
+    "lng": "-0.317928923557093",
+    "lat": "49.3016268582366"
+  },
+  {
+    "finess": "140025677",
+    "raison_sociale": "SAD LION-SUR-MER ASS OPTIM'SERVICES",
+    "numero voie": "25",
+    "type_voie": "R",
+    "libelle_voie": "EDMOND BELLIN",
+    "bp": "",
+    "cp": "14780",
+    "VILLE": "LION SUR MER    ",
+    "tel": "231375866",
+    "telecopie": "231802718",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "49823988800015",
+    "lng": "-0.315925997146686",
+    "lat": "49.3016315261259"
+  },
+  {
+    "finess": "140029141",
+    "raison_sociale": "FJT RESIDENCE SOCIALE BLAGNY LION SMER",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "MOREL DE THAN",
+    "bp": "",
+    "cp": "14780",
+    "VILLE": "LION SUR MER    ",
+    "tel": "231931662",
+    "telecopie": "",
+    "categorie etablissement": "257",
+    "libelle categorie": "Foyer de Jeunes Travailleurs (résidence sociale ou non)",
+    "siret": "34008866500013",
+    "lng": "-0.32426059324367",
+    "lat": "49.3009865463923"
+  }
+]

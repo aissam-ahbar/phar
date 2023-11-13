@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "300004876",
+    "raison_sociale": "PHARMACIE DE L'AIGOUAL",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "André Chamson",
+    "bp": "VALLERAUGUE",
+    "cp": "30570",
+    "VILLE": "VAL D AIGOUAL    ",
+    "tel": "466822007",
+    "telecopie": "466822326",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50865000900014",
+    "lng": "3.64316853195199",
+    "lat": "44.0801420958612"
+  },
+  {
+    "finess": "300781259",
+    "raison_sociale": "EHPAD FIL D'ARGENT",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "MALBEC",
+    "bp": "",
+    "cp": "30570",
+    "VILLE": "VAL D AIGOUAL    ",
+    "tel": "467822241",
+    "telecopie": "467822264",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77594908400013",
+    "lng": "3.64075668317288",
+    "lat": "44.0810661929344"
+  }
+]

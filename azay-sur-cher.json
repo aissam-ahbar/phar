@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "370002917",
+    "raison_sociale": "PHARMACIE BROSSET",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DE CORMERY",
+    "bp": "",
+    "cp": "37270",
+    "VILLE": "AZAY SUR CHER    ",
+    "tel": "247504666",
+    "telecopie": "247355082",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38875696700021",
+    "lng": "0.845960839951151",
+    "lat": "47.3487100743224"
+  },
+  {
+    "finess": "370014763",
+    "raison_sociale": "SAAD AZ'AIDES",
+    "numero voie": "26",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "37270",
+    "VILLE": "AZAY SUR CHER    ",
+    "tel": "247504628",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "45373809800020",
+    "lng": "0.846347520488239",
+    "lat": "47.3496403144252"
+  }
+]

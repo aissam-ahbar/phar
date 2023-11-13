@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "330782632",
+    "raison_sociale": "EHPAD FONDATION ROUX",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "ARMAND ROUX",
+    "bp": "",
+    "cp": "33180",
+    "VILLE": "VERTHEUIL ",
+    "tel": "556419806",
+    "telecopie": "556419565",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26330574000015",
+    "lng": "-0.856782935933749",
+    "lat": "45.2471137422521"
+  },
+  {
+    "finess": "330803073",
+    "raison_sociale": "FOYER LARIDE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE LA CHATELLERIE",
+    "bp": "LUGAGNAC",
+    "cp": "33180",
+    "VILLE": "VERTHEUIL ",
+    "tel": "556419953",
+    "telecopie": "556419565",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "26330574000031",
+    "lng": "-0.834982042832082",
+    "lat": "45.2506022321327"
+  }
+]

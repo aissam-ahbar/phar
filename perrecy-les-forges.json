@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "710006594",
+    "raison_sociale": "PHARMACIE DE LA STE DE SECOURS M",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "SULLY    \"ROZELAY\"",
+    "bp": "",
+    "cp": "71420",
+    "VILLE": "PERRECY LES FORGES    ",
+    "tel": "385791190",
+    "telecopie": "",
+    "categorie etablissement": "628",
+    "libelle categorie": "Pharmacie Minière",
+    "siret": "49326803100074",
+    "lng": "4.21629432518122",
+    "lat": "46.6139500257067"
+  },
+  {
+    "finess": "710006610",
+    "raison_sociale": "PHARMACIE LONGUEVILLE-FORTUN",
+    "numero voie": "2",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA POTERIE",
+    "bp": "",
+    "cp": "71420",
+    "VILLE": "PERRECY LES FORGES    ",
+    "tel": "385793270",
+    "telecopie": "385793998",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38819381500023",
+    "lng": "4.21486497886008",
+    "lat": "46.6135554452355"
+  },
+  {
+    "finess": "710014630",
+    "raison_sociale": "MAISON DE SANTÉ DE PERRECY",
+    "numero voie": "6",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'ÉGLISE",
+    "bp": "",
+    "cp": "71420",
+    "VILLE": "PERRECY LES FORGES    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "80165334600016",
+    "lng": "4.21438872617946",
+    "lat": "46.6127689216045"
+  }
+]

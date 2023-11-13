@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "180000101",
+    "raison_sociale": "EHPAD LES ROSES D ARGENT",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "MME FERME-THOMAS",
+    "bp": "",
+    "cp": "18410",
+    "VILLE": "ARGENT SUR SAULDRE    ",
+    "tel": "248815140",
+    "telecopie": "248815149",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26180002300010",
+    "lng": "2.44966358422565",
+    "lat": "47.5572287521378"
+  },
+  {
+    "finess": "180001356",
+    "raison_sociale": "PHARMACIE ARGENT SUR SAULDRE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "RD 940",
+    "bp": "\"\"Les Aubépins\"\"",
+    "cp": "18410",
+    "VILLE": "ARGENT SUR SAULDRE    ",
+    "tel": "248736055",
+    "telecopie": "248733158",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40224674800022",
+    "lng": "2.44446371579554",
+    "lat": "47.5593194713145"
+  },
+  {
+    "finess": "180008294",
+    "raison_sociale": "SAD ADMR ARGENT / AUBIGNY",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "JEAN MOULIN",
+    "bp": "",
+    "cp": "18410",
+    "VILLE": "ARGENT SUR SAULDRE    ",
+    "tel": "248733623",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31290509400057",
+    "lng": "2.44504638177222",
+    "lat": "47.5591719186588"
+  }
+]

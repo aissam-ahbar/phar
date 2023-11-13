@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "350021051",
+    "raison_sociale": "PHARMACIE DES FOUGERETZ",
+    "numero voie": "12",
+    "type_voie": "R",
+    "libelle_voie": "DE LONGRAIS",
+    "bp": "",
+    "cp": "35520",
+    "VILLE": "LA CHAPELLE DES FOUGERETZ   ",
+    "tel": "299665687",
+    "telecopie": "299664516",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82935700300013",
+    "lng": "-1.73357277296531",
+    "lat": "48.1758836655236"
+  },
+  {
+    "finess": "350044632",
+    "raison_sociale": "FOYER DE VIE LES FOUGERES",
+    "numero voie": "3",
+    "type_voie": "ALL",
+    "libelle_voie": "DE LA PETITE PECHEREL",
+    "bp": "",
+    "cp": "35520",
+    "VILLE": "LA CHAPELLE DES FOUGERETZ   ",
+    "tel": "299130205",
+    "telecopie": "299130206",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "78184966600214",
+    "lng": "-1.73378255940924",
+    "lat": "48.1741814635827"
+  },
+  {
+    "finess": "350050316",
+    "raison_sociale": "MSP DE LA CHAPELLE DES FOUGERETZ",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DES LONGRAIS",
+    "bp": "",
+    "cp": "35520",
+    "VILLE": "LA CHAPELLE DES FOUGERETZ   ",
+    "tel": "299665374",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "-1.73315776763056",
+    "lat": "48.1760950324006"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "670003359",
+    "raison_sociale": "FOYER APPARTEMENT",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DES ECOLES",
+    "bp": "",
+    "cp": "67190",
+    "VILLE": "STILL ",
+    "tel": "388487900",
+    "telecopie": "",
+    "categorie etablissement": "252",
+    "libelle categorie": "Foyer Hébergement Adultes Handicapés",
+    "siret": "38449328400044",
+    "lng": "7.40695321472048",
+    "lat": "48.5491116724326"
+  },
+  {
+    "finess": "670781145",
+    "raison_sociale": "FAM INSTITUT DES AVEUGLES STILL",
+    "numero voie": "25",
+    "type_voie": "",
+    "libelle_voie": "GRAND RUE",
+    "bp": "",
+    "cp": "67190",
+    "VILLE": "STILL ",
+    "tel": "388487900",
+    "telecopie": "388500957",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "38449328400044",
+    "lng": "7.4039124998698",
+    "lat": "48.550422695477"
+  },
+  {
+    "finess": "670793850",
+    "raison_sociale": "FAS DE L'INSTITUT DES AVEUGLES STILL",
+    "numero voie": "25",
+    "type_voie": "",
+    "libelle_voie": "GRAND RUE",
+    "bp": "",
+    "cp": "67190",
+    "VILLE": "STILL ",
+    "tel": "388487900",
+    "telecopie": "388500957",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "38449328400044",
+    "lng": "7.4039124998698",
+    "lat": "48.550422695477"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "410004790",
+    "raison_sociale": "PHARMACIE DE SAINT GERVAIS",
+    "numero voie": "265",
+    "type_voie": "R",
+    "libelle_voie": "DES CLOUSEAUX",
+    "bp": "",
+    "cp": "41350",
+    "VILLE": "ST GERVAIS LA FORET   ",
+    "tel": "254428706",
+    "telecopie": "254421333",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52364549700018",
+    "lng": "1.36987000701484",
+    "lat": "47.5675732267584"
+  },
+  {
+    "finess": "410008072",
+    "raison_sociale": "MAISON RELAIS SAINT GERVAIS",
+    "numero voie": "33",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "41350",
+    "VILLE": "ST GERVAIS LA FORET   ",
+    "tel": "254781804",
+    "telecopie": "",
+    "categorie etablissement": "258",
+    "libelle categorie": "Maisons Relais - Pensions de Famille",
+    "siret": "77537037200341",
+    "lng": "1.35583448322335",
+    "lat": "47.5727944017288"
+  },
+  {
+    "finess": "410008742",
+    "raison_sociale": "LBM BIO MEDI QUAL CENTRE ST GERVAIS",
+    "numero voie": "137",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE",
+    "bp": "LA PATTE D'OIE",
+    "cp": "41350",
+    "VILLE": "ST GERVAIS LA FORET   ",
+    "tel": "254423840",
+    "telecopie": "254422374",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "40018121000057",
+    "lng": "1.37214546538229",
+    "lat": "47.5617871161327"
+  }
+]

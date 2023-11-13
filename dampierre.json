@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "390005908",
+    "raison_sociale": "PHARMACIE DE DAMPIERRE",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DU FOUR BANAL",
+    "bp": "",
+    "cp": "39700",
+    "VILLE": "DAMPIERRE ",
+    "tel": "384817724",
+    "telecopie": "384817021",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83223885100014",
+    "lng": "5.74217286105674",
+    "lat": "47.1540590105638"
+  },
+  {
+    "finess": "390782399",
+    "raison_sociale": "RÉSIDENCE AUTONOMIE GEORGES BOURGEOIS",
+    "numero voie": "6",
+    "type_voie": "PL",
+    "libelle_voie": "ARTHUR GAULARD",
+    "bp": "",
+    "cp": "39700",
+    "VILLE": "DAMPIERRE ",
+    "tel": "384813025",
+    "telecopie": "384801283",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "25390266200027",
+    "lng": "5.7405449840212",
+    "lat": "47.1552344299175"
+  }
+]

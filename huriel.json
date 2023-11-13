@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "30002695",
+    "raison_sociale": "PHARMACIE PEYROUX",
+    "numero voie": "12",
+    "type_voie": "R",
+    "libelle_voie": "du Pressoir",
+    "bp": "",
+    "cp": "3380",
+    "VILLE": "HURIEL ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53978565900019",
+    "lng": "2.47842640536924",
+    "lat": "46.3737078643942"
+  },
+  {
+    "finess": "30008833",
+    "raison_sociale": "MAISON DE SANTE D'HURIEL",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DU PRESSOIR",
+    "bp": "",
+    "cp": "3380",
+    "VILLE": "HURIEL ",
+    "tel": "470030455",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "90775713200010",
+    "lng": "2.47915807846118",
+    "lat": "46.3739255230944"
+  },
+  {
+    "finess": "30009500",
+    "raison_sociale": "AIDE A LA PERSONNE HURIELOISE",
+    "numero voie": "29",
+    "type_voie": "R",
+    "libelle_voie": "DES REMPARTS",
+    "bp": "",
+    "cp": "3380",
+    "VILLE": "HURIEL ",
+    "tel": "699211204",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "2.4761428063052",
+    "lat": "46.373477682024"
+  }
+]

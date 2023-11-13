@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "240011866",
+    "raison_sociale": "SNC KAMMER-LABLENIE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "des Tuilières",
+    "bp": "",
+    "cp": "24580",
+    "VILLE": "ROUFFIGNAC ST CERNIN DE RE  ",
+    "tel": "553054155",
+    "telecopie": "553055966",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39117087500028",
+    "lng": "0.976214599698445",
+    "lat": "45.0462947753297"
+  },
+  {
+    "finess": "240016576",
+    "raison_sociale": "MSRP ROUFFIGNAC ST CERNIN",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DES TUILIÈRES",
+    "bp": "",
+    "cp": "24580",
+    "VILLE": "ROUFFIGNAC ST CERNIN DE RE  ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "0.976214599698445",
+    "lat": "45.0462947753297"
+  },
+  {
+    "finess": "240017590",
+    "raison_sociale": "SAAD ADMR ROUFFIGNAC SAINT CERNIN",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "HAUTEFORT",
+    "bp": "",
+    "cp": "24580",
+    "VILLE": "ROUFFIGNAC ST CERNIN DE RE  ",
+    "tel": "553356432",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32043356800039",
+    "lng": "0.97883155008507",
+    "lat": "45.0471475118036"
+  }
+]

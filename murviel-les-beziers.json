@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "340029362",
+    "raison_sociale": "SAAD LA MAIN DE JEANNE MURVIEL/BEZIERS",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "CHRISTIAN TEIL",
+    "bp": "",
+    "cp": "34490",
+    "VILLE": "MURVIEL LES BEZIERS    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "51847425900067",
+    "lng": "3.14594296615374",
+    "lat": "43.4368216242351"
+  },
+  {
+    "finess": "340787530",
+    "raison_sociale": "EHPAD LES TILLEULS",
+    "numero voie": "3",
+    "type_voie": "ALL",
+    "libelle_voie": "DES TILLEULS",
+    "bp": "",
+    "cp": "34490",
+    "VILLE": "MURVIEL LES BEZIERS    ",
+    "tel": "467768080",
+    "telecopie": "467379264",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26340058200023",
+    "lng": "3.14600552422289",
+    "lat": "43.4400675199441"
+  },
+  {
+    "finess": "340794957",
+    "raison_sociale": "SELARL LES EAUX VIVES",
+    "numero voie": "",
+    "type_voie": "ZA",
+    "libelle_voie": "DU POUNCHOU",
+    "bp": "",
+    "cp": "34490",
+    "VILLE": "MURVIEL LES BEZIERS    ",
+    "tel": "467378304",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53039946800020",
+    "lng": "3.14788758960071",
+    "lat": "43.4335163368039"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "430002436",
+    "raison_sociale": "PHARMACIE DE POLIGNAC",
+    "numero voie": "1",
+    "type_voie": "ESPA",
+    "libelle_voie": "Santé et Bien Etre - Le Bou",
+    "bp": "",
+    "cp": "43000",
+    "VILLE": "POLIGNAC ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53083704600032",
+    "lng": "3.85943611009329",
+    "lat": "45.0713025706428"
+  },
+  {
+    "finess": "430005108",
+    "raison_sociale": "SERVICE PRESTATAIRE MAINTIEN DOMICILE",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "43000",
+    "VILLE": "POLIGNAC ",
+    "tel": "471021483",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "3.85989132390759",
+    "lat": "45.0712387289155"
+  },
+  {
+    "finess": "430009910",
+    "raison_sociale": "ADMR POLIGNAC",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "PLACE DE L'EGLISE",
+    "bp": "",
+    "cp": "43000",
+    "VILLE": "POLIGNAC ",
+    "tel": "471021483",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "50455823000018",
+    "lng": "3.85989132390759",
+    "lat": "45.0712387289155"
+  }
+]

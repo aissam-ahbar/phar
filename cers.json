@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "340789387",
+    "raison_sociale": "EHPAD MAS DU MOULIN",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DU VIEUX MOULIN",
+    "bp": "",
+    "cp": "34420",
+    "VILLE": "CERS ",
+    "tel": "467394848",
+    "telecopie": "467398775",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "34780046800014",
+    "lng": "3.30042509801852",
+    "lat": "43.3217092380257"
+  },
+  {
+    "finess": "340793140",
+    "raison_sociale": "SELARL PHARMACIE CERSOISE",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA PROMENADE",
+    "bp": "",
+    "cp": "34420",
+    "VILLE": "CERS ",
+    "tel": "467393000",
+    "telecopie": "970293110",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "90021556700018",
+    "lng": "3.30414665128605",
+    "lat": "43.3213408002052"
+  }
+]

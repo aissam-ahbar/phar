@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "320004930",
+    "raison_sociale": "POLE DE SANTE LA REVISCOLADA MONTEGUT",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LA BOUNETTE",
+    "bp": "",
+    "cp": "32550",
+    "VILLE": "MONTEGUT ",
+    "tel": "562661919",
+    "telecopie": "562661920",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "34530753200035",
+    "lng": "0.645602129367147",
+    "lat": "43.6512408709058"
+  },
+  {
+    "finess": "320780323",
+    "raison_sociale": "CTRE PEDIA ST JACQUES MPR MONTEGUT",
+    "numero voie": "",
+    "type_voie": "CHT",
+    "libelle_voie": "ROQUETAILLADE",
+    "bp": "",
+    "cp": "32550",
+    "VILLE": "MONTEGUT ",
+    "tel": "562656612",
+    "telecopie": "",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "30980220500257",
+    "lng": "0.693449365464357",
+    "lat": "43.6348058461376"
+  },
+  {
+    "finess": "320784242",
+    "raison_sociale": "MAS ROQUETAILLADE MAISON ST JACQUES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "32550",
+    "VILLE": "MONTEGUT ",
+    "tel": "562656612",
+    "telecopie": "562656622",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "30980220500133",
+    "lng": "0.693449365464357",
+    "lat": "43.6348058461376"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "570000257",
+    "raison_sociale": "IME \"LA SAPINIERE\"",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DU PUITS",
+    "bp": "",
+    "cp": "57710",
+    "VILLE": "AUMETZ ",
+    "tel": "382919125",
+    "telecopie": "",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "77561959600064",
+    "lng": "5.94724426260812",
+    "lat": "49.4221098342575"
+  },
+  {
+    "finess": "570013177",
+    "raison_sociale": "PHARMACIE GUELEN - ROSSI",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE L ANCIENNE MAIRIE",
+    "bp": "",
+    "cp": "57710",
+    "VILLE": "AUMETZ ",
+    "tel": "382910700",
+    "telecopie": "382919062",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "43293174900019",
+    "lng": "5.93961022573382",
+    "lat": "49.4179629406134"
+  }
+]

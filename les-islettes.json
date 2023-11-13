@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "550005490",
+    "raison_sociale": "FAS DE CLERMONT",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LOCHERES",
+    "bp": "BP 6",
+    "cp": "55120",
+    "VILLE": "LES ISLETTES",
+    "tel": "329882307",
+    "telecopie": "",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "20008438200114",
+    "lng": "5.0189702265041",
+    "lat": "49.1167907161402"
+  },
+  {
+    "finess": "550006456",
+    "raison_sociale": "SAVS DU SEISAAM",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LOCHERES",
+    "bp": "BP 6",
+    "cp": "55120",
+    "VILLE": "LES ISLETTES",
+    "tel": "329882306",
+    "telecopie": "",
+    "categorie etablissement": "446",
+    "libelle categorie": "Service d'Accompagnement à la Vie Sociale (S.A.V.S.)",
+    "siret": "20008438200353",
+    "lng": "5.0189702265041",
+    "lat": "49.1167907161402"
+  },
+  {
+    "finess": "550007058",
+    "raison_sociale": "FAM JULIEN DESTREZ",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LOCHERES",
+    "bp": "",
+    "cp": "55120",
+    "VILLE": "LES ISLETTES",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "20008438200106",
+    "lng": "5.0189702265041",
+    "lat": "49.1167907161402"
+  }
+]

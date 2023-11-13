@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "440003564",
+    "raison_sociale": "EHPAD DU HAVRE",
+    "numero voie": "121",
+    "type_voie": "R",
+    "libelle_voie": "VIEILLE COUR",
+    "bp": "",
+    "cp": "44521",
+    "VILLE": "OUDON ",
+    "tel": "240836027",
+    "telecopie": "240836228",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20007304700041",
+    "lng": "-1.28717735244327",
+    "lat": "47.3473173193153"
+  },
+  {
+    "finess": "440015915",
+    "raison_sociale": "PHARMACIE LAQUEUILLE",
+    "numero voie": "219",
+    "type_voie": "R",
+    "libelle_voie": "D ANJOU",
+    "bp": "",
+    "cp": "44521",
+    "VILLE": "OUDON ",
+    "tel": "240836150",
+    "telecopie": "240836568",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49333320700014",
+    "lng": "-1.28386217078442",
+    "lat": "47.3477787069139"
+  }
+]

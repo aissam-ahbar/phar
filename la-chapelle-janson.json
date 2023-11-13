@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "350021622",
+    "raison_sociale": "PHARMACIE LA CHAPELLE JANSON",
+    "numero voie": "2",
+    "type_voie": "PL",
+    "libelle_voie": "de la Mairie",
+    "bp": "",
+    "cp": "35133",
+    "VILLE": "LA CHAPELLE JANSON    ",
+    "tel": "299760611",
+    "telecopie": "989009909",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83778952800010",
+    "lng": "-1.0997872629858",
+    "lat": "48.3477330442644"
+  },
+  {
+    "finess": "350050175",
+    "raison_sociale": "PSP/MSP FOUGERES SUD",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "CIMETTE",
+    "bp": "",
+    "cp": "35133",
+    "VILLE": "LA CHAPELLE JANSON    ",
+    "tel": "299952681",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "-1.10170950426191",
+    "lat": "48.3468367008932"
+  }
+]

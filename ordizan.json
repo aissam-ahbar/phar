@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "650780232",
+    "raison_sociale": "IME APF LE CLOS FLEURI ORDIZAN",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "65200",
+    "VILLE": "ORDIZAN ",
+    "tel": "562910120",
+    "telecopie": "562953801",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "77568873209781",
+    "lng": "0.129982657342959",
+    "lat": "43.1083314094409"
+  },
+  {
+    "finess": "650787443",
+    "raison_sociale": "MAS APF LE CLOS FLEURI ORDIZAN",
+    "numero voie": "5",
+    "type_voie": "CHE",
+    "libelle_voie": "DE L'ORMEAU",
+    "bp": "",
+    "cp": "65200",
+    "VILLE": "ORDIZAN ",
+    "tel": "562910120",
+    "telecopie": "562953801",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "",
+    "lng": "0.131089803545251",
+    "lat": "43.106194550172"
+  }
+]

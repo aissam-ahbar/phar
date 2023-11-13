@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "440026789",
+    "raison_sociale": "PHARMACIE MOUGIN",
+    "numero voie": "96",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LA VENDEE",
+    "bp": "",
+    "cp": "44330",
+    "VILLE": "MOUZILLON ",
+    "tel": "240362051",
+    "telecopie": "240360927",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38881270300022",
+    "lng": "-1.28230099754207",
+    "lat": "47.1395457536833"
+  },
+  {
+    "finess": "440044170",
+    "raison_sociale": "ANNEXE IME VALLET",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LA RECIVIERE",
+    "cp": "44330",
+    "VILLE": "MOUZILLON ",
+    "tel": "240339631",
+    "telecopie": "",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "77560540500130",
+    "lng": "-1.28213937847058",
+    "lat": "47.1407364705018"
+  },
+  {
+    "finess": "440058477",
+    "raison_sociale": "SAAD ADT 44 MOUZILLON",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "CLEMENT GUILBAUD",
+    "bp": "",
+    "cp": "44330",
+    "VILLE": "MOUZILLON ",
+    "tel": "240364034",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "-1.2820126455112",
+    "lat": "47.1405220705212"
+  }
+]

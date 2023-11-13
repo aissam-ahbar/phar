@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "80002215",
+    "raison_sociale": "SELARL PHARMACIE DE BALAN",
+    "numero voie": "11",
+    "type_voie": "AV",
+    "libelle_voie": "CHARLES DE GAULLE",
+    "bp": "",
+    "cp": "8200",
+    "VILLE": "BALAN ",
+    "tel": "324272922",
+    "telecopie": "324266414",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81906586300014",
+    "lng": "4.95753608863694",
+    "lat": "49.6937596728208"
+  },
+  {
+    "finess": "80011604",
+    "raison_sociale": "MAISON DE SANTE DE BALAN",
+    "numero voie": "31",
+    "type_voie": "R",
+    "libelle_voie": "POUPART DE NEUFLIZE",
+    "bp": "",
+    "cp": "8200",
+    "VILLE": "BALAN ",
+    "tel": "324275105",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "91442660600010",
+    "lng": "4.95969393714409",
+    "lat": "49.6910572446833"
+  }
+]

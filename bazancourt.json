@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "510017874",
+    "raison_sociale": "SELARL PHARMACIE DE BAZANCOURT",
+    "numero voie": "28",
+    "type_voie": "R",
+    "libelle_voie": "Jean Jaurès",
+    "bp": "",
+    "cp": "51110",
+    "VILLE": "BAZANCOURT ",
+    "tel": "326033119",
+    "telecopie": "326056796",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51336299600029",
+    "lng": "4.17106144416519",
+    "lat": "49.3627823797975"
+  },
+  {
+    "finess": "510027147",
+    "raison_sociale": "CPTS VAL DE SUIPPE",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DU DOCTEUR GIBOUT",
+    "bp": "",
+    "cp": "51110",
+    "VILLE": "BAZANCOURT ",
+    "tel": "326035123",
+    "telecopie": "",
+    "categorie etablissement": "604",
+    "libelle categorie": "Communautés professionnelles territoriales de santé (CPTS)",
+    "siret": "89749955400011",
+    "lng": "4.17018815916609",
+    "lat": "49.3642705446292"
+  }
+]

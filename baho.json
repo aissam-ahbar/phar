@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "660009747",
+    "raison_sociale": "AVA CAMPS DEL MAS",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DES CORBIERES",
+    "bp": "",
+    "cp": "66540",
+    "VILLE": "BAHO ",
+    "tel": "468673765",
+    "telecopie": "468673630",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "77619094400210",
+    "lng": "2.82215706073085",
+    "lat": "42.7050629968934"
+  },
+  {
+    "finess": "660012063",
+    "raison_sociale": "MSP LES CASTELLS",
+    "numero voie": "3",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "66540",
+    "VILLE": "BAHO ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "88015030500014",
+    "lng": "2.82588894005387",
+    "lat": "42.7017100692598"
+  },
+  {
+    "finess": "660787961",
+    "raison_sociale": "PHARMACIE DE BAHO",
+    "numero voie": "31",
+    "type_voie": "AV",
+    "libelle_voie": "DES PYRENEES",
+    "bp": "",
+    "cp": "66540",
+    "VILLE": "BAHO ",
+    "tel": "468922007",
+    "telecopie": "468380621",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48502212300015",
+    "lng": "2.82369252311173",
+    "lat": "42.7000197548966"
+  }
+]

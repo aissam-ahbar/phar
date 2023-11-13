@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "560005118",
+    "raison_sociale": "RESIDENCE LA METAIRIE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA METAIRIE",
+    "bp": "",
+    "cp": "56490",
+    "VILLE": "MENEAC ",
+    "tel": "297933078",
+    "telecopie": "297933993",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26560180700026",
+    "lng": "-2.46293669850528",
+    "lat": "48.1388730362751"
+  },
+  {
+    "finess": "560018962",
+    "raison_sociale": "PHARMACIE BILGER",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "56490",
+    "VILLE": "MENEAC ",
+    "tel": "297933055",
+    "telecopie": "297933015",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88931116300014",
+    "lng": "-2.46153953899073",
+    "lat": "48.1390451658047"
+  }
+]

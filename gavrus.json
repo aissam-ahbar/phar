@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "140002361",
+    "raison_sociale": "CHRS FIL D'ARIANE GAVRUS AAJB",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DU 8EME ROYAL SCOTS",
+    "bp": "",
+    "cp": "14210",
+    "VILLE": "GAVRUS ",
+    "tel": "231293153",
+    "telecopie": "231293154",
+    "categorie etablissement": "214",
+    "libelle categorie": "Centre Hébergement & Réinsertion Sociale (C.H.R.S.)",
+    "siret": "78071704700028",
+    "lng": "-0.511836506451887",
+    "lat": "49.1177367179388"
+  },
+  {
+    "finess": "140033135",
+    "raison_sociale": "SERVICE ALT CAEN AGGLO GAVRUS AAJB",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DU 8EME ROYAL SCOTS",
+    "bp": "",
+    "cp": "14210",
+    "VILLE": "GAVRUS ",
+    "tel": "231293150",
+    "telecopie": "231293154",
+    "categorie etablissement": "219",
+    "libelle categorie": "Autre Centre d'Accueil",
+    "siret": "78071704700028",
+    "lng": "-0.511836506451887",
+    "lat": "49.1177367179388"
+  },
+  {
+    "finess": "140034497",
+    "raison_sociale": "DISPOSITIF INTÉGRÉ DITEP",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "14210",
+    "VILLE": "GAVRUS ",
+    "tel": "231712610",
+    "telecopie": "",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "",
+    "lng": "-0.514914570404038",
+    "lat": "49.1182407550309"
+  }
+]

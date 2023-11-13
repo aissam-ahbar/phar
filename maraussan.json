@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "340017326",
+    "raison_sociale": "EHPAD TERRE BLANCHE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE POUSSAN",
+    "bp": "",
+    "cp": "34370",
+    "VILLE": "MARAUSSAN ",
+    "tel": "467099780",
+    "telecopie": "467989106",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26340041800020",
+    "lng": "3.16447656248383",
+    "lat": "43.3530176402353"
+  },
+  {
+    "finess": "340027465",
+    "raison_sociale": "SAAD ADMR MARAUSSAN",
+    "numero voie": "120",
+    "type_voie": "AV",
+    "libelle_voie": "DU GENERAL BALAMAN",
+    "bp": "",
+    "cp": "34370",
+    "VILLE": "MARAUSSAN ",
+    "tel": "467097892",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "38880164900038",
+    "lng": "3.15567992092379",
+    "lat": "43.3687423418233"
+  },
+  {
+    "finess": "340793801",
+    "raison_sociale": "PHARMACIE  BRAHIC",
+    "numero voie": "29",
+    "type_voie": "AV",
+    "libelle_voie": "DES POILUS",
+    "bp": "",
+    "cp": "34370",
+    "VILLE": "MARAUSSAN ",
+    "tel": "467903042",
+    "telecopie": "467900504",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44144542600014",
+    "lng": "3.1585060142141",
+    "lat": "43.3664145355538"
+  }
+]

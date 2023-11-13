@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "440016707",
+    "raison_sociale": "PHARMACIE MALOUINE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "ARISTIDE BRIAND",
+    "bp": "",
+    "cp": "44550",
+    "VILLE": "ST MALO DE GUERSAC   ",
+    "tel": "240911413",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80428941100014",
+    "lng": "-2.17522373085743",
+    "lat": "47.3531032548634"
+  },
+  {
+    "finess": "440047116",
+    "raison_sociale": "LIEU DE VIE PHENIX",
+    "numero voie": "23",
+    "type_voie": "R",
+    "libelle_voie": "DE LA PETITE BRIERE",
+    "bp": "",
+    "cp": "44550",
+    "VILLE": "ST MALO DE GUERSAC   ",
+    "tel": "240195707",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "49188584400028",
+    "lng": "-2.18310255196464",
+    "lat": "47.3585506574343"
+  },
+  {
+    "finess": "440061000",
+    "raison_sociale": "LDVA ZOLA",
+    "numero voie": "21",
+    "type_voie": "R",
+    "libelle_voie": "EMILE ZOLA",
+    "bp": "",
+    "cp": "44550",
+    "VILLE": "ST MALO DE GUERSAC   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "92168949300010",
+    "lng": "-2.1711401614986",
+    "lat": "47.3424414141307"
+  }
+]

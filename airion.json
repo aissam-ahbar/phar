@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "600012587",
+    "raison_sociale": "CFPPA DE L'OISE AIRION",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU MOULIN",
+    "bp": "",
+    "cp": "60600",
+    "VILLE": "AIRION ",
+    "tel": "344508440",
+    "telecopie": "344508441",
+    "categorie etablissement": "330",
+    "libelle categorie": "Ecoles Formant aux Professions Sociales",
+    "siret": "19601782600021",
+    "lng": "2.41755730314075",
+    "lat": "49.4280345465817"
+  },
+  {
+    "finess": "600112437",
+    "raison_sociale": "MR AIRION",
+    "numero voie": "16",
+    "type_voie": "",
+    "libelle_voie": "HARAS DE FITZ-JAMES",
+    "bp": "LE HARAS DE FITZ-JAMES",
+    "cp": "60600",
+    "VILLE": "AIRION ",
+    "tel": "344781326",
+    "telecopie": "344781326",
+    "categorie etablissement": "502",
+    "libelle categorie": "EHPA ne percevant pas des crédits d'assurance maladie",
+    "siret": "49847235600019",
+    "lng": "2.40472730964841",
+    "lat": "49.4049418492974"
+  }
+]

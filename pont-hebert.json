@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "500010442",
+    "raison_sociale": "SSIAD - PONT-HEBERT",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "50880",
+    "VILLE": "PONT HEBERT",
+    "tel": "233570038",
+    "telecopie": "",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "78087991200027",
+    "lng": "-1.13509478703608",
+    "lat": "49.1688745818819"
+  },
+  {
+    "finess": "500011390",
+    "raison_sociale": "PHARMACIE DES BORDS DE VIRE",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DES JUIFS",
+    "bp": "",
+    "cp": "50880",
+    "VILLE": "PONT HEBERT",
+    "tel": "233564795",
+    "telecopie": "233566045",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44911943700019",
+    "lng": "-1.12794654693208",
+    "lat": "49.1643089243078"
+  },
+  {
+    "finess": "500022090",
+    "raison_sociale": "PSLA - PONT HEBERT",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE BAHAIS",
+    "bp": "",
+    "cp": "50880",
+    "VILLE": "PONT HEBERT",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "-1.12710536525712",
+    "lat": "49.1651741520453"
+  }
+]

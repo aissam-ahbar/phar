@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "680005147",
+    "raison_sociale": "RESIDENCE SAINT BRICE APALIB",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DE PROVENCE",
+    "bp": "",
+    "cp": "68720",
+    "VILLE": "ILLFURTH ",
+    "tel": "389544577",
+    "telecopie": "389207995",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "",
+    "lng": "7.26313077993337",
+    "lat": "47.6690247791703"
+  },
+  {
+    "finess": "680009016",
+    "raison_sociale": "PHARMACIE  WEISENHORN",
+    "numero voie": "55",
+    "type_voie": "RTE",
+    "libelle_voie": "DE MULHOUSE",
+    "bp": "",
+    "cp": "68720",
+    "VILLE": "ILLFURTH ",
+    "tel": "389254025",
+    "telecopie": "389255207",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50367952400010",
+    "lng": "7.26776958885794",
+    "lat": "47.6767245558618"
+  },
+  {
+    "finess": "680017597",
+    "raison_sociale": "SSIAD PRÉSENCE  -  ESA DU SUNDGAU",
+    "numero voie": "1",
+    "type_voie": "",
+    "libelle_voie": "GRAND' RUE",
+    "bp": "BP 45",
+    "cp": "68720",
+    "VILLE": "ILLFURTH ",
+    "tel": "389084395",
+    "telecopie": "389254203",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "83998114900025",
+    "lng": "7.26413425930646",
+    "lat": "47.6714922244"
+  }
+]

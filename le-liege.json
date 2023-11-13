@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "370000184",
+    "raison_sociale": "A. N. A. S. LE COURBAT",
+    "numero voie": "",
+    "type_voie": "CHT",
+    "libelle_voie": "DU COURBAT",
+    "bp": "LE COURBAT",
+    "cp": "37460",
+    "VILLE": "LE LIEGE",
+    "tel": "247912222",
+    "telecopie": "247912209",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "30703262300059",
+    "lng": "1.11179797585339",
+    "lat": "47.2476377069226"
+  },
+  {
+    "finess": "370103889",
+    "raison_sociale": "MAFPA LUMIERES D AUTOMNE",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "37460",
+    "VILLE": "LE LIEGE",
+    "tel": "247595441",
+    "telecopie": "247594787",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "37838129700019",
+    "lng": "1.10468030742673",
+    "lat": "47.229037460688"
+  }
+]

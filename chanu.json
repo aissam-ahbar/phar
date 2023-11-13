@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "610784217",
+    "raison_sociale": "EHPAD \"LES TILLEULS\" - CHANU",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE DOMFRONT",
+    "bp": "LES HUES",
+    "cp": "61800",
+    "VILLE": "CHANU ",
+    "tel": "233668145",
+    "telecopie": "233640657",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26610068400015",
+    "lng": "-0.677290493702024",
+    "lat": "48.7254510954033"
+  },
+  {
+    "finess": "610786287",
+    "raison_sociale": "PHARMACIE DE CHANU",
+    "numero voie": "12",
+    "type_voie": "R",
+    "libelle_voie": "de Tinchebray",
+    "bp": "",
+    "cp": "61800",
+    "VILLE": "CHANU ",
+    "tel": "233668189",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "89939083500010",
+    "lng": "-0.680399521795874",
+    "lat": "48.7297842654613"
+  },
+  {
+    "finess": "610789091",
+    "raison_sociale": "RESIDENCE LE CHENE - CHANU",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "61800",
+    "VILLE": "CHANU ",
+    "tel": "233668145",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "",
+    "lng": "-0.678448702100665",
+    "lat": "48.7299326841714"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "140008285",
+    "raison_sociale": "MAS MICHEL DELACOUR",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "DE LA VALLIÈRE",
+    "bp": "",
+    "cp": "14250",
+    "VILLE": "ELLON ",
+    "tel": "231928083",
+    "telecopie": "231923292",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "77556139200280",
+    "lng": "-0.686967116696174",
+    "lat": "49.225639687395"
+  },
+  {
+    "finess": "140015108",
+    "raison_sociale": "EHPAD BEAU SOLEIL",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LES CASTELETS",
+    "cp": "14250",
+    "VILLE": "ELLON ",
+    "tel": "231512930",
+    "telecopie": "231512940",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "34145711700024",
+    "lng": "-0.665571931732449",
+    "lat": "49.2252647911821"
+  }
+]

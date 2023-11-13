@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "300005261",
+    "raison_sociale": "PHARMACIE DE L'OLIVIER",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "d'ALES",
+    "bp": "lieu-dit Peyregoux Sud Lot 1",
+    "cp": "30140",
+    "VILLE": "BAGARD ",
+    "tel": "466607467",
+    "telecopie": "466607467",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79134796600016",
+    "lng": "4.06159791311198",
+    "lat": "44.0770289410089"
+  },
+  {
+    "finess": "300012648",
+    "raison_sociale": "EHPAD LES 4 SAISONS",
+    "numero voie": "273",
+    "type_voie": "CHE",
+    "libelle_voie": "DU CARRIOL",
+    "bp": "",
+    "cp": "30140",
+    "VILLE": "BAGARD ",
+    "tel": "466783333",
+    "telecopie": "466783300",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26300017600168",
+    "lng": "4.05435062844969",
+    "lat": "44.0708008876594"
+  },
+  {
+    "finess": "300781077",
+    "raison_sociale": "MECS CLARENCE",
+    "numero voie": "24",
+    "type_voie": "CHE",
+    "libelle_voie": "CLARENCE",
+    "bp": "",
+    "cp": "30140",
+    "VILLE": "BAGARD ",
+    "tel": "466607433",
+    "telecopie": "466609370",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "77585434200018",
+    "lng": "4.03168724085555",
+    "lat": "44.0594153356734"
+  }
+]

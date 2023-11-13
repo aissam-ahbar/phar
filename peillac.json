@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "560019374",
+    "raison_sociale": "SELARL PHIE DE PEILLAC",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "PRINCIPALE",
+    "bp": "",
+    "cp": "56220",
+    "VILLE": "PEILLAC ",
+    "tel": "299912606",
+    "telecopie": "299913920",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45237598300015",
+    "lng": "-2.21767366244534",
+    "lat": "47.7133525546411"
+  },
+  {
+    "finess": "560022907",
+    "raison_sociale": "CDS INFIRMIER ADMR DE PEILLAC",
+    "numero voie": "13",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "56220",
+    "VILLE": "PEILLAC ",
+    "tel": "299913076",
+    "telecopie": "299912204",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "31281448600022",
+    "lng": "-2.2187448611454",
+    "lat": "47.7129772719764"
+  },
+  {
+    "finess": "560028250",
+    "raison_sociale": "SAAD ADMR PEILLAC",
+    "numero voie": "13",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "56220",
+    "VILLE": "PEILLAC ",
+    "tel": "299913412",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "77786115400014",
+    "lng": "-2.2187448611454",
+    "lat": "47.7129772719764"
+  }
+]

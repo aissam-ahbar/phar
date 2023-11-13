@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "170010649",
+    "raison_sociale": "FAM DE BOUHET - ADAPEI 17",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DE LA MOUCHENIERE",
+    "bp": "CHATEAU DE BOUHET",
+    "cp": "17540",
+    "VILLE": "BOUHET ",
+    "tel": "546682000",
+    "telecopie": "546686280",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "77556469300098",
+    "lng": "-0.860243314040356",
+    "lat": "46.1665306977152"
+  },
+  {
+    "finess": "170782361",
+    "raison_sociale": "FOYER DE VIE - ADAPEI",
+    "numero voie": "2",
+    "type_voie": "CHE",
+    "libelle_voie": "DE LA MOUCHENIERE",
+    "bp": "CHATEAU DE BOUHET",
+    "cp": "17540",
+    "VILLE": "BOUHET ",
+    "tel": "546682000",
+    "telecopie": "546686280",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "77556469300098",
+    "lng": "-0.860606717883",
+    "lat": "46.1659422448164"
+  }
+]

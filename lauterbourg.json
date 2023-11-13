@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "670008184",
+    "raison_sociale": "PHARMACIE JAEHN",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE LA 1ERE ARMEE",
+    "bp": "",
+    "cp": "67630",
+    "VILLE": "LAUTERBOURG ",
+    "tel": "388948043",
+    "telecopie": "388546963",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40903397400018",
+    "lng": "8.17807827869015",
+    "lat": "48.9744735318508"
+  },
+  {
+    "finess": "670784412",
+    "raison_sociale": "EHPAD LAUTERBOURG",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DE L'HOPITAL",
+    "bp": "",
+    "cp": "67630",
+    "VILLE": "LAUTERBOURG ",
+    "tel": "388541111",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26670058200031",
+    "lng": "8.18032333111189",
+    "lat": "48.9744737802062"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "450012976",
+    "raison_sociale": "ESAT PEP GIENNOIS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "DOMAINE DES NOUES",
+    "bp": "",
+    "cp": "45570",
+    "VILLE": "DAMPIERRE EN BURLY    ",
+    "tel": "238352000",
+    "telecopie": "238352001",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77551558800074",
+    "lng": "2.54507252926942",
+    "lat": "47.7372762378887"
+  },
+  {
+    "finess": "450017645",
+    "raison_sociale": "EA LA NOUE DU BOIS",
+    "numero voie": "",
+    "type_voie": "ZONE",
+    "libelle_voie": "HORTICOLE DES NOUES",
+    "bp": "LA NOUE DU BOIS",
+    "cp": "45570",
+    "VILLE": "DAMPIERRE EN BURLY    ",
+    "tel": "238352000",
+    "telecopie": "238352001",
+    "categorie etablissement": "247",
+    "libelle categorie": "Entreprise adaptée",
+    "siret": "77551558800405",
+    "lng": "2.54507252926942",
+    "lat": "47.7372762378887"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "620012310",
+    "raison_sociale": "PHARMACIE LEBLANC-FIEVET",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DEPARTEMENTAL 240",
+    "bp": "",
+    "cp": "62360",
+    "VILLE": "HESDIN L ABBE    ",
+    "tel": "321832269",
+    "telecopie": "321872524",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44926372200018",
+    "lng": "1.67990325789015",
+    "lat": "50.668709498738"
+  },
+  {
+    "finess": "620035634",
+    "raison_sociale": "OXYPHARM",
+    "numero voie": "10",
+    "type_voie": "BD",
+    "libelle_voie": "DE STRASBOURG",
+    "bp": "",
+    "cp": "62360",
+    "VILLE": "HESDIN L ABBE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "",
+    "lng": "1.67226556982195",
+    "lat": "50.671602441116"
+  },
+  {
+    "finess": "620109629",
+    "raison_sociale": "EHPAD  LA CATALANE",
+    "numero voie": "6",
+    "type_voie": "ALL",
+    "libelle_voie": "MIMOSAS",
+    "bp": "",
+    "cp": "62360",
+    "VILLE": "HESDIN L ABBE    ",
+    "tel": "321836433",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "32497114200017",
+    "lng": "1.67474195089082",
+    "lat": "50.6648966781854"
+  }
+]

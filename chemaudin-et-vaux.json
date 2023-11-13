@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "250008240",
+    "raison_sociale": "PHARMACIE REMY",
+    "numero voie": "5",
+    "type_voie": "RTE",
+    "libelle_voie": "DE BESANCON",
+    "bp": "",
+    "cp": "25320",
+    "VILLE": "CHEMAUDIN ET VAUX    ",
+    "tel": "381585802",
+    "telecopie": "381585802",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51130199600019",
+    "lng": "5.89824100307725",
+    "lat": "47.2264347459665"
+  },
+  {
+    "finess": "250021938",
+    "raison_sociale": "SOS OXYGENE FRANCHE-COMTE",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "ROBERT SCHWINT",
+    "bp": "",
+    "cp": "25320",
+    "VILLE": "CHEMAUDIN ET VAUX    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "",
+    "lng": "5.89061138892214",
+    "lat": "47.2247055906487"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "70006689",
+    "raison_sociale": "LIEU DE VIE ET D'ACCUEIL CONVERGENCE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LE VILLAGE",
+    "cp": "7200",
+    "VILLE": "FONS ",
+    "tel": "426622224",
+    "telecopie": "426622224",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "50846697600034",
+    "lng": "4.35007724896681",
+    "lat": "44.5831255541323"
+  },
+  {
+    "finess": "300013588",
+    "raison_sociale": "EHPAD LES JASSES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "FONS OUTRE GARDON",
+    "bp": "",
+    "cp": "30730",
+    "VILLE": "FONS ",
+    "tel": "466637100",
+    "telecopie": "466637249",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26300014300101",
+    "lng": "4.19462509121369",
+    "lat": "43.9078379954297"
+  },
+  {
+    "finess": "460780182",
+    "raison_sociale": "IME LES ROITELETS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LE BOURG",
+    "cp": "46100",
+    "VILLE": "FONS ",
+    "tel": "565401141",
+    "telecopie": "565401295",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "31138227900017",
+    "lng": "1.95139185118908",
+    "lat": "44.6644226010481"
+  }
+]

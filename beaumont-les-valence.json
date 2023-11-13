@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "260003561",
+    "raison_sociale": "PHARMACIE DES PINS",
+    "numero voie": "",
+    "type_voie": "ALL",
+    "libelle_voie": "DES PINS",
+    "bp": "",
+    "cp": "26760",
+    "VILLE": "BEAUMONT LES VALENCE    ",
+    "tel": "475597207",
+    "telecopie": "475595494",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49970083900016",
+    "lng": "4.9399575674909",
+    "lat": "44.8660276721789"
+  },
+  {
+    "finess": "260012950",
+    "raison_sociale": "SERENIDE LE BEAU MONT",
+    "numero voie": "13",
+    "type_voie": "CHE",
+    "libelle_voie": "DES ECOLIERS",
+    "bp": "",
+    "cp": "26760",
+    "VILLE": "BEAUMONT LES VALENCE    ",
+    "tel": "475597774",
+    "telecopie": "475824885",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "77947198600272",
+    "lng": "4.94125167258172",
+    "lat": "44.8628367030202"
+  },
+  {
+    "finess": "260016456",
+    "raison_sociale": "ASSOCIATION AIRE",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "HELENE GRAIL",
+    "bp": "BP 4",
+    "cp": "26760",
+    "VILLE": "BEAUMONT LES VALENCE    ",
+    "tel": "475597712",
+    "telecopie": "475597945",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "34283247400015",
+    "lng": "4.94569791893533",
+    "lat": "44.8664225457809"
+  }
+]

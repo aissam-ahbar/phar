@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "10780849",
+    "raison_sociale": "EHPAD LE CHATEAU DE GREX CORBONOD",
+    "numero voie": "402",
+    "type_voie": "R",
+    "libelle_voie": "DE LA CROIX MOREX",
+    "bp": "",
+    "cp": "1420",
+    "VILLE": "CORBONOD ",
+    "tel": "450561543",
+    "telecopie": "450561678",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77564661500614",
+    "lng": "5.81784411495716",
+    "lat": "45.970364366241"
+  },
+  {
+    "finess": "10786853",
+    "raison_sociale": "FOYER DE VIE SAINT VINCENT",
+    "numero voie": "402",
+    "type_voie": "R",
+    "libelle_voie": "DE LA CROIX MOREX",
+    "bp": "",
+    "cp": "1420",
+    "VILLE": "CORBONOD ",
+    "tel": "450561543",
+    "telecopie": "",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "77564661500614",
+    "lng": "5.81784411495716",
+    "lat": "45.970364366241"
+  },
+  {
+    "finess": "10789980",
+    "raison_sociale": "EAM MONTANIER CORBONOD",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE CLOS DE GREX",
+    "bp": "",
+    "cp": "1420",
+    "VILLE": "CORBONOD ",
+    "tel": "450561543",
+    "telecopie": "450561678",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "",
+    "lng": "5.80969370120549",
+    "lat": "45.9710418294149"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "400007084",
+    "raison_sociale": "MAS L'ARCOLAN",
+    "numero voie": "806",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LEON",
+    "bp": "",
+    "cp": "40140",
+    "VILLE": "MAGESCQ ",
+    "tel": "558476700",
+    "telecopie": "558476701",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "26400332800186",
+    "lng": "-1.22768233191903",
+    "lat": "43.7895620851834"
+  },
+  {
+    "finess": "400008553",
+    "raison_sociale": "PHARMACIE  DAUNEY",
+    "numero voie": "30",
+    "type_voie": "AV",
+    "libelle_voie": "DE MAREMNE",
+    "bp": "",
+    "cp": "40140",
+    "VILLE": "MAGESCQ ",
+    "tel": "558477032",
+    "telecopie": "558497700",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "37784045900020",
+    "lng": "-1.21791206513468",
+    "lat": "43.7776284244914"
+  },
+  {
+    "finess": "400015988",
+    "raison_sociale": "MSP DE HERMAGESCQ",
+    "numero voie": "30",
+    "type_voie": "AV",
+    "libelle_voie": "DE MARENNE",
+    "bp": "",
+    "cp": "40140",
+    "VILLE": "MAGESCQ ",
+    "tel": "771667103",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "91234027000012",
+    "lng": "-1.21791206513468",
+    "lat": "43.7776284244914"
+  }
+]

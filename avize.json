@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "510002090",
+    "raison_sociale": "RESIDENCE AUGE-COLIN",
+    "numero voie": "86",
+    "type_voie": "ALL",
+    "libelle_voie": "SIMON DINET",
+    "bp": "",
+    "cp": "51190",
+    "VILLE": "AVIZE ",
+    "tel": "326587400",
+    "telecopie": "326594946",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26510013100019",
+    "lng": "4.03371009249514",
+    "lat": "48.9788164571335"
+  },
+  {
+    "finess": "510017791",
+    "raison_sociale": "PHARMACIE RONDEAU - DIDIER",
+    "numero voie": "7",
+    "type_voie": "PL",
+    "libelle_voie": "LEON BOURGEOIS",
+    "bp": "",
+    "cp": "51190",
+    "VILLE": "AVIZE ",
+    "tel": "326575464",
+    "telecopie": "326576030",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80156122600011",
+    "lng": "4.00906997476718",
+    "lat": "48.971465882452"
+  }
+]

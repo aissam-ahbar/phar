@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "330052614",
+    "raison_sociale": "PHARMACIE DE  SAINT-SELVE",
+    "numero voie": "",
+    "type_voie": "GR",
+    "libelle_voie": "Parcelles B708p à B722p",
+    "bp": "",
+    "cp": "33650",
+    "VILLE": "ST SELVE",
+    "tel": "556802451",
+    "telecopie": "557011688",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82250686100027",
+    "lng": "-0.480516661616127",
+    "lat": "44.671168810606"
+  },
+  {
+    "finess": "330780784",
+    "raison_sociale": "MONTALIER - POLE DE SOINS SAINT-SELVE",
+    "numero voie": "4",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LA PALOUMEYRE",
+    "bp": "",
+    "cp": "33650",
+    "VILLE": "ST SELVE",
+    "tel": "557971130",
+    "telecopie": "557971133",
+    "categorie etablissement": "430",
+    "libelle categorie": "Centre Postcure Malades Mentaux",
+    "siret": "78200453500012",
+    "lng": "-0.486621613715528",
+    "lat": "44.6710503919684"
+  }
+]

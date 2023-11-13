@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "170021224",
+    "raison_sociale": "EHPAD RESIDENCE LE LITTORAL",
+    "numero voie": "44",
+    "type_voie": "R",
+    "libelle_voie": "DU CAILLEAU",
+    "bp": "",
+    "cp": "17570",
+    "VILLE": "ST AUGUSTIN",
+    "tel": "546222727",
+    "telecopie": "546051875",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "48216254200047",
+    "lng": "-1.09649860488499",
+    "lat": "45.6789351064449"
+  },
+  {
+    "finess": "770011161",
+    "raison_sociale": "PHARMACIE BEAUJEAN",
+    "numero voie": "14",
+    "type_voie": "R",
+    "libelle_voie": "DE MEAUX",
+    "bp": "",
+    "cp": "77515",
+    "VILLE": "ST AUGUSTIN",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39258231800011",
+    "lng": "3.03006568132142",
+    "lat": "48.7888466269888"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "290011220",
+    "raison_sociale": "PHARMACIE DORVAL-SATRE",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DE PORT MANECH",
+    "bp": "",
+    "cp": "29920",
+    "VILLE": "NEVEZ ",
+    "tel": "298068102",
+    "telecopie": "298068102",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49097647900017",
+    "lng": "-3.79152776641651",
+    "lat": "47.8189345674642"
+  },
+  {
+    "finess": "290027986",
+    "raison_sociale": "SAAD ADMR AVEN MOROS",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE KERILIS",
+    "bp": "BP 14",
+    "cp": "29920",
+    "VILLE": "NEVEZ ",
+    "tel": "298068186",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "33028662600016",
+    "lng": "-3.79417596604359",
+    "lat": "47.8200806720488"
+  }
+]

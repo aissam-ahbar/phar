@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "560002271",
+    "raison_sociale": "EHPAD LE FLORILEGE",
+    "numero voie": "56",
+    "type_voie": "R",
+    "libelle_voie": "DU GOBUN",
+    "bp": "",
+    "cp": "56130",
+    "VILLE": "FEREL ",
+    "tel": "256503079",
+    "telecopie": "299900980",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26560008000047",
+    "lng": "-2.33596139599734",
+    "lat": "47.4815487205377"
+  },
+  {
+    "finess": "560016560",
+    "raison_sociale": "PHARMACIE DE FEREL",
+    "numero voie": "17",
+    "type_voie": "R",
+    "libelle_voie": "de la Fontaine",
+    "bp": "",
+    "cp": "56130",
+    "VILLE": "FEREL ",
+    "tel": "299900435",
+    "telecopie": "975199429",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75268035500027",
+    "lng": "-2.34500324459553",
+    "lat": "47.4820646305508"
+  },
+  {
+    "finess": "560026171",
+    "raison_sociale": "FAM LE FLORILEGE",
+    "numero voie": "56",
+    "type_voie": "R",
+    "libelle_voie": "DU GOBUN",
+    "bp": "",
+    "cp": "56130",
+    "VILLE": "FEREL ",
+    "tel": "256503079",
+    "telecopie": "",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "26560008000039",
+    "lng": "-2.33596139599734",
+    "lat": "47.4815487205377"
+  }
+]

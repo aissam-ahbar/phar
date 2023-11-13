@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "540017977",
+    "raison_sociale": "PHARMACIE  SAINTON",
+    "numero voie": "108",
+    "type_voie": "AV",
+    "libelle_voie": "CHARLES DE GAULLE",
+    "bp": "",
+    "cp": "54910",
+    "VILLE": "VALLEROY ",
+    "tel": "382461267",
+    "telecopie": "382209828",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "87749812100012",
+    "lng": "5.93949400282497",
+    "lat": "49.2121972697258"
+  },
+  {
+    "finess": "540026671",
+    "raison_sociale": "SAAD MAISON AGES & VIE",
+    "numero voie": "32",
+    "type_voie": "R",
+    "libelle_voie": "MUZILLON",
+    "bp": "",
+    "cp": "54910",
+    "VILLE": "VALLEROY ",
+    "tel": "756026369",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "5.93420804652815",
+    "lat": "49.2038155383023"
+  }
+]

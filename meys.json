@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "690025721",
+    "raison_sociale": "SAVS \"LA GOUTTE D'OR\"",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LIEU-DIT LA GARE",
+    "bp": "",
+    "cp": "69610",
+    "VILLE": "MEYS ",
+    "tel": "474266126",
+    "telecopie": "474266128",
+    "categorie etablissement": "446",
+    "libelle categorie": "Service d'Accompagnement à la Vie Sociale (S.A.V.S.)",
+    "siret": "77564828000235",
+    "lng": "4.39967969949284",
+    "lat": "45.6690997394389"
+  },
+  {
+    "finess": "690790597",
+    "raison_sociale": "ESAT LA GOUTTE D'OR - ADAPEI 69",
+    "numero voie": "245",
+    "type_voie": "CHE",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "69610",
+    "VILLE": "MEYS ",
+    "tel": "474266126",
+    "telecopie": "474266128",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77564828000417",
+    "lng": "4.39967969949284",
+    "lat": "45.6690997394389"
+  },
+  {
+    "finess": "690791207",
+    "raison_sociale": "FOYER DE L'ESAT LA GOUTTE D'OR",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LA GARE",
+    "cp": "69610",
+    "VILLE": "MEYS ",
+    "tel": "474266126",
+    "telecopie": "474266128",
+    "categorie etablissement": "252",
+    "libelle categorie": "Foyer Hébergement Adultes Handicapés",
+    "siret": "77564828000235",
+    "lng": "4.39967969949284",
+    "lat": "45.6690997394389"
+  }
+]

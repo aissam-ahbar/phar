@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "120002464",
+    "raison_sociale": "PHARMACIE MAYANOBE-GILLET",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "PAUL RAMADIER",
+    "bp": "",
+    "cp": "12300",
+    "VILLE": "LIVINHAC LE HAUT    ",
+    "tel": "565633624",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "41781445600022",
+    "lng": "2.22971931157191",
+    "lat": "44.5958202396452"
+  },
+  {
+    "finess": "120009543",
+    "raison_sociale": "SAAD AGES & VIE LIVINHAC LE HAUT",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "12300",
+    "VILLE": "LIVINHAC LE HAUT    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "75051007500047",
+    "lng": "2.23107757125896",
+    "lat": "44.5912003914474"
+  },
+  {
+    "finess": "120787924",
+    "raison_sociale": "EHPAD \"L'OASIS\"",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "LAROMIGUIERE",
+    "bp": "",
+    "cp": "12300",
+    "VILLE": "LIVINHAC LE HAUT    ",
+    "tel": "565437840",
+    "telecopie": "565633706",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26120242800023",
+    "lng": "2.23365818001351",
+    "lat": "44.5919196462009"
+  }
+]

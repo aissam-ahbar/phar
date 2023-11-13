@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "310009725",
+    "raison_sociale": "PHARMACIE DE MONTGISCARD",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "6",
+    "bp": "",
+    "cp": "HAUTE",
+    "VILLE": "GARONNE ",
+    "tel": "31450 MONTGISCARD",
+    "telecopie": "561819009",
+    "categorie etablissement": "",
+    "libelle categorie": "620",
+    "siret": "",
+    "lng": "1.57549357531325",
+    "lat": "43.4592483649534"
+  },
+  {
+    "finess": "310032495",
+    "raison_sociale": "SERVICE RRC",
+    "numero voie": "",
+    "type_voie": "1",
+    "libelle_voie": "R",
+    "bp": "",
+    "cp": "HAUTE",
+    "VILLE": "GARONNE ",
+    "tel": "31000 TOULOUSE",
+    "telecopie": "536252478",
+    "categorie etablissement": "",
+    "libelle categorie": "286",
+    "siret": "Services Concourant à la Protection de l'Enfance",
+    "lng": "1.44936598716458",
+    "lat": "43.6016036143562"
+  },
+  {
+    "finess": "310792924",
+    "raison_sociale": "SSIAD GAMBETTA",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "11A",
+    "bp": "",
+    "cp": "HAUTE",
+    "VILLE": "GARONNE ",
+    "tel": "31330 GRENADE",
+    "telecopie": "561371927",
+    "categorie etablissement": "561825280",
+    "libelle categorie": "354",
+    "siret": "Etablissements et services multi-clientèles",
+    "lng": "1.29893429641803",
+    "lat": "43.765232767904"
+  }
+]

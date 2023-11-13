@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "430007815",
+    "raison_sociale": "EHPAD RESIDENCE VILLA MARIE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LE BOURG",
+    "cp": "43510",
+    "VILLE": "CAYRES ",
+    "tel": "471011111",
+    "telecopie": "471573388",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77563330800330",
+    "lng": "3.80658756371139",
+    "lat": "44.9268315871181"
+  },
+  {
+    "finess": "430009761",
+    "raison_sociale": "ADMR CAYRES",
+    "numero voie": "4",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "43510",
+    "VILLE": "CAYRES ",
+    "tel": "471578174",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "42380668600048",
+    "lng": "3.80704518959275",
+    "lat": "44.9254272392265"
+  }
+]

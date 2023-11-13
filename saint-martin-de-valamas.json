@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "70003520",
+    "raison_sociale": "PHARMACIE JOUBERT AMANDINE",
+    "numero voie": "215",
+    "type_voie": "R",
+    "libelle_voie": "de la poste",
+    "bp": "",
+    "cp": "7310",
+    "VILLE": "ST MARTIN DE VALAMAS   ",
+    "tel": "475304376",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52876331100016",
+    "lng": "4.36718013954828",
+    "lat": "44.937313184902"
+  },
+  {
+    "finess": "70008883",
+    "raison_sociale": "ADMR EYRIEUX OUVÈZE",
+    "numero voie": "80",
+    "type_voie": "ALL",
+    "libelle_voie": "CHAMPCHIROUX",
+    "bp": "",
+    "cp": "7310",
+    "VILLE": "ST MARTIN DE VALAMAS   ",
+    "tel": "475646288",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "44379326000029",
+    "lng": "4.36418301608049",
+    "lat": "44.9436192423556"
+  },
+  {
+    "finess": "70780648",
+    "raison_sociale": "EHPAD \"LA CERRENO\"",
+    "numero voie": "105",
+    "type_voie": "RTE",
+    "libelle_voie": "DE NANT",
+    "bp": "",
+    "cp": "7310",
+    "VILLE": "ST MARTIN DE VALAMAS   ",
+    "tel": "475304433",
+    "telecopie": "775305577",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26070016600010",
+    "lng": "4.37525785598564",
+    "lat": "44.938106833886"
+  }
+]

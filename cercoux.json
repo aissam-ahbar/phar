@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "170010714",
+    "raison_sociale": "PHARMACIE AMAROT",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "GRAND-RUE",
+    "bp": "",
+    "cp": "17270",
+    "VILLE": "CERCOUX ",
+    "tel": "546047128",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "43818107500013",
+    "lng": "-0.205323593380331",
+    "lat": "45.1285814879485"
+  },
+  {
+    "finess": "170020481",
+    "raison_sociale": "SAAD CCAS DE CERCOUX",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE BOURG",
+    "bp": "",
+    "cp": "17270",
+    "VILLE": "CERCOUX ",
+    "tel": "546040545",
+    "telecopie": "546040138",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26170060300028",
+    "lng": "-0.205323593380331",
+    "lat": "45.1285814879485"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "340018159",
+    "raison_sociale": "EHPAD LES JARDINS D'ANIANE",
+    "numero voie": "2",
+    "type_voie": "AV",
+    "libelle_voie": "LIEUTENANT LOUIS MARRES",
+    "bp": "",
+    "cp": "34150",
+    "VILLE": "ANIANE ",
+    "tel": "499588500",
+    "telecopie": "499588565",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "51937218900018",
+    "lng": "3.59041792403601",
+    "lat": "43.6844701927798"
+  },
+  {
+    "finess": "340025626",
+    "raison_sociale": "MSP DE LA CONFISERIE - ANIANE",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DE LA CONFISERIE",
+    "bp": "",
+    "cp": "34150",
+    "VILLE": "ANIANE ",
+    "tel": "448200401",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "88335551300010",
+    "lng": "3.57716122705604",
+    "lat": "43.6829603034424"
+  },
+  {
+    "finess": "340792456",
+    "raison_sociale": "SELARL PHARMACIE DEGEILH",
+    "numero voie": "185",
+    "type_voie": "AV",
+    "libelle_voie": "des Treilles",
+    "bp": "Lieu dit Garrigues",
+    "cp": "34150",
+    "VILLE": "ANIANE ",
+    "tel": "467577001",
+    "telecopie": "467577341",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49787696100028",
+    "lng": "3.57725552284925",
+    "lat": "43.6825971683766"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "330050246",
+    "raison_sociale": "PHARMACIE DES GRANDES VIGNES",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "de la Liberté",
+    "bp": "",
+    "cp": "33210",
+    "VILLE": "PREIGNAC ",
+    "tel": "556632742",
+    "telecopie": "556633025",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80238657300017",
+    "lng": "-0.293915102116046",
+    "lat": "44.5832669079998"
+  },
+  {
+    "finess": "330060997",
+    "raison_sociale": "MSP DES GRANDES VIGNES",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "DE LA LIBERTE",
+    "bp": "",
+    "cp": "33210",
+    "VILLE": "PREIGNAC ",
+    "tel": "556622190",
+    "telecopie": "556633025",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "87919319100019",
+    "lng": "-0.293915102116046",
+    "lat": "44.5832669079998"
+  }
+]

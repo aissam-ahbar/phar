@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "110006103",
+    "raison_sociale": "MSP BIZE MINERVOIS",
+    "numero voie": "20",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "11120",
+    "VILLE": "BIZE MINERVOIS",
+    "tel": "468461055",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "78965350800018",
+    "lng": "2.87044255290466",
+    "lat": "43.3150690561428"
+  },
+  {
+    "finess": "110009941",
+    "raison_sociale": "LVA LE RECANTOU",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE L'HOTEL DE VILLE",
+    "bp": "",
+    "cp": "11120",
+    "VILLE": "BIZE MINERVOIS",
+    "tel": "664285762",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "88945589500017",
+    "lng": "2.87090330829062",
+    "lat": "43.3183728615184"
+  },
+  {
+    "finess": "110789815",
+    "raison_sociale": "SELARL BARTHES DURAND",
+    "numero voie": "49",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "11120",
+    "VILLE": "BIZE MINERVOIS",
+    "tel": "468461046",
+    "telecopie": "468460874",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40207434800028",
+    "lng": "2.87129213842918",
+    "lat": "43.3125251672221"
+  }
+]

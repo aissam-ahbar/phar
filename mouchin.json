@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590025052",
+    "raison_sociale": "PHARMACIE VAN WELDEN",
+    "numero voie": "1",
+    "type_voie": "RTE",
+    "libelle_voie": "DE ST AMAND",
+    "bp": "",
+    "cp": "59310",
+    "VILLE": "MOUCHIN ",
+    "tel": "320796012",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80127044800013",
+    "lng": "3.28166368938933",
+    "lat": "50.5230578091273"
+  },
+  {
+    "finess": "590066668",
+    "raison_sociale": "MSP DE MOUCHIN",
+    "numero voie": "1",
+    "type_voie": "RTE",
+    "libelle_voie": "DE ST AMAND",
+    "bp": "",
+    "cp": "59310",
+    "VILLE": "MOUCHIN ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "90494850200011",
+    "lng": "3.28166368938933",
+    "lat": "50.5230578091273"
+  }
+]

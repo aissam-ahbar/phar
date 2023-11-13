@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "380024109",
+    "raison_sociale": "SAAD ADMR DU LIERS",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "LOUIS ROYON",
+    "bp": "NANTOIN",
+    "cp": "38260",
+    "VILLE": "PORTE DES BONNEVAUX    ",
+    "tel": "474798608",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "5.20015605537347",
+    "lat": "45.432144776926"
+  },
+  {
+    "finess": "380796136",
+    "raison_sociale": "SCE TRAVAIL.FAMIL. COMMELLE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "COMMELLE",
+    "cp": "38260",
+    "VILLE": "PORTE DES BONNEVAUX    ",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37864326600018",
+    "lng": "5.20015605537347",
+    "lat": "45.432144776926"
+  },
+  {
+    "finess": "380796722",
+    "raison_sociale": "SCE AIDE MENAGERE DE COMMELLE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "COMMELLE",
+    "cp": "38260",
+    "VILLE": "PORTE DES BONNEVAUX    ",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37863865400012",
+    "lng": "5.20015605537347",
+    "lat": "45.432144776926"
+  }
+]

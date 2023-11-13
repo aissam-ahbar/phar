@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "30780670",
+    "raison_sociale": "IME LE ROCHER FLEURI",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE ROC DU SAINT",
+    "bp": "",
+    "cp": "3170",
+    "VILLE": "ST ANGEL",
+    "tel": "470026060",
+    "telecopie": "470026069",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "84251286500119",
+    "lng": "2.64502235872902",
+    "lat": "46.3398694963383"
+  },
+  {
+    "finess": "30781637",
+    "raison_sociale": "SERVICE DE PSYCHIATRIE CHATELARD",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "3170",
+    "VILLE": "ST ANGEL",
+    "tel": "470023030",
+    "telecopie": "",
+    "categorie etablissement": "355",
+    "libelle categorie": "Centre Hospitalier (C.H.)",
+    "siret": "26030017300069",
+    "lng": "2.69773901252497",
+    "lat": "46.3571259974323"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "700002645",
+    "raison_sociale": "PHARMACIE DE LA CHAPELLE",
+    "numero voie": "1",
+    "type_voie": "AV",
+    "libelle_voie": "PASTEUR",
+    "bp": "",
+    "cp": "70250",
+    "VILLE": "RONCHAMP ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81520727900010",
+    "lng": "6.63329458306545",
+    "lat": "47.699128864021"
+  },
+  {
+    "finess": "700002660",
+    "raison_sociale": "PHARMACIE NOTRE DEAME DU HAUT",
+    "numero voie": "27",
+    "type_voie": "R",
+    "libelle_voie": "LE CORBUSIER",
+    "bp": "",
+    "cp": "70250",
+    "VILLE": "RONCHAMP ",
+    "tel": "384635583",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82370985200011",
+    "lng": "6.630484624361",
+    "lat": "47.7001604454483"
+  },
+  {
+    "finess": "700781867",
+    "raison_sociale": "EHPAD NOTRE DAME",
+    "numero voie": "45",
+    "type_voie": "AV",
+    "libelle_voie": "PASTEUR",
+    "bp": "",
+    "cp": "70250",
+    "VILLE": "RONCHAMP ",
+    "tel": "384206353",
+    "telecopie": "384206711",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "40039525700753",
+    "lng": "6.63820704784263",
+    "lat": "47.6979092458737"
+  }
+]

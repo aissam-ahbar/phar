@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "290002088",
+    "raison_sociale": "EHPAD SAINT MICHEL",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "KERVOANEC",
+    "bp": "",
+    "cp": "29400",
+    "VILLE": "PLOUGOURVEST ",
+    "tel": "298680142",
+    "telecopie": "298683809",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26290018600012",
+    "lng": "-4.08158397300637",
+    "lat": "48.5367995173936"
+  },
+  {
+    "finess": "290032440",
+    "raison_sociale": "EAM RESIDENCE SAINT MICHEL",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "KERVOANEC",
+    "bp": "",
+    "cp": "29400",
+    "VILLE": "PLOUGOURVEST ",
+    "tel": "298680142",
+    "telecopie": "",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "26290018600053",
+    "lng": "-4.08158397300637",
+    "lat": "48.5367995173936"
+  },
+  {
+    "finess": "290032457",
+    "raison_sociale": "FOYER DE VIE ST MICHEL",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "KERVOANEC",
+    "bp": "",
+    "cp": "29400",
+    "VILLE": "PLOUGOURVEST ",
+    "tel": "298680142",
+    "telecopie": "",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "26290018600046",
+    "lng": "-4.08158397300637",
+    "lat": "48.5367995173936"
+  }
+]

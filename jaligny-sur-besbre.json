@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "30002745",
+    "raison_sociale": "PHARMACIE ASTRUC",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU PONT",
+    "bp": "",
+    "cp": "3220",
+    "VILLE": "JALIGNY SUR BESBRE    ",
+    "tel": "470347040",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79179229400013",
+    "lng": "3.5912540783278",
+    "lat": "46.3799884153697"
+  },
+  {
+    "finess": "30007017",
+    "raison_sociale": "RESIDENCE DU VAL DE BESBRE",
+    "numero voie": "39",
+    "type_voie": "R",
+    "libelle_voie": "DE LA COUZENOTTE",
+    "bp": "",
+    "cp": "3220",
+    "VILLE": "JALIGNY SUR BESBRE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "502",
+    "libelle categorie": "EHPA ne percevant pas des crédits d'assurance maladie",
+    "siret": "85264767600042",
+    "lng": "3.59832411942471",
+    "lat": "46.3815067070095"
+  },
+  {
+    "finess": "30784474",
+    "raison_sociale": "SCE AIDE MENAG DOM PERS AGEES",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DU MARCHE",
+    "bp": "",
+    "cp": "3220",
+    "VILLE": "JALIGNY SUR BESBRE    ",
+    "tel": "470347074",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "77901712800017",
+    "lng": "3.59333375452863",
+    "lat": "46.3794328214729"
+  }
+]

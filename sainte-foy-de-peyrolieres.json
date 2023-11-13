@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "310014246",
+    "raison_sociale": "PHIE DE BELLEVUE - DUCOS CATHERINE",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DU 8 MAI 1945",
+    "bp": "",
+    "cp": "31470",
+    "VILLE": "STE FOY DE PEYROLIERES   ",
+    "tel": "561919744",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "37875320600036",
+    "lng": "1.14521837844631",
+    "lat": "43.4927433655278"
+  },
+  {
+    "finess": "310035027",
+    "raison_sociale": "MSP SANTA FÉ",
+    "numero voie": "6",
+    "type_voie": "PL",
+    "libelle_voie": "HENRI DUNANT",
+    "bp": "",
+    "cp": "31470",
+    "VILLE": "STE FOY DE PEYROLIERES   ",
+    "tel": "561914444",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "91342243200017",
+    "lng": "1.14444961127258",
+    "lat": "43.49231893912"
+  },
+  {
+    "finess": "310792494",
+    "raison_sociale": "EHPAD L'ALBERGUE",
+    "numero voie": "8",
+    "type_voie": "ALL",
+    "libelle_voie": "DES TILLEULS",
+    "bp": "",
+    "cp": "31470",
+    "VILLE": "STE FOY DE PEYROLIERES   ",
+    "tel": "562147070",
+    "telecopie": "562147060",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77558124200333",
+    "lng": "1.1460983639416",
+    "lat": "43.4922877428678"
+  }
+]

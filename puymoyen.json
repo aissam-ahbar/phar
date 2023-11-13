@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "160011268",
+    "raison_sociale": "PHARMACIE ARRIETA",
+    "numero voie": "5",
+    "type_voie": "PL",
+    "libelle_voie": "DE GENAINVILLE",
+    "bp": "",
+    "cp": "16400",
+    "VILLE": "PUYMOYEN ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84752836100011",
+    "lng": "0.18023880652305",
+    "lat": "45.6150004591393"
+  },
+  {
+    "finess": "160017216",
+    "raison_sociale": "SAAD PARENTEO SERVICES",
+    "numero voie": "13",
+    "type_voie": "PL",
+    "libelle_voie": "DE GENAINVILLE",
+    "bp": "",
+    "cp": "16400",
+    "VILLE": "PUYMOYEN ",
+    "tel": "545612298",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "50240870100022",
+    "lng": "0.180179174550938",
+    "lat": "45.6152638737161"
+  }
+]

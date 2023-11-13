@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "40002396",
+    "raison_sociale": "SELARL PHARMACIE DES ORMEAUX",
+    "numero voie": "",
+    "type_voie": "BD",
+    "libelle_voie": "DU 6 JUIN 1944",
+    "bp": "",
+    "cp": "4230",
+    "VILLE": "ST ETIENNE LES ORGUES   ",
+    "tel": "492731000",
+    "telecopie": "492730966",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39346369000023",
+    "lng": "5.78078283772369",
+    "lat": "44.0437374372442"
+  },
+  {
+    "finess": "40006017",
+    "raison_sociale": "SAAD CCAS DE SAINT-ETIENNE-LES-ORGUES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "4230",
+    "VILLE": "ST ETIENNE LES ORGUES   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26040166600011",
+    "lng": "5.77859305503824",
+    "lat": "44.0457608113757"
+  },
+  {
+    "finess": "40006538",
+    "raison_sociale": "ACTION SANTE LURE",
+    "numero voie": "6",
+    "type_voie": "BD",
+    "libelle_voie": "DU 6 JUIN 1944",
+    "bp": "",
+    "cp": "4230",
+    "VILLE": "ST ETIENNE LES ORGUES   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "91488307900016",
+    "lng": "5.78078283772369",
+    "lat": "44.0437374372442"
+  }
+]

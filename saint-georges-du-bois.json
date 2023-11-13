@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "170014724",
+    "raison_sociale": "PHARMACIE VIDAL",
+    "numero voie": "61",
+    "type_voie": "R",
+    "libelle_voie": "DU PARC",
+    "bp": "",
+    "cp": "17700",
+    "VILLE": "ST GEORGES DU BOIS   ",
+    "tel": "546279194",
+    "telecopie": "546279410",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50875650900016",
+    "lng": "-0.734276571883539",
+    "lat": "46.1397493002713"
+  },
+  {
+    "finess": "720013945",
+    "raison_sociale": "PHARMACIE SAINT GEORGES DU BOIS",
+    "numero voie": "2",
+    "type_voie": "CRS",
+    "libelle_voie": "JACQUES MONOD",
+    "bp": "",
+    "cp": "72700",
+    "VILLE": "ST GEORGES DU BOIS   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53046529300021",
+    "lng": "0.095233514837856",
+    "lat": "47.9723339411067"
+  },
+  {
+    "finess": "720017664",
+    "raison_sociale": "EAM LES CEDRES",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "ST BARTHOLOMA",
+    "bp": "",
+    "cp": "72700",
+    "VILLE": "ST GEORGES DU BOIS   ",
+    "tel": "243883350",
+    "telecopie": "243873981",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "77565238100481",
+    "lng": "0.095216675110027",
+    "lat": "47.9718337275997"
+  }
+]

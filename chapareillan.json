@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "380003905",
+    "raison_sociale": "PHARMACIE DE CHAPAREILLAN",
+    "numero voie": "345",
+    "type_voie": "R",
+    "libelle_voie": "de l'Epinette",
+    "bp": "",
+    "cp": "38530",
+    "VILLE": "CHAPAREILLAN ",
+    "tel": "476452254",
+    "telecopie": "476452064",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "33786424300031",
+    "lng": "5.98965410594646",
+    "lat": "45.4670915050044"
+  },
+  {
+    "finess": "380025866",
+    "raison_sociale": "SAAD L'ESSENTIEL AU QUOTIDIEN",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "SAINT ROCH",
+    "bp": "",
+    "cp": "38530",
+    "VILLE": "CHAPAREILLAN ",
+    "tel": "658429248",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "5.99012190107657",
+    "lat": "45.4638873083199"
+  },
+  {
+    "finess": "380026799",
+    "raison_sociale": "MEDICAL BEL AIR CHAPAREILLAN",
+    "numero voie": "91",
+    "type_voie": "R",
+    "libelle_voie": "DE LONGIFAN",
+    "bp": "",
+    "cp": "38530",
+    "VILLE": "CHAPAREILLAN ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "50743808300077",
+    "lng": "5.99370493158405",
+    "lat": "45.4665959839432"
+  }
+]

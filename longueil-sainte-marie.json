@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "600002323",
+    "raison_sociale": "SELARL PHARMACIE DU GRAND FERRE",
+    "numero voie": "200",
+    "type_voie": "R",
+    "libelle_voie": "DE PICARDIE",
+    "bp": "",
+    "cp": "60126",
+    "VILLE": "LONGUEIL STE MARIE    ",
+    "tel": "344441711",
+    "telecopie": "344412299",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83017654100019",
+    "lng": "2.71736689023599",
+    "lat": "49.3589999308357"
+  },
+  {
+    "finess": "600101422",
+    "raison_sociale": "ESAT LES PEUPLIERS",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DU BAILLY",
+    "bp": "",
+    "cp": "60126",
+    "VILLE": "LONGUEIL STE MARIE    ",
+    "tel": "344411734",
+    "telecopie": "344232472",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77562913200041",
+    "lng": "2.72071159102914",
+    "lat": "49.3502453466794"
+  },
+  {
+    "finess": "600106355",
+    "raison_sociale": "FH UNAPEI60 LONGUEIL-SAINTE-MARIE",
+    "numero voie": "60",
+    "type_voie": "R",
+    "libelle_voie": "DU GRAND FERRÉ",
+    "bp": "",
+    "cp": "60126",
+    "VILLE": "LONGUEIL STE MARIE    ",
+    "tel": "344916280",
+    "telecopie": "344916281",
+    "categorie etablissement": "252",
+    "libelle categorie": "Foyer Hébergement Adultes Handicapés",
+    "siret": "",
+    "lng": "2.71891095485922",
+    "lat": "49.3524335675353"
+  }
+]

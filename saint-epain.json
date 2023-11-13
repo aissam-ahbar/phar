@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "370007411",
+    "raison_sociale": "PHARMACIE SAINT EPAIN",
+    "numero voie": "6",
+    "type_voie": "PL",
+    "libelle_voie": "de la mairie",
+    "bp": "",
+    "cp": "37800",
+    "VILLE": "ST EPAIN",
+    "tel": "247658009",
+    "telecopie": "247658385",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48916968000019",
+    "lng": "0.537252856312456",
+    "lat": "47.1444974370104"
+  },
+  {
+    "finess": "370010167",
+    "raison_sociale": "SAAD ADMR DE SAINT EPAIN",
+    "numero voie": "27",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "MAIRIE",
+    "cp": "37800",
+    "VILLE": "ST EPAIN",
+    "tel": "674961399",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "30333610100017",
+    "lng": "0.536755712961545",
+    "lat": "47.1445426990833"
+  }
+]

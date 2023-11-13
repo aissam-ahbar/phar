@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "520001066",
+    "raison_sociale": "SELARL PHARMACIE DE LA ROTONDE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "52600",
+    "VILLE": "CHALINDREY ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52036385400024",
+    "lng": "5.43595634035123",
+    "lat": "47.804689251761"
+  },
+  {
+    "finess": "520002692",
+    "raison_sociale": "SAAD D'AIDE AUX PA CIAS AVENIR",
+    "numero voie": "16",
+    "type_voie": "R",
+    "libelle_voie": "DE LA LIBERATION",
+    "bp": "",
+    "cp": "52600",
+    "VILLE": "CHALINDREY ",
+    "tel": "325848748",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26521013800011",
+    "lng": "5.43922378620529",
+    "lat": "47.8037469427352"
+  }
+]

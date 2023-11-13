@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "120001706",
+    "raison_sociale": "PHARMACIE DE CAMARES",
+    "numero voie": "1",
+    "type_voie": "AV",
+    "libelle_voie": "DE SAINT AFFRIQUE",
+    "bp": "",
+    "cp": "12360",
+    "VILLE": "CAMARES ",
+    "tel": "565995273",
+    "telecopie": "565995823",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84425659400012",
+    "lng": "2.87463794376489",
+    "lat": "43.8294284024855"
+  },
+  {
+    "finess": "120005921",
+    "raison_sociale": "SAAD CIAS CAMARES",
+    "numero voie": "11",
+    "type_voie": "GR",
+    "libelle_voie": "RUE",
+    "bp": "",
+    "cp": "12360",
+    "VILLE": "CAMARES ",
+    "tel": "565981520",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26120667600023",
+    "lng": "2.87848926324829",
+    "lat": "43.8216873385668"
+  },
+  {
+    "finess": "120006564",
+    "raison_sociale": "EHPAD RESIDENCE LE SHERPA",
+    "numero voie": "16",
+    "type_voie": "CHV",
+    "libelle_voie": "DE LAGARDE",
+    "bp": "",
+    "cp": "12360",
+    "VILLE": "CAMARES ",
+    "tel": "565499704",
+    "telecopie": "565490985",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "33407573600028",
+    "lng": "2.88264647360969",
+    "lat": "43.8266719222008"
+  }
+]

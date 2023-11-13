@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "410003073",
+    "raison_sociale": "PHARMACIE EMONET BROCHARD",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "41500",
+    "VILLE": "MUIDES SUR LOIRE    ",
+    "tel": "254875245",
+    "telecopie": "254870399",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49358145800012",
+    "lng": "1.52931899186979",
+    "lat": "47.6692865553974"
+  },
+  {
+    "finess": "410009534",
+    "raison_sociale": "MAISON MEDICALE DE MUIDES SUR LOIRE",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DE L'ETANG",
+    "bp": "",
+    "cp": "41500",
+    "VILLE": "MUIDES SUR LOIRE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "1.53057475943946",
+    "lat": "47.6680663201481"
+  }
+]

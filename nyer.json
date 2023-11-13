@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "660006198",
+    "raison_sociale": "MAS DES SOURCES",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE 116",
+    "bp": "THUES LES BAINS",
+    "cp": "66360",
+    "VILLE": "NYER ",
+    "tel": "468054000",
+    "telecopie": "468970706",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "40783384700012",
+    "lng": "2.27602960581925",
+    "lat": "42.5330439890195"
+  },
+  {
+    "finess": "660007527",
+    "raison_sociale": "PUV LE CHATEAU DE NYER",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU CHATEAU",
+    "bp": "",
+    "cp": "66360",
+    "VILLE": "NYER ",
+    "tel": "468965035",
+    "telecopie": "468059776",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "77619095100363",
+    "lng": "2.27720807578586",
+    "lat": "42.5333872983634"
+  },
+  {
+    "finess": "660009044",
+    "raison_sociale": "SAVS CHARLES DE MENDITTE NYER",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "66360",
+    "VILLE": "NYER ",
+    "tel": "468574195",
+    "telecopie": "468574199",
+    "categorie etablissement": "446",
+    "libelle categorie": "Service d'Accompagnement à la Vie Sociale (S.A.V.S.)",
+    "siret": "77619095100181",
+    "lng": "2.27602960581925",
+    "lat": "42.5330439890195"
+  }
+]

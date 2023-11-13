@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "170010615",
+    "raison_sociale": "PHARMACIE DE  BOURCEFRANC",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU PRESIDENT KENNEDY",
+    "bp": "",
+    "cp": "17560",
+    "VILLE": "BOURCEFRANC LE CHAPUS    ",
+    "tel": "546850215",
+    "telecopie": "546857944",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82432070900010",
+    "lng": "-1.14881061323396",
+    "lat": "45.846448060459"
+  },
+  {
+    "finess": "170799837",
+    "raison_sociale": "PUV - RESIDENCE LA ROSERAIE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "17560",
+    "VILLE": "BOURCEFRANC LE CHAPUS    ",
+    "tel": "546854113",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "50323655600034",
+    "lng": "-1.14493464520394",
+    "lat": "45.8453676965633"
+  },
+  {
+    "finess": "170803118",
+    "raison_sociale": "EHPAD - RESIDENCE LE LOUVOIS",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "ETIENNE TETAUD",
+    "bp": "",
+    "cp": "17560",
+    "VILLE": "BOURCEFRANC LE CHAPUS    ",
+    "tel": "546857141",
+    "telecopie": "546857161",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "78436145300110",
+    "lng": "-1.15477146829752",
+    "lat": "45.8486526986009"
+  }
+]

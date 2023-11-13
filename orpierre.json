@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "50001601",
+    "raison_sociale": "EHPAD LES ROCHES D'OR",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE  VILLAGE",
+    "bp": "",
+    "cp": "5700",
+    "VILLE": "ORPIERRE ",
+    "tel": "492662345",
+    "telecopie": "492662082",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "31716791400025",
+    "lng": "5.69348514745425",
+    "lat": "44.3140591815359"
+  },
+  {
+    "finess": "50007962",
+    "raison_sociale": "DITEP DYS LES LAVANDES",
+    "numero voie": "66",
+    "type_voie": "RTE",
+    "libelle_voie": "DES BARONNIES PROVENCALES",
+    "bp": "",
+    "cp": "5700",
+    "VILLE": "ORPIERRE ",
+    "tel": "492662135",
+    "telecopie": "",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "",
+    "lng": "5.69348514745425",
+    "lat": "44.3140591815359"
+  }
+]

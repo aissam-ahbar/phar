@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "170012280",
+    "raison_sociale": "PHARMACIE LUCQUIAUD",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE SAINTONGE",
+    "bp": "",
+    "cp": "17510",
+    "VILLE": "NERE ",
+    "tel": "546330018",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48482353900016",
+    "lng": "-0.237633182646577",
+    "lat": "45.9728859559776"
+  },
+  {
+    "finess": "170803688",
+    "raison_sociale": "EHPAD RESIDENCE LA CHATELLENIE",
+    "numero voie": "20",
+    "type_voie": "R",
+    "libelle_voie": "DE LA DORDOUILLE",
+    "bp": "",
+    "cp": "17510",
+    "VILLE": "NERE ",
+    "tel": "546336019",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26170304500029",
+    "lng": "-0.235145349787251",
+    "lat": "45.9723640718741"
+  }
+]

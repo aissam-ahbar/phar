@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "310011044",
+    "raison_sociale": "PHARMACIE ALIBERT - COMITI",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DES CIMES",
+    "bp": "",
+    "cp": "31180",
+    "VILLE": "ST GENIES BELLEVUE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82015643800021",
+    "lng": "1.48041153298586",
+    "lat": "43.6891933494755"
+  },
+  {
+    "finess": "310030887",
+    "raison_sociale": "SAAD ADMR DES COTEAUX DE BELLEVUE",
+    "numero voie": "33",
+    "type_voie": "R",
+    "libelle_voie": "PRINCIPALE",
+    "bp": "",
+    "cp": "31180",
+    "VILLE": "ST GENIES BELLEVUE    ",
+    "tel": "562897908",
+    "telecopie": "534257532",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "49891693100021",
+    "lng": "1.48647283467853",
+    "lat": "43.6848202235815"
+  }
+]

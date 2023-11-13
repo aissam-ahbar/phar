@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "140010992",
+    "raison_sociale": "PHARMACIE DE VILLERS SUR MER",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DES BELGES",
+    "bp": "",
+    "cp": "14640",
+    "VILLE": "VILLERS SUR MER    ",
+    "tel": "231870038",
+    "telecopie": "231870038",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "87965505800011",
+    "lng": "-0.005041322606604",
+    "lat": "49.3219327732563"
+  },
+  {
+    "finess": "140023532",
+    "raison_sociale": "SAD ASS LOCALE ADMR DE VILLERS SUR MER",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "BOULARD",
+    "bp": "",
+    "cp": "14640",
+    "VILLE": "VILLERS SUR MER    ",
+    "tel": "231815933",
+    "telecopie": "231814289",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "39010498200033",
+    "lng": "-0.004771722435426",
+    "lat": "49.3212261281621"
+  }
+]

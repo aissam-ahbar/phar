@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "250003191",
+    "raison_sociale": "PHARMACIE BOLOT",
+    "numero voie": "13",
+    "type_voie": "",
+    "libelle_voie": "Grande rue",
+    "bp": "",
+    "cp": "25690",
+    "VILLE": "AVOUDREY ",
+    "tel": "381432404",
+    "telecopie": "381431891",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "32628897400016",
+    "lng": "6.43447956679808",
+    "lat": "47.1384368214055"
+  },
+  {
+    "finess": "250022035",
+    "raison_sociale": "MSP AVOUDREY",
+    "numero voie": "15",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "25690",
+    "VILLE": "AVOUDREY ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "95082353400017",
+    "lng": "6.43449274836514",
+    "lat": "47.1384364299435"
+  }
+]

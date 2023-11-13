@@ -1,0 +1,19 @@
+[
+  {
+    "finess": "80007081",
+    "raison_sociale": "PHARMACIE PASTEUR",
+    "numero voie": "16",
+    "type_voie": "R",
+    "libelle_voie": "PASTEUR",
+    "bp": "",
+    "cp": "8300",
+    "VILLE": "LUCQUY ",
+    "tel": "324720095",
+    "telecopie": "324724097",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "91171824500010",
+    "lng": "4.47612544353904",
+    "lat": "49.525470853577"
+  }
+]

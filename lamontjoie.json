@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "470009903",
+    "raison_sociale": "PHARMACIE LAMONJOIE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE BOURG",
+    "bp": "",
+    "cp": "47310",
+    "VILLE": "LAMONTJOIE ",
+    "tel": "553951218",
+    "telecopie": "555395218",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79858107000017",
+    "lng": "0.5211497637201",
+    "lat": "44.0756955239409"
+  },
+  {
+    "finess": "470014283",
+    "raison_sociale": "EHPAD LOUIS IX",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DU MARIN",
+    "bp": "",
+    "cp": "47310",
+    "VILLE": "LAMONTJOIE ",
+    "tel": "553484287",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "52293290400033",
+    "lng": "0.522108836268415",
+    "lat": "44.0751265224718"
+  }
+]

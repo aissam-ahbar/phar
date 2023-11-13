@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "50003326",
+    "raison_sociale": "PHARMACIE ROBERT",
+    "numero voie": "447",
+    "type_voie": "AV",
+    "libelle_voie": "de l'Hôtel",
+    "bp": "",
+    "cp": "5190",
+    "VILLE": "ESPINASSES ",
+    "tel": "492544054",
+    "telecopie": "492545199",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "43316350800016",
+    "lng": "6.22722592906124",
+    "lat": "44.4659781119527"
+  },
+  {
+    "finess": "50004589",
+    "raison_sociale": "EHPAD MONT SOLEIL",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DE LA BARQUE",
+    "bp": "",
+    "cp": "5190",
+    "VILLE": "ESPINASSES ",
+    "tel": "492666700",
+    "telecopie": "492666799",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "50046397100043",
+    "lng": "6.22470436087008",
+    "lat": "44.4659726413294"
+  },
+  {
+    "finess": "50008960",
+    "raison_sociale": "SAAD ADMR DE SERRE PONCON",
+    "numero voie": "",
+    "type_voie": "IMP",
+    "libelle_voie": "DU ROCHER",
+    "bp": "",
+    "cp": "5190",
+    "VILLE": "ESPINASSES ",
+    "tel": "492523782",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "35248978500027",
+    "lng": "6.22118582467718",
+    "lat": "44.4679882641648"
+  }
+]

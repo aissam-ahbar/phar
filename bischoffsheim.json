@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "670006501",
+    "raison_sociale": "PHARMACIE DU BISCHENBERG",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "PRINCIPALE",
+    "bp": "",
+    "cp": "67870",
+    "VILLE": "BISCHOFFSHEIM ",
+    "tel": "388504876",
+    "telecopie": "388502858",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "91424004900017",
+    "lng": "7.49634612951332",
+    "lat": "48.4877845741441"
+  },
+  {
+    "finess": "670019488",
+    "raison_sociale": "SAAD 1000 SERVICES 67 - MILLEPATTE",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "MGR KIRMANN",
+    "bp": "",
+    "cp": "67870",
+    "VILLE": "BISCHOFFSHEIM ",
+    "tel": "388871832",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "81111176400023",
+    "lng": "7.48902041255091",
+    "lat": "48.4857669508475"
+  },
+  {
+    "finess": "670781046",
+    "raison_sociale": "EHPAD RESIDENCE MARIE ROBERTA",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DE L'HOPITAL",
+    "bp": "",
+    "cp": "67870",
+    "VILLE": "BISCHOFFSHEIM ",
+    "tel": "388504113",
+    "telecopie": "388502577",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26670015200074",
+    "lng": "7.49042441312601",
+    "lat": "48.4856849912296"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "150001717",
+    "raison_sociale": "PHARMACIE BEAUDONNET-FOURNIAL",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "GEORGES POMPIDOU",
+    "bp": "",
+    "cp": "15700",
+    "VILLE": "PLEAUX ",
+    "tel": "471404022",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84787056500011",
+    "lng": "2.22555114578374",
+    "lat": "45.1339499126301"
+  },
+  {
+    "finess": "150780534",
+    "raison_sociale": "EHPAD LE BOCAGE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU BOCAGE",
+    "bp": "",
+    "cp": "15700",
+    "VILLE": "PLEAUX ",
+    "tel": "471404624",
+    "telecopie": "471402206",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26150010200023",
+    "lng": "2.22626703309179",
+    "lat": "45.1301144665613"
+  }
+]

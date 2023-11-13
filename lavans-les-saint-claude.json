@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "390002962",
+    "raison_sociale": "PHARMACIE MAGNENET CATHERINE",
+    "numero voie": "21",
+    "type_voie": "R",
+    "libelle_voie": "DU CRET DU BIEF",
+    "bp": "",
+    "cp": "39170",
+    "VILLE": "LAVANS LES ST CLAUDE   ",
+    "tel": "384428092",
+    "telecopie": "384422824",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "43956444400024",
+    "lng": "5.77728182310572",
+    "lat": "46.3825530119506"
+  },
+  {
+    "finess": "390006187",
+    "raison_sociale": "EHPAD CANTOU DU LIZON",
+    "numero voie": "33",
+    "type_voie": "R",
+    "libelle_voie": "DU CHALET",
+    "bp": "LA FAUVERGE",
+    "cp": "39170",
+    "VILLE": "LAVANS LES ST CLAUDE   ",
+    "tel": "384428360",
+    "telecopie": "384428371",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "25390190400131",
+    "lng": "5.78004851106604",
+    "lat": "46.3848814298501"
+  },
+  {
+    "finess": "390784692",
+    "raison_sociale": "MECS CHAMPANDRE FOYER SAINT JOSEPH",
+    "numero voie": "1111",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CHAMPANDRÉ",
+    "bp": "CHAMPANDRÉ",
+    "cp": "39170",
+    "VILLE": "LAVANS LES ST CLAUDE   ",
+    "tel": "384421067",
+    "telecopie": "384332891",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "81229736400026",
+    "lng": "5.7701849652694",
+    "lat": "46.3903338181754"
+  }
+]

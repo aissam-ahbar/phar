@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "30005615",
+    "raison_sociale": "PHARMACIE DU BOULET DE LA BOISSIERE",
+    "numero voie": "27",
+    "type_voie": "AV",
+    "libelle_voie": "FELIX MIOCHE",
+    "bp": "",
+    "cp": "3430",
+    "VILLE": "VILLEFRANCHE D ALLIER    ",
+    "tel": "470074038",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "41410982700017",
+    "lng": "2.85602719881235",
+    "lat": "46.3979306158181"
+  },
+  {
+    "finess": "30780738",
+    "raison_sociale": "IME DE NEUVILLE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "CHÂTEAU DE NEUVILLE",
+    "cp": "3430",
+    "VILLE": "VILLEFRANCHE D ALLIER    ",
+    "tel": "470074138",
+    "telecopie": "470074373",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "77906764400012",
+    "lng": "2.82665496463386",
+    "lat": "46.4199214565845"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "290013333",
+    "raison_sociale": "PHARMACIE BIHAN",
+    "numero voie": "1",
+    "type_voie": "RTE",
+    "libelle_voie": "de Saint-Antoine",
+    "bp": "",
+    "cp": "29252",
+    "VILLE": "PLOUEZOC H",
+    "tel": "298672312",
+    "telecopie": "298672762",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "87928752200012",
+    "lng": "-3.82061294651929",
+    "lat": "48.6379688496607"
+  },
+  {
+    "finess": "290037761",
+    "raison_sociale": "MSP PLOUEZOC'H",
+    "numero voie": "15",
+    "type_voie": "PL",
+    "libelle_voie": "DU BOURG",
+    "bp": "",
+    "cp": "29252",
+    "VILLE": "PLOUEZOC H",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "90853276500017",
+    "lng": "-3.82269672339085",
+    "lat": "48.6401226398479"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "240002162",
+    "raison_sociale": "EHPAD SAINT- ROME",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "MARIUS ROSSILLON",
+    "bp": "",
+    "cp": "24200",
+    "VILLE": "CARSAC AILLAC",
+    "tel": "553281002",
+    "telecopie": "553293761",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26240568100012",
+    "lng": "1.27419814511218",
+    "lat": "44.8276194096407"
+  },
+  {
+    "finess": "240008995",
+    "raison_sociale": "PHARMACIE CASTANT",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE BOURG",
+    "bp": "",
+    "cp": "24200",
+    "VILLE": "CARSAC AILLAC",
+    "tel": "553281662",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38506516400019",
+    "lng": "1.27655960256699",
+    "lat": "44.8410228905936"
+  }
+]

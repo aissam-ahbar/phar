@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590024204",
+    "raison_sociale": "PHARMACIE DEBOSKRE",
+    "numero voie": "85",
+    "type_voie": "R",
+    "libelle_voie": "DU 8 MAI 1945",
+    "bp": "",
+    "cp": "59176",
+    "VILLE": "MASNY ",
+    "tel": "327995400",
+    "telecopie": "327995401",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "87941798800018",
+    "lng": "3.18487253646058",
+    "lat": "50.3388094189797"
+  },
+  {
+    "finess": "590024220",
+    "raison_sociale": "PHARMACIE BEAUBATONS",
+    "numero voie": "14",
+    "type_voie": "R",
+    "libelle_voie": "GABRIEL PERI",
+    "bp": "",
+    "cp": "59176",
+    "VILLE": "MASNY ",
+    "tel": "327804955",
+    "telecopie": "327993235",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "33308177600010",
+    "lng": "3.2010871073051",
+    "lat": "50.3456836759524"
+  }
+]

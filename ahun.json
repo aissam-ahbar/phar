@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "230001513",
+    "raison_sociale": "PHARMACIE BERGER",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "23150",
+    "VILLE": "AHUN ",
+    "tel": "555624023",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38151475100019",
+    "lng": "2.04502810427606",
+    "lat": "46.0869607383805"
+  },
+  {
+    "finess": "230003568",
+    "raison_sociale": "EHPAD LE MAS FAURE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LE MAS",
+    "cp": "23150",
+    "VILLE": "AHUN ",
+    "tel": "555812491",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "43997564001150",
+    "lng": "2.03825905669393",
+    "lat": "46.0752125428491"
+  },
+  {
+    "finess": "230005001",
+    "raison_sociale": "CFPPA AHUN",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LE CHAUSSADIS",
+    "cp": "23150",
+    "VILLE": "AHUN ",
+    "tel": "555814890",
+    "telecopie": "",
+    "categorie etablissement": "330",
+    "libelle categorie": "Ecoles Formant aux Professions Sociales",
+    "siret": "19230030900064",
+    "lng": "2.02844530628286",
+    "lat": "46.0960128657689"
+  }
+]

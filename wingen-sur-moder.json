@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "670005768",
+    "raison_sociale": "FAM RÉSIDENCE DU HOCHBERG",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DU CHATEAU TEUSCH",
+    "bp": "",
+    "cp": "67290",
+    "VILLE": "WINGEN SUR MODER    ",
+    "tel": "388898854",
+    "telecopie": "388023080",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "77877202000062",
+    "lng": "7.36203270905473",
+    "lat": "48.9274512690689"
+  },
+  {
+    "finess": "670012723",
+    "raison_sociale": "PHARMACIE DU CRISTAL",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "PRINCIPALE",
+    "bp": "",
+    "cp": "67290",
+    "VILLE": "WINGEN SUR MODER    ",
+    "tel": "388897185",
+    "telecopie": "388898260",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50082745600020",
+    "lng": "7.37934077527337",
+    "lat": "48.9187540173895"
+  },
+  {
+    "finess": "670017672",
+    "raison_sociale": "FAS RÉSIDENCE DU HOCHBERG",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DU CHATEAU TEUSCH",
+    "bp": "",
+    "cp": "67290",
+    "VILLE": "WINGEN SUR MODER    ",
+    "tel": "388898854",
+    "telecopie": "",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "",
+    "lng": "7.36203270905473",
+    "lat": "48.9274512690689"
+  }
+]

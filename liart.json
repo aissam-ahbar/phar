@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "80006554",
+    "raison_sociale": "CENTRE MEDICO-SCOLAIRE",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "8290",
+    "VILLE": "LIART ",
+    "tel": "324354039",
+    "telecopie": "",
+    "categorie etablissement": "268",
+    "libelle categorie": "Centre Médico-Scolaire",
+    "siret": "",
+    "lng": "4.34004649309867",
+    "lat": "49.7687125833693"
+  },
+  {
+    "finess": "80007065",
+    "raison_sociale": "SELARL PHARMACIE CLAIREFONTAINE",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "328ÈME RÉGIMENT D'INFANTERI",
+    "bp": "",
+    "cp": "8290",
+    "VILLE": "LIART ",
+    "tel": "324544020",
+    "telecopie": "324544989",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82772335400011",
+    "lng": "4.34006075162844",
+    "lat": "49.7684096009274"
+  },
+  {
+    "finess": "80009988",
+    "raison_sociale": "EHPAD DE LIART",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "LABECQ",
+    "bp": "",
+    "cp": "8290",
+    "VILLE": "LIART ",
+    "tel": "324550820",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "80104779600017",
+    "lng": "4.34323266192551",
+    "lat": "49.7681599270214"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "finess": "10003523",
+    "raison_sociale": "PHARMACIE DU COLOMBIER",
+    "numero voie": "1",
+    "type_voie": "AV",
+    "libelle_voie": "Jean Falconnier",
+    "bp": "",
+    "cp": "1350",
+    "VILLE": "CULOZ ",
+    "tel": "479870017",
+    "telecopie": "479870863",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75305914600013",
+    "lng": "5.78131871181315",
+    "lat": "45.8480723756615"
+  }
+]

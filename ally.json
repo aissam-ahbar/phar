@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "150000537",
+    "raison_sociale": "PHARMACIE D'ALLY",
+    "numero voie": "24",
+    "type_voie": "R",
+    "libelle_voie": "de la Minoterie",
+    "bp": "",
+    "cp": "15700",
+    "VILLE": "ALLY ",
+    "tel": "471690075",
+    "telecopie": "982620039",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82860383700018",
+    "lng": "2.31750523030753",
+    "lat": "45.1736494579046"
+  },
+  {
+    "finess": "150780179",
+    "raison_sociale": "EHPAD LES CHAMPS FLEURIS",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE SALERS",
+    "bp": "",
+    "cp": "15700",
+    "VILLE": "ALLY ",
+    "tel": "471405830",
+    "telecopie": "471687201",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26150009400014",
+    "lng": "2.31689819080087",
+    "lat": "45.1708228415983"
+  }
+]

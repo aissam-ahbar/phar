@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "400010633",
+    "raison_sociale": "PHARMACIE  DUPRAT",
+    "numero voie": "120",
+    "type_voie": "R",
+    "libelle_voie": "DU LAVOIR",
+    "bp": "",
+    "cp": "40180",
+    "VILLE": "TERCIS LES BAINS    ",
+    "tel": "558576370",
+    "telecopie": "558576309",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53949743800017",
+    "lng": "-1.10614072603347",
+    "lat": "43.6694750580697"
+  },
+  {
+    "finess": "400780151",
+    "raison_sociale": "ETABLISSEMENT THERMAL",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "40180",
+    "VILLE": "TERCIS LES BAINS    ",
+    "tel": "558578003",
+    "telecopie": "",
+    "categorie etablissement": "126",
+    "libelle categorie": "Etablissement Thermal",
+    "siret": "98721039000017",
+    "lng": "-1.10961909813753",
+    "lat": "43.670378865349"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "2A0001434",
+    "raison_sociale": "SELARL PHARMACIE ORSINI",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "R.N. 198",
+    "bp": "",
+    "cp": "20145",
+    "VILLE": "SARI SOLENZARA",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83864230400011",
+    "lng": "9.39965137831051",
+    "lat": "41.8570591824882"
+  },
+  {
+    "finess": "2A0004487",
+    "raison_sociale": "SAAD PER ELLI - SARI SOLENZARA",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAISON DES SVCES LA POSTE",
+    "bp": "LE BOURG",
+    "cp": "20145",
+    "VILLE": "SARI SOLENZARA",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "82494794900056",
+    "lng": "9.39965137831051",
+    "lat": "41.8570591824882"
+  }
+]

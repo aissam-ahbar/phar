@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "500012059",
+    "raison_sociale": "PHARMACIE DE FLAMANVILLE",
+    "numero voie": "62",
+    "type_voie": "RTE",
+    "libelle_voie": "de Dielette",
+    "bp": "",
+    "cp": "50340",
+    "VILLE": "FLAMANVILLE ",
+    "tel": "233529912",
+    "telecopie": "233532274",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83527375600014",
+    "lng": "-1.86484312278451",
+    "lat": "49.540631579043"
+  },
+  {
+    "finess": "500016357",
+    "raison_sociale": "EHPAD \"L'AUBADE\" - FLAMANVILLE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU VALMANOIR",
+    "bp": "LA CAMPAGNE",
+    "cp": "50340",
+    "VILLE": "FLAMANVILLE ",
+    "tel": "233876230",
+    "telecopie": "233533041",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "43997564000111",
+    "lng": "-1.86533064224816",
+    "lat": "49.5320986030297"
+  },
+  {
+    "finess": "500018346",
+    "raison_sociale": "CONSULT. PROTECTION INFANTILE",
+    "numero voie": "37",
+    "type_voie": "R",
+    "libelle_voie": "DU CHATEAU",
+    "bp": "",
+    "cp": "50340",
+    "VILLE": "FLAMANVILLE ",
+    "tel": "233526021",
+    "telecopie": "",
+    "categorie etablissement": "230",
+    "libelle categorie": "Etablissement Consultation Protection Infantile",
+    "siret": "",
+    "lng": "-1.86612945490621",
+    "lat": "49.5324987250515"
+  }
+]

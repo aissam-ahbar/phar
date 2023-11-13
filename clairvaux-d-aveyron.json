@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "120782149",
+    "raison_sociale": "ESAT LES ATELIERS DU VALLON",
+    "numero voie": "18",
+    "type_voie": "R",
+    "libelle_voie": "DES CLAUX",
+    "bp": "",
+    "cp": "12330",
+    "VILLE": "CLAIRVAUX D AVEYRON    ",
+    "tel": "565727103",
+    "telecopie": "",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77555638400037",
+    "lng": "2.4120449982677",
+    "lat": "44.4249021508412"
+  },
+  {
+    "finess": "120784509",
+    "raison_sociale": "EANM LES ATELIERS DU VALLON",
+    "numero voie": "18",
+    "type_voie": "R",
+    "libelle_voie": "DES CLAUX",
+    "bp": "",
+    "cp": "12330",
+    "VILLE": "CLAIRVAUX D AVEYRON    ",
+    "tel": "565727103",
+    "telecopie": "",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "77555638400193",
+    "lng": "2.4120449982677",
+    "lat": "44.4249021508412"
+  },
+  {
+    "finess": "120787676",
+    "raison_sociale": "EHPAD \"LE VAL FLEURI\"",
+    "numero voie": "5",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA TOUR",
+    "bp": "",
+    "cp": "12330",
+    "VILLE": "CLAIRVAUX D AVEYRON    ",
+    "tel": "565713200",
+    "telecopie": "565713299",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "35250351000021",
+    "lng": "2.41052418279189",
+    "lat": "44.4269113993775"
+  }
+]

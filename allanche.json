@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "150000503",
+    "raison_sociale": "PHARMACIE VERDIER",
+    "numero voie": "23",
+    "type_voie": "",
+    "libelle_voie": "GRAND RUE ABBE DE PRADT",
+    "bp": "",
+    "cp": "15160",
+    "VILLE": "ALLANCHE ",
+    "tel": "471204215",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79506688500018",
+    "lng": "2.93434228898246",
+    "lat": "45.2294138487557"
+  },
+  {
+    "finess": "150780161",
+    "raison_sociale": "EHPAD PIERRE JARRY",
+    "numero voie": "8",
+    "type_voie": "RTE",
+    "libelle_voie": "ROCHE GRANDE",
+    "bp": "",
+    "cp": "15160",
+    "VILLE": "ALLANCHE ",
+    "tel": "471204319",
+    "telecopie": "471204628",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26150001100026",
+    "lng": "2.93075972314503",
+    "lat": "45.2247708949965"
+  }
+]

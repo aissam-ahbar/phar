@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "660785189",
+    "raison_sociale": "SAAD CCAS OLETTE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "66360",
+    "VILLE": "OLETTE ",
+    "tel": "468970286",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26660034500018",
+    "lng": "2.27129649890323",
+    "lat": "42.5557251232118"
+  },
+  {
+    "finess": "660788456",
+    "raison_sociale": "SELAS PHARMACIE SANSKI",
+    "numero voie": "96",
+    "type_voie": "AV",
+    "libelle_voie": "DU GÉNÉRAL DE GAULLE",
+    "bp": "",
+    "cp": "66360",
+    "VILLE": "OLETTE ",
+    "tel": "468962609",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52988111200013",
+    "lng": "2.2697217957041",
+    "lat": "42.5548477181658"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "460002744",
+    "raison_sociale": "SSIAD L'ESCALE",
+    "numero voie": "217",
+    "type_voie": "RTE",
+    "libelle_voie": "DE BRETENOUX",
+    "bp": "",
+    "cp": "46130",
+    "VILLE": "GLANES ",
+    "tel": "565386495",
+    "telecopie": "565384929",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "30818675800758",
+    "lng": "1.87742056638444",
+    "lat": "44.9199318287637"
+  },
+  {
+    "finess": "460004948",
+    "raison_sociale": "L'OUSTAL BERNARD BAGOU",
+    "numero voie": "259",
+    "type_voie": "RTE",
+    "libelle_voie": "DE BRETENOUX",
+    "bp": "",
+    "cp": "46130",
+    "VILLE": "GLANES ",
+    "tel": "565408795",
+    "telecopie": "",
+    "categorie etablissement": "207",
+    "libelle categorie": "Centre de Jour pour Personnes Agées",
+    "siret": "30818675800766",
+    "lng": "1.87701488980179",
+    "lat": "44.9196846100677"
+  },
+  {
+    "finess": "460784374",
+    "raison_sociale": "EHPA MARPA DE GLANES",
+    "numero voie": "261",
+    "type_voie": "RTE",
+    "libelle_voie": "DE BRETENOUX",
+    "bp": "",
+    "cp": "46130",
+    "VILLE": "GLANES ",
+    "tel": "565101400",
+    "telecopie": "565109798",
+    "categorie etablissement": "502",
+    "libelle categorie": "EHPA ne percevant pas des crédits d'assurance maladie",
+    "siret": "",
+    "lng": "1.87699481443177",
+    "lat": "44.9196745023117"
+  }
+]

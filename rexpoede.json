@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590026720",
+    "raison_sociale": "SELARL PHARMACIE DE REXPOEDE",
+    "numero voie": "19",
+    "type_voie": "R",
+    "libelle_voie": "DES FRERES NEUVILLE",
+    "bp": "",
+    "cp": "59122",
+    "VILLE": "REXPOEDE ",
+    "tel": "328683042",
+    "telecopie": "328683863",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49825219600015",
+    "lng": "2.53892907939032",
+    "lat": "50.939875546036"
+  },
+  {
+    "finess": "590043147",
+    "raison_sociale": "ANTENNE SAJ REXPOEDE",
+    "numero voie": "",
+    "type_voie": "ALL",
+    "libelle_voie": "JACQUES MONNIER",
+    "bp": "",
+    "cp": "59122",
+    "VILLE": "REXPOEDE ",
+    "tel": "328200202",
+    "telecopie": "328207370",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "77562228500382",
+    "lng": "2.54187282831361",
+    "lat": "50.9356326769193"
+  }
+]

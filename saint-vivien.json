@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "170020838",
+    "raison_sociale": "SESSAD DEFICIENTS AUDITIFS DIAPASOM 17",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "DES PETITS BONNEVEAUX",
+    "bp": "",
+    "cp": "17220",
+    "VILLE": "ST VIVIEN",
+    "tel": "546310192",
+    "telecopie": "",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "80125271901017",
+    "lng": "-1.0707343386686",
+    "lat": "46.0843529439471"
+  },
+  {
+    "finess": "170024186",
+    "raison_sociale": "SAVS DIAPASOM",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "DES PETITS BONNEVEAUX",
+    "bp": "",
+    "cp": "17220",
+    "VILLE": "ST VIVIEN",
+    "tel": "549628130",
+    "telecopie": "",
+    "categorie etablissement": "446",
+    "libelle categorie": "Service d'Accompagnement à la Vie Sociale (S.A.V.S.)",
+    "siret": "41089130300035",
+    "lng": "-1.0707343386686",
+    "lat": "46.0843529439471"
+  },
+  {
+    "finess": "170025076",
+    "raison_sociale": "ISIS ATLANTIQUE",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DES TERRIERS",
+    "bp": "",
+    "cp": "17220",
+    "VILLE": "ST VIVIEN",
+    "tel": "546506186",
+    "telecopie": "546506276",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "45156825700021",
+    "lng": "-1.07225662867202",
+    "lat": "46.083493068336"
+  }
+]

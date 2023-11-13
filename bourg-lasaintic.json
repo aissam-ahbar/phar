@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "630003366",
+    "raison_sociale": "PHARMACIE DIOT",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CLERMONT",
+    "bp": "",
+    "cp": "63760",
+    "VILLE": "BOURG LASTIC",
+    "tel": "473218021",
+    "telecopie": "473218850",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79853650400011",
+    "lng": "2.56934918160606",
+    "lat": "45.6499173422358"
+  },
+  {
+    "finess": "630013548",
+    "raison_sociale": "MAISON DE SANTE DE BOURG-LASTIC",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DES GRANGES",
+    "bp": "",
+    "cp": "63760",
+    "VILLE": "BOURG LASTIC",
+    "tel": "473925188",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "2.55798518635396",
+    "lat": "45.6492330481936"
+  },
+  {
+    "finess": "630786135",
+    "raison_sociale": "EHPAD LES BRUYERES",
+    "numero voie": "3",
+    "type_voie": "ALL",
+    "libelle_voie": "MARCEL PAGNOL",
+    "bp": "",
+    "cp": "63760",
+    "VILLE": "BOURG LASTIC",
+    "tel": "473218666",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26630229800028",
+    "lng": "2.55856680898412",
+    "lat": "45.649233529182"
+  }
+]

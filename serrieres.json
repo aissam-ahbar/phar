@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "70003736",
+    "raison_sociale": "PHARMACIE VALENTIN",
+    "numero voie": "",
+    "type_voie": "QU",
+    "libelle_voie": "JULES ROCHE",
+    "bp": "",
+    "cp": "7340",
+    "VILLE": "SERRIERES ",
+    "tel": "475340422",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "31647699300027",
+    "lng": "4.76578137294247",
+    "lat": "45.317783810604"
+  },
+  {
+    "finess": "70780390",
+    "raison_sociale": "CH DE SERRIERES",
+    "numero voie": "25",
+    "type_voie": "AV",
+    "libelle_voie": "HELVÉTIA",
+    "bp": "",
+    "cp": "7340",
+    "VILLE": "SERRIERES ",
+    "tel": "475694200",
+    "telecopie": "475341430",
+    "categorie etablissement": "106",
+    "libelle categorie": "Centre hospitalier",
+    "siret": "",
+    "lng": "4.76396970573201",
+    "lat": "45.3196731591431"
+  },
+  {
+    "finess": "70784608",
+    "raison_sociale": "EHPAD DE L'HOPITAL DE SERRIERES",
+    "numero voie": "25",
+    "type_voie": "AV",
+    "libelle_voie": "HELVETIA",
+    "bp": "",
+    "cp": "7340",
+    "VILLE": "SERRIERES ",
+    "tel": "475694200",
+    "telecopie": "475694209",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26070018200025",
+    "lng": "4.76396970573201",
+    "lat": "45.3196731591431"
+  }
+]

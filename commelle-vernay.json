@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "420003543",
+    "raison_sociale": "PHARMACIE DE COMMELLE-VERNAY",
+    "numero voie": "52",
+    "type_voie": "ALL",
+    "libelle_voie": "DU PARC",
+    "bp": "",
+    "cp": "42120",
+    "VILLE": "COMMELLE VERNAY",
+    "tel": "477674742",
+    "telecopie": "477677970",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81769366600015",
+    "lng": "4.06059905377083",
+    "lat": "45.9994100972359"
+  },
+  {
+    "finess": "420017634",
+    "raison_sociale": "MAISON DE SANTE LE COTEAU COMMELLE",
+    "numero voie": "91",
+    "type_voie": "ALL",
+    "libelle_voie": "DU PARC",
+    "bp": "",
+    "cp": "42120",
+    "VILLE": "COMMELLE VERNAY",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "91115781600016",
+    "lng": "4.0606177431416",
+    "lat": "45.9990388859951"
+  },
+  {
+    "finess": "420781767",
+    "raison_sociale": "CLINIQUE DES MONTS DU FOREZ",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "CHASSIGNOL",
+    "bp": "",
+    "cp": "42120",
+    "VILLE": "COMMELLE VERNAY",
+    "tel": "477448686",
+    "telecopie": "477708038",
+    "categorie etablissement": "161",
+    "libelle categorie": "Maison de Santé pour Maladies Mentales",
+    "siret": "39189065400018",
+    "lng": "4.0600894432558",
+    "lat": "45.9789268182057"
+  }
+]

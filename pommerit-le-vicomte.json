@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "220003958",
+    "raison_sociale": "RESIDENCE LE L'IF",
+    "numero voie": "22",
+    "type_voie": "",
+    "libelle_voie": "HENT DON",
+    "bp": "",
+    "cp": "22200",
+    "VILLE": "POMMERIT LE VICOMTE    ",
+    "tel": "296217348",
+    "telecopie": "296217354",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26220100700032",
+    "lng": "-3.08687912054013",
+    "lat": "48.6222926996789"
+  },
+  {
+    "finess": "220011142",
+    "raison_sociale": "PHARMACIE DU TREGOR-GOELO",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DU CENTRE",
+    "bp": "",
+    "cp": "22200",
+    "VILLE": "POMMERIT LE VICOMTE    ",
+    "tel": "296217479",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84819738000019",
+    "lng": "-3.08935622828468",
+    "lat": "48.6195873835741"
+  },
+  {
+    "finess": "220024467",
+    "raison_sociale": "ASSOCIATION TRISKELL MEDICAL",
+    "numero voie": "24",
+    "type_voie": "",
+    "libelle_voie": "HENT MEZENNES",
+    "bp": "",
+    "cp": "22200",
+    "VILLE": "POMMERIT LE VICOMTE    ",
+    "tel": "296217356",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "84375098500015",
+    "lng": "-3.09692872953034",
+    "lat": "48.6203440801942"
+  }
+]

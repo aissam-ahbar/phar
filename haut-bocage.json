@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "30008874",
+    "raison_sociale": "ANNEXE MECS LE TREFLE - LE PETIT PIRAY",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LE PETIT PIRAY - MAILLET",
+    "cp": "3190",
+    "VILLE": "HAUT BOCAGE",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "",
+    "lng": "2.70843172745808",
+    "lat": "46.462561781933"
+  },
+  {
+    "finess": "30780613",
+    "raison_sociale": "CENTRE DE REEDUCATION PROFESSIONNELLE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "CHATEAU DE LA MOTHE LOUROUX-HOD",
+    "cp": "3190",
+    "VILLE": "HAUT BOCAGE",
+    "tel": "470068055",
+    "telecopie": "470062719",
+    "categorie etablissement": "249",
+    "libelle categorie": "Etablissement et Service de Réadaptation Professionnelle",
+    "siret": "77902026200019",
+    "lng": "2.65214576474348",
+    "lat": "46.4786783646725"
+  }
+]

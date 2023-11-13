@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "90000761",
+    "raison_sociale": "PHARMACIE DE LA HAUTE VALLEE DE L'HER",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "1ère Armée Française Rhin D",
+    "bp": "",
+    "cp": "9300",
+    "VILLE": "BELESTA ",
+    "tel": "561016031",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82539536100025",
+    "lng": "1.93349222933833",
+    "lat": "42.9028676270457"
+  },
+  {
+    "finess": "90782228",
+    "raison_sociale": "EHPAD DE BELESTA",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DE LAVELANET",
+    "bp": "",
+    "cp": "9300",
+    "VILLE": "BELESTA ",
+    "tel": "561016601",
+    "telecopie": "561016601",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26090126900027",
+    "lng": "1.92929516314874",
+    "lat": "42.9066355276671"
+  }
+]

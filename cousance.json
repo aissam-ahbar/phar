@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "390002442",
+    "raison_sociale": "PHARMACIE DU JURA",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "Charrière Barras",
+    "bp": "",
+    "cp": "39190",
+    "VILLE": "COUSANCE ",
+    "tel": "384859034",
+    "telecopie": "384859146",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79109616700022",
+    "lng": "5.38828897548693",
+    "lat": "46.5307178208338"
+  },
+  {
+    "finess": "390781169",
+    "raison_sociale": "EHPAD DE BIAN",
+    "numero voie": "",
+    "type_voie": "HAM",
+    "libelle_voie": "DE BIAN",
+    "bp": "",
+    "cp": "39190",
+    "VILLE": "COUSANCE ",
+    "tel": "384870165",
+    "telecopie": "384859145",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26390015100014",
+    "lng": "5.39361771532226",
+    "lat": "46.5246103076805"
+  },
+  {
+    "finess": "390787117",
+    "raison_sociale": "CENTRE MEDICO SOCIAL COUSANCE",
+    "numero voie": "60",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "39190",
+    "VILLE": "COUSANCE ",
+    "tel": "384859543",
+    "telecopie": "",
+    "categorie etablissement": "230",
+    "libelle categorie": "Etablissement Consultation Protection Infantile",
+    "siret": "22390001000230",
+    "lng": "5.39127817658871",
+    "lat": "46.5316715324577"
+  }
+]

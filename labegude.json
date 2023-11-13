@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "70002670",
+    "raison_sociale": "PHARMACIE MONTJAUX-OLIVIE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "7200",
+    "VILLE": "LABEGUDE ",
+    "tel": "475374186",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "37877283400024",
+    "lng": "4.36767410038188",
+    "lat": "44.6478562782467"
+  },
+  {
+    "finess": "70006796",
+    "raison_sociale": "MAISON DE SANTE LABEGUDE",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DU 11 NOVEMBRE 1918",
+    "bp": "",
+    "cp": "7200",
+    "VILLE": "LABEGUDE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "4.37006626803967",
+    "lat": "44.6453955786518"
+  },
+  {
+    "finess": "70786462",
+    "raison_sociale": "EHPA LF RESIDENCE DU VAL D ARDECHE",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "JEAN MOULIN",
+    "bp": "",
+    "cp": "7200",
+    "VILLE": "LABEGUDE ",
+    "tel": "475376872",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26071020700028",
+    "lng": "4.36905005629821",
+    "lat": "44.6486298105201"
+  }
+]

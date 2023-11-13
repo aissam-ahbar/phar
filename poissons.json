@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "520002007",
+    "raison_sociale": "PHARMACIE DUVERNE-AUBERTIN",
+    "numero voie": "14",
+    "type_voie": "R",
+    "libelle_voie": "SAINT AMAND",
+    "bp": "",
+    "cp": "52230",
+    "VILLE": "POISSONS ",
+    "tel": "325945069",
+    "telecopie": "325044531",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44936963600013",
+    "lng": "5.2181174871583",
+    "lat": "48.424288422556"
+  },
+  {
+    "finess": "520780453",
+    "raison_sociale": "EHPAD LEGAY COLIN",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "SAINT AMAND",
+    "bp": "",
+    "cp": "52230",
+    "VILLE": "POISSONS ",
+    "tel": "325945102",
+    "telecopie": "325945431",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26520005500019",
+    "lng": "5.22020293963993",
+    "lat": "48.4242647030167"
+  },
+  {
+    "finess": "520783937",
+    "raison_sociale": "SAAD ADMR DE POISSONS-THONNANCE",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "SAINT AMAND",
+    "bp": "",
+    "cp": "52230",
+    "VILLE": "POISSONS ",
+    "tel": "325941876",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "30642066200026",
+    "lng": "5.21804178538911",
+    "lat": "48.4242889382723"
+  }
+]

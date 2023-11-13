@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "170012413",
+    "raison_sociale": "PHARMACIE BUREAU - LAMBERT",
+    "numero voie": "18",
+    "type_voie": "AV",
+    "libelle_voie": "DE COGNAC",
+    "bp": "",
+    "cp": "17800",
+    "VILLE": "PERIGNAC ",
+    "tel": "546964188",
+    "telecopie": "546972184",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34267505500012",
+    "lng": "-0.463077050970278",
+    "lat": "45.625686083199"
+  },
+  {
+    "finess": "170025704",
+    "raison_sociale": "CENTRE MEDICAL DE LA CROIX BLANCHE",
+    "numero voie": "22",
+    "type_voie": "AV",
+    "libelle_voie": "DE COGNAC",
+    "bp": "",
+    "cp": "17800",
+    "VILLE": "PERIGNAC ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "85384809100015",
+    "lng": "-0.463481922436258",
+    "lat": "45.625566355382"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "330049388",
+    "raison_sociale": "LBM CERBALLIANCE AQUITAINE NORD - PORT",
+    "numero voie": "29",
+    "type_voie": "RTE",
+    "libelle_voie": "DES GRAVES",
+    "bp": "",
+    "cp": "33640",
+    "VILLE": "PORTETS ",
+    "tel": "556672364",
+    "telecopie": "556670462",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "32319110600349",
+    "lng": "-0.418976203023197",
+    "lat": "44.6889600509755"
+  },
+  {
+    "finess": "330050162",
+    "raison_sociale": "PHARMACIE NAU",
+    "numero voie": "29",
+    "type_voie": "RTE",
+    "libelle_voie": "DES GRAVES",
+    "bp": "LIEU DIT PAPOULA",
+    "cp": "33640",
+    "VILLE": "PORTETS ",
+    "tel": "556675709",
+    "telecopie": "556670853",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "95036488500034",
+    "lng": "-0.418976203023197",
+    "lat": "44.6889600509755"
+  }
+]

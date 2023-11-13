@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "300006012",
+    "raison_sociale": "PHARMACIE DU GALEIZON",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "VINCENT FAITA",
+    "bp": "",
+    "cp": "30480",
+    "VILLE": "CENDRAS ",
+    "tel": "466861887",
+    "telecopie": "466302813",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84035883200011",
+    "lng": "4.05302125762667",
+    "lat": "44.1554499594383"
+  },
+  {
+    "finess": "300009529",
+    "raison_sociale": "EHPAD RESIDENCE L'EUZIERE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "YOURI GAGARINE",
+    "bp": "",
+    "cp": "30480",
+    "VILLE": "CENDRAS ",
+    "tel": "466563737",
+    "telecopie": "466563757",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "49024940600011",
+    "lng": "4.05376624449473",
+    "lat": "44.158474504574"
+  }
+]

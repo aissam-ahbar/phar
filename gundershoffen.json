@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "670007400",
+    "raison_sociale": "PHARMACIE DE GUNDERSHOFFEN",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "D ALSACE",
+    "bp": "",
+    "cp": "67110",
+    "VILLE": "GUNDERSHOFFEN ",
+    "tel": "388729221",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50071234400018",
+    "lng": "7.65515723535939",
+    "lat": "48.9064166871001"
+  },
+  {
+    "finess": "670020676",
+    "raison_sociale": "LBM B2A SITE GUNDERSHOFFEN",
+    "numero voie": "3",
+    "type_voie": "IMP",
+    "libelle_voie": "DE L'ARTISANAT",
+    "bp": "",
+    "cp": "67110",
+    "VILLE": "GUNDERSHOFFEN ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "43389526500521",
+    "lng": "7.65975371860378",
+    "lat": "48.9063332488377"
+  }
+]

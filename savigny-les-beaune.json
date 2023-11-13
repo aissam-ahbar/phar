@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "210002499",
+    "raison_sociale": "CTRE ACTIV JOUR SAVIGNY LES BEAUNE",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "DE CHOREY",
+    "bp": "",
+    "cp": "21420",
+    "VILLE": "SAVIGNY LES BEAUNE    ",
+    "tel": "380250430",
+    "telecopie": "380250439",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "77556724100085",
+    "lng": "4.82723310985946",
+    "lat": "47.0606808367423"
+  },
+  {
+    "finess": "210006953",
+    "raison_sociale": "SELARL PHARMACIE MOUSSIN",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "VAUCHEY VERY",
+    "bp": "",
+    "cp": "21420",
+    "VILLE": "SAVIGNY LES BEAUNE    ",
+    "tel": "380215268",
+    "telecopie": "380261103",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52748680700011",
+    "lng": "4.81802709247571",
+    "lat": "47.0631206972714"
+  },
+  {
+    "finess": "210780797",
+    "raison_sociale": "SERVICE RESIDENTIEL SAVIGNY LES BEAUNE",
+    "numero voie": "8",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CHOREY",
+    "bp": "",
+    "cp": "21420",
+    "VILLE": "SAVIGNY LES BEAUNE    ",
+    "tel": "380261220",
+    "telecopie": "",
+    "categorie etablissement": "252",
+    "libelle categorie": "Foyer Hébergement Adultes Handicapés",
+    "siret": "77556724100069",
+    "lng": "4.82723310985946",
+    "lat": "47.0606808367423"
+  }
+]

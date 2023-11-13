@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "320002900",
+    "raison_sociale": "PHARMACIE MUTIN",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "MAURICE BOUZIN",
+    "bp": "",
+    "cp": "32450",
+    "VILLE": "SARAMON ",
+    "tel": "562654013",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "89163430500017",
+    "lng": "0.763067460547852",
+    "lat": "43.5221177671665"
+  },
+  {
+    "finess": "320785181",
+    "raison_sociale": "CONSULTATIONS DE PMI",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DES ECOLES",
+    "bp": "",
+    "cp": "32450",
+    "VILLE": "SARAMON ",
+    "tel": "562654814",
+    "telecopie": "",
+    "categorie etablissement": "230",
+    "libelle categorie": "Etablissement Consultation Protection Infantile",
+    "siret": "22320001500392",
+    "lng": "0.764540180633012",
+    "lat": "43.5226377657098"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "300006277",
+    "raison_sociale": "SELARL SOFA 1607",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE PONT ST ESPRIT",
+    "bp": "",
+    "cp": "30630",
+    "VILLE": "GOUDARGUES ",
+    "tel": "466822038",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45119023500023",
+    "lng": "4.4730538557595",
+    "lat": "44.2166825824377"
+  },
+  {
+    "finess": "300011491",
+    "raison_sociale": "EAM YVERIERES",
+    "numero voie": "29",
+    "type_voie": "QUA",
+    "libelle_voie": "LES YVERIERES",
+    "bp": "",
+    "cp": "30630",
+    "VILLE": "GOUDARGUES ",
+    "tel": "466332150",
+    "telecopie": "466332159",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "77591588700183",
+    "lng": "4.46360995641578",
+    "lat": "44.2062174702257"
+  },
+  {
+    "finess": "300019536",
+    "raison_sociale": "MSP VAL DE CEZE - GOUDARGUES",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE FRIGOULET",
+    "bp": "LA BRUGUIERE",
+    "cp": "30630",
+    "VILLE": "GOUDARGUES ",
+    "tel": "466822995",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "87957142000014",
+    "lng": "4.45474676168135",
+    "lat": "44.2262055924352"
+  }
+]

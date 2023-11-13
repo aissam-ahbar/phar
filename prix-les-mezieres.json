@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "80007867",
+    "raison_sociale": "PHARMACIE BARBAISE",
+    "numero voie": "17",
+    "type_voie": "R",
+    "libelle_voie": "DE WARNECOURT",
+    "bp": "",
+    "cp": "8000",
+    "VILLE": "PRIX LES MEZIERES    ",
+    "tel": "324332488",
+    "telecopie": "324573060",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38916227200014",
+    "lng": "4.6981253938011",
+    "lat": "49.7539430676014"
+  },
+  {
+    "finess": "80011968",
+    "raison_sociale": "MSP  MED IN ARDENNES TEAM",
+    "numero voie": "15",
+    "type_voie": "RTE",
+    "libelle_voie": "DE WARNECOURT",
+    "bp": "",
+    "cp": "8000",
+    "VILLE": "PRIX LES MEZIERES    ",
+    "tel": "324371900",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "95316923200014",
+    "lng": "4.69836763795147",
+    "lat": "49.7540951643966"
+  }
+]

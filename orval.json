@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "180000531",
+    "raison_sociale": "RESIDENCE AUTONOMIE SULLY",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "SULLY",
+    "bp": "",
+    "cp": "18200",
+    "VILLE": "ORVAL ",
+    "tel": "248960986",
+    "telecopie": "248968590",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26180030400022",
+    "lng": "2.47467932392753",
+    "lat": "46.7248324526485"
+  },
+  {
+    "finess": "180003725",
+    "raison_sociale": "SELARL PHARMACIE D'ORVAL",
+    "numero voie": "3",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CULAN",
+    "bp": "",
+    "cp": "18200",
+    "VILLE": "ORVAL ",
+    "tel": "248960626",
+    "telecopie": "248961160",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79453764700016",
+    "lng": "2.48878096051703",
+    "lat": "46.7258496544393"
+  },
+  {
+    "finess": "180004806",
+    "raison_sociale": "SERVICE AIDE PERSONNES AGEES",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "18200",
+    "VILLE": "ORVAL ",
+    "tel": "248965740",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26180030400048",
+    "lng": "2.4814063725838",
+    "lat": "46.7263991618142"
+  }
+]

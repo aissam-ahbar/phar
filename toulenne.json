@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "330052945",
+    "raison_sociale": "GRANDE PHARMACIE DE TOULENNE",
+    "numero voie": "60",
+    "type_voie": "AV",
+    "libelle_voie": "DU 8 MAI 1945",
+    "bp": "",
+    "cp": "33210",
+    "VILLE": "TOULENNE ",
+    "tel": "556622027",
+    "telecopie": "556630516",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50818084100027",
+    "lng": "-0.261229612407076",
+    "lat": "44.5582320790466"
+  },
+  {
+    "finess": "330066226",
+    "raison_sociale": "SUR LE CHEMIN DES PAPILLONS ROUX",
+    "numero voie": "11",
+    "type_voie": "RTE",
+    "libelle_voie": "DE L'ARGILE",
+    "bp": "",
+    "cp": "33210",
+    "VILLE": "TOULENNE ",
+    "tel": "635917535",
+    "telecopie": "",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "84168870800012",
+    "lng": "-0.267173109875201",
+    "lat": "44.5629839334017"
+  },
+  {
+    "finess": "330781311",
+    "raison_sociale": "HOPITAL DE JOUR ENFANTS L'ILE VERTE",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "33210",
+    "VILLE": "TOULENNE ",
+    "tel": "556631901",
+    "telecopie": "556636934",
+    "categorie etablissement": "292",
+    "libelle categorie": "Centre Hospitalier Spécialisé lutte Maladies Mentales",
+    "siret": "26330585600076",
+    "lng": "-0.261921347589588",
+    "lat": "44.5588405413116"
+  }
+]

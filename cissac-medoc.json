@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "330032749",
+    "raison_sociale": "STP VILLAMBIS",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DE VILLAMBIS",
+    "bp": "",
+    "cp": "33250",
+    "VILLE": "CISSAC MEDOC",
+    "tel": "556739090",
+    "telecopie": "556739099",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "77558500300665",
+    "lng": "-0.852870449142979",
+    "lat": "45.2167682009706"
+  },
+  {
+    "finess": "330045774",
+    "raison_sociale": "PHARMACIE DE CISSAC",
+    "numero voie": "29",
+    "type_voie": "RTE",
+    "libelle_voie": "du Landat",
+    "bp": "",
+    "cp": "33250",
+    "VILLE": "CISSAC MEDOC",
+    "tel": "556595640",
+    "telecopie": "556599214",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88058106100012",
+    "lng": "-0.83314516328824",
+    "lat": "45.2336740053336"
+  },
+  {
+    "finess": "330781634",
+    "raison_sociale": "ESAT BASSIN MEDOC-SITE DE CISSAC-MEDOC",
+    "numero voie": "3",
+    "type_voie": "ALL",
+    "libelle_voie": "DE VILLAMBIS",
+    "bp": "",
+    "cp": "33250",
+    "VILLE": "CISSAC MEDOC",
+    "tel": "556739090",
+    "telecopie": "556739099",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77558500300178",
+    "lng": "-0.852870449142979",
+    "lat": "45.2167682009706"
+  }
+]

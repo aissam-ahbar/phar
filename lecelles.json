@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590019956",
+    "raison_sociale": "PHARMACIE VANDERPOTTE",
+    "numero voie": "1683",
+    "type_voie": "R",
+    "libelle_voie": "DE ROUBAIX",
+    "bp": "",
+    "cp": "59226",
+    "VILLE": "LECELLES ",
+    "tel": "327278554",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39836614600015",
+    "lng": "3.39488170915084",
+    "lat": "50.4706949148755"
+  },
+  {
+    "finess": "590067674",
+    "raison_sociale": "SAAD DOM HORIZON",
+    "numero voie": "2318",
+    "type_voie": "RTE",
+    "libelle_voie": "DE ROUBAIX",
+    "bp": "",
+    "cp": "59226",
+    "VILLE": "LECELLES ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "3.38699670189142",
+    "lat": "50.4730617935638"
+  }
+]

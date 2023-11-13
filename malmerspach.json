@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "680013174",
+    "raison_sociale": "FAS AU FIL DE LA VIE MAISON EMILIE",
+    "numero voie": "20",
+    "type_voie": "R",
+    "libelle_voie": "DES ECOLES",
+    "bp": "",
+    "cp": "68550",
+    "VILLE": "MALMERSPACH ",
+    "tel": "389827343",
+    "telecopie": "389382149",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "77898095300039",
+    "lng": "7.03195533861467",
+    "lat": "47.8649921393162"
+  },
+  {
+    "finess": "680017936",
+    "raison_sociale": "FAM AU FIL DE LA VIE MAISON EMILIE",
+    "numero voie": "20",
+    "type_voie": "R",
+    "libelle_voie": "DES ECOLES",
+    "bp": "",
+    "cp": "68550",
+    "VILLE": "MALMERSPACH ",
+    "tel": "389827343",
+    "telecopie": "389382149",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "77898095300070",
+    "lng": "7.03195533861467",
+    "lat": "47.8649921393162"
+  }
+]

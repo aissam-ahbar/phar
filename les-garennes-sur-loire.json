@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "490019668",
+    "raison_sociale": "EHPAD LA PERRIERE",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "CHAMBRETAULT",
+    "bp": "JUIGNE SUR LOIRE",
+    "cp": "49610",
+    "VILLE": "LES GARENNES SUR LOIRE   ",
+    "tel": "241546615",
+    "telecopie": "241740823",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "38209429000014",
+    "lng": "-0.481357197532848",
+    "lat": "47.4039359028422"
+  },
+  {
+    "finess": "490533379",
+    "raison_sociale": "PHARMACIE DES GARENNES SUR LOIRE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "de Gagnebert",
+    "bp": "",
+    "cp": "49610",
+    "VILLE": "LES GARENNES SUR LOIRE   ",
+    "tel": "241919490",
+    "telecopie": "241546621",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44041766500021",
+    "lng": "-0.483049044629355",
+    "lat": "47.4025624363686"
+  },
+  {
+    "finess": "490540408",
+    "raison_sociale": "RESIDENCE LA PERRIERE",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "CHAMBRETAULT",
+    "bp": "JUIGNE SUR LOIRE",
+    "cp": "49610",
+    "VILLE": "LES GARENNES SUR LOIRE   ",
+    "tel": "241546615",
+    "telecopie": "241740823",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "38209429000014",
+    "lng": "-0.481357197532848",
+    "lat": "47.4039359028422"
+  }
+]

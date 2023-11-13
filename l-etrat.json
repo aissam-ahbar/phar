@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "420003691",
+    "raison_sociale": "PHARMACIE GIRAUD",
+    "numero voie": "388",
+    "type_voie": "R",
+    "libelle_voie": "de Verdun",
+    "bp": "",
+    "cp": "42580",
+    "VILLE": "L ETRAT",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44374475000029",
+    "lng": "4.37367355902712",
+    "lat": "45.4858114572427"
+  },
+  {
+    "finess": "420017477",
+    "raison_sociale": "MAISON DE SANTE LE CADUCEE",
+    "numero voie": "388",
+    "type_voie": "R",
+    "libelle_voie": "DE VERDUN",
+    "bp": "",
+    "cp": "42580",
+    "VILLE": "L ETRAT",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "4.37367355902712",
+    "lat": "45.4858114572427"
+  }
+]

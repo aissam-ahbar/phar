@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "510019763",
+    "raison_sociale": "SELARL PHARMACIE PARISEL PRUVOST",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "JOURNE",
+    "bp": "",
+    "cp": "51490",
+    "VILLE": "PONTFAVERGER MORONVILLIERS",
+    "tel": "326487214",
+    "telecopie": "326489483",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50964186600025",
+    "lng": "4.31831428528523",
+    "lat": "49.297778435377"
+  },
+  {
+    "finess": "510027642",
+    "raison_sociale": "ADMR PONTFAVERGER",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "PERARD NOIZET",
+    "bp": "",
+    "cp": "51490",
+    "VILLE": "PONTFAVERGER MORONVILLIERS",
+    "tel": "326076837",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "30287081100023",
+    "lng": "4.31577201857125",
+    "lat": "49.2972226791185"
+  }
+]

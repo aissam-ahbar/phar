@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "20012431",
+    "raison_sociale": "SSIAD ADMR AUBENTON",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DU DOCTEUR JOSSO",
+    "bp": "",
+    "cp": "2500",
+    "VILLE": "AUBENTON ",
+    "tel": "323978661",
+    "telecopie": "323978661",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "",
+    "lng": "4.20349271454013",
+    "lat": "49.8376185333532"
+  },
+  {
+    "finess": "20013017",
+    "raison_sociale": "SAAD ADMR AUBENTON",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DU DOCTEUR JOSSO",
+    "bp": "",
+    "cp": "2500",
+    "VILLE": "AUBENTON ",
+    "tel": "323977116",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "4.20349271454013",
+    "lat": "49.8376185333532"
+  }
+]

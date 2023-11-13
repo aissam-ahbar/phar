@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "620013169",
+    "raison_sociale": "LA MAISON DE PIERRE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE L'AS DE LICQUES",
+    "bp": "",
+    "cp": "62380",
+    "VILLE": "BOUVELINGHEM ",
+    "tel": "321111515",
+    "telecopie": "321111514",
+    "categorie etablissement": "395",
+    "libelle categorie": "Etablissement d'Accueil Temporaire pour Adultes Handicapés",
+    "siret": "45285154600021",
+    "lng": "2.04101780081629",
+    "lat": "50.7343011319667"
+  },
+  {
+    "finess": "620013219",
+    "raison_sociale": "MAISON D'ACCUEIL TEMPORAIRE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE L'AS DE LICQUES",
+    "bp": "",
+    "cp": "62380",
+    "VILLE": "BOUVELINGHEM ",
+    "tel": "321111515",
+    "telecopie": "321111514",
+    "categorie etablissement": "390",
+    "libelle categorie": "Etablissement d'Accueil Temporaire d'Enfants Handicapés",
+    "siret": "45285154600021",
+    "lng": "2.04101780081629",
+    "lat": "50.7343011319667"
+  }
+]

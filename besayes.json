@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "260003645",
+    "raison_sociale": "PHARMACIE DE LA BARBEROLLE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA LIBERTE",
+    "bp": "",
+    "cp": "26300",
+    "VILLE": "BESAYES ",
+    "tel": "475474235",
+    "telecopie": "475473376",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53367415600013",
+    "lng": "5.07838046747318",
+    "lat": "44.9656765082582"
+  },
+  {
+    "finess": "260010376",
+    "raison_sociale": "M.E.C.S.LA MAISON DES MARCHES",
+    "numero voie": "405",
+    "type_voie": "CHE",
+    "libelle_voie": "DES CHAUX",
+    "bp": "",
+    "cp": "26300",
+    "VILLE": "BESAYES ",
+    "tel": "475474888",
+    "telecopie": "475473056",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "32115236500029",
+    "lng": "5.08986904253466",
+    "lat": "44.9587466193768"
+  },
+  {
+    "finess": "260016159",
+    "raison_sociale": "EHPAD LES MONTS DU MATIN",
+    "numero voie": "",
+    "type_voie": "DOM",
+    "libelle_voie": "DES MONTS DU MATIN",
+    "bp": "",
+    "cp": "26300",
+    "VILLE": "BESAYES ",
+    "tel": "475059606",
+    "telecopie": "475713412",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "50181821500011",
+    "lng": "5.07909627913636",
+    "lat": "44.9652731337845"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "290012921",
+    "raison_sociale": "SELARL PHARMACIE DE PLOGONNEC",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "29180",
+    "VILLE": "PLOGONNEC ",
+    "tel": "298917226",
+    "telecopie": "298917107",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82806028500016",
+    "lng": "-4.19157195101778",
+    "lat": "48.0781758518352"
+  },
+  {
+    "finess": "290030634",
+    "raison_sociale": "EHPAD DU STEIR",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE LANDIBILIC",
+    "bp": "",
+    "cp": "29180",
+    "VILLE": "PLOGONNEC ",
+    "tel": "298918090",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20002675500070",
+    "lng": "-4.19626922296089",
+    "lat": "48.0823042391731"
+  },
+  {
+    "finess": "290031517",
+    "raison_sociale": "RESIDENCE LES PLEIADES",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DES ECUREUILS",
+    "bp": "",
+    "cp": "29180",
+    "VILLE": "PLOGONNEC ",
+    "tel": "298595025",
+    "telecopie": "",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "77557785100410",
+    "lng": "-4.19633146672757",
+    "lat": "48.07955705585"
+  }
+]

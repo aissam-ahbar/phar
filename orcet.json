@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "630007300",
+    "raison_sociale": "EURL MAIZAUD",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "A. ROUEL",
+    "bp": "",
+    "cp": "63670",
+    "VILLE": "ORCET ",
+    "tel": "473848468",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80226597500010",
+    "lng": "3.16504755647194",
+    "lat": "45.7066482102923"
+  },
+  {
+    "finess": "630788883",
+    "raison_sociale": "SCE AIDE MENAG DOM PERS AGEES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "63670",
+    "VILLE": "ORCET ",
+    "tel": "473847317",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26630279300028",
+    "lng": "3.16902648339285",
+    "lat": "45.7032060526579"
+  }
+]

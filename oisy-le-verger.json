@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "620015164",
+    "raison_sociale": "PHARMACIE DU VERGER",
+    "numero voie": "8",
+    "type_voie": "PL",
+    "libelle_voie": "du General Desailly",
+    "bp": "",
+    "cp": "62860",
+    "VILLE": "OISY LE VERGER    ",
+    "tel": "321595497",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49489127800017",
+    "lng": "3.12108012949745",
+    "lat": "50.2514244404144"
+  },
+  {
+    "finess": "620100321",
+    "raison_sociale": "EHPAD  DE OISY LE VERGER",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "MAURICE PIERRACHE",
+    "bp": "",
+    "cp": "62860",
+    "VILLE": "OISY LE VERGER    ",
+    "tel": "361471017",
+    "telecopie": "321504021",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "41986768400146",
+    "lng": "3.12486186286136",
+    "lat": "50.2533897844871"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "380023812",
+    "raison_sociale": "SAAD ADMR SAINT HILAIRE DU ROSIER",
+    "numero voie": "37",
+    "type_voie": "",
+    "libelle_voie": "ROUTE DE ROMANS",
+    "bp": "",
+    "cp": "38840",
+    "VILLE": "ST HILAIRE DU ROSIER   ",
+    "tel": "476645938",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "5.24708063752827",
+    "lat": "45.1006753163612"
+  },
+  {
+    "finess": "380796177",
+    "raison_sociale": "SCE TRAV.FAM.ST-HILAIRE-ROSIER",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38840",
+    "VILLE": "ST HILAIRE DU ROSIER   ",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37852495300015",
+    "lng": "5.24766020836691",
+    "lat": "45.1000961497362"
+  },
+  {
+    "finess": "380796805",
+    "raison_sociale": "SERVICE D AIDES MENAGERES DE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38840",
+    "VILLE": "ST HILAIRE DU ROSIER   ",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37843747900017",
+    "lng": "5.24766020836691",
+    "lat": "45.1000961497362"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "170011845",
+    "raison_sociale": "PHARMACIE DE MARSAIS",
+    "numero voie": "14",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "17700",
+    "VILLE": "MARSAIS ",
+    "tel": "546510010",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81355115700015",
+    "lng": "-0.603995736440903",
+    "lat": "46.1246202884817"
+  },
+  {
+    "finess": "170022156",
+    "raison_sociale": "LIEU DE VIE \"SARBACANNE\"",
+    "numero voie": "14",
+    "type_voie": "R",
+    "libelle_voie": "DES BRANCHARDES",
+    "bp": "BOISSE",
+    "cp": "17700",
+    "VILLE": "MARSAIS ",
+    "tel": "546435977",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "48363361600014",
+    "lng": "-0.601336276071954",
+    "lat": "46.1252239387084"
+  }
+]

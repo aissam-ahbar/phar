@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "260010152",
+    "raison_sociale": "EHPAD RESIDENCE DE LA TOUR",
+    "numero voie": "490",
+    "type_voie": "CHE",
+    "libelle_voie": "DES ASCLEPIOS",
+    "bp": "",
+    "cp": "26790",
+    "VILLE": "LA BAUME DE TRANSIT   ",
+    "tel": "475972222",
+    "telecopie": "475972224",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "",
+    "lng": "4.86124042012982",
+    "lat": "44.3142482200759"
+  },
+  {
+    "finess": "260020557",
+    "raison_sociale": "SAAD RESEAU ALOIS SERVICE 26",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DES ASCLÉPIOS",
+    "bp": "",
+    "cp": "26790",
+    "VILLE": "LA BAUME DE TRANSIT   ",
+    "tel": "475983585",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "90840772900064",
+    "lng": "4.86285035667469",
+    "lat": "44.314087699155"
+  }
+]

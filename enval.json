@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "630000149",
+    "raison_sociale": "CH ETIENNE CLEMENTEL",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "63530",
+    "VILLE": "ENVAL ",
+    "tel": "473337555",
+    "telecopie": "473862317",
+    "categorie etablissement": "355",
+    "libelle categorie": "Centre Hospitalier (C.H.)",
+    "siret": "26630781800010",
+    "lng": "3.04972845652526",
+    "lat": "45.8989316812663"
+  },
+  {
+    "finess": "630006187",
+    "raison_sociale": "LA GRANDE PHARMACIE DU CENTRE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE VOLVIC",
+    "bp": "",
+    "cp": "63530",
+    "VILLE": "ENVAL ",
+    "tel": "473389841",
+    "telecopie": "473388723",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81527752000012",
+    "lng": "3.04972845652526",
+    "lat": "45.8989316812663"
+  }
+]

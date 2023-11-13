@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "510017478",
+    "raison_sociale": "MARPA LES SOURCES",
+    "numero voie": "16",
+    "type_voie": "R",
+    "libelle_voie": "SAINT MARTIN",
+    "bp": "",
+    "cp": "51390",
+    "VILLE": "PARGNY LES REIMS    ",
+    "tel": "326842155",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "52932660500027",
+    "lng": "3.92169870576024",
+    "lat": "49.2194668918234"
+  },
+  {
+    "finess": "510019631",
+    "raison_sociale": "SELARL PHARMACIE DES COTEAUX",
+    "numero voie": "9",
+    "type_voie": "RTE",
+    "libelle_voie": "DE DORMANS",
+    "bp": "",
+    "cp": "51390",
+    "VILLE": "PARGNY LES REIMS    ",
+    "tel": "326497802",
+    "telecopie": "326492702",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44261573800014",
+    "lng": "3.92982990961932",
+    "lat": "49.2184136668023"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380004200",
+    "raison_sociale": "PHARMACIE DE CHIRENS",
+    "numero voie": "279",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CHARTREUSE",
+    "bp": "",
+    "cp": "38850",
+    "VILLE": "CHIRENS ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49108661700025",
+    "lng": "5.55973042746661",
+    "lat": "45.4105000832359"
+  },
+  {
+    "finess": "380025510",
+    "raison_sociale": "ÂGE ET VIE",
+    "numero voie": "167",
+    "type_voie": "AV",
+    "libelle_voie": "DU 19 MARS",
+    "bp": "",
+    "cp": "38850",
+    "VILLE": "CHIRENS ",
+    "tel": "801070809",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "5.55607241424814",
+    "lat": "45.4145656765371"
+  }
+]

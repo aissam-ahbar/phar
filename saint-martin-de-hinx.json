@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "400009734",
+    "raison_sociale": "PHARMACIE DU FRONTON",
+    "numero voie": "65",
+    "type_voie": "R",
+    "libelle_voie": "DE L'EUROPE",
+    "bp": "",
+    "cp": "40390",
+    "VILLE": "ST MARTIN DE HINX   ",
+    "tel": "559563283",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "30820506100010",
+    "lng": "-1.26825368242571",
+    "lat": "43.5816726249942"
+  },
+  {
+    "finess": "400016150",
+    "raison_sociale": "MSP SAINT MARTIN DE HINX",
+    "numero voie": "75",
+    "type_voie": "R",
+    "libelle_voie": "DE L'EUROPE",
+    "bp": "",
+    "cp": "40390",
+    "VILLE": "ST MARTIN DE HINX   ",
+    "tel": "674628286",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "92384964000019",
+    "lng": "-1.26868661429994",
+    "lat": "43.5816772211581"
+  }
+]

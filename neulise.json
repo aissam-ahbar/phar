@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "420004764",
+    "raison_sociale": "PHARMACIE DE NEULISE",
+    "numero voie": "18",
+    "type_voie": "PL",
+    "libelle_voie": "DE FLANDRE",
+    "bp": "",
+    "cp": "42590",
+    "VILLE": "NEULISE ",
+    "tel": "477646103",
+    "telecopie": "477646870",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83197898600014",
+    "lng": "4.18076004803277",
+    "lat": "45.9024983091147"
+  },
+  {
+    "finess": "420014581",
+    "raison_sociale": "LAIDET MEDICAL FOREZ-AUVERGNE NEULISE",
+    "numero voie": "",
+    "type_voie": "RES",
+    "libelle_voie": "D'ENTREPRISES ATELIER 3",
+    "bp": "LES JACQUINS",
+    "cp": "42590",
+    "VILLE": "NEULISE ",
+    "tel": "477626361",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "51914261600027",
+    "lng": "4.18127429298779",
+    "lat": "45.9019354716397"
+  },
+  {
+    "finess": "420781874",
+    "raison_sociale": "EHPAD DE NEULISE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "42590",
+    "VILLE": "NEULISE ",
+    "tel": "477646101",
+    "telecopie": "477646322",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26420019700012",
+    "lng": "4.18020107940205",
+    "lat": "45.9031417636636"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "350005476",
+    "raison_sociale": "RESIDENCE PERE BROTTIER",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU SAPIN",
+    "bp": "",
+    "cp": "35470",
+    "VILLE": "PLECHATEL ",
+    "tel": "299659100",
+    "telecopie": "299424948",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "43997564001234",
+    "lng": "-1.74723605897432",
+    "lat": "47.8903414556228"
+  },
+  {
+    "finess": "350020913",
+    "raison_sociale": "PHARMACIE TCHONLAFI",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU BOULAIS",
+    "bp": "",
+    "cp": "35470",
+    "VILLE": "PLECHATEL ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52800643000037",
+    "lng": "-1.74902727555347",
+    "lat": "47.8945821810143"
+  },
+  {
+    "finess": "350050134",
+    "raison_sociale": "MSP DE PLECHATEL",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE LA BOULAIS",
+    "bp": "",
+    "cp": "35470",
+    "VILLE": "PLECHATEL ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "-1.74902727555347",
+    "lat": "47.8945821810143"
+  }
+]

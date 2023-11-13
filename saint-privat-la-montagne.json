@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "570028480",
+    "raison_sociale": "MSP ST PRIVAT LA MONTAGNE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "CONOT CHENOY",
+    "bp": "",
+    "cp": "57855",
+    "VILLE": "ST PRIVAT LA MONTAGNE   ",
+    "tel": "387535915",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "84779163900010",
+    "lng": "6.04045128379966",
+    "lat": "49.1878334660869"
+  },
+  {
+    "finess": "570028886",
+    "raison_sociale": "SAAD ABCD'R SERVICES",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "57855",
+    "VILLE": "ST PRIVAT LA MONTAGNE   ",
+    "tel": "355056255",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "79109901300033",
+    "lng": "6.03544124200521",
+    "lat": "49.186617515004"
+  }
+]

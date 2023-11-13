@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "220011183",
+    "raison_sociale": "PHARMACIE  AG",
+    "numero voie": "11",
+    "type_voie": "AV",
+    "libelle_voie": "DES FEUX DU LARGE",
+    "bp": "",
+    "cp": "22700",
+    "VILLE": "LOUANNEC ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50933552700024",
+    "lng": "-3.41420338722164",
+    "lat": "48.7948087879549"
+  },
+  {
+    "finess": "220014831",
+    "raison_sociale": "EHPAD MUTUALISTE KER GUEN",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "KER GUEN",
+    "bp": "",
+    "cp": "22700",
+    "VILLE": "LOUANNEC ",
+    "tel": "296912555",
+    "telecopie": "296912006",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "39760780500058",
+    "lng": "-3.41298278667086",
+    "lat": "48.7946235815432"
+  },
+  {
+    "finess": "220023485",
+    "raison_sociale": "SAAD AIDE 2 VIE",
+    "numero voie": "38",
+    "type_voie": "RTE",
+    "libelle_voie": "DE TREGUIER",
+    "bp": "",
+    "cp": "22700",
+    "VILLE": "LOUANNEC ",
+    "tel": "296231641",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "50787149900020",
+    "lng": "-3.40379108782949",
+    "lat": "48.7912031793993"
+  }
+]

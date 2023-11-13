@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "260003462",
+    "raison_sociale": "PHARMACIE D'ALLEX",
+    "numero voie": "2",
+    "type_voie": "CHEM",
+    "libelle_voie": "DU CANAL",
+    "bp": "",
+    "cp": "26400",
+    "VILLE": "ALLEX ",
+    "tel": "475627105",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52106029300011",
+    "lng": "4.9212383339273",
+    "lat": "44.7633896700753"
+  },
+  {
+    "finess": "260016001",
+    "raison_sociale": "ASS ADMR ALLEX",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "26400",
+    "VILLE": "ALLEX ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "77939237200016",
+    "lng": "4.91565778126314",
+    "lat": "44.7645138367612"
+  },
+  {
+    "finess": "260019849",
+    "raison_sociale": "MARPA \"LES JARDINS D'ALESIA\"",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "D ALESIA",
+    "bp": "",
+    "cp": "26400",
+    "VILLE": "ALLEX ",
+    "tel": "475566774",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "84134053200016",
+    "lng": "4.91581426834189",
+    "lat": "44.7651370298188"
+  }
+]

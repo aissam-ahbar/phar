@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "300007176",
+    "raison_sociale": "SELARL PHARMACIE DE MONTFRIN",
+    "numero voie": "6",
+    "type_voie": "AV",
+    "libelle_voie": "DU DOCTEUR CLEMENT",
+    "bp": "",
+    "cp": "30490",
+    "VILLE": "MONTFRIN ",
+    "tel": "466575264",
+    "telecopie": "466572309",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83191306600013",
+    "lng": "4.59233638986132",
+    "lat": "43.8772573086751"
+  },
+  {
+    "finess": "300783545",
+    "raison_sociale": "EHPAD LES OLIVIERS",
+    "numero voie": "420",
+    "type_voie": "CHE",
+    "libelle_voie": "DE CESERAC",
+    "bp": "",
+    "cp": "30490",
+    "VILLE": "MONTFRIN ",
+    "tel": "466576060",
+    "telecopie": "466576626",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20001615200015",
+    "lng": "4.60180007641794",
+    "lat": "43.8752277020355"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "70002217",
+    "raison_sociale": "PHARMACIE DE BOULIEU",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "CHARLES DE GAULLE",
+    "bp": "",
+    "cp": "7100",
+    "VILLE": "BOULIEU LES ANNONAY    ",
+    "tel": "475332169",
+    "telecopie": "475337248",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51389366900012",
+    "lng": "4.66602699354084",
+    "lat": "45.2703448327512"
+  },
+  {
+    "finess": "70006358",
+    "raison_sociale": "MAPA \"LES CERISES\" (PUV)",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DES EPALAS",
+    "bp": "",
+    "cp": "7100",
+    "VILLE": "BOULIEU LES ANNONAY    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "20002339800049",
+    "lng": "4.67073132820163",
+    "lat": "45.27086725453"
+  }
+]

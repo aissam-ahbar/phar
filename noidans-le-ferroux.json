@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "700002397",
+    "raison_sociale": "PHARMACIE GIRARD  CLAUDON",
+    "numero voie": "20",
+    "type_voie": "R",
+    "libelle_voie": "DU CENTRE",
+    "bp": "",
+    "cp": "70130",
+    "VILLE": "NOIDANS LE FERROUX    ",
+    "tel": "384788058",
+    "telecopie": "384788475",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80767970900012",
+    "lng": "5.95310581649824",
+    "lat": "47.5710231524515"
+  },
+  {
+    "finess": "700004997",
+    "raison_sociale": "MAISON SANTE MSP BERNARD FORESTIER",
+    "numero voie": "20",
+    "type_voie": "R",
+    "libelle_voie": "DU CENTRE",
+    "bp": "",
+    "cp": "70130",
+    "VILLE": "NOIDANS LE FERROUX    ",
+    "tel": "384788080",
+    "telecopie": "384788299",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "79042376800015",
+    "lng": "5.95310581649824",
+    "lat": "47.5710231524515"
+  }
+]

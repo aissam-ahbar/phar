@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "260000484",
+    "raison_sociale": "IME VAL BRIAN GRANE",
+    "numero voie": "1975",
+    "type_voie": "RTE",
+    "libelle_voie": "DE VAL BRIAN",
+    "bp": "",
+    "cp": "26400",
+    "VILLE": "GRANE ",
+    "tel": "475627107",
+    "telecopie": "475626909",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "38983879800343",
+    "lng": "4.87684439696795",
+    "lat": "44.7347994815829"
+  },
+  {
+    "finess": "260005830",
+    "raison_sociale": "SARL PHARMACIE VOLTES",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DU CHAMP DE MARS",
+    "bp": "",
+    "cp": "26400",
+    "VILLE": "GRANE ",
+    "tel": "475627263",
+    "telecopie": "475626831",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53213241200018",
+    "lng": "4.9240633224016",
+    "lat": "44.7318261091129"
+  },
+  {
+    "finess": "260022546",
+    "raison_sociale": "EHPAD LA MAISON DES BUIS",
+    "numero voie": "415",
+    "type_voie": "CHE",
+    "libelle_voie": "DE BOISSET",
+    "bp": "",
+    "cp": "26400",
+    "VILLE": "GRANE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "",
+    "lng": "4.92904358373539",
+    "lat": "44.7290260714419"
+  }
+]

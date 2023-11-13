@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "10003507",
+    "raison_sociale": "PHARMACIE PRESCHEZ",
+    "numero voie": "106",
+    "type_voie": "",
+    "libelle_voie": "Grand-rue",
+    "bp": "",
+    "cp": "1550",
+    "VILLE": "COLLONGES ",
+    "tel": "450596017",
+    "telecopie": "450594783",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48166526300028",
+    "lng": "5.90388767573002",
+    "lat": "46.1391309690891"
+  },
+  {
+    "finess": "10010478",
+    "raison_sociale": "MAISON DE SANTE COLLONGES",
+    "numero voie": "106",
+    "type_voie": "GR",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "1550",
+    "VILLE": "COLLONGES ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "81314571100012",
+    "lng": "5.90388767573002",
+    "lat": "46.1391309690891"
+  }
+]

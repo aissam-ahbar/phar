@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380008086",
+    "raison_sociale": "PHARMACIE DU GLACIER",
+    "numero voie": "80",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA MUZELLE",
+    "bp": "",
+    "cp": "38860",
+    "VILLE": "LES DEUX ALPES    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49292578900017",
+    "lng": "6.12440912523747",
+    "lat": "45.0122787233235"
+  },
+  {
+    "finess": "380023994",
+    "raison_sociale": "MAISON DE SANTE DES DEUX ALPES",
+    "numero voie": "32",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA MUZELLE",
+    "bp": "",
+    "cp": "38860",
+    "VILLE": "LES DEUX ALPES    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "89146934800017",
+    "lng": "6.12440912523747",
+    "lat": "45.0122787233235"
+  }
+]

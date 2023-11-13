@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "540010071",
+    "raison_sociale": "PHARMACIE DE LA SOURCE",
+    "numero voie": "594",
+    "type_voie": "RTE",
+    "libelle_voie": "DE PARIS",
+    "bp": "",
+    "cp": "54200",
+    "VILLE": "ECROUVES ",
+    "tel": "383644242",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88781593400013",
+    "lng": "5.84346039671232",
+    "lat": "48.6793680768926"
+  },
+  {
+    "finess": "540010105",
+    "raison_sociale": "PHARMACIE COLLINET FREDERIC",
+    "numero voie": "317",
+    "type_voie": "AV",
+    "libelle_voie": "DU MARECHAL JOFFRE",
+    "bp": "",
+    "cp": "54200",
+    "VILLE": "ECROUVES ",
+    "tel": "383430868",
+    "telecopie": "383632567",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "42036093500019",
+    "lng": "5.87349761544364",
+    "lat": "48.6711826014629"
+  }
+]

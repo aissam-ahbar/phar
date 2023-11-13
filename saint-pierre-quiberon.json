@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "560021115",
+    "raison_sociale": "PHARMACIE DE LA BAIE",
+    "numero voie": "101",
+    "type_voie": "R",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "56510",
+    "VILLE": "ST PIERRE QUIBERON    ",
+    "tel": "297309812",
+    "telecopie": "297307190",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "42255538300021",
+    "lng": "-3.13030835097413",
+    "lat": "47.5208107754607"
+  },
+  {
+    "finess": "560028466",
+    "raison_sociale": "SAAD ADMR SAINT PIERRE DE QUIBERON",
+    "numero voie": "3",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MARNE",
+    "bp": "",
+    "cp": "56510",
+    "VILLE": "ST PIERRE QUIBERON    ",
+    "tel": "297308758",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32266902900033",
+    "lng": "-3.13101811755223",
+    "lat": "47.5210604842103"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "300005212",
+    "raison_sociale": "PHARMACIE DE LA GARE",
+    "numero voie": "1",
+    "type_voie": "AV",
+    "libelle_voie": "de la Gare",
+    "bp": "",
+    "cp": "30390",
+    "VILLE": "ARAMON ",
+    "tel": "466570603",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "35169100100025",
+    "lng": "4.68662199118525",
+    "lat": "43.8935385899506"
+  },
+  {
+    "finess": "300781135",
+    "raison_sociale": "EHPAD DOCTEUR HENRY GRANET",
+    "numero voie": "23",
+    "type_voie": "CHE",
+    "libelle_voie": "DE LA GRAVE",
+    "bp": "",
+    "cp": "30390",
+    "VILLE": "ARAMON ",
+    "tel": "466637100",
+    "telecopie": "466637249",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26300020000018",
+    "lng": "4.68716571506041",
+    "lat": "43.8973638892619"
+  }
+]

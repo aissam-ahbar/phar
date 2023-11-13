@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "640013025",
+    "raison_sociale": "PHARMACIE GELIZE BERNES HEUGA",
+    "numero voie": "45",
+    "type_voie": "AV",
+    "libelle_voie": "LAS BORDES",
+    "bp": "",
+    "cp": "64420",
+    "VILLE": "SOUMOULOU ",
+    "tel": "559046008",
+    "telecopie": "559046008",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45157598900012",
+    "lng": "-0.189680478482626",
+    "lat": "43.2664682713525"
+  },
+  {
+    "finess": "640020830",
+    "raison_sociale": "MSP OUSSE GABAS",
+    "numero voie": "38",
+    "type_voie": "AV",
+    "libelle_voie": "LASBORDES",
+    "bp": "",
+    "cp": "64420",
+    "VILLE": "SOUMOULOU ",
+    "tel": "559041022",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "88459301300011",
+    "lng": "-0.189647347006078",
+    "lat": "43.2666042914818"
+  },
+  {
+    "finess": "640786356",
+    "raison_sociale": "SAAD ADMR VALLEE DE L'OUSSE",
+    "numero voie": "44",
+    "type_voie": "R",
+    "libelle_voie": "DE L'AYGUELONGUE",
+    "bp": "",
+    "cp": "64420",
+    "VILLE": "SOUMOULOU ",
+    "tel": "559046983",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37916660600036",
+    "lng": "-0.195765500247996",
+    "lat": "43.2700776574575"
+  }
+]

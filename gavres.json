@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "560009888",
+    "raison_sociale": "RESIDENCE STIREN ER MOR",
+    "numero voie": "56",
+    "type_voie": "R",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "56680",
+    "VILLE": "GAVRES ",
+    "tel": "297825526",
+    "telecopie": "297825525",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26560246600020",
+    "lng": "-3.35584624767358",
+    "lat": "47.6918736070485"
+  },
+  {
+    "finess": "560016610",
+    "raison_sociale": "PHARMACIE DE GAVRES",
+    "numero voie": "40",
+    "type_voie": "AV",
+    "libelle_voie": "des Sardiniers",
+    "bp": "",
+    "cp": "56680",
+    "VILLE": "GAVRES ",
+    "tel": "297824236",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38083890400015",
+    "lng": "-3.35294248854526",
+    "lat": "47.6964076203711"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "410000400",
+    "raison_sociale": "DITEP BLESOIS - SUD LOIRE",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DE L AUDRONNIERE",
+    "bp": "",
+    "cp": "41400",
+    "VILLE": "FAVEROLLES SUR CHER    ",
+    "tel": "254320123",
+    "telecopie": "254325682",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "49356752300060",
+    "lng": "1.16518862667456",
+    "lat": "47.3328218695468"
+  },
+  {
+    "finess": "410002505",
+    "raison_sociale": "S.E.L.A.R.L. PHARMACIE MONTPARNASSE",
+    "numero voie": "3",
+    "type_voie": "",
+    "libelle_voie": "ROND POINT MONTPARNASSE",
+    "bp": "",
+    "cp": "41400",
+    "VILLE": "FAVEROLLES SUR CHER    ",
+    "tel": "254322720",
+    "telecopie": "254326597",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52142951400024",
+    "lng": "1.18703978781186",
+    "lat": "47.3336756207148"
+  },
+  {
+    "finess": "410011456",
+    "raison_sociale": "SAAD AGES&VIE FAVEROLLES-SUR-CHER",
+    "numero voie": "7",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LOCHES",
+    "bp": "",
+    "cp": "41400",
+    "VILLE": "FAVEROLLES SUR CHER    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "1.18565514135909",
+    "lat": "47.3305554948174"
+  }
+]

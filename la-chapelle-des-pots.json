@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "170009773",
+    "raison_sociale": "EAM LES RESIDENCES DE BRUMENARD",
+    "numero voie": "80",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LA TURPAUDIERE",
+    "bp": "",
+    "cp": "17100",
+    "VILLE": "LA CHAPELLE DES POTS   ",
+    "tel": "546951600",
+    "telecopie": "546951603",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "26170002500024",
+    "lng": "-0.526354065404164",
+    "lat": "45.7562447281934"
+  },
+  {
+    "finess": "170783567",
+    "raison_sociale": "EHPAD SPEC.  BRUMENARD (CH SAINTONGE)",
+    "numero voie": "80",
+    "type_voie": "R",
+    "libelle_voie": "DE LA TURPAUDIERE",
+    "bp": "",
+    "cp": "17100",
+    "VILLE": "LA CHAPELLE DES POTS   ",
+    "tel": "546951602",
+    "telecopie": "546951603",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26170002500180",
+    "lng": "-0.526354065404164",
+    "lat": "45.7562447281934"
+  },
+  {
+    "finess": "170792238",
+    "raison_sociale": "F DE VIE - R. BRUMENARD - CH SAINTONGE",
+    "numero voie": "80",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LA TURPAUDIERE",
+    "bp": "",
+    "cp": "17100",
+    "VILLE": "LA CHAPELLE DES POTS   ",
+    "tel": "546951600",
+    "telecopie": "546951603",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "26170002500099",
+    "lng": "-0.526354065404164",
+    "lat": "45.7562447281934"
+  }
+]

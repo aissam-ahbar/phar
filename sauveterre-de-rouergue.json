@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "120004213",
+    "raison_sociale": "PHARMACIE GUINOLAS",
+    "numero voie": "30",
+    "type_voie": "BD",
+    "libelle_voie": "DE LAPEROUSE",
+    "bp": "",
+    "cp": "12800",
+    "VILLE": "SAUVETERRE DE ROUERGUE    ",
+    "tel": "565721264",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "31141249800058",
+    "lng": "2.31338213921005",
+    "lat": "44.255058109183"
+  },
+  {
+    "finess": "120782412",
+    "raison_sociale": "EHPAD REPOS ET SANTE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "12800",
+    "VILLE": "SAUVETERRE DE ROUERGUE    ",
+    "tel": "565470531",
+    "telecopie": "565720238",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77675600900010",
+    "lng": "2.31774792800017",
+    "lat": "44.2200716827781"
+  },
+  {
+    "finess": "120786546",
+    "raison_sociale": "EHPA L'ORATOIRE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "TOUR DE VILLE",
+    "bp": "",
+    "cp": "12800",
+    "VILLE": "SAUVETERRE DE ROUERGUE    ",
+    "tel": "565470531",
+    "telecopie": "565720238",
+    "categorie etablissement": "502",
+    "libelle categorie": "EHPA ne percevant pas des crédits d'assurance maladie",
+    "siret": "",
+    "lng": "2.31774792800017",
+    "lat": "44.2200716827781"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "270019391",
+    "raison_sociale": "PHARMACIE CENTRALE",
+    "numero voie": "12",
+    "type_voie": "PL",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "27260",
+    "VILLE": "CORMEILLES ",
+    "tel": "232578002",
+    "telecopie": "232562188",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "47949244900026",
+    "lng": "0.377258376102985",
+    "lat": "49.2480567037787"
+  },
+  {
+    "finess": "270027519",
+    "raison_sociale": "MSP CORMEILLES",
+    "numero voie": "17",
+    "type_voie": "PL",
+    "libelle_voie": "DES ANCIENS COMBATTANTS",
+    "bp": "",
+    "cp": "27260",
+    "VILLE": "CORMEILLES ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "0.378157493910289",
+    "lat": "49.245933700189"
+  },
+  {
+    "finess": "270029556",
+    "raison_sociale": "PSLA LIEUVIN PAYS D'AUGE",
+    "numero voie": "17",
+    "type_voie": "PL",
+    "libelle_voie": "DU THEATRE",
+    "bp": "",
+    "cp": "27260",
+    "VILLE": "CORMEILLES ",
+    "tel": "787818797",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "87947111800015",
+    "lng": "0.374415611549432",
+    "lat": "49.2478140374381"
+  }
+]

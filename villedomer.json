@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "370009441",
+    "raison_sociale": "SELARL PHARMACIE FRÉON",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU MARECHAL LECLERC",
+    "bp": "",
+    "cp": "37110",
+    "VILLE": "VILLEDOMER ",
+    "tel": "247550552",
+    "telecopie": "234885565",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81776529000017",
+    "lng": "0.887663251271111",
+    "lat": "47.5453129455449"
+  },
+  {
+    "finess": "370100224",
+    "raison_sociale": "FOYER DE VIE LA BOISNIERE",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LA BOISNIERE",
+    "bp": "",
+    "cp": "37110",
+    "VILLE": "VILLEDOMER ",
+    "tel": "247554656",
+    "telecopie": "",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "77535425100024",
+    "lng": "0.895902054075143",
+    "lat": "47.5793684393768"
+  }
+]

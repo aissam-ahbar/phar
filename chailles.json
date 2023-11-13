@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "410000293",
+    "raison_sociale": "CLINIQUE DE CHAILLES",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LA CHESNAIE",
+    "bp": "",
+    "cp": "41120",
+    "VILLE": "CHAILLES ",
+    "tel": "254794827",
+    "telecopie": "254794057",
+    "categorie etablissement": "161",
+    "libelle categorie": "Maison de Santé pour Maladies Mentales",
+    "siret": "33753660100012",
+    "lng": "1.31530696655901",
+    "lat": "47.5246564641731"
+  },
+  {
+    "finess": "410001911",
+    "raison_sociale": "PHARMACIE DE CHAILLES",
+    "numero voie": "79",
+    "type_voie": "R",
+    "libelle_voie": "Nationale",
+    "bp": "",
+    "cp": "41120",
+    "VILLE": "CHAILLES ",
+    "tel": "254794843",
+    "telecopie": "254794946",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "78989100900019",
+    "lng": "1.30664245207076",
+    "lat": "47.5295855010796"
+  },
+  {
+    "finess": "410005193",
+    "raison_sociale": "EHPAD CLAUDE DE FRANCE",
+    "numero voie": "2",
+    "type_voie": "",
+    "libelle_voie": "CLOS DES HIRONDELLES",
+    "bp": "",
+    "cp": "41120",
+    "VILLE": "CHAILLES ",
+    "tel": "254793310",
+    "telecopie": "254794802",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "34379534000037",
+    "lng": "1.30857958093914",
+    "lat": "47.5313846194272"
+  }
+]

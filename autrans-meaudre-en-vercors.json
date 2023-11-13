@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "380003202",
+    "raison_sociale": "PHARMACIE D'AUTRANS",
+    "numero voie": "132",
+    "type_voie": "R",
+    "libelle_voie": "du Vercors",
+    "bp": "",
+    "cp": "38880",
+    "VILLE": "AUTRANS MEAUDRE EN VERCORS   ",
+    "tel": "476953036",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "85269665700018",
+    "lng": "5.54385229731073",
+    "lat": "45.1740942581697"
+  },
+  {
+    "finess": "380780551",
+    "raison_sociale": "ITEP LE BOIS SERVAGNET (DITEP) OXANCE",
+    "numero voie": "",
+    "type_voie": "HAM",
+    "libelle_voie": "LA BOUILLAT",
+    "bp": "",
+    "cp": "38112",
+    "VILLE": "AUTRANS MEAUDRE EN VERCORS   ",
+    "tel": "476952072",
+    "telecopie": "476952524",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "77576184400601",
+    "lng": "5.5416336455495",
+    "lat": "45.1241543134281"
+  },
+  {
+    "finess": "380781815",
+    "raison_sociale": "M.E.C.S. MAISON EUGÈNE CHAVANT",
+    "numero voie": "1185",
+    "type_voie": "RTE",
+    "libelle_voie": "DE GÈVE",
+    "bp": "LE BOURG DE DESSUS - AUTRANS",
+    "cp": "38112",
+    "VILLE": "AUTRANS MEAUDRE EN VERCORS   ",
+    "tel": "476953040",
+    "telecopie": "476957305",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "80125271900407",
+    "lng": "5.5462555340055",
+    "lat": "45.1853176155781"
+  }
+]

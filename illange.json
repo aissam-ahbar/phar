@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "570017475",
+    "raison_sociale": "SELARL PHARMACIE DES ARUMS",
+    "numero voie": "6",
+    "type_voie": "",
+    "libelle_voie": "CENTRE COMMERCIAL",
+    "bp": "",
+    "cp": "57970",
+    "VILLE": "ILLANGE ",
+    "tel": "382561098",
+    "telecopie": "382566735",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49406922200011",
+    "lng": "6.18076272616281",
+    "lat": "49.3290445743245"
+  },
+  {
+    "finess": "570023317",
+    "raison_sociale": "EHPAD \"SAINTE ELISABETH\"",
+    "numero voie": "1",
+    "type_voie": "RES",
+    "libelle_voie": "DE LA MOSELLE",
+    "bp": "",
+    "cp": "57970",
+    "VILLE": "ILLANGE ",
+    "tel": "382596720",
+    "telecopie": "382596796",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "",
+    "lng": "6.17561281115514",
+    "lat": "49.3282534986236"
+  },
+  {
+    "finess": "570028993",
+    "raison_sociale": "SAAD AGE SOLUTION",
+    "numero voie": "9",
+    "type_voie": "PARC",
+    "libelle_voie": "D'ACTIVITES DU BEAU VALLON",
+    "bp": "",
+    "cp": "57970",
+    "VILLE": "ILLANGE ",
+    "tel": "382821012",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "50135353600037",
+    "lng": "6.18167600139954",
+    "lat": "49.3237891123043"
+  }
+]

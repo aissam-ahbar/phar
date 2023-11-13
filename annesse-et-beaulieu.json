@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "240002402",
+    "raison_sociale": "CENTRE DE REEDUCATION LA LANDE",
+    "numero voie": "59",
+    "type_voie": "RTE",
+    "libelle_voie": "DE SAINT-ASTIER",
+    "bp": "",
+    "cp": "24430",
+    "VILLE": "ANNESSE ET BEAULIEU    ",
+    "tel": "553025555",
+    "telecopie": "553072196",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "30577699900024",
+    "lng": "0.573047923329248",
+    "lat": "45.1714016057343"
+  },
+  {
+    "finess": "240008318",
+    "raison_sociale": "CENTRE DE SOINS LE VERGER DES BALANS",
+    "numero voie": "9",
+    "type_voie": "RTE",
+    "libelle_voie": "DES BALANS",
+    "bp": "",
+    "cp": "24430",
+    "VILLE": "ANNESSE ET BEAULIEU    ",
+    "tel": "553026600",
+    "telecopie": "553089282",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "38127800100023",
+    "lng": "0.576252112438411",
+    "lat": "45.1713144972717"
+  },
+  {
+    "finess": "240008755",
+    "raison_sociale": "EHPAD LE VERGER DES BALANS",
+    "numero voie": "9",
+    "type_voie": "RTE",
+    "libelle_voie": "DES BALANS",
+    "bp": "LES GRANGES",
+    "cp": "24430",
+    "VILLE": "ANNESSE ET BEAULIEU    ",
+    "tel": "553026600",
+    "telecopie": "553089282",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "38127800100015",
+    "lng": "0.576252112438411",
+    "lat": "45.1713144972717"
+  }
+]

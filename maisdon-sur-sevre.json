@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "440026201",
+    "raison_sociale": "PHARMACIE LEGRAND-COTTALORDA",
+    "numero voie": "12",
+    "type_voie": "R",
+    "libelle_voie": "DE BEAU SOLEIL",
+    "bp": "",
+    "cp": "44690",
+    "VILLE": "MAISDON SUR SEVRE    ",
+    "tel": "240038929",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52103453800012",
+    "lng": "-1.38537095932773",
+    "lat": "47.0955320443204"
+  },
+  {
+    "finess": "440036960",
+    "raison_sociale": "SAAD ADMR MAISDON SUR SEVRE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "44690",
+    "VILLE": "MAISDON SUR SEVRE    ",
+    "tel": "240548445",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "78597033600018",
+    "lng": "-1.38503865121889",
+    "lat": "47.0982299223436"
+  },
+  {
+    "finess": "440046969",
+    "raison_sociale": "ACCUEIL DE JOUR LE MAILLON DES AGES",
+    "numero voie": "18",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "44690",
+    "VILLE": "MAISDON SUR SEVRE    ",
+    "tel": "240803792",
+    "telecopie": "",
+    "categorie etablissement": "207",
+    "libelle categorie": "Centre de Jour pour Personnes Agées",
+    "siret": "43505648600283",
+    "lng": "-1.38502008034086",
+    "lat": "47.098326207447"
+  }
+]

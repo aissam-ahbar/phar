@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "490020377",
+    "raison_sociale": "ASTEN SANTE A DOMICILE",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "DENIS PAPIN",
+    "bp": "",
+    "cp": "49070",
+    "VILLE": "ST LAMBERT LA POTHERIE   ",
+    "tel": "241236283",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "84242656100283",
+    "lng": "-0.673119410964743",
+    "lat": "47.4795569690862"
+  },
+  {
+    "finess": "490536414",
+    "raison_sociale": "PHARMACIE DES LANDES",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE L EGLISE",
+    "bp": "",
+    "cp": "49070",
+    "VILLE": "ST LAMBERT LA POTHERIE   ",
+    "tel": "241775660",
+    "telecopie": "241775795",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81778532200014",
+    "lng": "-0.67797030650489",
+    "lat": "47.4830435060304"
+  }
+]

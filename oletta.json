@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "2B0000400",
+    "raison_sociale": "MAISON DE CONVALES LA PALMOLA",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "20232",
+    "VILLE": "OLETTA ",
+    "tel": "495370231",
+    "telecopie": "",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "34081891300014",
+    "lng": "9.3583890903786",
+    "lat": "42.6318662005994"
+  },
+  {
+    "finess": "2B0006415",
+    "raison_sociale": "SAAD ADMR NEBBIU CONCA D'ORU",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE D'OLETTA",
+    "bp": "",
+    "cp": "20232",
+    "VILLE": "OLETTA ",
+    "tel": "495391019",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "9.3546921236416",
+    "lat": "42.6313901171812"
+  },
+  {
+    "finess": "2B0006761",
+    "raison_sociale": "MSP OLETTA",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "20232",
+    "VILLE": "OLETTA ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "9.35806066632181",
+    "lat": "42.6320688692395"
+  }
+]

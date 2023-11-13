@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "120784152",
+    "raison_sociale": "SSIAD VIVIEZ",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA VICTOIRE",
+    "bp": "",
+    "cp": "12110",
+    "VILLE": "VIVIEZ ",
+    "tel": "565430430",
+    "telecopie": "565433393",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "77676665100066",
+    "lng": "2.21733335162922",
+    "lat": "44.5552211458825"
+  },
+  {
+    "finess": "120785688",
+    "raison_sociale": "SAAD CIAS BASSIN VALLEE DU LOT",
+    "numero voie": "12",
+    "type_voie": "AV",
+    "libelle_voie": "JEAN JAURES",
+    "bp": "",
+    "cp": "12110",
+    "VILLE": "VIVIEZ ",
+    "tel": "565430867",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "77676665100058",
+    "lng": "2.21693357240489",
+    "lat": "44.5566290521553"
+  }
+]

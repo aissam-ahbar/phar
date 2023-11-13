@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "670017565",
+    "raison_sociale": "RESIDENCE DE LA CERISAIE",
+    "numero voie": "5",
+    "type_voie": "IMP",
+    "libelle_voie": "DES ACACIAS",
+    "bp": "",
+    "cp": "67960",
+    "VILLE": "ENTZHEIM ",
+    "tel": "388775400",
+    "telecopie": "",
+    "categorie etablissement": "252",
+    "libelle categorie": "Foyer Hébergement Adultes Handicapés",
+    "siret": "77564261400421",
+    "lng": "7.63329077991562",
+    "lat": "48.5300841929819"
+  },
+  {
+    "finess": "670019066",
+    "raison_sociale": "SAAD AVS AUTONOMIE",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DES CIGOGNES",
+    "bp": "",
+    "cp": "67960",
+    "VILLE": "ENTZHEIM ",
+    "tel": "369735301",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "82920092200013",
+    "lng": "7.65002529455127",
+    "lat": "48.5425919487508"
+  }
+]

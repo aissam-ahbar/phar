@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "700001514",
+    "raison_sociale": "PHARMACIE D'ECHENOZ-LA-MELINE",
+    "numero voie": "1",
+    "type_voie": "AV",
+    "libelle_voie": "PASTEUR",
+    "bp": "",
+    "cp": "70000",
+    "VILLE": "ECHENOZ LA MELINE    ",
+    "tel": "384765451",
+    "telecopie": "384760439",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82808732000010",
+    "lng": "6.15024743821575",
+    "lat": "47.6127437879484"
+  },
+  {
+    "finess": "700004781",
+    "raison_sociale": "MAISONS-RELAIS",
+    "numero voie": "16",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA VICTOIRE",
+    "bp": "",
+    "cp": "70000",
+    "VILLE": "ECHENOZ LA MELINE    ",
+    "tel": "384977837",
+    "telecopie": "",
+    "categorie etablissement": "258",
+    "libelle categorie": "Maisons Relais - Pensions de Famille",
+    "siret": "77854308200029",
+    "lng": "6.1487701582255",
+    "lat": "47.6113909758648"
+  }
+]

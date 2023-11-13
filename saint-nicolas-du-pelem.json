@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "220004576",
+    "raison_sociale": "EHPAD TI KERJEAN",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "SAINTE TREPHINE",
+    "bp": "",
+    "cp": "22480",
+    "VILLE": "ST NICOLAS DU PELEM   ",
+    "tel": "296297448",
+    "telecopie": "296297912",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26220035500028",
+    "lng": "-3.16052132260226",
+    "lat": "48.3126519964656"
+  },
+  {
+    "finess": "220010730",
+    "raison_sociale": "PHARMACIE BLIVET - GUILLOU",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "22480",
+    "VILLE": "ST NICOLAS DU PELEM   ",
+    "tel": "296295130",
+    "telecopie": "296295608",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83981948900015",
+    "lng": "-3.16392812749876",
+    "lat": "48.314591477198"
+  }
+]

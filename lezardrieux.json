@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "220004535",
+    "raison_sociale": "EHPAD LES MOUETTES",
+    "numero voie": "4",
+    "type_voie": "IMP",
+    "libelle_voie": "DOCTEUR PIERRE LEFEVRE",
+    "bp": "",
+    "cp": "22740",
+    "VILLE": "LEZARDRIEUX ",
+    "tel": "296201779",
+    "telecopie": "296222300",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26220048800027",
+    "lng": "-3.1100970933381",
+    "lat": "48.7850999091643"
+  },
+  {
+    "finess": "220011423",
+    "raison_sociale": "PHARMACIE DU TRIEUX",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "DU PRIOLY",
+    "bp": "",
+    "cp": "22740",
+    "VILLE": "LEZARDRIEUX ",
+    "tel": "296201005",
+    "telecopie": "296201123",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82887879300011",
+    "lng": "-3.11167301473885",
+    "lat": "48.78215054063"
+  }
+]

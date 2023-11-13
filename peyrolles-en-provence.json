@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "130009590",
+    "raison_sociale": "SELARL PHARMACIE DE PEYROLLES",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "du Plan",
+    "bp": "",
+    "cp": "13860",
+    "VILLE": "PEYROLLES EN PROVENCE    ",
+    "tel": "442578039",
+    "telecopie": "430317508",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "41410928000027",
+    "lng": "5.5712533384476",
+    "lat": "43.6427754493676"
+  },
+  {
+    "finess": "130032659",
+    "raison_sociale": "EHPAD RESIDENCE LA CASCADE",
+    "numero voie": "200",
+    "type_voie": "R",
+    "libelle_voie": "AIMÉ BERNARD",
+    "bp": "",
+    "cp": "13860",
+    "VILLE": "PEYROLLES EN PROVENCE    ",
+    "tel": "442575477",
+    "telecopie": "442634889",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "50282731400027",
+    "lng": "5.57952651074276",
+    "lat": "43.6410849762602"
+  },
+  {
+    "finess": "130792237",
+    "raison_sociale": "CONSULTATIONS DE PMI PEYROLLES",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "13860",
+    "VILLE": "PEYROLLES EN PROVENCE    ",
+    "tel": "442578005",
+    "telecopie": "",
+    "categorie etablissement": "230",
+    "libelle categorie": "Etablissement Consultation Protection Infantile",
+    "siret": "22130001500916",
+    "lng": "5.5836850488243",
+    "lat": "43.6478129726977"
+  }
+]

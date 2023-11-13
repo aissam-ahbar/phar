@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "90000613",
+    "raison_sociale": "EHPAD DU MAS D'AZIL",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DE LA QUERE",
+    "bp": "",
+    "cp": "9290",
+    "VILLE": "LE MAS D AZIL   ",
+    "tel": "561684320",
+    "telecopie": "561684322",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "33380040700061",
+    "lng": "1.36182093864896",
+    "lat": "43.078104834502"
+  },
+  {
+    "finess": "90001215",
+    "raison_sociale": "PHARMACIE SAURIN-BARRIOULET",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "CHAMP DE MARS",
+    "bp": "",
+    "cp": "9290",
+    "VILLE": "LE MAS D AZIL   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38078422300014",
+    "lng": "1.36053499944549",
+    "lat": "43.0797018478599"
+  },
+  {
+    "finess": "90004615",
+    "raison_sociale": "MSP DE L ARIZE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU TEMPLE",
+    "bp": "",
+    "cp": "9290",
+    "VILLE": "LE MAS D AZIL   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "90459442100011",
+    "lng": "1.36094135007879",
+    "lat": "43.0807803563132"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "250007911",
+    "raison_sociale": "PHARMACIE DE BEURE",
+    "numero voie": "15",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LYON",
+    "bp": "",
+    "cp": "25720",
+    "VILLE": "BEURE ",
+    "tel": "381526068",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38338684400013",
+    "lng": "6.00134941430746",
+    "lat": "47.2108606229286"
+  },
+  {
+    "finess": "250019130",
+    "raison_sociale": "MAISON SANTE DES MERCUREAUX",
+    "numero voie": "15",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LYON",
+    "bp": "",
+    "cp": "25720",
+    "VILLE": "BEURE ",
+    "tel": "381575650",
+    "telecopie": "381575652",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "79009149000017",
+    "lng": "6.00134941430746",
+    "lat": "47.2108606229286"
+  }
+]

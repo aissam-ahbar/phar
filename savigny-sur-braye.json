@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "410002158",
+    "raison_sociale": "EHPAD LEGUERE VIAU",
+    "numero voie": "7",
+    "type_voie": "PL",
+    "libelle_voie": "DU MARECHAL JUIN",
+    "bp": "",
+    "cp": "41360",
+    "VILLE": "SAVIGNY SUR BRAYE    ",
+    "tel": "254237440",
+    "telecopie": "254237998",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26410022300017",
+    "lng": "0.806923214396745",
+    "lat": "47.8791992687449"
+  },
+  {
+    "finess": "410006191",
+    "raison_sociale": "EHPAD RESIDENCE SAVIGNY (ORPEA)",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DU CLAIREAU",
+    "bp": "",
+    "cp": "41360",
+    "VILLE": "SAVIGNY SUR BRAYE    ",
+    "tel": "254233939",
+    "telecopie": "254233972",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "40437311000026",
+    "lng": "0.811496614779555",
+    "lat": "47.8760074726882"
+  },
+  {
+    "finess": "410006282",
+    "raison_sociale": "PHARMACIE DESIRE - LEROY",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "41360",
+    "VILLE": "SAVIGNY SUR BRAYE    ",
+    "tel": "254237412",
+    "telecopie": "254237412",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44111247100012",
+    "lng": "0.808955045049057",
+    "lat": "47.8795820479253"
+  }
+]

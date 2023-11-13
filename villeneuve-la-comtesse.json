@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "170016133",
+    "raison_sociale": "PHARMACIE NOUVELLE",
+    "numero voie": "54",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "17330",
+    "VILLE": "VILLENEUVE LA COMTESSE    ",
+    "tel": "546246427",
+    "telecopie": "546246088",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "32269037100016",
+    "lng": "-0.503494349029798",
+    "lat": "46.0936746719997"
+  },
+  {
+    "finess": "170021133",
+    "raison_sociale": "LIEU DE VIE \"ZIG-ZAG\"",
+    "numero voie": "30",
+    "type_voie": "R",
+    "libelle_voie": "PRINCIPALE",
+    "bp": "VILLENOUVELLE",
+    "cp": "17330",
+    "VILLE": "VILLENEUVE LA COMTESSE    ",
+    "tel": "546321290",
+    "telecopie": "546321290",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "49034740800018",
+    "lng": "-0.45324578794082",
+    "lat": "46.0928099340651"
+  }
+]

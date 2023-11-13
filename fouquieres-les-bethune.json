@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "620037010",
+    "raison_sociale": "SAAD ADMR DE BÉTHUNE ET ENVIRONS",
+    "numero voie": "780",
+    "type_voie": "R",
+    "libelle_voie": "FERNAND FANIEN",
+    "bp": "",
+    "cp": "62232",
+    "VILLE": "FOUQUIERES LES BETHUNE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "82464193000014",
+    "lng": "2.62023367509867",
+    "lat": "50.5183375661365"
+  },
+  {
+    "finess": "620037028",
+    "raison_sociale": "SAAD ADMR DU BUCQUOY",
+    "numero voie": "780",
+    "type_voie": "R",
+    "libelle_voie": "FERNAND FANIEN",
+    "bp": "",
+    "cp": "62232",
+    "VILLE": "FOUQUIERES LES BETHUNE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "91895470200018",
+    "lng": "2.62023367509867",
+    "lat": "50.5183375661365"
+  },
+  {
+    "finess": "620106534",
+    "raison_sociale": "CAMSP DE  BETHUNE",
+    "numero voie": "290",
+    "type_voie": "R",
+    "libelle_voie": "DE VAUDRICOURT",
+    "bp": "",
+    "cp": "62232",
+    "VILLE": "FOUQUIERES LES BETHUNE    ",
+    "tel": "321615800",
+    "telecopie": "",
+    "categorie etablissement": "190",
+    "libelle categorie": "Centre Action Médico-Sociale Précoce (C.A.M.S.P.)",
+    "siret": "30157138600251",
+    "lng": "2.6261029723908",
+    "lat": "50.5147345461572"
+  }
+]

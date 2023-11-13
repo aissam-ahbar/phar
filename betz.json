@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "600004782",
+    "raison_sociale": "PHARMACIE DELAHAYE - SERVAIS",
+    "numero voie": "16",
+    "type_voie": "R",
+    "libelle_voie": "DE LA LIBERATION",
+    "bp": "",
+    "cp": "60620",
+    "VILLE": "BETZ ",
+    "tel": "344872018",
+    "telecopie": "344877740",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39297712000014",
+    "lng": "2.95404216684094",
+    "lat": "49.156290413152"
+  },
+  {
+    "finess": "600110274",
+    "raison_sociale": "SAAD ADMR DE BETZ",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "60620",
+    "VILLE": "BETZ ",
+    "tel": "344373372",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32073404900010",
+    "lng": "2.95345033605439",
+    "lat": "49.1574346955311"
+  }
+]

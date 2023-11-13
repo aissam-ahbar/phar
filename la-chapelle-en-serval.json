@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "600006423",
+    "raison_sociale": "PHARMACIE LAURENCE SARMIENTO",
+    "numero voie": "857",
+    "type_voie": "R",
+    "libelle_voie": "DE PARIS",
+    "bp": "",
+    "cp": "60520",
+    "VILLE": "LA CHAPELLE EN SERVAL   ",
+    "tel": "344546607",
+    "telecopie": "344540629",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80804269100010",
+    "lng": "2.53361444448883",
+    "lat": "49.1273719291592"
+  },
+  {
+    "finess": "600013775",
+    "raison_sociale": "MSP LA CHAPELLE-EN-SERVAL",
+    "numero voie": "563",
+    "type_voie": "R",
+    "libelle_voie": "DE PARIS",
+    "bp": "",
+    "cp": "60520",
+    "VILLE": "LA CHAPELLE EN SERVAL   ",
+    "tel": "344704580",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "80925307300021",
+    "lng": "2.5333110362526",
+    "lat": "49.1248559477205"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "610002446",
+    "raison_sociale": "MARPA - LA SAUVAGERE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE BELLOU",
+    "bp": "LA SAUVAGERE",
+    "cp": "61600",
+    "VILLE": "LES MONTS D ANDAINE   ",
+    "tel": "233379945",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26610156700029",
+    "lng": "-0.417302607150239",
+    "lat": "48.6280925591263"
+  },
+  {
+    "finess": "610008807",
+    "raison_sociale": "LIEU DE VIE MAISON ET SI",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LA SERRIERE",
+    "bp": "LA SAUVAGERE",
+    "cp": "61600",
+    "VILLE": "LES MONTS D ANDAINE   ",
+    "tel": "763130938",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "83047064700017",
+    "lng": "-0.411591708608576",
+    "lat": "48.6344497732628"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "330040130",
+    "raison_sociale": "PHARMACIE BRODU-JAMET",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "EUGENE LESCOURT",
+    "bp": "",
+    "cp": "33540",
+    "VILLE": "BLASIMON ",
+    "tel": "556718028",
+    "telecopie": "556716088",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "41965883600020",
+    "lng": "-0.07459915061422",
+    "lat": "44.7491649840151"
+  },
+  {
+    "finess": "330063504",
+    "raison_sociale": "MSP DE BLASIMON",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DU VIVER",
+    "bp": "",
+    "cp": "33540",
+    "VILLE": "BLASIMON ",
+    "tel": "556715213",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "90165074700016",
+    "lng": "-0.075616176754675",
+    "lat": "44.7490583595831"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "440002822",
+    "raison_sociale": "EHPAD DE LA BRIERE",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DES AJONCS",
+    "bp": "",
+    "cp": "44410",
+    "VILLE": "ST LYPHARD",
+    "tel": "240914113",
+    "telecopie": "240913832",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "78605959200018",
+    "lng": "-2.30754461667242",
+    "lat": "47.3997823445035"
+  },
+  {
+    "finess": "440016699",
+    "raison_sociale": "PHARMACIE CROCQFER",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DE BRETAGNE",
+    "bp": "",
+    "cp": "44410",
+    "VILLE": "ST LYPHARD",
+    "tel": "240914319",
+    "telecopie": "971706387",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48486622300031",
+    "lng": "-2.30578079543431",
+    "lat": "47.3991610083473"
+  }
+]

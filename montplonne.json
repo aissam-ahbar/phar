@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "550001838",
+    "raison_sociale": "SESSAD PROFESSIONNEL DE L'ITEP",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "55000",
+    "VILLE": "MONTPLONNE ",
+    "tel": "329450487",
+    "telecopie": "",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "",
+    "lng": "5.16955107456602",
+    "lat": "48.6889335682421"
+  },
+  {
+    "finess": "550003792",
+    "raison_sociale": "ITEP L'AVENIR",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LES SAUSSAIES",
+    "cp": "55000",
+    "VILLE": "MONTPLONNE ",
+    "tel": "329786082",
+    "telecopie": "",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "30198362300010",
+    "lng": "5.16733945996404",
+    "lat": "48.684399240647"
+  }
+]

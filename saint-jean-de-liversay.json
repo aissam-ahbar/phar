@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "170014914",
+    "raison_sociale": "PHARMACIE SAINT JEAN",
+    "numero voie": "23",
+    "type_voie": "R",
+    "libelle_voie": "SAINT JEAN",
+    "bp": "",
+    "cp": "17170",
+    "VILLE": "ST JEAN DE LIVERSAY   ",
+    "tel": "546019507",
+    "telecopie": "546018349",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49098805200018",
+    "lng": "-0.873464483995322",
+    "lat": "46.269683100412"
+  },
+  {
+    "finess": "170023246",
+    "raison_sociale": "EHPAD RESIDENCE DU PAYS D'AUNIS",
+    "numero voie": "40",
+    "type_voie": "R",
+    "libelle_voie": "DU VANNEAU",
+    "bp": "LE VIGNAUD",
+    "cp": "17170",
+    "VILLE": "ST JEAN DE LIVERSAY   ",
+    "tel": "546661313",
+    "telecopie": "546661329",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "48008096900300",
+    "lng": "-0.874146131414809",
+    "lat": "46.2713232739655"
+  },
+  {
+    "finess": "170784441",
+    "raison_sociale": "RESIDENCE AUTONOMIE LA CHANCELIERE",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "BEAUSEJOUR",
+    "bp": "",
+    "cp": "17170",
+    "VILLE": "ST JEAN DE LIVERSAY   ",
+    "tel": "546018669",
+    "telecopie": "546016450",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26170015700033",
+    "lng": "-0.875329269043829",
+    "lat": "46.2677082817055"
+  }
+]

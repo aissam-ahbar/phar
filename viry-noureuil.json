@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "20012191",
+    "raison_sociale": "PHARMACIE DE VIRY",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "VICTOR HUGO",
+    "bp": "",
+    "cp": "2300",
+    "VILLE": "VIRY NOUREUIL",
+    "tel": "323393838",
+    "telecopie": "323399436",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80359216100019",
+    "lng": "3.24327750127449",
+    "lat": "49.6311610742568"
+  },
+  {
+    "finess": "20016713",
+    "raison_sociale": "SAAD AGE D'OR SERVICES VIRY-NOUREUIL",
+    "numero voie": "27",
+    "type_voie": "R",
+    "libelle_voie": "VICTOR HUGO",
+    "bp": "",
+    "cp": "2300",
+    "VILLE": "VIRY NOUREUIL",
+    "tel": "323399803",
+    "telecopie": "970600855",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "81479771800016",
+    "lng": "3.24524876283759",
+    "lat": "49.6331493340909"
+  }
+]

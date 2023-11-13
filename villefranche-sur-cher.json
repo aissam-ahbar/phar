@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "410007116",
+    "raison_sociale": "SARL PHARMACIE RENAUD",
+    "numero voie": "19",
+    "type_voie": "AV",
+    "libelle_voie": "DE VERDUN",
+    "bp": "",
+    "cp": "41200",
+    "VILLE": "VILLEFRANCHE SUR CHER    ",
+    "tel": "254964022",
+    "telecopie": "254964022",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75100469800021",
+    "lng": "1.77112026383231",
+    "lat": "47.2927246005853"
+  },
+  {
+    "finess": "410011068",
+    "raison_sociale": "MSP VILLEFRANCHE SUR CHER",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE VERDUN",
+    "bp": "",
+    "cp": "41200",
+    "VILLE": "VILLEFRANCHE SUR CHER    ",
+    "tel": "254882525",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "21410280800075",
+    "lng": "1.77736216333785",
+    "lat": "47.2922170055923"
+  }
+]

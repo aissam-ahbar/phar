@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "260006614",
+    "raison_sociale": "PHARMACIE CRUEIZE-RIONDET",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA RESISTANCE",
+    "bp": "",
+    "cp": "26110",
+    "VILLE": "MIRABEL AUX BARONNIES    ",
+    "tel": "475271361",
+    "telecopie": "475271882",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88379553600019",
+    "lng": "5.09835148953804",
+    "lat": "44.3108890921653"
+  },
+  {
+    "finess": "260013123",
+    "raison_sociale": "LF MIRABEL AUX BARONNIES HL NYONS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "26110",
+    "VILLE": "MIRABEL AUX BARONNIES    ",
+    "tel": "475265200",
+    "telecopie": "475265210",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26260007500051",
+    "lng": "5.0976012452911",
+    "lat": "44.3105756423465"
+  },
+  {
+    "finess": "260015730",
+    "raison_sociale": "ASS ADMR LES OLIVIERS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "26110",
+    "VILLE": "MIRABEL AUX BARONNIES    ",
+    "tel": "475271509",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31613751200018",
+    "lng": "5.0976012452911",
+    "lat": "44.3105756423465"
+  }
+]

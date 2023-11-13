@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "530002344",
+    "raison_sociale": "EHPAD LE BEL ACCUEIL",
+    "numero voie": "29",
+    "type_voie": "R",
+    "libelle_voie": "DE NORMANDIE",
+    "bp": "",
+    "cp": "53190",
+    "VILLE": "FOUGEROLLES DU PLESSIS    ",
+    "tel": "243055017",
+    "telecopie": "243055274",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26530017800018",
+    "lng": "-0.9715147578321",
+    "lat": "48.4762662205961"
+  },
+  {
+    "finess": "530004043",
+    "raison_sociale": "SAAD ADMR FOUGEROLLES DU PLESSIS",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DU MAINE",
+    "bp": "",
+    "cp": "53190",
+    "VILLE": "FOUGEROLLES DU PLESSIS    ",
+    "tel": "243057095",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "78624428500015",
+    "lng": "-0.97432694104651",
+    "lat": "48.4734022570894"
+  },
+  {
+    "finess": "530032895",
+    "raison_sociale": "PHARMACIE DU BOCAGE",
+    "numero voie": "2",
+    "type_voie": "PL",
+    "libelle_voie": "DU 11 NOVEMBRE 1918",
+    "bp": "",
+    "cp": "53190",
+    "VILLE": "FOUGEROLLES DU PLESSIS    ",
+    "tel": "243055616",
+    "telecopie": "243055965",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48467150800014",
+    "lng": "-0.974644432186012",
+    "lat": "48.4748571436253"
+  }
+]

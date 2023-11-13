@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "630008407",
+    "raison_sociale": "PHARMACIE THOMAS",
+    "numero voie": "28",
+    "type_voie": "AV",
+    "libelle_voie": "de la Gare",
+    "bp": "",
+    "cp": "63780",
+    "VILLE": "ST GEORGES DE MONS   ",
+    "tel": "473867028",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51421825400035",
+    "lng": "2.84016258406894",
+    "lat": "45.9367431864836"
+  },
+  {
+    "finess": "630788297",
+    "raison_sociale": "SCE AIDE MENAG DOM PERS AGEES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "63780",
+    "VILLE": "ST GEORGES DE MONS   ",
+    "tel": "473868014",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "2.84107464091594",
+    "lat": "45.9391244781608"
+  }
+]

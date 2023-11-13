@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "620015925",
+    "raison_sociale": "PHARMACIE DUMONT",
+    "numero voie": "31",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "62113",
+    "VILLE": "SAILLY LABOURSE",
+    "tel": "321659395",
+    "telecopie": "321522517",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79269479600014",
+    "lng": "2.69665891018498",
+    "lat": "50.5006861808806"
+  },
+  {
+    "finess": "620114132",
+    "raison_sociale": "M.E.C.S DE L ARTOIS",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DU CHÂTEAU",
+    "bp": "",
+    "cp": "62113",
+    "VILLE": "SAILLY LABOURSE",
+    "tel": "321549944",
+    "telecopie": "321549945",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "77562993401147",
+    "lng": "2.69494547969216",
+    "lat": "50.5033568348706"
+  },
+  {
+    "finess": "620119339",
+    "raison_sociale": "EHPAD \"LES HELIANTINES\"",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE BELENVILLE",
+    "bp": "",
+    "cp": "62113",
+    "VILLE": "SAILLY LABOURSE",
+    "tel": "321643411",
+    "telecopie": "321665280",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "38473987600033",
+    "lng": "2.70553055527505",
+    "lat": "50.5062619678939"
+  }
+]

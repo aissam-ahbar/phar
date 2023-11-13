@@ -1,0 +1,19 @@
+[
+  {
+    "finess": "140010265",
+    "raison_sociale": "PHARMACIE DE LA CAMBE",
+    "numero voie": "37",
+    "type_voie": "R",
+    "libelle_voie": "PRINCIPALE",
+    "bp": "",
+    "cp": "14230",
+    "VILLE": "LA CAMBE",
+    "tel": "231227279",
+    "telecopie": "231214761",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49338408500012",
+    "lng": "-1.00702852281937",
+    "lat": "49.3427060388613"
+  }
+]

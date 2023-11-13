@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "220012579",
+    "raison_sociale": "PHARMACIE DES TROIS CLOCHERS",
+    "numero voie": "18",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "22110",
+    "VILLE": "GLOMEL ",
+    "tel": "296296056",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "37776455000028",
+    "lng": "-3.3965968393344",
+    "lat": "48.2226129570316"
+  },
+  {
+    "finess": "220014062",
+    "raison_sociale": "ESAT DE GLOMEL",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "COATRENNEC",
+    "bp": "BP 11",
+    "cp": "22110",
+    "VILLE": "GLOMEL ",
+    "tel": "296298686",
+    "telecopie": "296298650",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "40094447600383",
+    "lng": "-3.38671855444544",
+    "lat": "48.2518549125124"
+  },
+  {
+    "finess": "220019871",
+    "raison_sociale": "SAVS DE GLOMEL",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "COATRENNEC",
+    "bp": "",
+    "cp": "22110",
+    "VILLE": "GLOMEL ",
+    "tel": "296298686",
+    "telecopie": "",
+    "categorie etablissement": "446",
+    "libelle categorie": "Service d'Accompagnement à la Vie Sociale (S.A.V.S.)",
+    "siret": "40094447600409",
+    "lng": "-3.38671855444544",
+    "lat": "48.2518549125124"
+  }
+]

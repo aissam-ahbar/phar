@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "530009141",
+    "raison_sociale": "SAAD ADMR CHAILLAND",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "53420",
+    "VILLE": "CHAILLAND ",
+    "tel": "243024490",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "81332343300017",
+    "lng": "-0.873288392385139",
+    "lat": "48.2237339596314"
+  },
+  {
+    "finess": "530033257",
+    "raison_sociale": "RESIDENCE RENE DE BRANCHE",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE SULZBERG",
+    "bp": "",
+    "cp": "53420",
+    "VILLE": "CHAILLAND ",
+    "tel": "243026450",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "21530048400031",
+    "lng": "-0.873370120596534",
+    "lat": "48.224259182624"
+  }
+]

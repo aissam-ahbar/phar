@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "280004169",
+    "raison_sociale": "PRO-PHARMACIE IDBRIK",
+    "numero voie": "24",
+    "type_voie": "R",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "28480",
+    "VILLE": "BEAUMONT LES AUTELS    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "627",
+    "libelle categorie": "Propharmacie",
+    "siret": "44211593700033",
+    "lng": "0.958161367589233",
+    "lat": "48.256430423839"
+  },
+  {
+    "finess": "280004938",
+    "raison_sociale": "LVA \"LE HAUT-BOIS\"",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LES CAILLEAUX",
+    "bp": "",
+    "cp": "28480",
+    "VILLE": "BEAUMONT LES AUTELS    ",
+    "tel": "237294781",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "50211887000018",
+    "lng": "0.980861766986912",
+    "lat": "48.2187629959078"
+  },
+  {
+    "finess": "280503822",
+    "raison_sociale": "SAAD ADMR BEAUMONT-NOGENT LE ROTROU",
+    "numero voie": "30",
+    "type_voie": "R",
+    "libelle_voie": "EMMELINE",
+    "bp": "MAIRIE",
+    "cp": "28480",
+    "VILLE": "BEAUMONT LES AUTELS    ",
+    "tel": "237351714",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "41152604900019",
+    "lng": "0.959271575912477",
+    "lat": "48.2569977280848"
+  }
+]

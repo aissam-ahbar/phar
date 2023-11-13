@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "240010736",
+    "raison_sociale": "PHARMACIE MARLIAC-BARDE",
+    "numero voie": "45",
+    "type_voie": "R",
+    "libelle_voie": "NOTRE DAME",
+    "bp": "",
+    "cp": "24540",
+    "VILLE": "MONPAZIER ",
+    "tel": "553226004",
+    "telecopie": "553239646",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34402901200012",
+    "lng": "0.894486169759423",
+    "lat": "44.6812268429135"
+  },
+  {
+    "finess": "240014282",
+    "raison_sociale": "FOYER EXPERIMENTAL POUR PHV MONPAZIER",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "JEAN GALMOT",
+    "bp": "",
+    "cp": "24540",
+    "VILLE": "MONPAZIER ",
+    "tel": "553271824",
+    "telecopie": "553247717",
+    "categorie etablissement": "379",
+    "libelle categorie": "Etablissement Expérimental pour Adultes Handicapés",
+    "siret": "77556982500273",
+    "lng": "0.895000302574971",
+    "lat": "44.6799334556691"
+  }
+]

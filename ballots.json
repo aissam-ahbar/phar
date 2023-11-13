@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "530002302",
+    "raison_sociale": "EHPAD LA CLOSERAIE",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DE BRETAGNE",
+    "bp": "",
+    "cp": "53350",
+    "VILLE": "BALLOTS ",
+    "tel": "243066576",
+    "telecopie": "243069280",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26530033500014",
+    "lng": "-1.04831397405896",
+    "lat": "47.8968891236153"
+  },
+  {
+    "finess": "530009125",
+    "raison_sociale": "SAAD ADMR BALLOTS",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "53350",
+    "VILLE": "BALLOTS ",
+    "tel": "243090387",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "50353788800029",
+    "lng": "-1.04866233793166",
+    "lat": "47.8953433400745"
+  },
+  {
+    "finess": "530030279",
+    "raison_sociale": "PHARMACIE  EVRARD",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "53350",
+    "VILLE": "BALLOTS ",
+    "tel": "243065223",
+    "telecopie": "243065223",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83869608600019",
+    "lng": "-1.04880945108678",
+    "lat": "47.8953571869591"
+  }
+]

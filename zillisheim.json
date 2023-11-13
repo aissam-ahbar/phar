@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "680015922",
+    "raison_sociale": "PHARMACIE  TURNANI-DIEMUNSCH",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "JEANNE D ARC",
+    "bp": "",
+    "cp": "68720",
+    "VILLE": "ZILLISHEIM ",
+    "tel": "389061977",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39829081700012",
+    "lng": "7.29328448236821",
+    "lat": "47.6963650125941"
+  },
+  {
+    "finess": "680018157",
+    "raison_sociale": "ACCUEIL DE JOUR LES MOULINS DE L'ILL",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "68720",
+    "VILLE": "ZILLISHEIM ",
+    "tel": "389602424",
+    "telecopie": "",
+    "categorie etablissement": "207",
+    "libelle categorie": "Centre de Jour pour Personnes Agées",
+    "siret": "",
+    "lng": "7.29389691288548",
+    "lat": "47.6955483725244"
+  }
+]

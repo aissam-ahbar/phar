@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "430005082",
+    "raison_sociale": "SERVICE D'AIDE AUX PERSONNES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "43140",
+    "VILLE": "ST VICTOR MALESCOURS    ",
+    "tel": "471611904",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32475513100012",
+    "lng": "4.31300904470418",
+    "lat": "45.2910241660795"
+  },
+  {
+    "finess": "430010066",
+    "raison_sociale": "ADMR ST VICTOR MALESCOURS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "43140",
+    "VILLE": "ST VICTOR MALESCOURS    ",
+    "tel": "471662020",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32475513100012",
+    "lng": "4.31300904470418",
+    "lat": "45.2910241660795"
+  }
+]

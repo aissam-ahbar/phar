@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "640017919",
+    "raison_sociale": "PROPHARMACIE MONSIEUR LAURENT DECEVRE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "GOURETTE",
+    "cp": "64440",
+    "VILLE": "EAUX BONNES",
+    "tel": "559051144",
+    "telecopie": "",
+    "categorie etablissement": "627",
+    "libelle categorie": "Propharmacie",
+    "siret": "43904167400037",
+    "lng": "-0.354148643685643",
+    "lat": "42.964115182297"
+  },
+  {
+    "finess": "640780029",
+    "raison_sociale": "STATION THERMALE DES EAUX BONNES",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DOCTEUR GREIGNOU",
+    "bp": "",
+    "cp": "64440",
+    "VILLE": "EAUX BONNES",
+    "tel": "559053402",
+    "telecopie": "559053964",
+    "categorie etablissement": "126",
+    "libelle categorie": "Etablissement Thermal",
+    "siret": "",
+    "lng": "-0.391115793838391",
+    "lat": "42.9714351726627"
+  }
+]

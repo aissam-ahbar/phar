@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "570011718",
+    "raison_sociale": "MAISON D'ACCUEIL SPECIALISEE AUGNY",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DE LA LIBERATION",
+    "bp": "",
+    "cp": "57685",
+    "VILLE": "AUGNY ",
+    "tel": "387554189",
+    "telecopie": "387309867",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "77568873209625",
+    "lng": "6.12189689048212",
+    "lat": "49.0587345793133"
+  },
+  {
+    "finess": "570013003",
+    "raison_sociale": "PHARMACIE SAINT JEAN",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DES JARDINS",
+    "bp": "",
+    "cp": "57685",
+    "VILLE": "AUGNY ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84996403600016",
+    "lng": "6.12344395166351",
+    "lat": "49.056275537772"
+  }
+]

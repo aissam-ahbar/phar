@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "160003844",
+    "raison_sociale": "ESAT LA TOUR D'YVIERS",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LA TOUR",
+    "bp": "BP 20037",
+    "cp": "16210",
+    "VILLE": "YVIERS ",
+    "tel": "545981558",
+    "telecopie": "545980608",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "78117295200132",
+    "lng": "-0.005787435669077",
+    "lat": "45.273852478166"
+  },
+  {
+    "finess": "160004750",
+    "raison_sociale": "FOYER  D'YVIERS",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LA TOUR",
+    "bp": "",
+    "cp": "16210",
+    "VILLE": "YVIERS ",
+    "tel": "545989698",
+    "telecopie": "545980608",
+    "categorie etablissement": "252",
+    "libelle categorie": "Foyer Hébergement Adultes Handicapés",
+    "siret": "78117295200140",
+    "lng": "-0.005787435669077",
+    "lat": "45.273852478166"
+  }
+]

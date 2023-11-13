@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "560015844",
+    "raison_sociale": "EURL PHARMACIE RYON",
+    "numero voie": "9",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA CHOUANNERIE",
+    "bp": "",
+    "cp": "56500",
+    "VILLE": "BIGNAN ",
+    "tel": "297600708",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51504152300017",
+    "lng": "-2.77263393218853",
+    "lat": "47.8800273445554"
+  },
+  {
+    "finess": "560024408",
+    "raison_sociale": "EAM GUERIGNAN",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "AMBROISE PARE",
+    "bp": "",
+    "cp": "56500",
+    "VILLE": "BIGNAN ",
+    "tel": "297695890",
+    "telecopie": "",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "26560005600237",
+    "lng": "-2.7665248077069",
+    "lat": "47.874423870645"
+  }
+]

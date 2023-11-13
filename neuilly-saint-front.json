@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "20002259",
+    "raison_sociale": "EHPAD NEUILLY-SAINT-FRONT",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "JOSEPH LOUER",
+    "bp": "",
+    "cp": "2470",
+    "VILLE": "NEUILLY ST FRONT    ",
+    "tel": "323710432",
+    "telecopie": "323710881",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26020869900033",
+    "lng": "3.26383495984998",
+    "lat": "49.169373785721"
+  },
+  {
+    "finess": "20009064",
+    "raison_sociale": "SELARL PHARMACIE FOUCHAULT",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "DE L HOTEL DE VILLE",
+    "bp": "",
+    "cp": "2470",
+    "VILLE": "NEUILLY ST FRONT    ",
+    "tel": "323710015",
+    "telecopie": "323711837",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51217082000017",
+    "lng": "3.26132222876209",
+    "lat": "49.171110849926"
+  },
+  {
+    "finess": "20009544",
+    "raison_sociale": "SSIAD CCOC NEUILLY-SAINT-FRONT",
+    "numero voie": "76",
+    "type_voie": "R",
+    "libelle_voie": "FRANÇOIS DUJARDIN",
+    "bp": "",
+    "cp": "2470",
+    "VILLE": "NEUILLY ST FRONT    ",
+    "tel": "323710112",
+    "telecopie": "323710112",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "26021088500125",
+    "lng": "3.26118290196828",
+    "lat": "49.1744781148992"
+  }
+]

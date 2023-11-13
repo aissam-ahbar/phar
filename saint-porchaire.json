@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "170015176",
+    "raison_sociale": "PHARMACIE DU CHATEAU",
+    "numero voie": "62",
+    "type_voie": "R",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "17250",
+    "VILLE": "ST PORCHAIRE",
+    "tel": "546956025",
+    "telecopie": "546955348",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83028728000028",
+    "lng": "-0.783126538022474",
+    "lat": "45.8204961103309"
+  },
+  {
+    "finess": "170021968",
+    "raison_sociale": "EHPAD LE MOULIN DU VAL DU BRUANT",
+    "numero voie": "6",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "17250",
+    "VILLE": "ST PORCHAIRE",
+    "tel": "546987000",
+    "telecopie": "546942279",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77558666200550",
+    "lng": "-0.7844775981856",
+    "lat": "45.821207189528"
+  },
+  {
+    "finess": "170022917",
+    "raison_sociale": "CONSULT. DE PROTECTION INFANTILE",
+    "numero voie": "23",
+    "type_voie": "R",
+    "libelle_voie": "DU COLLEGE",
+    "bp": "",
+    "cp": "17250",
+    "VILLE": "ST PORCHAIRE",
+    "tel": "546744868",
+    "telecopie": "",
+    "categorie etablissement": "230",
+    "libelle categorie": "Etablissement Consultation Protection Infantile",
+    "siret": "22170001600993",
+    "lng": "-0.770790531695564",
+    "lat": "45.8202247348733"
+  }
+]

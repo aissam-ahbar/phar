@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "400006748",
+    "raison_sociale": "EHPAD CANTE CIGALE",
+    "numero voie": "84",
+    "type_voie": "ALL",
+    "libelle_voie": "DES CIGALES",
+    "bp": "",
+    "cp": "40560",
+    "VILLE": "VIELLE ST GIRONS    ",
+    "tel": "558479266",
+    "telecopie": "558479990",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26400321100028",
+    "lng": "-1.30191469691635",
+    "lat": "43.9516471584311"
+  },
+  {
+    "finess": "400010682",
+    "raison_sociale": "PHARMACIE DES LACS",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DES LACS",
+    "bp": "",
+    "cp": "40560",
+    "VILLE": "VIELLE ST GIRONS    ",
+    "tel": "558479170",
+    "telecopie": "558479450",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88126628200014",
+    "lng": "-1.30488502274172",
+    "lat": "43.9352778452296"
+  }
+]

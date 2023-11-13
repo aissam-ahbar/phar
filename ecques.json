@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "620025221",
+    "raison_sociale": "PHARMACIE MANCHE",
+    "numero voie": "580",
+    "type_voie": "R",
+    "libelle_voie": "DE SAINT OMER",
+    "bp": "",
+    "cp": "62129",
+    "VILLE": "ECQUES ",
+    "tel": "321387373",
+    "telecopie": "321387374",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88329488600014",
+    "lng": "2.28443657548878",
+    "lat": "50.6742316512794"
+  },
+  {
+    "finess": "620105270",
+    "raison_sociale": "EHPAD TEMPS DE VIE ECQUES",
+    "numero voie": "415",
+    "type_voie": "R",
+    "libelle_voie": "DE CLARQUES",
+    "bp": "",
+    "cp": "62129",
+    "VILLE": "ECQUES ",
+    "tel": "321954100",
+    "telecopie": "321954101",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "39434217400254",
+    "lng": "2.28385898097993",
+    "lat": "50.6676009197668"
+  }
+]

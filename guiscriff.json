@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "560017063",
+    "raison_sociale": "PHARMACIE DE GUISCRIFF",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DE SCAER",
+    "bp": "",
+    "cp": "56560",
+    "VILLE": "GUISCRIFF ",
+    "tel": "297340034",
+    "telecopie": "297341189",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "85159974600019",
+    "lng": "-3.64455951088307",
+    "lat": "48.0477629465294"
+  },
+  {
+    "finess": "560031460",
+    "raison_sociale": "MSP GUISCRIFF",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "56560",
+    "VILLE": "GUISCRIFF ",
+    "tel": "297340031",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "92142986600012",
+    "lng": "-3.64461019889087",
+    "lat": "48.0487119244828"
+  },
+  {
+    "finess": "560031478",
+    "raison_sociale": "FJT DE ROI MORVAN COMMUNAUTE",
+    "numero voie": "24",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "56560",
+    "VILLE": "GUISCRIFF ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "257",
+    "libelle categorie": "Foyer de Jeunes Travailleurs (résidence sociale ou non)",
+    "siret": "",
+    "lng": "-3.64475511902132",
+    "lat": "48.0489538809098"
+  }
+]

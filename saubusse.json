@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "400010237",
+    "raison_sociale": "PHARMACIE THERMALE",
+    "numero voie": "60",
+    "type_voie": "R",
+    "libelle_voie": "DE LA BATTERE",
+    "bp": "",
+    "cp": "40180",
+    "VILLE": "SAUBUSSE ",
+    "tel": "558577026",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53458080800028",
+    "lng": "-1.1883269390104",
+    "lat": "43.6586688669493"
+  },
+  {
+    "finess": "400780144",
+    "raison_sociale": "ETABLISSEMENT THERMAL",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "40180",
+    "VILLE": "SAUBUSSE ",
+    "tel": "558573104",
+    "telecopie": "",
+    "categorie etablissement": "126",
+    "libelle categorie": "Etablissement Thermal",
+    "siret": "98562034300014",
+    "lng": "-1.1871932681488",
+    "lat": "43.6562508478316"
+  }
+]

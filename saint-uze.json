@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "260000476",
+    "raison_sociale": "IME ADAPEI 26 - SAINT UZE",
+    "numero voie": "6",
+    "type_voie": "ALL",
+    "libelle_voie": "DES PLATANES",
+    "bp": "",
+    "cp": "26240",
+    "VILLE": "ST UZE",
+    "tel": "475032264",
+    "telecopie": "475032650",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "77557345400052",
+    "lng": "4.86429910483304",
+    "lat": "45.1858006741355"
+  },
+  {
+    "finess": "260014162",
+    "raison_sociale": "PHARMACIE DES SOURCES",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "du 19 mars",
+    "bp": "",
+    "cp": "26240",
+    "VILLE": "ST UZE",
+    "tel": "475032052",
+    "telecopie": "475039196",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49869963600029",
+    "lng": "4.86096873637142",
+    "lat": "45.1850411359317"
+  },
+  {
+    "finess": "260015953",
+    "raison_sociale": "ASS ADMR SAINT UZE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "26240",
+    "VILLE": "ST UZE",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "30907201500014",
+    "lng": "4.86149949542006",
+    "lat": "45.1846873316838"
+  }
+]

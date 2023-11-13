@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "390003309",
+    "raison_sociale": "SCE DE PORTAGE DE REPAS A DOMICILE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "39410",
+    "VILLE": "ST AUBIN",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "21390476600085",
+    "lng": "5.32988494206995",
+    "lat": "47.0313735759647"
+  },
+  {
+    "finess": "390003945",
+    "raison_sociale": "PHARMACIE DU FINAGE",
+    "numero voie": "2",
+    "type_voie": "AV",
+    "libelle_voie": "de la gare",
+    "bp": "",
+    "cp": "39410",
+    "VILLE": "ST AUBIN",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "31076808000015",
+    "lng": "5.32800020984298",
+    "lat": "47.0328491458452"
+  },
+  {
+    "finess": "390005148",
+    "raison_sociale": "EHPAD LES IRIS",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MOTTE",
+    "bp": "",
+    "cp": "39410",
+    "VILLE": "ST AUBIN",
+    "tel": "384828375",
+    "telecopie": "384828377",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26390014400571",
+    "lng": "5.33023372283182",
+    "lat": "47.0354549120604"
+  }
+]

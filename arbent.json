@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "10002434",
+    "raison_sociale": "SARL GABRIELLE GROSS",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE DORTAN",
+    "bp": "",
+    "cp": "1100",
+    "VILLE": "ARBENT ",
+    "tel": "474773819",
+    "telecopie": "474773819",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80263848600026",
+    "lng": "5.6603331865452",
+    "lat": "46.271546573733"
+  },
+  {
+    "finess": "10789899",
+    "raison_sociale": "EHPAD VILLA CHARLOTTE ARBENT",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "GENERAL ANDREA",
+    "bp": "",
+    "cp": "1100",
+    "VILLE": "ARBENT ",
+    "tel": "474774242",
+    "telecopie": "474813118",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "39071919300018",
+    "lng": "5.67976533966901",
+    "lat": "46.2943526331039"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590018271",
+    "raison_sociale": "PHARMACIE WULLENS",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "CELESTIN DELOGE",
+    "bp": "BP 1",
+    "cp": "59294",
+    "VILLE": "HAUSSY ",
+    "tel": "327742124",
+    "telecopie": "327379972",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39197859000019",
+    "lng": "3.48084638315118",
+    "lat": "50.2176865540563"
+  },
+  {
+    "finess": "590062931",
+    "raison_sociale": "MSP D'HAUSSY",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "CHARLES AZAMBRE",
+    "bp": "",
+    "cp": "59294",
+    "VILLE": "HAUSSY ",
+    "tel": "643530816",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "3.48123454187163",
+    "lat": "50.217444381007"
+  }
+]

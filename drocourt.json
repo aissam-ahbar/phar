@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "620010660",
+    "raison_sociale": "PHARMACIE LES 4 VENTS",
+    "numero voie": "7",
+    "type_voie": "RTE",
+    "libelle_voie": "D ARRAS",
+    "bp": "",
+    "cp": "62320",
+    "VILLE": "DROCOURT ",
+    "tel": "321204030",
+    "telecopie": "321757213",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52302595500015",
+    "lng": "2.92167979384517",
+    "lat": "50.3907972732174"
+  },
+  {
+    "finess": "620027128",
+    "raison_sociale": "EHPAD ANDRÉ POULY",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "ALBERT SAUSSEZ",
+    "bp": "",
+    "cp": "62320",
+    "VILLE": "DROCOURT ",
+    "tel": "321201550",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "41986768400195",
+    "lng": "2.9248953567132",
+    "lat": "50.3899948945671"
+  },
+  {
+    "finess": "620105619",
+    "raison_sociale": "RÉSIDENCE AUTONOMIE LES GENETS",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "ALBERT SAUSSEZ",
+    "bp": "",
+    "cp": "62320",
+    "VILLE": "DROCOURT ",
+    "tel": "321201550",
+    "telecopie": "321751588",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "41986768400187",
+    "lng": "2.9248953567132",
+    "lat": "50.3899948945671"
+  }
+]

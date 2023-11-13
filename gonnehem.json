@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "620011445",
+    "raison_sociale": "PHARMACIE VAL DE CLARENCE",
+    "numero voie": "21",
+    "type_voie": "PL",
+    "libelle_voie": "Louis et Andre Delannoy",
+    "bp": "",
+    "cp": "62920",
+    "VILLE": "GONNEHEM ",
+    "tel": "321565430",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "90056361000014",
+    "lng": "2.57616303871017",
+    "lat": "50.5630960106427"
+  },
+  {
+    "finess": "620017699",
+    "raison_sociale": "EHPAD RÉSIDENCE LE PARC DU MANOIR",
+    "numero voie": "480",
+    "type_voie": "R",
+    "libelle_voie": "GODEFROY BAR",
+    "bp": "",
+    "cp": "62920",
+    "VILLE": "GONNEHEM ",
+    "tel": "362535700",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "51935981400018",
+    "lng": "2.58504148851188",
+    "lat": "50.5547601013473"
+  }
+]

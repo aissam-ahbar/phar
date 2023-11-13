@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "570012781",
+    "raison_sociale": "EHPAD \"L'ATRE DU VAL DE FENSCH\"",
+    "numero voie": "29",
+    "type_voie": "R",
+    "libelle_voie": "JEAN BURGER",
+    "bp": "",
+    "cp": "57650",
+    "VILLE": "FONTOY ",
+    "tel": "382849898",
+    "telecopie": "382848232",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "38217058700010",
+    "lng": "6.00203016446849",
+    "lat": "49.3580434919461"
+  },
+  {
+    "finess": "570016592",
+    "raison_sociale": "PHARMACIE GOEURY - BIONDARO",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DE METZ",
+    "bp": "",
+    "cp": "57650",
+    "VILLE": "FONTOY ",
+    "tel": "382848383",
+    "telecopie": "382848583",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51493750700010",
+    "lng": "5.9982457172026",
+    "lat": "49.3569051053654"
+  }
+]

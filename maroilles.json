@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590023982",
+    "raison_sociale": "PHARMACIE DE MAROILLES",
+    "numero voie": "93",
+    "type_voie": "",
+    "libelle_voie": "GRAND RUE",
+    "bp": "",
+    "cp": "59550",
+    "VILLE": "MAROILLES ",
+    "tel": "327847233",
+    "telecopie": "327771057",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81467080800017",
+    "lng": "3.76072685977422",
+    "lat": "50.1350303896308"
+  },
+  {
+    "finess": "590805362",
+    "raison_sociale": "EHPAD TEMPS DE VIE MAROILLES",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "VERTE",
+    "bp": "",
+    "cp": "59550",
+    "VILLE": "MAROILLES ",
+    "tel": "327777757",
+    "telecopie": "327847715",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "39434217400163",
+    "lng": "3.76336863637873",
+    "lat": "50.1347230198358"
+  }
+]

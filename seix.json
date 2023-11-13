@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "90003724",
+    "raison_sociale": "MSP DES DEUX VALLEES",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU PONT NEUF",
+    "bp": "",
+    "cp": "9140",
+    "VILLE": "SEIX ",
+    "tel": "561010215",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "80464266800011",
+    "lng": "1.20579137284607",
+    "lat": "42.8693881300956"
+  },
+  {
+    "finess": "90004912",
+    "raison_sociale": "CPTS DU COUSERANS",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DU PONT NEUF",
+    "bp": "",
+    "cp": "9140",
+    "VILLE": "SEIX ",
+    "tel": "561010215",
+    "telecopie": "",
+    "categorie etablissement": "604",
+    "libelle categorie": "Communautés professionnelles territoriales de santé (CPTS)",
+    "siret": "79238856300019",
+    "lng": "1.20579137284607",
+    "lat": "42.8693881300956"
+  },
+  {
+    "finess": "90782624",
+    "raison_sociale": "EHPAD RESIDENCE PAUL ANE",
+    "numero voie": "16",
+    "type_voie": "",
+    "libelle_voie": "QUARTIER PAUL ANE",
+    "bp": "",
+    "cp": "9140",
+    "VILLE": "SEIX ",
+    "tel": "561668535",
+    "telecopie": "561965760",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26090107900020",
+    "lng": "1.20620214562127",
+    "lat": "42.8659473172135"
+  }
+]

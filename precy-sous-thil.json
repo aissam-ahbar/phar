@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "210006482",
+    "raison_sociale": "SELARL PHARMACIE DU SEREIN",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU SEREIN",
+    "bp": "",
+    "cp": "21390",
+    "VILLE": "PRECY SOUS THIL    ",
+    "tel": "380645424",
+    "telecopie": "380644718",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80275347500010",
+    "lng": "4.30727837153825",
+    "lat": "47.3888056838937"
+  },
+  {
+    "finess": "210780524",
+    "raison_sociale": "EHPAD DE PRECY SOUS THIL",
+    "numero voie": "45",
+    "type_voie": "R",
+    "libelle_voie": "DE L EGLISE",
+    "bp": "",
+    "cp": "21390",
+    "VILLE": "PRECY SOUS THIL    ",
+    "tel": "380645569",
+    "telecopie": "380644365",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77824481400019",
+    "lng": "4.31393213668739",
+    "lat": "47.3863646080503"
+  }
+]

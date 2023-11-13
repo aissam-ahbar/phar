@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "20002168",
+    "raison_sociale": "EHPAD LA FERTÉ-MILON",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "DES GALETS",
+    "bp": "",
+    "cp": "2460",
+    "VILLE": "LA FERTE MILON    ",
+    "tel": "323967159",
+    "telecopie": "323963718",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26020037300025",
+    "lng": "3.12367264858211",
+    "lat": "49.1845396751278"
+  },
+  {
+    "finess": "20005674",
+    "raison_sociale": "PHARMACIE AUBERT - DE BUSSY",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DE LA CHAUSSEE",
+    "bp": "",
+    "cp": "2460",
+    "VILLE": "LA FERTE MILON    ",
+    "tel": "323967012",
+    "telecopie": "323962594",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40159429600014",
+    "lng": "3.12565041899799",
+    "lat": "49.1772104164941"
+  },
+  {
+    "finess": "20018693",
+    "raison_sociale": "MSP",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE VERDUN",
+    "bp": "",
+    "cp": "2460",
+    "VILLE": "LA FERTE MILON    ",
+    "tel": "323965120",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "44124155100015",
+    "lng": "3.12742968946263",
+    "lat": "49.1780356707199"
+  }
+]

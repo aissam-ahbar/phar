@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "680009586",
+    "raison_sociale": "PHARMACIE BITSCH",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "D'ALSACE",
+    "bp": "",
+    "cp": "68210",
+    "VILLE": "MONTREUX VIEUX",
+    "tel": "389252465",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49237645400038",
+    "lng": "7.02283824666898",
+    "lat": "47.619904145403"
+  },
+  {
+    "finess": "680023082",
+    "raison_sociale": "MAISON DE SANTE DE MONTREUX VIEUX",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "D'ALSACE",
+    "bp": "",
+    "cp": "68210",
+    "VILLE": "MONTREUX VIEUX",
+    "tel": "389252211",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "90305764400010",
+    "lng": "7.02283824666898",
+    "lat": "47.619904145403"
+  }
+]

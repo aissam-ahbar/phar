@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "620013524",
+    "raison_sociale": "SARL PHARMACIE FLINOIS - FLORET",
+    "numero voie": "53",
+    "type_voie": "R",
+    "libelle_voie": "DU 11 NOVEMBRE",
+    "bp": "",
+    "cp": "62400",
+    "VILLE": "LOCON ",
+    "tel": "321278086",
+    "telecopie": "321545314",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53217438000016",
+    "lng": "2.66640007621303",
+    "lat": "50.57094138537"
+  },
+  {
+    "finess": "620026351",
+    "raison_sociale": "S.A.R.L. AIDE ET PARTAGE CONVIVIAL",
+    "numero voie": "288",
+    "type_voie": "R",
+    "libelle_voie": "DU VERT BOIS",
+    "bp": "",
+    "cp": "62400",
+    "VILLE": "LOCON ",
+    "tel": "321621444",
+    "telecopie": "321621444",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "51187329100013",
+    "lng": "2.65172536675278",
+    "lat": "50.5771863244611"
+  },
+  {
+    "finess": "620031369",
+    "raison_sociale": "MARPA LES RIVES DU SAINTE-ANNE",
+    "numero voie": "112",
+    "type_voie": "RES",
+    "libelle_voie": "DU LEVANT",
+    "bp": "",
+    "cp": "62400",
+    "VILLE": "LOCON ",
+    "tel": "355333928",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "",
+    "lng": "2.66868190762025",
+    "lat": "50.5681364739833"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "410006803",
+    "raison_sociale": "PHARMACIE DE THEILLAY",
+    "numero voie": "1",
+    "type_voie": "RTE",
+    "libelle_voie": "de Rere",
+    "bp": "",
+    "cp": "41300",
+    "VILLE": "THEILLAY ",
+    "tel": "254833520",
+    "telecopie": "254833520",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53464787000029",
+    "lng": "2.03913498695691",
+    "lat": "47.3143404154023"
+  },
+  {
+    "finess": "410007413",
+    "raison_sociale": "MARPA LES COULEURS DU SOLEIL",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DES BROSSES",
+    "bp": "",
+    "cp": "41300",
+    "VILLE": "THEILLAY ",
+    "tel": "254833473",
+    "telecopie": "254833004",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "43770107100015",
+    "lng": "2.0325009589903",
+    "lat": "47.3089222174044"
+  }
+]

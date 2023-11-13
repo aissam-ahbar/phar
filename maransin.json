@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "330048562",
+    "raison_sociale": "PHARMACIE DE MARANSIN",
+    "numero voie": "27",
+    "type_voie": "",
+    "libelle_voie": "LE BOURG",
+    "bp": "",
+    "cp": "33230",
+    "VILLE": "MARANSIN ",
+    "tel": "557494105",
+    "telecopie": "970292549",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "90279749700010",
+    "lng": "-0.268435166424141",
+    "lat": "45.0711964294405"
+  },
+  {
+    "finess": "330061250",
+    "raison_sociale": "MSP PIERRE CLEMENCEAU",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE BOURG",
+    "bp": "",
+    "cp": "33230",
+    "VILLE": "MARANSIN ",
+    "tel": "557494103",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "82395362500014",
+    "lng": "-0.268340208211035",
+    "lat": "45.073597213418"
+  }
+]

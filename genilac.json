@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "420008815",
+    "raison_sociale": "PHARMACIE BAYARD",
+    "numero voie": "85",
+    "type_voie": "ALL",
+    "libelle_voie": "DES CERISIERS",
+    "bp": "",
+    "cp": "42800",
+    "VILLE": "GENILAC ",
+    "tel": "477757514",
+    "telecopie": "477834076",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75009183700013",
+    "lng": "4.58109273048508",
+    "lat": "45.5327349305092"
+  },
+  {
+    "finess": "420780892",
+    "raison_sociale": "IME LA MAISON DE SÉSAME",
+    "numero voie": "50",
+    "type_voie": "R",
+    "libelle_voie": "DES HEURES DES PRÉS",
+    "bp": "",
+    "cp": "42800",
+    "VILLE": "GENILAC ",
+    "tel": "477752260",
+    "telecopie": "477752269",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "40881470500062",
+    "lng": "4.58292857671977",
+    "lat": "45.5328513795587"
+  },
+  {
+    "finess": "420781759",
+    "raison_sociale": "APPARTEMENTS ANEF",
+    "numero voie": "675",
+    "type_voie": "RTE",
+    "libelle_voie": "DES BOURDONNES",
+    "bp": "",
+    "cp": "42800",
+    "VILLE": "GENILAC ",
+    "tel": "477750662",
+    "telecopie": "477756973",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "50138296400028",
+    "lng": "4.58302354641767",
+    "lat": "45.5349674736706"
+  }
+]

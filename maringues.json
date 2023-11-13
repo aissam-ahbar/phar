@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "630006807",
+    "raison_sociale": "PHARMACIE DE LA FONTAINE",
+    "numero voie": "18",
+    "type_voie": "BD",
+    "libelle_voie": "DU CHERY",
+    "bp": "",
+    "cp": "63350",
+    "VILLE": "MARINGUES ",
+    "tel": "473687043",
+    "telecopie": "473738412",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "78854747900014",
+    "lng": "3.32834527224595",
+    "lat": "45.9221167161187"
+  },
+  {
+    "finess": "630006823",
+    "raison_sociale": "PHARMACIE DU CENTRE",
+    "numero voie": "38",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "63350",
+    "VILLE": "MARINGUES ",
+    "tel": "473687048",
+    "telecopie": "473686571",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45399489900012",
+    "lng": "3.33041863825003",
+    "lat": "45.921018372805"
+  },
+  {
+    "finess": "630781508",
+    "raison_sociale": "EHPAD \"L'OMBELLE\"",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "BEAUDET LAFARGE",
+    "bp": "",
+    "cp": "63350",
+    "VILLE": "MARINGUES ",
+    "tel": "473686079",
+    "telecopie": "473687995",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26630762800013",
+    "lng": "3.33219616584864",
+    "lat": "45.9209420280924"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "240008136",
+    "raison_sociale": "EHPAD DE SAINT LEON SUR L'ISLE",
+    "numero voie": "40",
+    "type_voie": "BD",
+    "libelle_voie": "JEAN JAURES",
+    "bp": "",
+    "cp": "24110",
+    "VILLE": "ST LEON SUR L ISLE  ",
+    "tel": "553806579",
+    "telecopie": "553804090",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "38078512100019",
+    "lng": "0.503282168129445",
+    "lat": "45.1149840598373"
+  },
+  {
+    "finess": "240012120",
+    "raison_sociale": "PHARMACIE CHIVIT",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "CITE NOUVELLE",
+    "bp": "",
+    "cp": "24110",
+    "VILLE": "ST LEON SUR L ISLE  ",
+    "tel": "553806562",
+    "telecopie": "553806562",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79535135200021",
+    "lng": "0.50340217715365",
+    "lat": "45.1154020402203"
+  }
+]

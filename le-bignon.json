@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "440012490",
+    "raison_sociale": "SAAD CCAS DU BIGNON",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "DU MOULIN",
+    "bp": "",
+    "cp": "44140",
+    "VILLE": "LE BIGNON",
+    "tel": "240781976",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26440073000026",
+    "lng": "-1.49179192024256",
+    "lat": "47.097369732779"
+  },
+  {
+    "finess": "440017507",
+    "raison_sociale": "PHARMACIE LE BIGNON",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU MOULIN",
+    "bp": "",
+    "cp": "44140",
+    "VILLE": "LE BIGNON",
+    "tel": "240781363",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79451238400023",
+    "lng": "-1.49101886678195",
+    "lat": "47.0977433659742"
+  },
+  {
+    "finess": "440052132",
+    "raison_sociale": "MAISON DE SANTÉ DU BIGNON",
+    "numero voie": "2",
+    "type_voie": "",
+    "libelle_voie": "LES JARDINS DE LA TOUCHE",
+    "bp": "",
+    "cp": "44140",
+    "VILLE": "LE BIGNON",
+    "tel": "240781590",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "75285075000015",
+    "lng": "-1.49088882891967",
+    "lat": "47.0967222101659"
+  }
+]

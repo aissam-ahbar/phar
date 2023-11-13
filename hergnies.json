@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "590018966",
+    "raison_sociale": "PHARMACIE DE L'OSON",
+    "numero voie": "35",
+    "type_voie": "R",
+    "libelle_voie": "PIERRE DELCOURT",
+    "bp": "",
+    "cp": "59199",
+    "VILLE": "HERGNIES ",
+    "tel": "327401914",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81877200600016",
+    "lng": "3.52560549366225",
+    "lat": "50.4734536586874"
+  },
+  {
+    "finess": "590033353",
+    "raison_sociale": "FOYER DE VIE HELIOS",
+    "numero voie": "33",
+    "type_voie": "R",
+    "libelle_voie": "JEAN JAURES",
+    "bp": "",
+    "cp": "59199",
+    "VILLE": "HERGNIES ",
+    "tel": "327324747",
+    "telecopie": "327324748",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "77562729200268",
+    "lng": "3.53115278640689",
+    "lat": "50.4714192179231"
+  },
+  {
+    "finess": "590044509",
+    "raison_sociale": "FAM DU \"CHEMIN VERT\"",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "DU CHEMIN VERT",
+    "bp": "",
+    "cp": "59199",
+    "VILLE": "HERGNIES ",
+    "tel": "327329520",
+    "telecopie": "327329521",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "77562729200326",
+    "lng": "3.53348897134621",
+    "lat": "50.4712781084456"
+  }
+]

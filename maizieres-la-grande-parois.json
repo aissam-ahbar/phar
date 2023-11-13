@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "100000207",
+    "raison_sociale": "IME VERGER FLEURI",
+    "numero voie": "21",
+    "type_voie": "R",
+    "libelle_voie": "ACHILLE FLAUBERT",
+    "bp": "",
+    "cp": "10510",
+    "VILLE": "MAIZIERES LA GRANDE PAROIS   ",
+    "tel": "325247226",
+    "telecopie": "325244272",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "77555526100061",
+    "lng": "3.77819508284882",
+    "lat": "48.5035388639615"
+  },
+  {
+    "finess": "100002443",
+    "raison_sociale": "PHARMACIE SASPORTES",
+    "numero voie": "29",
+    "type_voie": "AV",
+    "libelle_voie": "du Général de Gaulle",
+    "bp": "",
+    "cp": "10510",
+    "VILLE": "MAIZIERES LA GRANDE PAROIS   ",
+    "tel": "325243938",
+    "telecopie": "325240219",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83317133300010",
+    "lng": "3.78127757569034",
+    "lat": "48.501170590813"
+  },
+  {
+    "finess": "100012228",
+    "raison_sociale": "SAAD DE LA VALLÉE DE LA SEINE - ADMR",
+    "numero voie": "16",
+    "type_voie": "R",
+    "libelle_voie": "DES ECOLES",
+    "bp": "",
+    "cp": "10510",
+    "VILLE": "MAIZIERES LA GRANDE PAROIS   ",
+    "tel": "325240295",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31460219400024",
+    "lng": "3.78792007005327",
+    "lat": "48.5099017422101"
+  }
+]

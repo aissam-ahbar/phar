@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "140006321",
+    "raison_sociale": "SAD ASS LOCALE ADMR DE PONT-D'OUILLY",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "14690",
+    "VILLE": "PONT D OUILLY    ",
+    "tel": "231672435",
+    "telecopie": "231672435",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32028000100019",
+    "lng": "-0.409338043107215",
+    "lat": "48.8739504305826"
+  },
+  {
+    "finess": "140010687",
+    "raison_sociale": "PHARMACIE MAURIN-DUPUIS",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "14690",
+    "VILLE": "PONT D OUILLY    ",
+    "tel": "231698038",
+    "telecopie": "231698464",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "42891706600014",
+    "lng": "-0.409338043107215",
+    "lat": "48.8739504305826"
+  },
+  {
+    "finess": "140034372",
+    "raison_sociale": "MSP PONT D'OUILLY",
+    "numero voie": "3",
+    "type_voie": "PAS",
+    "libelle_voie": "DES 2 PORCHES",
+    "bp": "",
+    "cp": "14690",
+    "VILLE": "PONT D OUILLY    ",
+    "tel": "231686499",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "92317097100017",
+    "lng": "-0.408645191667563",
+    "lat": "48.8737685412751"
+  }
+]

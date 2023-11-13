@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "110782869",
+    "raison_sociale": "EHPAD LE PLA DU MOULIN",
+    "numero voie": "28",
+    "type_voie": "PROM",
+    "libelle_voie": "DE GOURNET",
+    "bp": "",
+    "cp": "11190",
+    "VILLE": "COUIZA ",
+    "tel": "468747974",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "32086181800583",
+    "lng": "2.26156441140227",
+    "lat": "42.9406340178958"
+  },
+  {
+    "finess": "110787579",
+    "raison_sociale": "EHPAD LES ESTAMOUNETS",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DU PECH",
+    "bp": "",
+    "cp": "11190",
+    "VILLE": "COUIZA ",
+    "tel": "468741050",
+    "telecopie": "468315640",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26110546400026",
+    "lng": "2.26352683081348",
+    "lat": "42.9437025391442"
+  },
+  {
+    "finess": "110790334",
+    "raison_sociale": "PHARMACIE LA SALZ",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DES PYRENEES",
+    "bp": "",
+    "cp": "11190",
+    "VILLE": "COUIZA ",
+    "tel": "468740408",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48828155100017",
+    "lng": "2.25421931989188",
+    "lat": "42.942013248995"
+  }
+]

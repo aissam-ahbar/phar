@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "40002511",
+    "raison_sociale": "SARL PHARMACIE DE CERESTE",
+    "numero voie": "",
+    "type_voie": "BD",
+    "libelle_voie": "JEAN JAURES",
+    "bp": "",
+    "cp": "4280",
+    "VILLE": "CERESTE ",
+    "tel": "492790280",
+    "telecopie": "492790743",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53097901200016",
+    "lng": "5.58880723449838",
+    "lat": "43.8557187464129"
+  },
+  {
+    "finess": "40005753",
+    "raison_sociale": "SAAD ADMR DE REILLANNE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU BICENTENAIRE",
+    "bp": "",
+    "cp": "4280",
+    "VILLE": "CERESTE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "42462343700011",
+    "lng": "5.59091395566422",
+    "lat": "43.8558857245372"
+  },
+  {
+    "finess": "40006389",
+    "raison_sociale": "MSP DE CERESTE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU BICENTENAIRE",
+    "bp": "",
+    "cp": "4280",
+    "VILLE": "CERESTE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "89360553500010",
+    "lng": "5.59091395566422",
+    "lat": "43.8558857245372"
+  }
+]

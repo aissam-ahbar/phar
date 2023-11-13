@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "700002561",
+    "raison_sociale": "PHARMACIE DE L'OASIS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "70000",
+    "VILLE": "PUSEY ",
+    "tel": "384761860",
+    "telecopie": "384754549",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81524167400010",
+    "lng": "6.12525958364553",
+    "lat": "47.6516610903203"
+  },
+  {
+    "finess": "700003379",
+    "raison_sociale": "RESIDENCE SOCIALE PHAJ PUSEY",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LA VAUGINE",
+    "bp": "LA VAUGINE",
+    "cp": "70000",
+    "VILLE": "PUSEY ",
+    "tel": "384750163",
+    "telecopie": "384768259",
+    "categorie etablissement": "257",
+    "libelle categorie": "Foyer de Jeunes Travailleurs (résidence sociale ou non)",
+    "siret": "77565048400063",
+    "lng": "6.14139998446095",
+    "lat": "47.6444423245384"
+  },
+  {
+    "finess": "700004559",
+    "raison_sociale": "ASSOCIATION TUTÉLAIRE DE HAUTE-SAÔNE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE L'OASIS",
+    "bp": "",
+    "cp": "70000",
+    "VILLE": "PUSEY ",
+    "tel": "384766336",
+    "telecopie": "",
+    "categorie etablissement": "340",
+    "libelle categorie": "Service mandataire judiciaire à la protection des majeurs",
+    "siret": "33169036200057",
+    "lng": "6.13910820716009",
+    "lat": "47.6476513654067"
+  }
+]

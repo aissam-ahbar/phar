@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "320002207",
+    "raison_sociale": "PHARMACIE CANTARELLI",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "L'Enclos",
+    "bp": "",
+    "cp": "32370",
+    "VILLE": "MANCIET ",
+    "tel": "562085470",
+    "telecopie": "562085470",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49928206900024",
+    "lng": "0.044812845485337",
+    "lat": "43.8011349850901"
+  },
+  {
+    "finess": "320784192",
+    "raison_sociale": "SAAD ADMR MANCIET NOGARO",
+    "numero voie": "4",
+    "type_voie": "PL",
+    "libelle_voie": "ALSACE LORRAINE",
+    "bp": "",
+    "cp": "32370",
+    "VILLE": "MANCIET ",
+    "tel": "532094614",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "34061727300024",
+    "lng": "0.040916113378982",
+    "lat": "43.7991444621897"
+  }
+]

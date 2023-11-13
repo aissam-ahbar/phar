@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "360002414",
+    "raison_sociale": "PHARMACIE JEANNEY",
+    "numero voie": "7",
+    "type_voie": "PL",
+    "libelle_voie": "DU 8ÈME CUIRASSIER",
+    "bp": "",
+    "cp": "36240",
+    "VILLE": "ECUEILLE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50908496800015",
+    "lng": "1.346013202301",
+    "lat": "47.0838946711231"
+  },
+  {
+    "finess": "360003321",
+    "raison_sociale": "EHPAD SAINT JOSEPH",
+    "numero voie": "37",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "36240",
+    "VILLE": "ECUEILLE ",
+    "tel": "254003600",
+    "telecopie": "254003636",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77519846800016",
+    "lng": "1.34934587540126",
+    "lat": "47.0831669727924"
+  },
+  {
+    "finess": "360007249",
+    "raison_sociale": "MSP D ECUEILLE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DES ECOLES",
+    "bp": "",
+    "cp": "36240",
+    "VILLE": "ECUEILLE ",
+    "tel": "254407785",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "1.34553685047068",
+    "lat": "47.0823614861759"
+  }
+]

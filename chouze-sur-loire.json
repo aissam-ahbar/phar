@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "370003600",
+    "raison_sociale": "SELARL PHARMACIE BOULANGER FLORENCE",
+    "numero voie": "6",
+    "type_voie": "PL",
+    "libelle_voie": "DES DEPORTES",
+    "bp": "",
+    "cp": "37140",
+    "VILLE": "CHOUZE SUR LOIRE    ",
+    "tel": "247951019",
+    "telecopie": "247950294",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52199086100010",
+    "lng": "0.127460189230367",
+    "lat": "47.2367914739124"
+  },
+  {
+    "finess": "370009854",
+    "raison_sociale": "SSIAD ASSAD HAD CHOUZE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DES PECHEURS",
+    "bp": "",
+    "cp": "37140",
+    "VILLE": "CHOUZE SUR LOIRE    ",
+    "tel": "247704268",
+    "telecopie": "",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "",
+    "lng": "0.127752827551676",
+    "lat": "47.2364636078822"
+  }
+]

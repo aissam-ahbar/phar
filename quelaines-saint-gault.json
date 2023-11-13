@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "530007079",
+    "raison_sociale": "RESIDENCE LE MOTTAIS",
+    "numero voie": "23",
+    "type_voie": "R",
+    "libelle_voie": "DE BRETAGNE",
+    "bp": "",
+    "cp": "53360",
+    "VILLE": "QUELAINES ST GAULT    ",
+    "tel": "243988402",
+    "telecopie": "243988402",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "21530186200136",
+    "lng": "-0.805768508560529",
+    "lat": "47.9252041144296"
+  },
+  {
+    "finess": "530009232",
+    "raison_sociale": "SAAD ADMR QUELAINES",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "53360",
+    "VILLE": "QUELAINES ST GAULT    ",
+    "tel": "243372757",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "50920423600038",
+    "lng": "-0.802385822287133",
+    "lat": "47.9228404934408"
+  },
+  {
+    "finess": "530030980",
+    "raison_sociale": "PHARMACIE MONIER LEBOUCHER",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DU GENERAL FOUCHER",
+    "bp": "",
+    "cp": "53360",
+    "VILLE": "QUELAINES ST GAULT    ",
+    "tel": "243985613",
+    "telecopie": "243985621",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "43472300300019",
+    "lng": "-0.801931868115374",
+    "lat": "47.924118395773"
+  }
+]

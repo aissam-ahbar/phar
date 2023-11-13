@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590009650",
+    "raison_sociale": "PHARMACIE DU MELANTOIS",
+    "numero voie": "24",
+    "type_voie": "RTE",
+    "libelle_voie": "Nationale",
+    "bp": "",
+    "cp": "59152",
+    "VILLE": "ANSTAING ",
+    "tel": "320412880",
+    "telecopie": "320640148",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "85067892100014",
+    "lng": "3.19058471934908",
+    "lat": "50.6113819302309"
+  },
+  {
+    "finess": "590065017",
+    "raison_sociale": "PF JULES FERRY EOLE ANSTAING",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "CLOVIS LECLERCQ",
+    "bp": "",
+    "cp": "59152",
+    "VILLE": "ANSTAING ",
+    "tel": "320590804",
+    "telecopie": "",
+    "categorie etablissement": "258",
+    "libelle categorie": "Maisons Relais - Pensions de Famille",
+    "siret": "",
+    "lng": "3.18898808974848",
+    "lat": "50.6038779846571"
+  }
+]

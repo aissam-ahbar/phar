@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "260002068",
+    "raison_sociale": "EHPAD LES TOURTERELLES",
+    "numero voie": "41",
+    "type_voie": "R",
+    "libelle_voie": "DU GRAND FAUBOURG",
+    "bp": "",
+    "cp": "26230",
+    "VILLE": "GRIGNAN ",
+    "tel": "475465023",
+    "telecopie": "475465831",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26260005900014",
+    "lng": "4.90464596755744",
+    "lat": "44.4199143261352"
+  },
+  {
+    "finess": "260005863",
+    "raison_sociale": "PHARMACIE DE GRIGNAN",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DU JEU DE BALLON",
+    "bp": "",
+    "cp": "26230",
+    "VILLE": "GRIGNAN ",
+    "tel": "475465191",
+    "telecopie": "475469325",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44228952600018",
+    "lng": "4.90944646405183",
+    "lat": "44.4194980532433"
+  }
+]

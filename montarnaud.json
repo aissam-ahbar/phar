@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "340780790",
+    "raison_sociale": "CL ST ANTOINE",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "FONT MOSSON",
+    "bp": "",
+    "cp": "34570",
+    "VILLE": "MONTARNAUD ",
+    "tel": "467029110",
+    "telecopie": "467029111",
+    "categorie etablissement": "161",
+    "libelle categorie": "Maison de Santé pour Maladies Mentales",
+    "siret": "47180055700012",
+    "lng": "3.69364440263102",
+    "lat": "43.6515523294441"
+  },
+  {
+    "finess": "340793983",
+    "raison_sociale": "PHARMACIE BILICKI - STEFFEN",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "GERMAINE TILLON",
+    "bp": "",
+    "cp": "34570",
+    "VILLE": "MONTARNAUD ",
+    "tel": "467554182",
+    "telecopie": "467591688",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48497543800025",
+    "lng": "3.6994676664591",
+    "lat": "43.6465740670286"
+  }
+]

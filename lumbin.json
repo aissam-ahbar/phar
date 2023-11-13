@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380003178",
+    "raison_sociale": "ESAT AFIPH ENTR SUD-ISERE GRES LUMBIN",
+    "numero voie": "101",
+    "type_voie": "CHE",
+    "libelle_voie": "MARAIS",
+    "bp": "ZA DES LONGS PRES",
+    "cp": "38660",
+    "VILLE": "LUMBIN ",
+    "tel": "476924963",
+    "telecopie": "476924601",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77559590301472",
+    "lng": "5.91001823760138",
+    "lat": "45.3050858956861"
+  },
+  {
+    "finess": "380008409",
+    "raison_sociale": "FOYER LUMBIN FSIG",
+    "numero voie": "45",
+    "type_voie": "CHE",
+    "libelle_voie": "DES DRAYES",
+    "bp": "",
+    "cp": "38660",
+    "VILLE": "LUMBIN ",
+    "tel": "476680015",
+    "telecopie": "476680032",
+    "categorie etablissement": "252",
+    "libelle categorie": "Foyer Hébergement Adultes Handicapés",
+    "siret": "",
+    "lng": "5.90978702890297",
+    "lat": "45.3060127848996"
+  }
+]

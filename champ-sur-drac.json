@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "380003855",
+    "raison_sociale": "PHARMACIE DE CHAMP-SUR-DRAC",
+    "numero voie": "132",
+    "type_voie": "AV",
+    "libelle_voie": "DU PAVILLON",
+    "bp": "",
+    "cp": "38560",
+    "VILLE": "CHAMP SUR DRAC    ",
+    "tel": "476688672",
+    "telecopie": "970620000",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34752219500010",
+    "lng": "5.73301728152178",
+    "lat": "45.0806480948078"
+  },
+  {
+    "finess": "380014993",
+    "raison_sociale": "SAJ CHAMP SUR DRAC FSIG",
+    "numero voie": "47",
+    "type_voie": "AV",
+    "libelle_voie": "LOUIS COLMARD",
+    "bp": "",
+    "cp": "38560",
+    "VILLE": "CHAMP SUR DRAC    ",
+    "tel": "476680015",
+    "telecopie": "476680032",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "77559590300953",
+    "lng": "5.72904142515449",
+    "lat": "45.0837862044709"
+  },
+  {
+    "finess": "380790204",
+    "raison_sociale": "ESAT AFIPH ENTR SUD ISERE GRES CH/DRAC",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DES BOUTASSIERS",
+    "bp": "",
+    "cp": "38560",
+    "VILLE": "CHAMP SUR DRAC    ",
+    "tel": "476815195",
+    "telecopie": "476240509",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77559590301456",
+    "lng": "5.72462592485629",
+    "lat": "45.0690631736144"
+  }
+]

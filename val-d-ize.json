@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "350021317",
+    "raison_sociale": "PHARMACIE JONNEAUX-ROBERT",
+    "numero voie": "12",
+    "type_voie": "PL",
+    "libelle_voie": "PIERRE POUPARD",
+    "bp": "",
+    "cp": "35450",
+    "VILLE": "VAL D IZE    ",
+    "tel": "299498426",
+    "telecopie": "222443617",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82248472100011",
+    "lng": "-1.30360843467126",
+    "lat": "48.1759530860022"
+  },
+  {
+    "finess": "350032645",
+    "raison_sociale": "RESIDENCE LES TILLEULS",
+    "numero voie": "14",
+    "type_voie": "R",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "35450",
+    "VILLE": "VAL D IZE    ",
+    "tel": "299498009",
+    "telecopie": "299497435",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26350326000022",
+    "lng": "-1.30599933914306",
+    "lat": "48.1778113920057"
+  },
+  {
+    "finess": "350048609",
+    "raison_sociale": "MAISON DE SANTE DU VAL D'IZE",
+    "numero voie": "14",
+    "type_voie": "PL",
+    "libelle_voie": "PIERRE POUPARD",
+    "bp": "",
+    "cp": "35450",
+    "VILLE": "VAL D IZE    ",
+    "tel": "299498504",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "31385033100015",
+    "lng": "-1.30390112835537",
+    "lat": "48.1757919142346"
+  }
+]

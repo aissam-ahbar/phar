@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "470012071",
+    "raison_sociale": "PHARMACIE BIERVOIS-MIGNARD",
+    "numero voie": "57",
+    "type_voie": "ALL",
+    "libelle_voie": "des Commerces",
+    "bp": "",
+    "cp": "47800",
+    "VILLE": "ST PARDOUX ISAAC    ",
+    "tel": "553933782",
+    "telecopie": "553930041",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "41845626500010",
+    "lng": "0.372935055450331",
+    "lat": "44.6121387575465"
+  },
+  {
+    "finess": "470012972",
+    "raison_sociale": "SSIAD LES TROIS CANTONS",
+    "numero voie": "117",
+    "type_voie": "ALL",
+    "libelle_voie": "DES COMMERCES",
+    "bp": "ZAC LE REBEQUET",
+    "cp": "47800",
+    "VILLE": "ST PARDOUX ISAAC    ",
+    "tel": "553799335",
+    "telecopie": "553799335",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "42474366400064",
+    "lng": "0.372935055450331",
+    "lat": "44.6121387575465"
+  },
+  {
+    "finess": "470017682",
+    "raison_sociale": "SAAD ADMR SAINT PARDOUX LEVIGNAC",
+    "numero voie": "1485",
+    "type_voie": "R",
+    "libelle_voie": "DES SERRES",
+    "bp": "",
+    "cp": "47800",
+    "VILLE": "ST PARDOUX ISAAC    ",
+    "tel": "553936850",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "30375418800025",
+    "lng": "0.368182277272511",
+    "lat": "44.6138947363138"
+  }
+]

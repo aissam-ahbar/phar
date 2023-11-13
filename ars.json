@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "160005476",
+    "raison_sociale": "PHARMACIE D'ARS",
+    "numero voie": "2",
+    "type_voie": "PL",
+    "libelle_voie": "Bremond d'Ars",
+    "bp": "",
+    "cp": "16130",
+    "VILLE": "ARS ",
+    "tel": "545828107",
+    "telecopie": "545828547",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88414809900010",
+    "lng": "-0.38428118703168",
+    "lat": "45.6426561333667"
+  },
+  {
+    "finess": "160016341",
+    "raison_sociale": "MSP DU PAYS D'ARS",
+    "numero voie": "14",
+    "type_voie": "PL",
+    "libelle_voie": "BREMOND D'ARS",
+    "bp": "",
+    "cp": "16130",
+    "VILLE": "ARS ",
+    "tel": "545824266",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "82982107300014",
+    "lng": "-0.383741614342887",
+    "lat": "45.6425317590763"
+  }
+]

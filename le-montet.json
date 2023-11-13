@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "30003081",
+    "raison_sociale": "PHARMACIE DU MONTET",
+    "numero voie": "22",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "3240",
+    "VILLE": "LE MONTET",
+    "tel": "470471012",
+    "telecopie": "470471761",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84895834400014",
+    "lng": "3.05362711521541",
+    "lat": "46.4091763739357"
+  },
+  {
+    "finess": "30009609",
+    "raison_sociale": "SAAD ASSOCIATION ADMR LE MONTET",
+    "numero voie": "14",
+    "type_voie": "GR",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "3240",
+    "VILLE": "LE MONTET",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "78905752800018",
+    "lng": "3.05549625749315",
+    "lat": "46.4089557676233"
+  },
+  {
+    "finess": "30780662",
+    "raison_sociale": "EHPAD \"LA CHARMILLE\"",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "DU STADE",
+    "bp": "",
+    "cp": "3240",
+    "VILLE": "LE MONTET",
+    "tel": "470471758",
+    "telecopie": "470471779",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26030007400036",
+    "lng": "3.05392582607237",
+    "lat": "46.4058301125877"
+  }
+]

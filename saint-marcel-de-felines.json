@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "420015299",
+    "raison_sociale": "FOYER DE VIE DE ST-MARCEL-DE-FELINES",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DU CHATEAU GAILLARD",
+    "bp": "LA VARENNE",
+    "cp": "42122",
+    "VILLE": "ST MARCEL DE FELINES   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "",
+    "lng": "4.18873995289967",
+    "lat": "45.8641628657618"
+  },
+  {
+    "finess": "420786212",
+    "raison_sociale": "PETITE UNITE DE VIE CHANTEPIERRE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DES LUNIERES",
+    "bp": "",
+    "cp": "42122",
+    "VILLE": "ST MARCEL DE FELINES   ",
+    "tel": "477632464",
+    "telecopie": "",
+    "categorie etablissement": "502",
+    "libelle categorie": "EHPA ne percevant pas des crédits d'assurance maladie",
+    "siret": "77640976500018",
+    "lng": "4.19092507693495",
+    "lat": "45.8677521451328"
+  }
+]

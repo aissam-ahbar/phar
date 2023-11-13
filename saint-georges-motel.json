@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "270013782",
+    "raison_sociale": "MAS HOME CHARLOTTE",
+    "numero voie": "3",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LOUYE",
+    "bp": "",
+    "cp": "27710",
+    "VILLE": "ST GEORGES MOTEL    ",
+    "tel": "237435040",
+    "telecopie": "237435461",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "78081635100057",
+    "lng": "1.36129877929842",
+    "lat": "48.7885623848319"
+  },
+  {
+    "finess": "270028939",
+    "raison_sociale": "MAS HOME MICKAEL",
+    "numero voie": "11",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LOUYE",
+    "bp": "",
+    "cp": "27710",
+    "VILLE": "ST GEORGES MOTEL    ",
+    "tel": "237430799",
+    "telecopie": "237435461",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "78081635100099",
+    "lng": "1.35820360350612",
+    "lat": "48.790401793477"
+  }
+]

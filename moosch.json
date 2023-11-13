@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "680009602",
+    "raison_sociale": "PHARMACIE DE LA THUR",
+    "numero voie": "58",
+    "type_voie": "R",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "68690",
+    "VILLE": "MOOSCH ",
+    "tel": "389823460",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52874114300010",
+    "lng": "7.04866894737826",
+    "lat": "47.8608538343496"
+  },
+  {
+    "finess": "680011442",
+    "raison_sociale": "EHPAD RESIDENCE HENRI JUNGCK",
+    "numero voie": "18",
+    "type_voie": "R",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "68690",
+    "VILLE": "MOOSCH ",
+    "tel": "389823453",
+    "telecopie": "389389081",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "40809011600059",
+    "lng": "7.05231715257385",
+    "lat": "47.8581233907606"
+  }
+]

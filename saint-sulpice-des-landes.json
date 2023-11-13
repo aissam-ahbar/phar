@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "350044459",
+    "raison_sociale": "EANM JACQUES MICHELEZ",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE L'ATLANTIQUE",
+    "bp": "",
+    "cp": "35390",
+    "VILLE": "ST SULPICE DES LANDES   ",
+    "tel": "299729900",
+    "telecopie": "299729012",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "",
+    "lng": "-1.61739177754894",
+    "lat": "47.7652311245177"
+  },
+  {
+    "finess": "350046850",
+    "raison_sociale": "EAM JACQUES MICHELEZ",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE L'ATLANTIQUE",
+    "bp": "",
+    "cp": "35390",
+    "VILLE": "ST SULPICE DES LANDES   ",
+    "tel": "299729900",
+    "telecopie": "299729012",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "",
+    "lng": "-1.61739177754894",
+    "lat": "47.7652311245177"
+  }
+]

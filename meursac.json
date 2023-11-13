@@ -1,0 +1,19 @@
+[
+  {
+    "finess": "170012025",
+    "raison_sociale": "SARL PHARMACIE BARBOTIN",
+    "numero voie": "24",
+    "type_voie": "R",
+    "libelle_voie": "PRINCIPALE",
+    "bp": "",
+    "cp": "17120",
+    "VILLE": "MEURSAC ",
+    "tel": "546916712",
+    "telecopie": "546914291",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "31501633700018",
+    "lng": "-0.806807966445014",
+    "lat": "45.6491555585865"
+  }
+]

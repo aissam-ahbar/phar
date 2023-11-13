@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "150002111",
+    "raison_sociale": "PHARMACIE DE SALERS",
+    "numero voie": "13",
+    "type_voie": "PL",
+    "libelle_voie": "Tyssandier d'Escous",
+    "bp": "",
+    "cp": "15140",
+    "VILLE": "SALERS ",
+    "tel": "471687826",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "89313110200012",
+    "lng": "2.49373514312626",
+    "lat": "45.1378808706441"
+  },
+  {
+    "finess": "150780682",
+    "raison_sociale": "EHPAD LE LIZET",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "NOTRE DAME",
+    "bp": "",
+    "cp": "15140",
+    "VILLE": "SALERS ",
+    "tel": "471407108",
+    "telecopie": "471407325",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26150015100012",
+    "lng": "2.49409546717025",
+    "lat": "45.1386919875224"
+  }
+]

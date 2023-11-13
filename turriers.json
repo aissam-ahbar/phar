@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "40780488",
+    "raison_sociale": "CRF DE HAUTE PROVENCE L'EAU VIVE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE VILLAGE",
+    "bp": "",
+    "cp": "4250",
+    "VILLE": "TURRIERS ",
+    "tel": "492551149",
+    "telecopie": "492551054",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "705007300019",
+    "lng": "6.16841747279222",
+    "lat": "44.4011681778483"
+  },
+  {
+    "finess": "40785412",
+    "raison_sociale": "EHPAD PAUL HONNORAT",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE VILLAGE",
+    "bp": "",
+    "cp": "4250",
+    "VILLE": "TURRIERS ",
+    "tel": "492587299",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "79412753000010",
+    "lng": "6.16841747279222",
+    "lat": "44.4011681778483"
+  }
+]

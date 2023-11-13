@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "670006618",
+    "raison_sociale": "EHPAD ABRAPA HOLTZHEIM",
+    "numero voie": "2",
+    "type_voie": "ALL",
+    "libelle_voie": "DES COLOMBES",
+    "bp": "",
+    "cp": "67810",
+    "VILLE": "HOLTZHEIM ",
+    "tel": "388885018",
+    "telecopie": "388885019",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77564206900584",
+    "lng": "7.63448507290351",
+    "lat": "48.561403445231"
+  },
+  {
+    "finess": "670007855",
+    "raison_sociale": "PHARMACIE DE HOLTZHEIM",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DE LINGOLSHEIM",
+    "bp": "",
+    "cp": "67810",
+    "VILLE": "HOLTZHEIM ",
+    "tel": "388781904",
+    "telecopie": "388773960",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79519557700015",
+    "lng": "7.65285399184775",
+    "lat": "48.5569108100766"
+  },
+  {
+    "finess": "670016955",
+    "raison_sociale": "FAM LEONARD SINGER ROUTE NOUVELLE",
+    "numero voie": "38",
+    "type_voie": "R",
+    "libelle_voie": "DE WOLFISHEIM",
+    "bp": "",
+    "cp": "67810",
+    "VILLE": "HOLTZHEIM ",
+    "tel": "388228070",
+    "telecopie": "",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "32286696300133",
+    "lng": "7.64644047019534",
+    "lat": "48.5602498998386"
+  }
+]

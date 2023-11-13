@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "180002909",
+    "raison_sociale": "RES. BELLEVILL'AGE- BELLEVILLE/LOIRE",
+    "numero voie": "20",
+    "type_voie": "R",
+    "libelle_voie": "DE BEAUMONT",
+    "bp": "",
+    "cp": "18240",
+    "VILLE": "BELLEVILLE SUR LOIRE    ",
+    "tel": "248547474",
+    "telecopie": "248547476",
+    "categorie etablissement": "502",
+    "libelle categorie": "EHPA ne percevant pas des crédits d'assurance maladie",
+    "siret": "82151734900014",
+    "lng": "2.85217618540093",
+    "lat": "47.5040022637195"
+  },
+  {
+    "finess": "180005811",
+    "raison_sociale": "A.R.A.U.C.O. BELLEVILLE",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "JEAN MOULIN",
+    "bp": "",
+    "cp": "18240",
+    "VILLE": "BELLEVILLE SUR LOIRE    ",
+    "tel": "248725019",
+    "telecopie": "",
+    "categorie etablissement": "146",
+    "libelle categorie": "Structure d'Alternative à la dialyse en centre",
+    "siret": "30142256400262",
+    "lng": "2.84834782551864",
+    "lat": "47.5058246676441"
+  }
+]

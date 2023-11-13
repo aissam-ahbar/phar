@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "60782174",
+    "raison_sociale": "EHPAD FONDATION JULES GASTALDY",
+    "numero voie": "862",
+    "type_voie": "RTE",
+    "libelle_voie": "DU SANATORIUM",
+    "bp": "",
+    "cp": "6500",
+    "VILLE": "GORBIO ",
+    "tel": "492417900",
+    "telecopie": "492417964",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26060069700015",
+    "lng": "7.46793154646204",
+    "lat": "43.7794106614432"
+  },
+  {
+    "finess": "60800521",
+    "raison_sociale": "EHPAD LES HAUTS DE MENTON",
+    "numero voie": "76",
+    "type_voie": "RTE",
+    "libelle_voie": "DU SANATORIUM",
+    "bp": "",
+    "cp": "6500",
+    "VILLE": "GORBIO ",
+    "tel": "493282238",
+    "telecopie": "493414501",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "43534659800012",
+    "lng": "7.46788729905178",
+    "lat": "43.7801812977537"
+  }
+]

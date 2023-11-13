@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "630003507",
+    "raison_sociale": "PHARMACIE DES BOIS NOIRS",
+    "numero voie": "37",
+    "type_voie": "LD",
+    "libelle_voie": "le Pont de Celles",
+    "bp": "",
+    "cp": "63250",
+    "VILLE": "CELLES SUR DUROLLE    ",
+    "tel": "473515104",
+    "telecopie": "473944864",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88205651800013",
+    "lng": "3.63547502198566",
+    "lat": "45.8683621348484"
+  },
+  {
+    "finess": "630013308",
+    "raison_sociale": "LVA EDUCATEURS VOYAGEURS",
+    "numero voie": "1",
+    "type_voie": "CHE",
+    "libelle_voie": "DES NOISETIERS",
+    "bp": "LA CROIX DES QUATRE CHEMINS",
+    "cp": "63250",
+    "VILLE": "CELLES SUR DUROLLE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "53030338700019",
+    "lng": "3.63560159920431",
+    "lat": "45.8573084260172"
+  },
+  {
+    "finess": "630014322",
+    "raison_sociale": "ADMR LA DUROLLE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LE PONT DE CELLES",
+    "cp": "63250",
+    "VILLE": "CELLES SUR DUROLLE    ",
+    "tel": "473515082",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32809925400026",
+    "lng": "3.63758435222634",
+    "lat": "45.8694020651971"
+  }
+]

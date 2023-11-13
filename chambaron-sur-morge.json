@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "630015824",
+    "raison_sociale": "FOI LE VIADUC",
+    "numero voie": "32",
+    "type_voie": "R",
+    "libelle_voie": "DE L'EUROPE",
+    "bp": "CELLULE",
+    "cp": "63200",
+    "VILLE": "CHAMBARON SUR MORGE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "",
+    "lng": "3.13492409171891",
+    "lat": "45.9487134804021"
+  },
+  {
+    "finess": "630781144",
+    "raison_sociale": "FAM LE VIADUC",
+    "numero voie": "32",
+    "type_voie": "R",
+    "libelle_voie": "DE L'EUROPE",
+    "bp": "CELLULE",
+    "cp": "63200",
+    "VILLE": "CHAMBARON SUR MORGE    ",
+    "tel": "473972693",
+    "telecopie": "",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "34133967900027",
+    "lng": "3.13492409171891",
+    "lat": "45.9487134804021"
+  },
+  {
+    "finess": "630788024",
+    "raison_sociale": "MAS LE VIADUC",
+    "numero voie": "32",
+    "type_voie": "R",
+    "libelle_voie": "DE L'EUROPE",
+    "bp": "CELLULE",
+    "cp": "63200",
+    "VILLE": "CHAMBARON SUR MORGE    ",
+    "tel": "473972693",
+    "telecopie": "473972708",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "34133967900019",
+    "lng": "3.13492409171891",
+    "lat": "45.9487134804021"
+  }
+]

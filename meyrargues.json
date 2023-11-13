@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "130030836",
+    "raison_sociale": "SELARL PHARMACIE POUSSARDIN",
+    "numero voie": "1",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA POURANE",
+    "bp": "",
+    "cp": "13650",
+    "VILLE": "MEYRARGUES ",
+    "tel": "442575016",
+    "telecopie": "442575081",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "42949232500015",
+    "lng": "5.5285289101708",
+    "lat": "43.6368611036239"
+  },
+  {
+    "finess": "130052582",
+    "raison_sociale": "EEAP AIGUE VIVE (ES)",
+    "numero voie": "4829",
+    "type_voie": "",
+    "libelle_voie": "RD 15 LOGIS NEUF",
+    "bp": "",
+    "cp": "13650",
+    "VILLE": "MEYRARGUES ",
+    "tel": "442533356",
+    "telecopie": "",
+    "categorie etablissement": "188",
+    "libelle categorie": "Etablissement pour Enfants ou Adolescents Polyhandicapés",
+    "siret": "",
+    "lng": "5.49404418110294",
+    "lat": "43.6596823451583"
+  },
+  {
+    "finess": "130792203",
+    "raison_sociale": "CONSULTATIONS DE PMI MEYRARGUES",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "ALBERTAS",
+    "bp": "",
+    "cp": "13650",
+    "VILLE": "MEYRARGUES ",
+    "tel": "442575009",
+    "telecopie": "",
+    "categorie etablissement": "230",
+    "libelle categorie": "Etablissement Consultation Protection Infantile",
+    "siret": "22130001500882",
+    "lng": "5.52728281671465",
+    "lat": "43.6377525241462"
+  }
+]

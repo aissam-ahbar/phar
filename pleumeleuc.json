@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "350021473",
+    "raison_sociale": "PHARMACIE LE CORGUILLE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "9 J rue Pasteur",
+    "bp": "",
+    "cp": "35137",
+    "VILLE": "PLEUMELEUC ",
+    "tel": "299071874",
+    "telecopie": "299071208",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "43304600000033",
+    "lng": "-1.91881872584507",
+    "lat": "48.1787742066284"
+  },
+  {
+    "finess": "350054391",
+    "raison_sociale": "LBM CERBALLIANCE COTES D'ARMOR PLEUMEL",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "PASTEUR",
+    "bp": "",
+    "cp": "35137",
+    "VILLE": "PLEUMELEUC ",
+    "tel": "222096007",
+    "telecopie": "",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "34806095500062",
+    "lng": "-1.91881872584507",
+    "lat": "48.1787742066284"
+  }
+]

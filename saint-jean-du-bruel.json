@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "120004031",
+    "raison_sociale": "PHARMACIE DE LA DOURBIE",
+    "numero voie": "3",
+    "type_voie": "LOT",
+    "libelle_voie": "LA BORIE",
+    "bp": "",
+    "cp": "12230",
+    "VILLE": "ST JEAN DU BRUEL   ",
+    "tel": "565622612",
+    "telecopie": "565621411",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "90843009300017",
+    "lng": "3.35972865016399",
+    "lat": "44.0244292277151"
+  },
+  {
+    "finess": "120786900",
+    "raison_sociale": "EHPA RESIDENCE LA DOURBIE",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'AIRE",
+    "bp": "",
+    "cp": "12230",
+    "VILLE": "ST JEAN DU BRUEL   ",
+    "tel": "565622628",
+    "telecopie": "565628453",
+    "categorie etablissement": "502",
+    "libelle categorie": "EHPA ne percevant pas des crédits d'assurance maladie",
+    "siret": "95062736400017",
+    "lng": "3.35994329443318",
+    "lat": "44.0234583085054"
+  }
+]

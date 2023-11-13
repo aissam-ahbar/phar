@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "630006955",
+    "raison_sociale": "PHARMACIE BORDAS",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DE LA BOUCHERIE",
+    "bp": "",
+    "cp": "63750",
+    "VILLE": "MESSEIX ",
+    "tel": "473214005",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39861952800019",
+    "lng": "2.54110336395408",
+    "lat": "45.6156724772093"
+  },
+  {
+    "finess": "630006971",
+    "raison_sociale": "PHARMACIE MINIERE DE MESSEIX",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LES GANNES",
+    "bp": "",
+    "cp": "63750",
+    "VILLE": "MESSEIX ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "628",
+    "libelle categorie": "Pharmacie Minière",
+    "siret": "",
+    "lng": "2.55653767664873",
+    "lat": "45.6173885726181"
+  },
+  {
+    "finess": "630791515",
+    "raison_sociale": "CENTRE DE SANTE FILIERIS DE MESSEIX",
+    "numero voie": "29",
+    "type_voie": "R",
+    "libelle_voie": "DES MYOSOTIS",
+    "bp": "",
+    "cp": "63750",
+    "VILLE": "MESSEIX ",
+    "tel": "473211920",
+    "telecopie": "473214359",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "77568531601551",
+    "lng": "2.55379502111833",
+    "lat": "45.6187185645792"
+  }
+]

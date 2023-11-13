@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "240002725",
+    "raison_sociale": "ANTENNE AUTODIALYSE AURAD CASTELS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LUZIERS",
+    "cp": "24220",
+    "VILLE": "CASTELS ET BEZENAC    ",
+    "tel": "553292959",
+    "telecopie": "",
+    "categorie etablissement": "146",
+    "libelle categorie": "Structure d'Alternative à la dialyse en centre",
+    "siret": "78185091200077",
+    "lng": "1.05038110675579",
+    "lat": "44.8668283770194"
+  },
+  {
+    "finess": "240013029",
+    "raison_sociale": "EHPAD DU CANTON DE SAINT-CYPRIEN",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LA GAZALIANE",
+    "bp": "",
+    "cp": "24220",
+    "VILLE": "CASTELS ET BEZENAC    ",
+    "tel": "553303131",
+    "telecopie": "553308700",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20001062700012",
+    "lng": "1.05107730300565",
+    "lat": "44.868406768027"
+  }
+]

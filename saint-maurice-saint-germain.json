@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "280009267",
+    "raison_sociale": "PÔLE MINEURS NON ACCOMPAGNÉS",
+    "numero voie": "",
+    "type_voie": "CHT",
+    "libelle_voie": "DES VAUX",
+    "bp": "",
+    "cp": "28240",
+    "VILLE": "ST MAURICE ST GERMAIN   ",
+    "tel": "237537070",
+    "telecopie": "237537090",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "77568879900284",
+    "lng": "1.07755635960306",
+    "lat": "48.496226727638"
+  },
+  {
+    "finess": "280009572",
+    "raison_sociale": "SERVICES INSERTION - BEAUCE ET PERCHE",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LES VAUX",
+    "bp": "",
+    "cp": "28240",
+    "VILLE": "ST MAURICE ST GERMAIN   ",
+    "tel": "237537070",
+    "telecopie": "",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "77568879900284",
+    "lng": "1.07755635960306",
+    "lat": "48.496226727638"
+  },
+  {
+    "finess": "280500893",
+    "raison_sociale": "M.E.C.S. NOTRE-DAME",
+    "numero voie": "",
+    "type_voie": "CHT",
+    "libelle_voie": "DES VAUX",
+    "bp": "",
+    "cp": "28240",
+    "VILLE": "ST MAURICE ST GERMAIN   ",
+    "tel": "237537070",
+    "telecopie": "237537090",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "77568879900284",
+    "lng": "1.07755635960306",
+    "lat": "48.496226727638"
+  }
+]

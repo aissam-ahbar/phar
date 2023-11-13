@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "700001142",
+    "raison_sociale": "PHARMACIE AUBRY",
+    "numero voie": "36",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "70160",
+    "VILLE": "AMANCE ",
+    "tel": "384911733",
+    "telecopie": "384911023",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "41419466200014",
+    "lng": "6.05842021350503",
+    "lat": "47.8001711071214"
+  },
+  {
+    "finess": "700784218",
+    "raison_sociale": "SAAD ADMR 70 AMANCE",
+    "numero voie": "14",
+    "type_voie": "GR",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "70160",
+    "VILLE": "AMANCE ",
+    "tel": "384912598",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31107948700014",
+    "lng": "6.05765784951644",
+    "lat": "47.7990020934229"
+  }
+]

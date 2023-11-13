@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "220011555",
+    "raison_sociale": "PHARMACIE KERBOETHAU",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DU BOURG",
+    "bp": "",
+    "cp": "22470",
+    "VILLE": "PLOUEZEC ",
+    "tel": "296206469",
+    "telecopie": "296227839",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88162960400011",
+    "lng": "-2.98367788747479",
+    "lat": "48.7495602267453"
+  },
+  {
+    "finess": "220018717",
+    "raison_sociale": "IFAS C.H. PAIMPOL",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "L'ARTIMON",
+    "bp": "LIEU-DIT LA MADELEINE",
+    "cp": "22470",
+    "VILLE": "PLOUEZEC ",
+    "tel": "296556159",
+    "telecopie": "",
+    "categorie etablissement": "300",
+    "libelle categorie": "Ecoles Formant aux Professions Sanitaires",
+    "siret": "",
+    "lng": "-2.984206880142",
+    "lat": "48.7497600669512"
+  }
+]

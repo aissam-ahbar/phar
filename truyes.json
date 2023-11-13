@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "370014961",
+    "raison_sociale": "VIVRE AUTREMENT EN TOUTE AUTONOMIE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LES TAILLES DE VAUZELLES",
+    "bp": "",
+    "cp": "37320",
+    "VILLE": "TRUYES ",
+    "tel": "683171337",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "75121838900011",
+    "lng": "0.827664179175951",
+    "lat": "47.281949233252"
+  },
+  {
+    "finess": "370103129",
+    "raison_sociale": "EAM MAISON PERCE-NEIGE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CIGOGNE",
+    "bp": "HAMEAU DE L'ARC EN CIEL",
+    "cp": "37320",
+    "VILLE": "TRUYES ",
+    "tel": "247657272",
+    "telecopie": "247432910",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "78504100500386",
+    "lng": "0.855601063679139",
+    "lat": "47.2710559501009"
+  },
+  {
+    "finess": "370104762",
+    "raison_sociale": "MARPA VERGER D OR",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DU VEAUGAUDET",
+    "bp": "",
+    "cp": "37320",
+    "VILLE": "TRUYES ",
+    "tel": "247734444",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26370246600024",
+    "lng": "0.842123289309721",
+    "lat": "47.2744533532833"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "170010664",
+    "raison_sociale": "PHARMACIE COUPRIE",
+    "numero voie": "40",
+    "type_voie": "AV",
+    "libelle_voie": "DE COGNAC",
+    "bp": "",
+    "cp": "17770",
+    "VILLE": "BRIZAMBOURG ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81968560300014",
+    "lng": "-0.481792757901007",
+    "lat": "45.8223929945554"
+  },
+  {
+    "finess": "170024269",
+    "raison_sociale": "POLE DE SANTE DES BORDERIES",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DES ETALS",
+    "bp": "",
+    "cp": "17770",
+    "VILLE": "BRIZAMBOURG ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "80319975100022",
+    "lng": "-0.479846876954143",
+    "lat": "45.8222015254563"
+  }
+]

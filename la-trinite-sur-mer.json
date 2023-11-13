@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "560019119",
+    "raison_sociale": "RESIDENCE TAL AR MOR",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "MANE ROULARDE",
+    "bp": "",
+    "cp": "56470",
+    "VILLE": "LA TRINITE SUR MER   ",
+    "tel": "297595786",
+    "telecopie": "297595792",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "81779709500194",
+    "lng": "-3.03592850056309",
+    "lat": "47.5934451791518"
+  },
+  {
+    "finess": "560021511",
+    "raison_sociale": "SARL PHARMACIE GUENIN",
+    "numero voie": "21",
+    "type_voie": "CRS",
+    "libelle_voie": "DES QUAIS",
+    "bp": "LD ER TRION",
+    "cp": "56470",
+    "VILLE": "LA TRINITE SUR MER   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53017068700012",
+    "lng": "-3.02785698124144",
+    "lat": "47.5874589770903"
+  }
+]

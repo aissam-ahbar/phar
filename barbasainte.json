@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "470003716",
+    "raison_sociale": "PHARMACIE DE BARBASTE",
+    "numero voie": "57",
+    "type_voie": "RTE",
+    "libelle_voie": "DE BORDEAUX",
+    "bp": "",
+    "cp": "47230",
+    "VILLE": "BARBASTE ",
+    "tel": "553655631",
+    "telecopie": "553651445",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "85208141300019",
+    "lng": "0.268181023138883",
+    "lat": "44.1741271780587"
+  },
+  {
+    "finess": "470017815",
+    "raison_sociale": "SAAD ASSAD BARBASTE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU GENERAL DE NISMES",
+    "bp": "",
+    "cp": "47230",
+    "VILLE": "BARBASTE ",
+    "tel": "553972433",
+    "telecopie": "553972434",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "78215743200025",
+    "lng": "0.286853274849188",
+    "lat": "44.1702578778225"
+  }
+]

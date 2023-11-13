@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "450010319",
+    "raison_sociale": "SERV.DEPART.ACCOMPAGNEMENT EDUC.PARENT",
+    "numero voie": "1349",
+    "type_voie": "RTE",
+    "libelle_voie": "DE SAINT JEAN DE BRAYE",
+    "bp": "",
+    "cp": "45400",
+    "VILLE": "SEMOY ",
+    "tel": "238555010",
+    "telecopie": "",
+    "categorie etablissement": "295",
+    "libelle categorie": "Services AEMO et AED",
+    "siret": "33756286200819",
+    "lng": "1.95783171156552",
+    "lat": "47.9248068746646"
+  },
+  {
+    "finess": "450016647",
+    "raison_sociale": "SARL PHARMACIE MERY-ASFIR",
+    "numero voie": "4",
+    "type_voie": "AV",
+    "libelle_voie": "GALLOUEDEC",
+    "bp": "",
+    "cp": "45400",
+    "VILLE": "SEMOY ",
+    "tel": "238837153",
+    "telecopie": "238610181",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79937711400019",
+    "lng": "1.93752359753343",
+    "lat": "47.9343614961897"
+  },
+  {
+    "finess": "450018379",
+    "raison_sociale": "EANM LES TISONS",
+    "numero voie": "85",
+    "type_voie": "R",
+    "libelle_voie": "DE LA FOSSE AUX CURES",
+    "bp": "",
+    "cp": "45400",
+    "VILLE": "SEMOY ",
+    "tel": "238848820",
+    "telecopie": "",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "",
+    "lng": "1.95116946005428",
+    "lat": "47.9339737841271"
+  }
+]

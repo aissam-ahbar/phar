@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "580003093",
+    "raison_sociale": "PHARMACIE ACKET-LOUNKOKOBI MIKAMONA",
+    "numero voie": "7",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA HALLE",
+    "bp": "",
+    "cp": "58700",
+    "VILLE": "PREMERY ",
+    "tel": "386681128",
+    "telecopie": "386681411",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81401249800014",
+    "lng": "3.33105296721245",
+    "lat": "47.1754040601414"
+  },
+  {
+    "finess": "580972149",
+    "raison_sociale": "EHPAD LES COLCHIQUES",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "AMBROISE CROIZAT",
+    "bp": "",
+    "cp": "58700",
+    "VILLE": "PREMERY ",
+    "tel": "386379639",
+    "telecopie": "386680778",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "38284272200011",
+    "lng": "3.3340811603621",
+    "lat": "47.1725369344059"
+  }
+]

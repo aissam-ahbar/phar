@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "320002504",
+    "raison_sociale": "PHARMACIE LAUTE",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DU 11 NOVEMBRE",
+    "bp": "MONTREAL-DU-GERS",
+    "cp": "32250",
+    "VILLE": "MONTREAL DU GERS    ",
+    "tel": "562294331",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52068529800017",
+    "lng": "0.201557674754926",
+    "lat": "43.9496637973331"
+  },
+  {
+    "finess": "320003585",
+    "raison_sociale": "FOYER DE VIE VILLAGE TERRE D'ESPOIR",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "AU GRIT",
+    "cp": "32250",
+    "VILLE": "MONTREAL DU GERS    ",
+    "tel": "562295124",
+    "telecopie": "562294223",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "52978422500128",
+    "lng": "0.18888036918347",
+    "lat": "43.9350883249948"
+  },
+  {
+    "finess": "320785629",
+    "raison_sociale": "EHPAD RESIDENCE MONT-ROYAL",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "PEMAY",
+    "bp": "",
+    "cp": "32250",
+    "VILLE": "MONTREAL DU GERS    ",
+    "tel": "562295000",
+    "telecopie": "562295009",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "39961706700018",
+    "lng": "0.203689674909528",
+    "lat": "43.9506441319334"
+  }
+]

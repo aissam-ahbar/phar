@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590059390",
+    "raison_sociale": "CSI SOIGNONS HUMAIN PÉVÈLE",
+    "numero voie": "31",
+    "type_voie": "R",
+    "libelle_voie": "EMILE DANCOISNE",
+    "bp": "",
+    "cp": "59310",
+    "VILLE": "AUCHY LEZ ORCHIES    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "85021736500012",
+    "lng": "3.20583223439223",
+    "lat": "50.4783017368717"
+  },
+  {
+    "finess": "590064309",
+    "raison_sociale": "SAD TOUT PAR COEUR",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "DU BOURG",
+    "bp": "",
+    "cp": "59310",
+    "VILLE": "AUCHY LEZ ORCHIES    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "88121501600026",
+    "lng": "3.20689772861737",
+    "lat": "50.478108764296"
+  }
+]

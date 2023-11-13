@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "540010501",
+    "raison_sociale": "PHARMACIE LEMMENS",
+    "numero voie": "13",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "54730",
+    "VILLE": "GORCY ",
+    "tel": "382268017",
+    "telecopie": "382268017",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "41804833600014",
+    "lng": "5.68538546600367",
+    "lat": "49.5347196773891"
+  },
+  {
+    "finess": "540024759",
+    "raison_sociale": "D'ASCENZIO MATERIEL MEDICAL",
+    "numero voie": "",
+    "type_voie": "ZA",
+    "libelle_voie": "LES ALBANIS",
+    "bp": "",
+    "cp": "54730",
+    "VILLE": "GORCY ",
+    "tel": "382237213",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "39125490100047",
+    "lng": "5.68500737991439",
+    "lat": "49.5337245119775"
+  }
+]

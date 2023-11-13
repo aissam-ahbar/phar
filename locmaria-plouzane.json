@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "290013945",
+    "raison_sociale": "SELARL PHARMACIE HERY-BOZEC",
+    "numero voie": "22",
+    "type_voie": "RTE",
+    "libelle_voie": "DE KERFILY",
+    "bp": "",
+    "cp": "29280",
+    "VILLE": "LOCMARIA PLOUZANE",
+    "tel": "298484639",
+    "telecopie": "972528968",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49770876800021",
+    "lng": "-4.64856638928766",
+    "lat": "48.3729888366309"
+  },
+  {
+    "finess": "290024421",
+    "raison_sociale": "PHARMACIE JAOUEN",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "JEAN COLLE",
+    "bp": "PORSMILIN",
+    "cp": "29280",
+    "VILLE": "LOCMARIA PLOUZANE",
+    "tel": "298382026",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "41820999500012",
+    "lng": "-4.6713987866437",
+    "lat": "48.3633051590775"
+  }
+]

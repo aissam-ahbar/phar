@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380009084",
+    "raison_sociale": "PHARMACIE DE RUY",
+    "numero voie": "45",
+    "type_voie": "AV",
+    "libelle_voie": "des Cantinieres",
+    "bp": "",
+    "cp": "38300",
+    "VILLE": "RUY MONTCEAU",
+    "tel": "474932235",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80012544500018",
+    "lng": "5.30156894305316",
+    "lat": "45.5905917293054"
+  },
+  {
+    "finess": "380016865",
+    "raison_sociale": "UNITE ESAT MESSIDOR",
+    "numero voie": "",
+    "type_voie": "ZA",
+    "libelle_voie": "LE PERELLI",
+    "bp": "",
+    "cp": "38300",
+    "VILLE": "RUY MONTCEAU",
+    "tel": "474430711",
+    "telecopie": "",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "30593300400353",
+    "lng": "5.31885935039371",
+    "lat": "45.587719445959"
+  }
+]

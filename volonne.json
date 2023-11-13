@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "40002545",
+    "raison_sociale": "EURL PHARMACIE DES LYS",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "ELIE ROUX",
+    "bp": "",
+    "cp": "4290",
+    "VILLE": "VOLONNE ",
+    "tel": "492640517",
+    "telecopie": "492342157",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40277979700032",
+    "lng": "6.01374886271606",
+    "lat": "44.1101133205682"
+  },
+  {
+    "finess": "40005316",
+    "raison_sociale": "MSP DE VOLONNE",
+    "numero voie": "34",
+    "type_voie": "R",
+    "libelle_voie": "LATIL MATHIEU",
+    "bp": "",
+    "cp": "4290",
+    "VILLE": "VOLONNE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "83801856200010",
+    "lng": "6.01351152332357",
+    "lat": "44.111909545547"
+  }
+]

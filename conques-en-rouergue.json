@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "120003926",
+    "raison_sociale": "PHARMACIE PARET",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CONQUES",
+    "bp": "",
+    "cp": "12320",
+    "VILLE": "CONQUES EN ROUERGUE    ",
+    "tel": "565698323",
+    "telecopie": "565728557",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39379809500013",
+    "lng": "2.41081512776432",
+    "lat": "44.5546043754437"
+  },
+  {
+    "finess": "120005566",
+    "raison_sociale": "SAAD AL ADMR ST CYPRIEN SUR DOURDOU",
+    "numero voie": "5",
+    "type_voie": "RTE",
+    "libelle_voie": "DE RODEZ",
+    "bp": "SAINT-CYPRIEN-SUR-DOURDOU",
+    "cp": "12320",
+    "VILLE": "CONQUES EN ROUERGUE    ",
+    "tel": "565772222",
+    "telecopie": "565772220",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "2.41024772961163",
+    "lat": "44.5462451349651"
+  },
+  {
+    "finess": "120006820",
+    "raison_sociale": "CENTRE ACCUEIL DE JOUR PERSONNES AGEES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE BOURG",
+    "bp": "SAINT-CYPRIEN-SUR-DOURDOU",
+    "cp": "12320",
+    "VILLE": "CONQUES EN ROUERGUE    ",
+    "tel": "565785293",
+    "telecopie": "565698575",
+    "categorie etablissement": "207",
+    "libelle categorie": "Centre de Jour pour Personnes Agées",
+    "siret": "",
+    "lng": "2.39603673588976",
+    "lat": "44.5993931350208"
+  }
+]

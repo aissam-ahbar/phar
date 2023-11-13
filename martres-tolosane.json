@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "310009493",
+    "raison_sociale": "PHARMACIE CAZELLES",
+    "numero voie": "56",
+    "type_voie": "CHE",
+    "libelle_voie": "de Lacassagne",
+    "bp": "",
+    "cp": "31220",
+    "VILLE": "MARTRES TOLOSANE",
+    "tel": "561988013",
+    "telecopie": "561873240",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81905746400011",
+    "lng": "1.00834733225725",
+    "lat": "43.1949118864014"
+  },
+  {
+    "finess": "310018825",
+    "raison_sociale": "EHPAD SAINT-VIDIAN",
+    "numero voie": "8",
+    "type_voie": "AV",
+    "libelle_voie": "FRANCOIS MITTERRAND",
+    "bp": "",
+    "cp": "31220",
+    "VILLE": "MARTRES TOLOSANE",
+    "tel": "561984324",
+    "telecopie": "561984325",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26310131300033",
+    "lng": "1.00692256734206",
+    "lat": "43.1953939535167"
+  }
+]

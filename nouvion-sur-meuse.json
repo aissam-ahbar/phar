@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "80007503",
+    "raison_sociale": "PHARMACIE DE NOUVION-SUR-MEUSE",
+    "numero voie": "40",
+    "type_voie": "R",
+    "libelle_voie": "JEAN JAURES",
+    "bp": "",
+    "cp": "8160",
+    "VILLE": "NOUVION SUR MEUSE    ",
+    "tel": "324540200",
+    "telecopie": "324542898",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83121114900016",
+    "lng": "4.79349608694638",
+    "lat": "49.6997649274255"
+  },
+  {
+    "finess": "80011885",
+    "raison_sociale": "MSP NOUVION SUR MEUSE",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "8160",
+    "VILLE": "NOUVION SUR MEUSE    ",
+    "tel": "324546394",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "90182542200016",
+    "lng": "4.79424657683535",
+    "lat": "49.6975743510073"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590070595",
+    "raison_sociale": "SAAD CONFI'DOM",
+    "numero voie": "2",
+    "type_voie": "AV",
+    "libelle_voie": "DES PRIMEVÈRES",
+    "bp": "",
+    "cp": "59890",
+    "VILLE": "DEULEMONT ",
+    "tel": "695457599",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "84102855800028",
+    "lng": "2.94684591356596",
+    "lat": "50.7358946698233"
+  },
+  {
+    "finess": "590788410",
+    "raison_sociale": "CSAPA LE CEDRE BLEU DE DEULEMONT",
+    "numero voie": "24",
+    "type_voie": "R",
+    "libelle_voie": "DE VERDUN",
+    "bp": "",
+    "cp": "59890",
+    "VILLE": "DEULEMONT ",
+    "tel": "320392012",
+    "telecopie": "320392334",
+    "categorie etablissement": "197",
+    "libelle categorie": "Centre soins accompagnement prévention addictologie (CSAPA)",
+    "siret": "33478166300011",
+    "lng": "2.95043786582933",
+    "lat": "50.7353335512984"
+  }
+]

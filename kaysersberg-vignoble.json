@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "680009214",
+    "raison_sociale": "PHARMACIE DE KAYSERSBERG",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DU 18 DECEMBRE 1944",
+    "bp": "",
+    "cp": "68240",
+    "VILLE": "KAYSERSBERG VIGNOBLE",
+    "tel": "389782313",
+    "telecopie": "389473583",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "33048175500024",
+    "lng": "7.26400558245552",
+    "lat": "48.1388717453653"
+  },
+  {
+    "finess": "680011293",
+    "raison_sociale": "EHPAD RESID DE LA WEISS KAYSERSBERG",
+    "numero voie": "21",
+    "type_voie": "R",
+    "libelle_voie": "DU COUVENT",
+    "bp": "",
+    "cp": "68240",
+    "VILLE": "KAYSERSBERG VIGNOBLE",
+    "tel": "389781800",
+    "telecopie": "389781513",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26680208100049",
+    "lng": "7.26467481031933",
+    "lat": "48.1371227422737"
+  },
+  {
+    "finess": "680019197",
+    "raison_sociale": "LBM CAB SITE VIGNOBLE",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DU 18 DECEMBRE 1944",
+    "bp": "",
+    "cp": "68240",
+    "VILLE": "KAYSERSBERG VIGNOBLE",
+    "tel": "389782516",
+    "telecopie": "389473863",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "44354264200071",
+    "lng": "7.26400558245552",
+    "lat": "48.1388717453653"
+  }
+]

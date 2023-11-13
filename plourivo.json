@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "220012603",
+    "raison_sociale": "PHARMACIE JOLY - TREBAUL",
+    "numero voie": "5",
+    "type_voie": "PL",
+    "libelle_voie": "DU BOURG",
+    "bp": "",
+    "cp": "22860",
+    "VILLE": "PLOURIVO ",
+    "tel": "296559485",
+    "telecopie": "296559939",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "43927583500015",
+    "lng": "-3.07161770481884",
+    "lat": "48.7453918731155"
+  },
+  {
+    "finess": "220019335",
+    "raison_sociale": "ESATCO SITE PAIMPOL",
+    "numero voie": "10",
+    "type_voie": "CHE",
+    "libelle_voie": "LOUIS ARMEZ",
+    "bp": "",
+    "cp": "22860",
+    "VILLE": "PLOURIVO ",
+    "tel": "296554130",
+    "telecopie": "296559075",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77556888400875",
+    "lng": "-3.06624235973573",
+    "lat": "48.7448429495649"
+  },
+  {
+    "finess": "220025746",
+    "raison_sociale": "EANM SATRA PLOURIVO",
+    "numero voie": "10",
+    "type_voie": "CHE",
+    "libelle_voie": "LOUIS ARMEZ",
+    "bp": "",
+    "cp": "22860",
+    "VILLE": "PLOURIVO ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "77556888400875",
+    "lng": "-3.06624235973573",
+    "lat": "48.7448429495649"
+  }
+]

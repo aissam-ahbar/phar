@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "560017493",
+    "raison_sociale": "PHARMACIE LE PADELLEC",
+    "numero voie": "23",
+    "type_voie": "AV",
+    "libelle_voie": "DES PLAGES",
+    "bp": "",
+    "cp": "56700",
+    "VILLE": "KERVIGNAC ",
+    "tel": "297657233",
+    "telecopie": "297027955",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49491179500024",
+    "lng": "-3.23830852541971",
+    "lat": "47.7598380274145"
+  },
+  {
+    "finess": "560022782",
+    "raison_sociale": "PHARMACIE TRAVERS - GENTILE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "KERNOURS",
+    "bp": "",
+    "cp": "56700",
+    "VILLE": "KERVIGNAC ",
+    "tel": "297811212",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "42181722200019",
+    "lng": "-3.28688920029408",
+    "lat": "47.7618753851741"
+  },
+  {
+    "finess": "560026742",
+    "raison_sociale": "PSP DE KERVIGNAC",
+    "numero voie": "4",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "56700",
+    "VILLE": "KERVIGNAC ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "-3.23950665510601",
+    "lat": "47.763689745918"
+  }
+]

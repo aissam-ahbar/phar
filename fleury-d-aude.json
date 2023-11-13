@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "110790458",
+    "raison_sociale": "SELAS PHARMACIE FLEURY D'AUDE",
+    "numero voie": "16",
+    "type_voie": "AV",
+    "libelle_voie": "DE BEZIERS",
+    "bp": "FLEURY-D-AUDE",
+    "cp": "11560",
+    "VILLE": "FLEURY D AUDE    ",
+    "tel": "468336131",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75290273400017",
+    "lng": "3.13702677051586",
+    "lat": "43.2305004971785"
+  },
+  {
+    "finess": "110791134",
+    "raison_sociale": "SELARL PHARMACIE GAU",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DU ROCHER",
+    "bp": "FLEURY-D-AUDE ST PIERRE LA MER",
+    "cp": "11560",
+    "VILLE": "FLEURY D AUDE    ",
+    "tel": "468498044",
+    "telecopie": "468495042",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82908295700012",
+    "lng": "3.18904941699028",
+    "lat": "43.1789300124106"
+  }
+]

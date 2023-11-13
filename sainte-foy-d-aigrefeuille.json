@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "310019385",
+    "raison_sociale": "EHPAD RESIDENCE LA COCAGNE",
+    "numero voie": "4",
+    "type_voie": "AV",
+    "libelle_voie": "VICTOR MOLINIER",
+    "bp": "",
+    "cp": "31570",
+    "VILLE": "STE FOY D AIGREFEUILLE   ",
+    "tel": "534666600",
+    "telecopie": "534666601",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "48099899600023",
+    "lng": "1.60746918362957",
+    "lat": "43.5426832379748"
+  },
+  {
+    "finess": "310026216",
+    "raison_sociale": "SAAD JADEVIE SERVICES",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "PASTEL",
+    "bp": "",
+    "cp": "31570",
+    "VILLE": "STE FOY D AIGREFEUILLE   ",
+    "tel": "562470862",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "51342245100023",
+    "lng": "1.60808281281569",
+    "lat": "43.5430384579365"
+  }
+]

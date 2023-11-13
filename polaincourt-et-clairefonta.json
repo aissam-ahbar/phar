@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "700780299",
+    "raison_sociale": "CHS ST REMY ET NFC SITE CLAIREFONTAINE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE VAUVILLERS",
+    "bp": "",
+    "cp": "70210",
+    "VILLE": "POLAINCOURT ET CLAIREFONTA    ",
+    "tel": "384682500",
+    "telecopie": "",
+    "categorie etablissement": "292",
+    "libelle categorie": "Centre Hospitalier Spécialisé lutte Maladies Mentales",
+    "siret": "40039525700167",
+    "lng": "6.0709524258074",
+    "lat": "47.8923579365172"
+  },
+  {
+    "finess": "700781800",
+    "raison_sociale": "LF RESID GRANDE FONTAINE POLAINCOURT",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "70210",
+    "VILLE": "POLAINCOURT ET CLAIREFONTA    ",
+    "tel": "384928388",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26700415800023",
+    "lng": "6.07212791840839",
+    "lat": "47.8821957053964"
+  }
+]

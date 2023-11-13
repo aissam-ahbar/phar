@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "170014542",
+    "raison_sociale": "PHARMACIE DES  BUJOLIERS",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "ALEXANDRE VINET",
+    "bp": "",
+    "cp": "17770",
+    "VILLE": "ST CESAIRE",
+    "tel": "546915056",
+    "telecopie": "546915736",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44303153900010",
+    "lng": "-0.495602961168094",
+    "lat": "45.7655644978192"
+  },
+  {
+    "finess": "170022909",
+    "raison_sociale": "CONSULT. DE PROTECTION INFANTILE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU CORAN",
+    "bp": "LES BUJOLIERS",
+    "cp": "17770",
+    "VILLE": "ST CESAIRE",
+    "tel": "546975472",
+    "telecopie": "",
+    "categorie etablissement": "230",
+    "libelle categorie": "Etablissement Consultation Protection Infantile",
+    "siret": "22170001600977",
+    "lng": "-0.49438449489819",
+    "lat": "45.7654607526816"
+  }
+]

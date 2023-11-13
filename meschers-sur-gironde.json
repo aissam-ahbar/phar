@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "170011993",
+    "raison_sociale": "PHARMACIE JOSSE",
+    "numero voie": "32",
+    "type_voie": "R",
+    "libelle_voie": "PAUL MASSY",
+    "bp": "",
+    "cp": "17132",
+    "VILLE": "MESCHERS SUR GIRONDE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "54000057700010",
+    "lng": "-0.953138392946969",
+    "lat": "45.5590922416771"
+  },
+  {
+    "finess": "170019319",
+    "raison_sociale": "SESSAD LES 2 MONTS - SITE MESCHERS",
+    "numero voie": "30",
+    "type_voie": "R",
+    "libelle_voie": "DU CHATEAU D'EAU",
+    "bp": "",
+    "cp": "17132",
+    "VILLE": "MESCHERS SUR GIRONDE    ",
+    "tel": "546399495",
+    "telecopie": "546234360",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "26170032200173",
+    "lng": "-0.963370587855957",
+    "lat": "45.5687376785457"
+  },
+  {
+    "finess": "170800882",
+    "raison_sociale": "ITEP LES 2 MONTS",
+    "numero voie": "30",
+    "type_voie": "R",
+    "libelle_voie": "DU CHATEAU D'EAU",
+    "bp": "",
+    "cp": "17132",
+    "VILLE": "MESCHERS SUR GIRONDE    ",
+    "tel": "546399495",
+    "telecopie": "",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "26170032200116",
+    "lng": "-0.963370587855957",
+    "lat": "45.5687376785457"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "310009246",
+    "raison_sociale": "PHARMACIE LAGARDELLE SUR LEZE",
+    "numero voie": "20",
+    "type_voie": "R",
+    "libelle_voie": "DE L'ORATOIRE",
+    "bp": "",
+    "cp": "31870",
+    "VILLE": "LAGARDELLE SUR LEZE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53265577600013",
+    "lng": "1.38950748466955",
+    "lat": "43.4115162307051"
+  },
+  {
+    "finess": "310781695",
+    "raison_sociale": "POLYCL MEDICALE DE LA LEZE",
+    "numero voie": "468",
+    "type_voie": "CHE",
+    "libelle_voie": "DE REGUENADE",
+    "bp": "",
+    "cp": "31870",
+    "VILLE": "LAGARDELLE SUR LEZE    ",
+    "tel": "562111515",
+    "telecopie": "561082777",
+    "categorie etablissement": "129",
+    "libelle categorie": "Etablissement de Soins Médicaux",
+    "siret": "30116075000552",
+    "lng": "1.39279387035854",
+    "lat": "43.4162657663913"
+  },
+  {
+    "finess": "310793336",
+    "raison_sociale": "EHPAD NOTRE DAME DE LA PAIX",
+    "numero voie": "20",
+    "type_voie": "CHE",
+    "libelle_voie": "NEUF",
+    "bp": "",
+    "cp": "31870",
+    "VILLE": "LAGARDELLE SUR LEZE    ",
+    "tel": "561087002",
+    "telecopie": "561082029",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77680969100061",
+    "lng": "1.39075390107699",
+    "lat": "43.4126721435775"
+  }
+]

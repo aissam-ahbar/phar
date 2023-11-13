@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "340017342",
+    "raison_sociale": "EHPAD L'OREE DU PECH",
+    "numero voie": "9",
+    "type_voie": "AV",
+    "libelle_voie": "DE BEZIERS",
+    "bp": "",
+    "cp": "34490",
+    "VILLE": "THEZAN LES BEZIERS    ",
+    "tel": "467326750",
+    "telecopie": "467069314",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26340326300027",
+    "lng": "3.16951425037653",
+    "lat": "43.4202354459578"
+  },
+  {
+    "finess": "340025410",
+    "raison_sociale": "SAAD ENTRAID'SOLEIL",
+    "numero voie": "20",
+    "type_voie": "AV",
+    "libelle_voie": "JEAN SENEGAS",
+    "bp": "",
+    "cp": "34490",
+    "VILLE": "THEZAN LES BEZIERS    ",
+    "tel": "448083562",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "79073105300027",
+    "lng": "3.15948310589857",
+    "lat": "43.4236063773401"
+  },
+  {
+    "finess": "340795780",
+    "raison_sociale": "SELARL PHARMACIE DES MASSELETTES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "Zae les Masselettes n°119",
+    "bp": "",
+    "cp": "34490",
+    "VILLE": "THEZAN LES BEZIERS    ",
+    "tel": "467360028",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83811451000020",
+    "lng": "3.16976206365866",
+    "lat": "43.4214001055452"
+  }
+]

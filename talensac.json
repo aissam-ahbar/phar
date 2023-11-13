@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "350019998",
+    "raison_sociale": "SELARL PHARMACIE DEVOS",
+    "numero voie": "17",
+    "type_voie": "R",
+    "libelle_voie": "DE BREAL",
+    "bp": "",
+    "cp": "35160",
+    "VILLE": "TALENSAC ",
+    "tel": "299093009",
+    "telecopie": "299093003",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51182273600019",
+    "lng": "-1.92588448539276",
+    "lat": "48.1084625330366"
+  },
+  {
+    "finess": "350053906",
+    "raison_sociale": "ASSOC PROFES TALENSAC ET ENVIRONS",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE LA LANDE",
+    "bp": "",
+    "cp": "35160",
+    "VILLE": "TALENSAC ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "84000280200014",
+    "lng": "-1.93164410577097",
+    "lat": "48.1072134495978"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "170010912",
+    "raison_sociale": "PHARMACIE FAURY",
+    "numero voie": "20",
+    "type_voie": "RTE",
+    "libelle_voie": "DU CORMIER",
+    "bp": "",
+    "cp": "17610",
+    "VILLE": "CHERAC ",
+    "tel": "546963488",
+    "telecopie": "546963900",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45048652700028",
+    "lng": "-0.439924818130323",
+    "lat": "45.7028760136408"
+  },
+  {
+    "finess": "170801625",
+    "raison_sociale": "PUV DES BORDERIES",
+    "numero voie": "6",
+    "type_voie": "CHE",
+    "libelle_voie": "DES BORDERIES",
+    "bp": "",
+    "cp": "17610",
+    "VILLE": "CHERAC ",
+    "tel": "546963573",
+    "telecopie": "546963573",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "35382265300013",
+    "lng": "-0.440706055401488",
+    "lat": "45.7072029222862"
+  }
+]

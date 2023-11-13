@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "620011742",
+    "raison_sociale": "SELARL PHARMACIE DES 2 CAPS",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "MAURICE BROUTTA",
+    "bp": "",
+    "cp": "62132",
+    "VILLE": "HARDINGHEN ",
+    "tel": "321850186",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82492244700019",
+    "lng": "1.81797487312906",
+    "lat": "50.8069270752679"
+  },
+  {
+    "finess": "620102293",
+    "raison_sociale": "MECS GUIZELIN TEMPS DE VIE HARDINGHEN",
+    "numero voie": "8",
+    "type_voie": "RTE",
+    "libelle_voie": "DE BOURSIN",
+    "bp": "",
+    "cp": "62132",
+    "VILLE": "HARDINGHEN ",
+    "tel": "321464010",
+    "telecopie": "321369718",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "39434217400304",
+    "lng": "1.82412358479011",
+    "lat": "50.7978893337882"
+  },
+  {
+    "finess": "620105288",
+    "raison_sociale": "EPHAD TEMPS DE VIE HARDINGHEN",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DU GÉNÉRAL DE GAULLE",
+    "bp": "",
+    "cp": "62132",
+    "VILLE": "HARDINGHEN ",
+    "tel": "321850078",
+    "telecopie": "321353655",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "39434217400494",
+    "lng": "1.82256124364726",
+    "lat": "50.8052584601199"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590013652",
+    "raison_sociale": "SELARL PHARMACIE DE LA THURE",
+    "numero voie": "142",
+    "type_voie": "PL",
+    "libelle_voie": "CHARLES DE GAULLE",
+    "bp": "",
+    "cp": "59149",
+    "VILLE": "COUSOLRE ",
+    "tel": "327632044",
+    "telecopie": "327625005",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80335743300017",
+    "lng": "4.15294089700948",
+    "lat": "50.2452172893957"
+  },
+  {
+    "finess": "590043261",
+    "raison_sociale": "EHPAD LA MAISON DU PAYS DE COUSOLRE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LANDELIES",
+    "bp": "",
+    "cp": "59149",
+    "VILLE": "COUSOLRE ",
+    "tel": "327399696",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "44098022500021",
+    "lng": "4.16545328411024",
+    "lat": "50.23548256055"
+  }
+]

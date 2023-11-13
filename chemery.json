@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "410005011",
+    "raison_sociale": "C.I.R.A.D. - CHEMERY",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LES TRODOUX",
+    "bp": "",
+    "cp": "41700",
+    "VILLE": "CHEMERY ",
+    "tel": "254963055",
+    "telecopie": "254961417",
+    "categorie etablissement": "146",
+    "libelle categorie": "Structure d'Alternative à la dialyse en centre",
+    "siret": "31137086000125",
+    "lng": "1.47699544043351",
+    "lat": "47.3391752573943"
+  },
+  {
+    "finess": "410007538",
+    "raison_sociale": "MAFPA LA MAISON D'ODETTE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "MATHIAS DARDOUILLET",
+    "bp": "",
+    "cp": "41700",
+    "VILLE": "CHEMERY ",
+    "tel": "254712871",
+    "telecopie": "254718184",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "21410049700061",
+    "lng": "1.47931926290999",
+    "lat": "47.3470111900242"
+  }
+]

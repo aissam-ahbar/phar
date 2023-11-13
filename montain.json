@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "390002228",
+    "raison_sociale": "SCE PORTAGE DE REPAS A DOMICILE",
+    "numero voie": "65",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "39210",
+    "VILLE": "MONTAIN ",
+    "tel": "384253131",
+    "telecopie": "971344262",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26390349400023",
+    "lng": "5.57987008847733",
+    "lat": "46.7198270028979"
+  },
+  {
+    "finess": "390784155",
+    "raison_sociale": "EHPAD CLAIR JURA MONTAIN",
+    "numero voie": "",
+    "type_voie": "RES",
+    "libelle_voie": "CLAIR JURA",
+    "bp": "",
+    "cp": "39210",
+    "VILLE": "MONTAIN ",
+    "tel": "384350303",
+    "telecopie": "384253860",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77567227201346",
+    "lng": "5.57969260025568",
+    "lat": "46.7206679193892"
+  }
+]

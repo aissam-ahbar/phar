@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "390008399",
+    "raison_sociale": "LIEU DE VIE ET D'ACCUEIL AMITIE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "39100",
+    "VILLE": "JOUHE ",
+    "tel": "384690850",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "78954117400023",
+    "lng": "5.488471029057",
+    "lat": "47.1400062608374"
+  },
+  {
+    "finess": "390008407",
+    "raison_sociale": "LIEU DE VIE ET D'ACCUEIL VERGER",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "39100",
+    "VILLE": "JOUHE ",
+    "tel": "384690850",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "78954117400023",
+    "lng": "5.488471029057",
+    "lat": "47.1400062608374"
+  },
+  {
+    "finess": "390782878",
+    "raison_sociale": "MAISON D ENFANTS LES CEDRES",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DU PRIEURE",
+    "bp": "",
+    "cp": "39100",
+    "VILLE": "JOUHE ",
+    "tel": "384720056",
+    "telecopie": "384728180",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "77559750300074",
+    "lng": "5.4870133004319",
+    "lat": "47.142743437629"
+  }
+]

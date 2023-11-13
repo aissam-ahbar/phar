@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "240005611",
+    "raison_sociale": "DISPENSAIRE POLYVALENT",
+    "numero voie": "8",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "24360",
+    "VILLE": "PIEGUT PLUVIERS",
+    "tel": "553564051",
+    "telecopie": "",
+    "categorie etablissement": "223",
+    "libelle categorie": "Protection Maternelle et Infantile (P.M.I.)",
+    "siret": "22240001200431",
+    "lng": "0.689319318398024",
+    "lat": "45.6226999035876"
+  },
+  {
+    "finess": "240011635",
+    "raison_sociale": "PHARMACIE DU PÉRIGORD VERT",
+    "numero voie": "12",
+    "type_voie": "R",
+    "libelle_voie": "DES ALLIES",
+    "bp": "",
+    "cp": "24360",
+    "VILLE": "PIEGUT PLUVIERS",
+    "tel": "553564010",
+    "telecopie": "553605109",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53315783000035",
+    "lng": "0.688416655883363",
+    "lat": "45.6236254668685"
+  }
+]

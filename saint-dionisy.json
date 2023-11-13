@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "300013158",
+    "raison_sociale": "SAVS LES TERRES D'ALICE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA CADELLE",
+    "bp": "",
+    "cp": "30980",
+    "VILLE": "ST DIONISY",
+    "tel": "466239592",
+    "telecopie": "466238731",
+    "categorie etablissement": "446",
+    "libelle categorie": "Service d'Accompagnement à la Vie Sociale (S.A.V.S.)",
+    "siret": "34231870600039",
+    "lng": "4.23185701438627",
+    "lat": "43.8056200038219"
+  },
+  {
+    "finess": "300013430",
+    "raison_sociale": "INOVIE LABOSUD ST DIONIZY",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE NIMES",
+    "bp": "",
+    "cp": "30980",
+    "VILLE": "ST DIONISY",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "32920877100249",
+    "lng": "4.23184119615506",
+    "lat": "43.8067316770712"
+  }
+]

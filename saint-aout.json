@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "360003081",
+    "raison_sociale": "PHARMACIE MAILLET - PELLERIN",
+    "numero voie": "3",
+    "type_voie": "RTE",
+    "libelle_voie": "D ISSOUDUN",
+    "bp": "",
+    "cp": "36120",
+    "VILLE": "ST AOUT",
+    "tel": "254362832",
+    "telecopie": "254367260",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48195811400011",
+    "lng": "1.9657896530364",
+    "lat": "46.7303596544288"
+  },
+  {
+    "finess": "360005888",
+    "raison_sociale": "MARPA DE SAINT AOUT",
+    "numero voie": "6",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LA ROACHERIE",
+    "bp": "",
+    "cp": "36120",
+    "VILLE": "ST AOUT",
+    "tel": "254363564",
+    "telecopie": "254363564",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "49282309100029",
+    "lng": "1.96826568036234",
+    "lat": "46.728934849349"
+  }
+]

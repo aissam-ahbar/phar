@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "320001167",
+    "raison_sociale": "PHARMACIE MEZIANI",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DU DUC DE BOUILLON",
+    "bp": "",
+    "cp": "32290",
+    "VILLE": "AIGNAN ",
+    "tel": "562092537",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52415846600010",
+    "lng": "0.083503596771525",
+    "lat": "43.6972242445149"
+  },
+  {
+    "finess": "320005390",
+    "raison_sociale": "SAAD CIAS ARMAGNAC ADOUR",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DU COLONEL PARISOT",
+    "bp": "",
+    "cp": "32290",
+    "VILLE": "AIGNAN ",
+    "tel": "562037338",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26321006400022",
+    "lng": "0.083641320328973",
+    "lat": "43.6977609955996"
+  }
+]

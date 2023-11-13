@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "570007708",
+    "raison_sociale": "PHARMACIE HANSER THIEBAUD",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "PRINCIPALE",
+    "bp": "",
+    "cp": "57450",
+    "VILLE": "THEDING ",
+    "tel": "387929234",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75276120500026",
+    "lng": "6.89394597140535",
+    "lat": "49.1188448926801"
+  },
+  {
+    "finess": "570025742",
+    "raison_sociale": "LBM ESPACEBIO GOS THÉDING",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "VICTOR HUGO",
+    "bp": "",
+    "cp": "57450",
+    "VILLE": "THEDING ",
+    "tel": "387933810",
+    "telecopie": "387908244",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "77999875600125",
+    "lng": "6.88507453689791",
+    "lat": "49.1180463269203"
+  }
+]

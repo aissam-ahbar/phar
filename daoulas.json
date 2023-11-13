@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "290011014",
+    "raison_sociale": "PHARMACIE TURBET",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "29460",
+    "VILLE": "DAOULAS ",
+    "tel": "298258027",
+    "telecopie": "298258911",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82247615600010",
+    "lng": "-4.25945153875802",
+    "lat": "48.3613928691039"
+  },
+  {
+    "finess": "290021526",
+    "raison_sociale": "EHPAD DU PAYS DE DAOULAS",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "JACQUES DUBOIS",
+    "bp": "",
+    "cp": "29460",
+    "VILLE": "DAOULAS ",
+    "tel": "298259400",
+    "telecopie": "298258296",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26290143200027",
+    "lng": "-4.25800953669502",
+    "lat": "48.357985805738"
+  },
+  {
+    "finess": "290021690",
+    "raison_sociale": "SAAD CCAS DAOULAS",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "SAINT YVES",
+    "bp": "BP 22",
+    "cp": "29460",
+    "VILLE": "DAOULAS ",
+    "tel": "298258423",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26290095400039",
+    "lng": "-4.26131231619897",
+    "lat": "48.3591832995864"
+  }
+]

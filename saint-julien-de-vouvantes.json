@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "440002830",
+    "raison_sociale": "EHPAD MAISON D'ACCUEIL ST JULIEN",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DES ROCHETTES",
+    "bp": "",
+    "cp": "44670",
+    "VILLE": "ST JULIEN DE VOUVANTES   ",
+    "tel": "240555127",
+    "telecopie": "240554158",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "78605818000013",
+    "lng": "-1.23858601268822",
+    "lat": "47.6405049637474"
+  },
+  {
+    "finess": "440016657",
+    "raison_sociale": "PHARMACIE LA GARENNE DU DON",
+    "numero voie": "20",
+    "type_voie": "R",
+    "libelle_voie": "DE LA LIBERATION",
+    "bp": "",
+    "cp": "44670",
+    "VILLE": "ST JULIEN DE VOUVANTES   ",
+    "tel": "240555018",
+    "telecopie": "240554260",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "91255898800016",
+    "lng": "-1.23908755396649",
+    "lat": "47.6419650380867"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590047049",
+    "raison_sociale": "ACCUEIL DE JOUR SIIL'ÂGÉ",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU MILLENIUM",
+    "bp": "",
+    "cp": "59380",
+    "VILLE": "SOCX ",
+    "tel": "328592818",
+    "telecopie": "328687004",
+    "categorie etablissement": "207",
+    "libelle categorie": "Centre de Jour pour Personnes Agées",
+    "siret": "",
+    "lng": "2.42757062331621",
+    "lat": "50.953048929019"
+  },
+  {
+    "finess": "590050258",
+    "raison_sociale": "LABORATOIRE SECONDAIRE DIAGNOVIE BERGU",
+    "numero voie": "52",
+    "type_voie": "FG",
+    "libelle_voie": "DE CASSEL",
+    "bp": "",
+    "cp": "59380",
+    "VILLE": "SOCX ",
+    "tel": "328682860",
+    "telecopie": "328682200",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "50781594200135",
+    "lng": "2.43349341819113",
+    "lat": "50.9590993151347"
+  }
+]

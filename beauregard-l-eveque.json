@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "630002939",
+    "raison_sociale": "PHARMACIE CHAMPIAT",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DES VIGNERONS",
+    "bp": "",
+    "cp": "63116",
+    "VILLE": "BEAUREGARD L EVEQUE    ",
+    "tel": "473629596",
+    "telecopie": "473629597",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44322066000015",
+    "lng": "3.30041613929948",
+    "lat": "45.8097841982887"
+  },
+  {
+    "finess": "630791002",
+    "raison_sociale": "EHPAD RESIDENCE GAUTIER",
+    "numero voie": "56",
+    "type_voie": "PL",
+    "libelle_voie": "DU COUDERT",
+    "bp": "",
+    "cp": "63116",
+    "VILLE": "BEAUREGARD L EVEQUE    ",
+    "tel": "473680283",
+    "telecopie": "473629965",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26630223100029",
+    "lng": "3.29706532865562",
+    "lat": "45.8125999129438"
+  }
+]

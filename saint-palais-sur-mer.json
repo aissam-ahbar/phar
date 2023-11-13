@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "170012702",
+    "raison_sociale": "EHPAD RESIDENCE DU LAC",
+    "numero voie": "31",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA GANIPOTE",
+    "bp": "",
+    "cp": "17420",
+    "VILLE": "ST PALAIS SUR MER   ",
+    "tel": "546222929",
+    "telecopie": "546222930",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "40125156601236",
+    "lng": "-1.08547335217384",
+    "lat": "45.6517892571193"
+  },
+  {
+    "finess": "170015077",
+    "raison_sociale": "PHARMACIE DE  CORDOUAN",
+    "numero voie": "24",
+    "type_voie": "R",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "17420",
+    "VILLE": "ST PALAIS SUR MER   ",
+    "tel": "546231151",
+    "telecopie": "546233469",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53218342300013",
+    "lng": "-1.08939301694915",
+    "lat": "45.6430681510077"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "500011085",
+    "raison_sociale": "PHARMACIE ADAM - PIERRE",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "DE PAIN D AVAINE",
+    "bp": "",
+    "cp": "50540",
+    "VILLE": "ISIGNY LE BUAT    ",
+    "tel": "233480332",
+    "telecopie": "234885125",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84426620500013",
+    "lng": "-1.17290349449232",
+    "lat": "48.6199130486738"
+  },
+  {
+    "finess": "500020276",
+    "raison_sociale": "LIEU DE VIE LA MANCELLIERE TERRAMONDU",
+    "numero voie": "6",
+    "type_voie": "IMP",
+    "libelle_voie": "DU COUDRAY LA MANCELLIERE",
+    "bp": "LE COUDRAY LA MANCELLIÈRE",
+    "cp": "50540",
+    "VILLE": "ISIGNY LE BUAT    ",
+    "tel": "675788421",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "75223607500012",
+    "lng": "-1.16655400361892",
+    "lat": "48.6419904517865"
+  },
+  {
+    "finess": "500024849",
+    "raison_sociale": "CENTRE MUNICIPAL DE SANTE D'ISIGNY",
+    "numero voie": "13",
+    "type_voie": "RES",
+    "libelle_voie": "2000",
+    "bp": "",
+    "cp": "50540",
+    "VILLE": "ISIGNY LE BUAT    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "21500256900014",
+    "lng": "-1.16962848789699",
+    "lat": "48.6210286015512"
+  }
+]

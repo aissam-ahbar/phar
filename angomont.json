@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "540019692",
+    "raison_sociale": "ESAT D'ANGOMONT (CAPS)",
+    "numero voie": "11",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "54540",
+    "VILLE": "ANGOMONT ",
+    "tel": "383422647",
+    "telecopie": "383761993",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "26540150500101",
+    "lng": "6.94630530986688",
+    "lat": "48.5155823945468"
+  },
+  {
+    "finess": "540020062",
+    "raison_sociale": "FOYER ESAT ANGOMONT ( CAPS )",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "TANTE ODILE",
+    "bp": "",
+    "cp": "54540",
+    "VILLE": "ANGOMONT ",
+    "tel": "383422753",
+    "telecopie": "",
+    "categorie etablissement": "252",
+    "libelle categorie": "Foyer Hébergement Adultes Handicapés",
+    "siret": "26540150500119",
+    "lng": "6.94928077535169",
+    "lat": "48.5146602325855"
+  }
+]

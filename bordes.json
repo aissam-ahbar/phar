@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "640006599",
+    "raison_sociale": "PHARMACIE DE LA PLAINE",
+    "numero voie": "36",
+    "type_voie": "AV",
+    "libelle_voie": "JOSEPH SZYDLOWSKI",
+    "bp": "",
+    "cp": "64510",
+    "VILLE": "BORDES ",
+    "tel": "559532016",
+    "telecopie": "559531597",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "35236087900022",
+    "lng": "-0.287992136607287",
+    "lat": "43.2425657987863"
+  },
+  {
+    "finess": "640016101",
+    "raison_sociale": "RES SOC FJT TERRE D'ENVOL",
+    "numero voie": "18",
+    "type_voie": "R",
+    "libelle_voie": "GASTON PHOEBUS",
+    "bp": "",
+    "cp": "64510",
+    "VILLE": "BORDES ",
+    "tel": "559110505",
+    "telecopie": "",
+    "categorie etablissement": "257",
+    "libelle categorie": "Foyer de Jeunes Travailleurs (résidence sociale ou non)",
+    "siret": "32932592200014",
+    "lng": "-0.281314687234415",
+    "lat": "43.2343979900717"
+  },
+  {
+    "finess": "640794517",
+    "raison_sociale": "EHPAD LES COLCHIQUES",
+    "numero voie": "17",
+    "type_voie": "R",
+    "libelle_voie": "DE L'EGALITE",
+    "bp": "",
+    "cp": "64510",
+    "VILLE": "BORDES ",
+    "tel": "559825555",
+    "telecopie": "559841406",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "35148943000014",
+    "lng": "-0.278193339909263",
+    "lat": "43.2365878277253"
+  }
+]

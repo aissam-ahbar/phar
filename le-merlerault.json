@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "610005274",
+    "raison_sociale": "SAD ASS LOCALE ADMR LE MERLERAULT SEES",
+    "numero voie": "11",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'HOTEL DE VILLE",
+    "bp": "",
+    "cp": "61240",
+    "VILLE": "LE MERLERAULT",
+    "tel": "233812500",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32273012800012",
+    "lng": "0.284260652151218",
+    "lat": "48.7000275796098"
+  },
+  {
+    "finess": "610009581",
+    "raison_sociale": "SAAD UNA SECTEUR DU MERLERAULT",
+    "numero voie": "11",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'HOTEL DE VILLE",
+    "bp": "",
+    "cp": "61240",
+    "VILLE": "LE MERLERAULT",
+    "tel": "233345540",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "91089584600012",
+    "lng": "0.284260652151218",
+    "lat": "48.7000275796098"
+  }
+]

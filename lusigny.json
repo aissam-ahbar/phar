@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "30001978",
+    "raison_sociale": "CEF DU BOURBONNAIS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LES BELONS",
+    "cp": "3230",
+    "VILLE": "LUSIGNY ",
+    "tel": "470424196",
+    "telecopie": "470427040",
+    "categorie etablissement": "241",
+    "libelle categorie": "Foyer d'Action Educative (F.A.E.)",
+    "siret": "77564974200407",
+    "lng": "3.45054559155458",
+    "lat": "46.5559323117293"
+  },
+  {
+    "finess": "30002927",
+    "raison_sociale": "PHARMACIE MICHOT",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE LA POSTE",
+    "bp": "",
+    "cp": "3230",
+    "VILLE": "LUSIGNY ",
+    "tel": "470424353",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38200886000019",
+    "lng": "3.49193285814067",
+    "lat": "46.5879712210318"
+  },
+  {
+    "finess": "30784557",
+    "raison_sociale": "SAAD DE LUSIGNY",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "3230",
+    "VILLE": "LUSIGNY ",
+    "tel": "470424200",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31221207900015",
+    "lng": "3.47905867341204",
+    "lat": "46.591078325166"
+  }
+]

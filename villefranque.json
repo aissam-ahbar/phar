@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "640018776",
+    "raison_sociale": "PHARMACIE BONNET",
+    "numero voie": "117",
+    "type_voie": "RTE",
+    "libelle_voie": "DE ST PIERRE D'IRUBE",
+    "bp": "",
+    "cp": "64990",
+    "VILLE": "VILLEFRANQUE ",
+    "tel": "559158562",
+    "telecopie": "559158562",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82086781000039",
+    "lng": "-1.45399580891468",
+    "lat": "43.4372981472599"
+  },
+  {
+    "finess": "640019352",
+    "raison_sociale": "RESIDENCE AUTONOMIE OIHAN BAZTER",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "OIHAN BAZTER",
+    "bp": "",
+    "cp": "64990",
+    "VILLE": "VILLEFRANQUE ",
+    "tel": "559529053",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "31705042500089",
+    "lng": "-1.45711994617805",
+    "lat": "43.4364603902828"
+  }
+]

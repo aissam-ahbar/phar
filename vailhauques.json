@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "340008895",
+    "raison_sociale": "PHARMACIE GAL",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "34570",
+    "VILLE": "VAILHAUQUES ",
+    "tel": "467670214",
+    "telecopie": "467670163",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "43859856700016",
+    "lng": "3.71831390465882",
+    "lat": "43.6723881147281"
+  },
+  {
+    "finess": "340025279",
+    "raison_sociale": "CHU MTP PF TELEPHONE SAMU VAILHAUQUES",
+    "numero voie": "",
+    "type_voie": "PARC",
+    "libelle_voie": "BEL AIR",
+    "bp": "",
+    "cp": "34570",
+    "VILLE": "VAILHAUQUES ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "101",
+    "libelle categorie": "Centre Hospitalier Régional (C.H.R.)",
+    "siret": "",
+    "lng": "3.72577508709817",
+    "lat": "43.6596103242453"
+  }
+]

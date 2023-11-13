@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "260006366",
+    "raison_sociale": "FOYER DE VIE LES SOUSTETS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "BP 98 FO",
+    "cp": "26110",
+    "VILLE": "CONDORCET ",
+    "tel": "475277300",
+    "telecopie": "475277417",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "78504100500204",
+    "lng": "5.1993913052175",
+    "lat": "44.4069930153896"
+  },
+  {
+    "finess": "260008248",
+    "raison_sociale": "MAS MAISON PERCE NEIGE - CONDORCET",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "BP 98",
+    "cp": "26110",
+    "VILLE": "CONDORCET ",
+    "tel": "475277300",
+    "telecopie": "475277417",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "",
+    "lng": "5.1993913052175",
+    "lat": "44.4069930153896"
+  }
+]

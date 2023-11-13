@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "100002815",
+    "raison_sociale": "SELARL PHARMACIE DE LA RIVIERE",
+    "numero voie": "37",
+    "type_voie": "R",
+    "libelle_voie": "Jean Jaurès",
+    "bp": "",
+    "cp": "10440",
+    "VILLE": "LA RIVIERE DE CORPS   ",
+    "tel": "325794015",
+    "telecopie": "325457418",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79757944800029",
+    "lng": "4.03245171462499",
+    "lat": "48.2877618844378"
+  },
+  {
+    "finess": "100005776",
+    "raison_sociale": "ETS INFO CONSULT ET CONS FAMIL",
+    "numero voie": "50",
+    "type_voie": "R",
+    "libelle_voie": "JEAN JAURES",
+    "bp": "",
+    "cp": "10440",
+    "VILLE": "LA RIVIERE DE CORPS   ",
+    "tel": "325790510",
+    "telecopie": "",
+    "categorie etablissement": "231",
+    "libelle categorie": "Etablissement Information Consultation Conseil Familial",
+    "siret": "21100311600046",
+    "lng": "4.03052398146377",
+    "lat": "48.2876401201364"
+  },
+  {
+    "finess": "100006774",
+    "raison_sociale": "EHPAD KORIAN JARDINS D'HUGO",
+    "numero voie": "24",
+    "type_voie": "R",
+    "libelle_voie": "VICTOR HUGO",
+    "bp": "",
+    "cp": "10440",
+    "VILLE": "LA RIVIERE DE CORPS   ",
+    "tel": "325742650",
+    "telecopie": "325749427",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "40287161000018",
+    "lng": "4.02860081856133",
+    "lat": "48.2850581960497"
+  }
+]

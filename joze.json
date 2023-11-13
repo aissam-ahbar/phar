@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "630006567",
+    "raison_sociale": "S.A.R.L. PHARMACIE DE JOZE",
+    "numero voie": "2",
+    "type_voie": "IMP",
+    "libelle_voie": "DES BATIGNOLLES",
+    "bp": "",
+    "cp": "63350",
+    "VILLE": "JOZE ",
+    "tel": "473702168",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53379346900024",
+    "lng": "3.30183114372154",
+    "lat": "45.863941774402"
+  },
+  {
+    "finess": "630012284",
+    "raison_sociale": "MSP DE JOZE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "63350",
+    "VILLE": "JOZE ",
+    "tel": "473280010",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "75342611300019",
+    "lng": "3.30219519342027",
+    "lat": "45.8696931872554"
+  },
+  {
+    "finess": "630015535",
+    "raison_sociale": "CPTS BORDS D'ALLIER",
+    "numero voie": "4",
+    "type_voie": "IMP",
+    "libelle_voie": "DES BATIGNOLLES",
+    "bp": "",
+    "cp": "63350",
+    "VILLE": "JOZE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "604",
+    "libelle categorie": "Communautés professionnelles territoriales de santé (CPTS)",
+    "siret": "88909141900016",
+    "lng": "3.30183114372154",
+    "lat": "45.863941774402"
+  }
+]

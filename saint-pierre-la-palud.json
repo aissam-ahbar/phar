@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "690012752",
+    "raison_sociale": "PHARMACIE DE SAINT PIERRE",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "JOSEPH GAY",
+    "bp": "",
+    "cp": "69210",
+    "VILLE": "ST PIERRE LA PALUD   ",
+    "tel": "474704532",
+    "telecopie": "474704757",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50764499500015",
+    "lng": "4.61210700613843",
+    "lat": "45.7898369487892"
+  },
+  {
+    "finess": "690805429",
+    "raison_sociale": "RESIDENCE \"LE COLOMBIER\"",
+    "numero voie": "5",
+    "type_voie": "PL",
+    "libelle_voie": "NICOLAS",
+    "bp": "",
+    "cp": "69210",
+    "VILLE": "ST PIERRE LA PALUD   ",
+    "tel": "474703200",
+    "telecopie": "474703229",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "39850950500010",
+    "lng": "4.61211115635352",
+    "lat": "45.7915670911117"
+  }
+]

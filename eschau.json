@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "670007236",
+    "raison_sociale": "PHARMACIE D'ESCHAU",
+    "numero voie": "55",
+    "type_voie": "R",
+    "libelle_voie": "DE LA DIVISION BLINDEE",
+    "bp": "",
+    "cp": "67114",
+    "VILLE": "ESCHAU ",
+    "tel": "388642398",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79861823700019",
+    "lng": "7.7145068448484",
+    "lat": "48.4854235381671"
+  },
+  {
+    "finess": "670018365",
+    "raison_sociale": "ALCURA FRANCE",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DE L'INDUSTRIE",
+    "bp": "",
+    "cp": "67114",
+    "VILLE": "ESCHAU ",
+    "tel": "970810088",
+    "telecopie": "388610248",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "30494047101224",
+    "lng": "7.72660529986221",
+    "lat": "48.4852332426203"
+  }
+]

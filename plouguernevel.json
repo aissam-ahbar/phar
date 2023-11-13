@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "220000236",
+    "raison_sociale": "CENTRE HOSPITALIER DE PLOUGUERNEVEL",
+    "numero voie": "2",
+    "type_voie": "RTE",
+    "libelle_voie": "DE ROSTRENEN",
+    "bp": "",
+    "cp": "22110",
+    "VILLE": "PLOUGUERNEVEL ",
+    "tel": "296571000",
+    "telecopie": "296360324",
+    "categorie etablissement": "292",
+    "libelle categorie": "Centre Hospitalier Spécialisé lutte Maladies Mentales",
+    "siret": "40094447600029",
+    "lng": "-3.25432982936733",
+    "lat": "48.240346182011"
+  },
+  {
+    "finess": "220022131",
+    "raison_sociale": "GCS SANTE MENTALE CHCB-AHB ET SIEGE",
+    "numero voie": "2",
+    "type_voie": "RTE",
+    "libelle_voie": "DE ROSTRONEN",
+    "bp": "",
+    "cp": "22110",
+    "VILLE": "PLOUGUERNEVEL ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "696",
+    "libelle categorie": "Groupement de coopération sanitaire de moyens",
+    "siret": "",
+    "lng": "-3.25432982936733",
+    "lat": "48.240346182011"
+  }
+]

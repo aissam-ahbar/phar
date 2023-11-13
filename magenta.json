@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "510022510",
+    "raison_sociale": "PHARMACIE DE MAGENTA",
+    "numero voie": "1",
+    "type_voie": "AV",
+    "libelle_voie": "A THEVENET",
+    "bp": "",
+    "cp": "51530",
+    "VILLE": "MAGENTA ",
+    "tel": "326553002",
+    "telecopie": "326546178",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79144148800016",
+    "lng": "3.96598804529593",
+    "lat": "49.0493314306579"
+  },
+  {
+    "finess": "510026511",
+    "raison_sociale": "SAD AXEO SERVICES MAGENTA",
+    "numero voie": "3",
+    "type_voie": "AV",
+    "libelle_voie": "ALFRED ANATOLE THEVENET",
+    "bp": "",
+    "cp": "51530",
+    "VILLE": "MAGENTA ",
+    "tel": "326542800",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "75133247900037",
+    "lng": "3.96486707946405",
+    "lat": "49.047095068413"
+  }
+]

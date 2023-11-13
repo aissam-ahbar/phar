@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "630006773",
+    "raison_sociale": "PHARMACIE CHAPUIS",
+    "numero voie": "3",
+    "type_voie": "RTE",
+    "libelle_voie": "DE RIOM",
+    "bp": "",
+    "cp": "63410",
+    "VILLE": "MANZAT ",
+    "tel": "473866007",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52073020100024",
+    "lng": "2.94158385921464",
+    "lat": "45.9622294817083"
+  },
+  {
+    "finess": "630014975",
+    "raison_sociale": "SERVICE AIDE ACCOMPAGNEMENT DOMICILE",
+    "numero voie": "21",
+    "type_voie": "R",
+    "libelle_voie": "VICTOR MAZUEL",
+    "bp": "",
+    "cp": "63410",
+    "VILLE": "MANZAT ",
+    "tel": "473971967",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "20007433400067",
+    "lng": "2.94114338872951",
+    "lat": "45.9611747763621"
+  },
+  {
+    "finess": "630787687",
+    "raison_sociale": "EHPAD LE MONTEL",
+    "numero voie": "35",
+    "type_voie": "RTE",
+    "libelle_voie": "DE RIOM",
+    "bp": "",
+    "cp": "63410",
+    "VILLE": "MANZAT ",
+    "tel": "473865745",
+    "telecopie": "473869329",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20002320800032",
+    "lng": "2.94851172694071",
+    "lat": "45.9631135260989"
+  }
+]

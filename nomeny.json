@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "540016664",
+    "raison_sociale": "PHARMACIE PHARMASEILLE",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "GEORGES CLEMENCEAU",
+    "bp": "",
+    "cp": "54610",
+    "VILLE": "NOMENY ",
+    "tel": "383313021",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81108057100011",
+    "lng": "6.22647410301321",
+    "lat": "48.8883038287004"
+  },
+  {
+    "finess": "540021730",
+    "raison_sociale": "SAAD ADMR VALLEE DE LA SEILLE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "SIMONE VEIL",
+    "bp": "",
+    "cp": "54610",
+    "VILLE": "NOMENY ",
+    "tel": "383340147",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "49929128400028",
+    "lng": "6.22518406658814",
+    "lat": "48.8896652683217"
+  }
+]

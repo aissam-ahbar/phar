@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "330047176",
+    "raison_sociale": "ROCADE",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "FARIDEUIL",
+    "bp": "",
+    "cp": "33240",
+    "VILLE": "LA LANDE DE FRONSAC   ",
+    "tel": "557582108",
+    "telecopie": "557582108",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "37953293000011",
+    "lng": "-0.38687566623807",
+    "lat": "44.973471146849"
+  },
+  {
+    "finess": "330065467",
+    "raison_sociale": "SAAD DU CIAS DU FRONSADAIS",
+    "numero voie": "1",
+    "type_voie": "AV",
+    "libelle_voie": "CHARLES DE GAULLE",
+    "bp": "",
+    "cp": "33240",
+    "VILLE": "LA LANDE DE FRONSAC   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "20007042300013",
+    "lng": "-0.381481968098312",
+    "lat": "44.9792272454858"
+  },
+  {
+    "finess": "330799925",
+    "raison_sociale": "EHPAD LES BOIS DE LANDECOTTE",
+    "numero voie": "890",
+    "type_voie": "RTE",
+    "libelle_voie": "ROYALE",
+    "bp": "",
+    "cp": "33240",
+    "VILLE": "LA LANDE DE FRONSAC   ",
+    "tel": "557335033",
+    "telecopie": "557582278",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "48008096900359",
+    "lng": "-0.372964983406098",
+    "lat": "44.9805412389938"
+  }
+]

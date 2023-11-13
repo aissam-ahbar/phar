@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "140006669",
+    "raison_sociale": "SAD CCAS HERMANVILLE-SUR-MER",
+    "numero voie": "6",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "14880",
+    "VILLE": "HERMANVILLE SUR MER    ",
+    "tel": "231361801",
+    "telecopie": "231962256",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26140067500029",
+    "lng": "-0.312587463247542",
+    "lat": "49.2873446230453"
+  },
+  {
+    "finess": "140010133",
+    "raison_sociale": "PHARMACIE DU COEUR DE BOURG",
+    "numero voie": "41",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "14880",
+    "VILLE": "HERMANVILLE SUR MER    ",
+    "tel": "231961221",
+    "telecopie": "231969961",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "47995222800019",
+    "lng": "-0.3127642275579",
+    "lat": "49.286948383529"
+  }
+]

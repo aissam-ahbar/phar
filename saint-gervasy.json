@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "300010857",
+    "raison_sociale": "PHARMACIE DE SAINT GERVASY",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "du Marche",
+    "bp": "",
+    "cp": "30320",
+    "VILLE": "ST GERVASY",
+    "tel": "466752675",
+    "telecopie": "466754066",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83233488200012",
+    "lng": "4.46684210487898",
+    "lat": "43.8762877940286"
+  },
+  {
+    "finess": "300011988",
+    "raison_sociale": "SAAD ADMR LES HIRONDELLES",
+    "numero voie": "11",
+    "type_voie": "AV",
+    "libelle_voie": "FREDERIC MISTRAL",
+    "bp": "",
+    "cp": "30320",
+    "VILLE": "ST GERVASY",
+    "tel": "466582009",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31843645800026",
+    "lng": "4.46935091355909",
+    "lat": "43.8772666405001"
+  }
+]

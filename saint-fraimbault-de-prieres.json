@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "530002609",
+    "raison_sociale": "EHPAD ST GEORGES DE LISLE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "ST GEORGES DE LISLE",
+    "cp": "53300",
+    "VILLE": "ST FRAIMBAULT DE PRIERES   ",
+    "tel": "243008764",
+    "telecopie": "243005943",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "78566823700163",
+    "lng": "-0.586643947956201",
+    "lat": "48.3644980700219"
+  },
+  {
+    "finess": "530032127",
+    "raison_sociale": "FO ST GEORGES DE LISLE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "ST GEORGES DE L ISLE",
+    "cp": "53300",
+    "VILLE": "ST FRAIMBAULT DE PRIERES   ",
+    "tel": "243008764",
+    "telecopie": "",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "78566823700163",
+    "lng": "-0.580282426370509",
+    "lat": "48.3503870072143"
+  }
+]

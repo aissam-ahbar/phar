@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "570019497",
+    "raison_sociale": "PHARMACIE D'OTTANGE-NONDKEIL",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "PRINCIPALE",
+    "bp": "",
+    "cp": "57840",
+    "VILLE": "OTTANGE ",
+    "tel": "382505344",
+    "telecopie": "382502344",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50152398900017",
+    "lng": "6.01991439628478",
+    "lat": "49.4415568458879"
+  },
+  {
+    "finess": "570019539",
+    "raison_sociale": "CSP FILIERIS DE OTTANGE",
+    "numero voie": "21",
+    "type_voie": "R",
+    "libelle_voie": "L'USINE",
+    "bp": "",
+    "cp": "57840",
+    "VILLE": "OTTANGE ",
+    "tel": "382503368",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "77568531603466",
+    "lng": "6.0228275683813",
+    "lat": "49.4437867326516"
+  },
+  {
+    "finess": "570024711",
+    "raison_sociale": "EHPAD \"RESIDENCE DU PLATEAU\"",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DE L'ATELIER",
+    "bp": "",
+    "cp": "57840",
+    "VILLE": "OTTANGE ",
+    "tel": "382545400",
+    "telecopie": "382545410",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77561815000715",
+    "lng": "6.02363774938983",
+    "lat": "49.445156154272"
+  }
+]

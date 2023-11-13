@@ -1,0 +1,19 @@
+[
+  {
+    "finess": "10004182",
+    "raison_sociale": "PHARMACIE DE LOYETTES",
+    "numero voie": "171",
+    "type_voie": "R",
+    "libelle_voie": "du Bugey",
+    "bp": "BP 55",
+    "cp": "1360",
+    "VILLE": "LOYETTES ",
+    "tel": "478327098",
+    "telecopie": "478327268",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "89027655300017",
+    "lng": "5.21046745050221",
+    "lat": "45.7774208608565"
+  }
+]

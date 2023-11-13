@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "420004996",
+    "raison_sociale": "PHARMACIE PLAULT",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "DE BRIENNON",
+    "bp": "",
+    "cp": "42720",
+    "VILLE": "POUILLY SOUS CHARLIEU    ",
+    "tel": "477608148",
+    "telecopie": "477609094",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50228678400017",
+    "lng": "4.10823063609836",
+    "lat": "46.1461123521785"
+  },
+  {
+    "finess": "420016024",
+    "raison_sociale": "MAISON DE SANTE POUILLY-SOUS-CHARLIEU",
+    "numero voie": "289",
+    "type_voie": "R",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "42720",
+    "VILLE": "POUILLY SOUS CHARLIEU    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "4.10837486325565",
+    "lat": "46.1434380364372"
+  },
+  {
+    "finess": "420784514",
+    "raison_sociale": "F.R.P.A \" LES TAMARIS \"",
+    "numero voie": "51",
+    "type_voie": "R",
+    "libelle_voie": "DES TAMARIS",
+    "bp": "",
+    "cp": "42720",
+    "VILLE": "POUILLY SOUS CHARLIEU    ",
+    "tel": "477608730",
+    "telecopie": "477609754",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26421023800046",
+    "lng": "4.11276814872029",
+    "lat": "46.1438147524638"
+  }
+]

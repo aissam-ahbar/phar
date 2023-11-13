@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "450015425",
+    "raison_sociale": "SELARL PHARMACIE D'ORMES",
+    "numero voie": "130",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "45140",
+    "VILLE": "ORMES ",
+    "tel": "238748449",
+    "telecopie": "238747620",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75179109600017",
+    "lng": "1.82015871054767",
+    "lat": "47.941337475995"
+  },
+  {
+    "finess": "450019401",
+    "raison_sociale": "LBM BIO MEDI QUAL CENTRE ORMES",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE CORROY",
+    "bp": "",
+    "cp": "45140",
+    "VILLE": "ORMES ",
+    "tel": "238780555",
+    "telecopie": "238780566",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "40018121000065",
+    "lng": "1.82280723995942",
+    "lat": "47.9395126477834"
+  },
+  {
+    "finess": "510026255",
+    "raison_sociale": "PUI ARPDD",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "DU CHAMP JUPIN",
+    "bp": "",
+    "cp": "51370",
+    "VILLE": "ORMES ",
+    "tel": "326776790",
+    "telecopie": "",
+    "categorie etablissement": "698",
+    "libelle categorie": "Autre Etablissement Loi Hospitalière",
+    "siret": "31151060600339",
+    "lng": "3.98080610267497",
+    "lat": "49.2437930998408"
+  }
+]

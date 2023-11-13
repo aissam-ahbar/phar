@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "10006385",
+    "raison_sociale": "CATTP ENFANTS-ADOS CHATEAU-GAILLARD",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "JEAN MERMOZ",
+    "bp": "",
+    "cp": "1500",
+    "VILLE": "CHATEAU GAILLARD",
+    "tel": "474522734",
+    "telecopie": "",
+    "categorie etablissement": "425",
+    "libelle categorie": "Centre d'Accueil Thérapeutique à temps partiel (C.A.T.T.P.)",
+    "siret": "77554456200751",
+    "lng": "5.3168251983256",
+    "lat": "45.9765513482036"
+  },
+  {
+    "finess": "10010338",
+    "raison_sociale": "PRADO BUGEY DIRECTION - SAFE",
+    "numero voie": "246",
+    "type_voie": "CHE",
+    "libelle_voie": "DES VIGNES",
+    "bp": "",
+    "cp": "1500",
+    "VILLE": "CHATEAU GAILLARD",
+    "tel": "437619912",
+    "telecopie": "474358981",
+    "categorie etablissement": "236",
+    "libelle categorie": "Centre Placement Familial Socio-Educatif (C.P.F.S.E.)",
+    "siret": "77564974200514",
+    "lng": "5.3131637461605",
+    "lat": "45.9752694883327"
+  }
+]

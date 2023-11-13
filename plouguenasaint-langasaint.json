@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "220004600",
+    "raison_sociale": "EHPAD RESIDENCE KERMARIA",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DES ECOLES",
+    "bp": "",
+    "cp": "22150",
+    "VILLE": "PLOUGUENAST LANGAST",
+    "tel": "296287913",
+    "telecopie": "296287948",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26220213800026",
+    "lng": "-2.70674821806366",
+    "lat": "48.2803617465643"
+  },
+  {
+    "finess": "220012017",
+    "raison_sociale": "PHARMACIE DU LIE",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "du Général de Gaulle",
+    "bp": "",
+    "cp": "22150",
+    "VILLE": "PLOUGUENAST LANGAST",
+    "tel": "296287015",
+    "telecopie": "296268574",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50306809000011",
+    "lng": "-2.70371356881535",
+    "lat": "48.2794718471538"
+  }
+]

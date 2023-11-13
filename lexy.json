@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "540014107",
+    "raison_sociale": "PHARMACIE HOUOT",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "D ALSACE",
+    "bp": "",
+    "cp": "54720",
+    "VILLE": "LEXY ",
+    "tel": "382239094",
+    "telecopie": "382238146",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45305447000019",
+    "lng": "5.72652255926466",
+    "lat": "49.4995328204093"
+  },
+  {
+    "finess": "540018538",
+    "raison_sociale": "EHPAD \" LA MAISON DES MIRABELLIERS \"",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DU COMMANDANT SPICQ",
+    "bp": "",
+    "cp": "54720",
+    "VILLE": "LEXY ",
+    "tel": "382230140",
+    "telecopie": "382230914",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "32364952500595",
+    "lng": "5.73275738681979",
+    "lat": "49.4996253024551"
+  }
+]

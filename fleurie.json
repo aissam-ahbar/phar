@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "690009733",
+    "raison_sociale": "PHARMACIE DE FLEURIE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DES VENDANGES",
+    "bp": "TRAMAYES",
+    "cp": "69820",
+    "VILLE": "FLEURIE ",
+    "tel": "474698447",
+    "telecopie": "474041658",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53142166700019",
+    "lng": "4.6957579564885",
+    "lat": "46.190599846643"
+  },
+  {
+    "finess": "690035803",
+    "raison_sociale": "MARPA LA FLEURISIENNE",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA DÎME",
+    "bp": "",
+    "cp": "69820",
+    "VILLE": "FLEURIE ",
+    "tel": "474695193",
+    "telecopie": "474695193",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "52807518700013",
+    "lng": "4.69594710588243",
+    "lat": "46.1925641357677"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "160000436",
+    "raison_sociale": "IME LA LIEGE",
+    "numero voie": "10",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CHEZ LES ROIS",
+    "bp": "TROTTE PANIER",
+    "cp": "16440",
+    "VILLE": "SIREUIL ",
+    "tel": "545905403",
+    "telecopie": "545909262",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "78125405700016",
+    "lng": "0.022747982560792",
+    "lat": "45.6190334763839"
+  },
+  {
+    "finess": "160015194",
+    "raison_sociale": "SESSAD LA LIEGE",
+    "numero voie": "10",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CHEZ LES ROIS",
+    "bp": "TROTTE PANIER",
+    "cp": "16440",
+    "VILLE": "SIREUIL ",
+    "tel": "545905403",
+    "telecopie": "545909262",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "78125405700016",
+    "lng": "0.022747982560792",
+    "lat": "45.6190334763839"
+  }
+]

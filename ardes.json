@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "630002707",
+    "raison_sociale": "SELAS PHARMACIE DE LA COUZE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU COMMERCE",
+    "bp": "",
+    "cp": "63420",
+    "VILLE": "ARDES ",
+    "tel": "473718016",
+    "telecopie": "473718020",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53006048200011",
+    "lng": "3.1256378055043",
+    "lat": "45.4033575427559"
+  },
+  {
+    "finess": "630010668",
+    "raison_sociale": "SSIAD \"LA ROSERAIE\"",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "TEYDES",
+    "cp": "63420",
+    "VILLE": "ARDES ",
+    "tel": "473549974",
+    "telecopie": "",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "26630769300025",
+    "lng": "3.12470488308648",
+    "lat": "45.3977451477943"
+  },
+  {
+    "finess": "630781441",
+    "raison_sociale": "EHPAD LA ROSERAIE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "TEYDE",
+    "bp": "",
+    "cp": "63420",
+    "VILLE": "ARDES ",
+    "tel": "473718354",
+    "telecopie": "473718648",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26630769300017",
+    "lng": "3.12349597708661",
+    "lat": "45.3966821490819"
+  }
+]

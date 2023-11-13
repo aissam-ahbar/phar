@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590027173",
+    "raison_sociale": "PHARMACIE LEBORGNE",
+    "numero voie": "8",
+    "type_voie": "RES",
+    "libelle_voie": "ANDRE DUBOIS",
+    "bp": "",
+    "cp": "59230",
+    "VILLE": "ROSULT ",
+    "tel": "327305200",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79534870500026",
+    "lng": "3.36500278384228",
+    "lat": "50.4477194234287"
+  },
+  {
+    "finess": "590060547",
+    "raison_sociale": "MSP DE ROSULT",
+    "numero voie": "411",
+    "type_voie": "R",
+    "libelle_voie": "DE L'ALÈNE D'OR",
+    "bp": "",
+    "cp": "59230",
+    "VILLE": "ROSULT ",
+    "tel": "682401403",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "3.35998135522357",
+    "lat": "50.4438274397994"
+  }
+]

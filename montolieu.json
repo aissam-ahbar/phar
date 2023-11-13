@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "110782851",
+    "raison_sociale": "EHPAD SAINT VINCENT",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DE RAMEL",
+    "bp": "",
+    "cp": "11170",
+    "VILLE": "MONTOLIEU ",
+    "tel": "468248993",
+    "telecopie": "468248347",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77564661500655",
+    "lng": "2.21608176379392",
+    "lat": "43.3060618566347"
+  },
+  {
+    "finess": "110790698",
+    "raison_sociale": "SARL PHARMACIE HIBERT",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "ANCIENS COMBATTANTS D'AFRIQ",
+    "bp": "",
+    "cp": "11170",
+    "VILLE": "MONTOLIEU ",
+    "tel": "468248421",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82911012100011",
+    "lng": "2.2154831504516",
+    "lat": "43.3103127000705"
+  }
+]

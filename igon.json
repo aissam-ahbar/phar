@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "640781084",
+    "raison_sociale": "ITEP GERARD FORGUES",
+    "numero voie": "4",
+    "type_voie": "AV",
+    "libelle_voie": "DU PIC DU MIDI",
+    "bp": "",
+    "cp": "64800",
+    "VILLE": "IGON ",
+    "tel": "559611001",
+    "telecopie": "559611744",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "77563866100147",
+    "lng": "-0.232558085096404",
+    "lat": "43.162935539715"
+  },
+  {
+    "finess": "640785945",
+    "raison_sociale": "EHPAD JEANNE ELISABETH SAINT ANDRE",
+    "numero voie": "49",
+    "type_voie": "AV",
+    "libelle_voie": "DU PIC DU MIDI",
+    "bp": "",
+    "cp": "64800",
+    "VILLE": "IGON ",
+    "tel": "559929028",
+    "telecopie": "559611286",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "78232557500028",
+    "lng": "-0.231118246458832",
+    "lat": "43.1581022108657"
+  }
+]

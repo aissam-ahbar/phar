@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "700002819",
+    "raison_sociale": "MAISON FAMILIALE RURALE AILLEVILLERS",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "DE LA VAIVRE",
+    "bp": "BP 4",
+    "cp": "70320",
+    "VILLE": "AILLEVILLERS ET LYAUMONT    ",
+    "tel": "384492015",
+    "telecopie": "",
+    "categorie etablissement": "330",
+    "libelle categorie": "Ecoles Formant aux Professions Sociales",
+    "siret": "77849371800010",
+    "lng": "6.34591910315561",
+    "lat": "47.9164886599221"
+  },
+  {
+    "finess": "700003411",
+    "raison_sociale": "PHARMACIE CHARBONNIER",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "CHARLES DE GAULLE",
+    "bp": "BP 10",
+    "cp": "70320",
+    "VILLE": "AILLEVILLERS ET LYAUMONT    ",
+    "tel": "384492025",
+    "telecopie": "384492890",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "87779609400010",
+    "lng": "6.33697842965852",
+    "lat": "47.9195679333548"
+  }
+]

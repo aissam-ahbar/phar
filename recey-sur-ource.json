@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "210001426",
+    "raison_sociale": "SPASAD RECEY SUR OURCE ADMR",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "21290",
+    "VILLE": "RECEY SUR OURCE    ",
+    "tel": "380514751",
+    "telecopie": "",
+    "categorie etablissement": "209",
+    "libelle categorie": "Service Polyvalent Aide et Soins A Domicile (S.P.A.S.A.D.)",
+    "siret": "77821418900145",
+    "lng": "4.86179247108183",
+    "lat": "47.7802951920612"
+  },
+  {
+    "finess": "210006607",
+    "raison_sociale": "PHARMACIE VINOT",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "LACORDAIRE",
+    "bp": "",
+    "cp": "21290",
+    "VILLE": "RECEY SUR OURCE    ",
+    "tel": "380810056",
+    "telecopie": "380810759",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "32729000300026",
+    "lng": "4.86241404954365",
+    "lat": "47.779393133501"
+  },
+  {
+    "finess": "210985750",
+    "raison_sociale": "EHPAD LACORDAIRE",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "MAGNIER",
+    "bp": "",
+    "cp": "21290",
+    "VILLE": "RECEY SUR OURCE    ",
+    "tel": "380810870",
+    "telecopie": "380812289",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77568030902229",
+    "lng": "4.86143734147933",
+    "lat": "47.7793834519596"
+  }
+]

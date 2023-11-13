@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380005173",
+    "raison_sociale": "PHARMACIE GABARD",
+    "numero voie": "20",
+    "type_voie": "PL",
+    "libelle_voie": "de la Mairie",
+    "bp": "",
+    "cp": "38780",
+    "VILLE": "EYZIN PINET",
+    "tel": "474584605",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "42488200900014",
+    "lng": "4.99805819928521",
+    "lat": "45.4737272795952"
+  },
+  {
+    "finess": "380027060",
+    "raison_sociale": "RESIDENCE AUTONOMIE D'EYZIN-PINET",
+    "numero voie": "86",
+    "type_voie": "R",
+    "libelle_voie": "DE L'AQUEDUC",
+    "bp": "",
+    "cp": "38780",
+    "VILLE": "EYZIN PINET",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "32735516000703",
+    "lng": "4.99863782589779",
+    "lat": "45.4735755387991"
+  }
+]

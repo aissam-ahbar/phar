@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "350019311",
+    "raison_sociale": "PHARMACIE DU VENDELAIS",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "de Bretagne",
+    "bp": "",
+    "cp": "35210",
+    "VILLE": "CHATILLON EN VENDELAIS    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88463004700022",
+    "lng": "-1.17159450136375",
+    "lat": "48.2191103629432"
+  },
+  {
+    "finess": "350032124",
+    "raison_sociale": "RESIDENCE LE PLESSIS INOGUEN",
+    "numero voie": "2",
+    "type_voie": "ALL",
+    "libelle_voie": "DU DOCTEUR JC FRAUD",
+    "bp": "",
+    "cp": "35210",
+    "VILLE": "CHATILLON EN VENDELAIS    ",
+    "tel": "299761550",
+    "telecopie": "299761575",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26350068800027",
+    "lng": "-1.1804745032227",
+    "lat": "48.225011601407"
+  },
+  {
+    "finess": "350055919",
+    "raison_sociale": "MSP DE VITRÉ NORD",
+    "numero voie": "34",
+    "type_voie": "R",
+    "libelle_voie": "DU BOIS GUICHARD",
+    "bp": "",
+    "cp": "35210",
+    "VILLE": "CHATILLON EN VENDELAIS    ",
+    "tel": "626972096",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "89522383200018",
+    "lng": "-1.1765645620788",
+    "lat": "48.2232659173503"
+  }
+]

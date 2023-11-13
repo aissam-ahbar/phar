@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "340784727",
+    "raison_sociale": "EHPAD MONTPLAISIR",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DE MONTPLAISIR",
+    "bp": "",
+    "cp": "34230",
+    "VILLE": "ST PARGOIRE",
+    "tel": "467987622",
+    "telecopie": "467987279",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26340040000028",
+    "lng": "3.52341985254968",
+    "lat": "43.5271821270351"
+  },
+  {
+    "finess": "340795442",
+    "raison_sociale": "PHARMACIE SAINT PARGORIENNE",
+    "numero voie": "2",
+    "type_voie": "ESPA",
+    "libelle_voie": "CABANIS",
+    "bp": "",
+    "cp": "34230",
+    "VILLE": "ST PARGOIRE",
+    "tel": "467987016",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83394565200018",
+    "lng": "3.52135166315206",
+    "lat": "43.5283347499359"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "210005401",
+    "raison_sociale": "PHARMACIE UXOL",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "DES EPERONS",
+    "bp": "",
+    "cp": "21460",
+    "VILLE": "EPOISSES ",
+    "tel": "380964403",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40172368900014",
+    "lng": "4.16891720149366",
+    "lat": "47.5062189341275"
+  },
+  {
+    "finess": "210013074",
+    "raison_sociale": "CTRE SANTE INFIRMIERS AUXOIS SOINS",
+    "numero voie": "29",
+    "type_voie": "R",
+    "libelle_voie": "DES EPERONS",
+    "bp": "",
+    "cp": "21460",
+    "VILLE": "EPOISSES ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "83778396800014",
+    "lng": "4.16952443388988",
+    "lat": "47.506282160866"
+  },
+  {
+    "finess": "210987202",
+    "raison_sociale": "EHPAD LA TUILERIE - PIERRE VIRELY",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DE LA SAGESSE",
+    "bp": "",
+    "cp": "21460",
+    "VILLE": "EPOISSES ",
+    "tel": "380964927",
+    "telecopie": "380964902",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77556776100496",
+    "lng": "4.1751447909471",
+    "lat": "47.5042387486454"
+  }
+]

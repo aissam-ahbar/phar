@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "60004462",
+    "raison_sociale": "PHARMACIE DE LA POINTE",
+    "numero voie": "13",
+    "type_voie": "RTE",
+    "libelle_voie": "DEPARTEMENTALE N 2204",
+    "bp": "",
+    "cp": "6440",
+    "VILLE": "BLAUSASC ",
+    "tel": "422534968",
+    "telecopie": "493912009",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83156139400014",
+    "lng": "7.35686726479202",
+    "lat": "43.8070749463742"
+  },
+  {
+    "finess": "60023579",
+    "raison_sociale": "LBM CERBALLIANCE PROVENCE SITE BLAUSAS",
+    "numero voie": "13",
+    "type_voie": "RTE",
+    "libelle_voie": "DEPARTEMENTALE",
+    "bp": "",
+    "cp": "6440",
+    "VILLE": "BLAUSASC ",
+    "tel": "493539016",
+    "telecopie": "",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "78315959300236",
+    "lng": "7.36619781023525",
+    "lat": "43.8047392746599"
+  }
+]

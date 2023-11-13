@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "500010905",
+    "raison_sociale": "PHARMACIE LAUNAY",
+    "numero voie": "132",
+    "type_voie": "R",
+    "libelle_voie": "DU HAUT CHEMIN",
+    "bp": "",
+    "cp": "50710",
+    "VILLE": "CREANCES ",
+    "tel": "233463021",
+    "telecopie": "233460013",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "90748484400010",
+    "lng": "-1.5680086585606",
+    "lat": "49.1986733392403"
+  },
+  {
+    "finess": "500016837",
+    "raison_sociale": "EHPAD DE CREANCES",
+    "numero voie": "62",
+    "type_voie": "R",
+    "libelle_voie": "DES ECOLES",
+    "bp": "",
+    "cp": "50710",
+    "VILLE": "CREANCES ",
+    "tel": "233465545",
+    "telecopie": "233472616",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20007733700059",
+    "lng": "-1.56393803644162",
+    "lat": "49.2010358604568"
+  }
+]

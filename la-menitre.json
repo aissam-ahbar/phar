@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "490002235",
+    "raison_sociale": "EHPAD ESBV LA MENITRE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "JOLIOT CURIE",
+    "bp": "",
+    "cp": "49250",
+    "VILLE": "LA MENITRE",
+    "tel": "241456767",
+    "telecopie": "241456785",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26490664500082",
+    "lng": "-0.26975701650271",
+    "lat": "47.4026015713571"
+  },
+  {
+    "finess": "490533536",
+    "raison_sociale": "PHARMACIE BAUDRY-PARCE",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "MARC LECLERC",
+    "bp": "",
+    "cp": "49250",
+    "VILLE": "LA MENITRE",
+    "tel": "241456134",
+    "telecopie": "241456381",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83790389700010",
+    "lng": "-0.270331267280003",
+    "lat": "47.4012042246707"
+  }
+]

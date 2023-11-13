@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "290012376",
+    "raison_sociale": "PHARMACIE PETTON",
+    "numero voie": "35",
+    "type_voie": "R",
+    "libelle_voie": "DE PLOZEVET",
+    "bp": "",
+    "cp": "29710",
+    "VILLE": "POULDREUZIC ",
+    "tel": "298544028",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34857511900022",
+    "lng": "-4.3630637278291",
+    "lat": "47.95750478897"
+  },
+  {
+    "finess": "290020346",
+    "raison_sociale": "EHPAD PARC AN ID",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DU 19 MARS 1962",
+    "bp": "",
+    "cp": "29710",
+    "VILLE": "POULDREUZIC ",
+    "tel": "298544517",
+    "telecopie": "298515023",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20002671400028",
+    "lng": "-4.36134589473562",
+    "lat": "47.9540089939425"
+  },
+  {
+    "finess": "290036896",
+    "raison_sociale": "SISA PROF SANTE HT PAYS BIGOUDEN",
+    "numero voie": "23",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MER",
+    "bp": "",
+    "cp": "29710",
+    "VILLE": "POULDREUZIC ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "89187286300016",
+    "lng": "-4.36361488526799",
+    "lat": "47.9523497794524"
+  }
+]

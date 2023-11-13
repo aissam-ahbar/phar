@@ -1,0 +1,19 @@
+[
+  {
+    "finess": "700002512",
+    "raison_sociale": "PHARMACIE DE LA PLANCHE",
+    "numero voie": "21",
+    "type_voie": "R",
+    "libelle_voie": "DE LA LIBERATION",
+    "bp": "",
+    "cp": "70290",
+    "VILLE": "PLANCHER BAS",
+    "tel": "384236337",
+    "telecopie": "384236537",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53783110900013",
+    "lng": "6.73234509805624",
+    "lat": "47.7205214602356"
+  }
+]

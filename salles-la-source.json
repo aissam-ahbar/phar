@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "120000237",
+    "raison_sociale": "CHI VALLON SALLES LA SOURCE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "12330",
+    "VILLE": "SALLES LA SOURCE    ",
+    "tel": "565711477",
+    "telecopie": "565773401",
+    "categorie etablissement": "106",
+    "libelle categorie": "Centre hospitalier",
+    "siret": "",
+    "lng": "2.47225001191016",
+    "lat": "44.4526445175553"
+  },
+  {
+    "finess": "120785258",
+    "raison_sociale": "EHPAD CH SALLES LA SOURCE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "COUGOUSSE",
+    "bp": "",
+    "cp": "12330",
+    "VILLE": "SALLES LA SOURCE    ",
+    "tel": "565711400",
+    "telecopie": "565711401",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26120648600035",
+    "lng": "2.47225001191016",
+    "lat": "44.4526445175553"
+  }
+]

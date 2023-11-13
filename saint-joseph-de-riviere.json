@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380006379",
+    "raison_sociale": "FOYER DE VIE-FAM LA MAISONNETTE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "38134",
+    "VILLE": "ST JOSEPH DE RIVIERE   ",
+    "tel": "476062600",
+    "telecopie": "476062601",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "26380025200185",
+    "lng": "5.67764845333318",
+    "lat": "45.3650079550609"
+  },
+  {
+    "finess": "380016220",
+    "raison_sociale": "FAM ST JOSEPH DE RIVIERE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "38134",
+    "VILLE": "ST JOSEPH DE RIVIERE   ",
+    "tel": "476062600",
+    "telecopie": "476062601",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "26380025200201",
+    "lng": "5.69742619430937",
+    "lat": "45.375612540972"
+  }
+]

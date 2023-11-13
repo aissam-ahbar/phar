@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "600002620",
+    "raison_sociale": "SELARL PHARMACIE DE",
+    "numero voie": "31",
+    "type_voie": "AV",
+    "libelle_voie": "TRISTAN KLINGSOR",
+    "bp": "",
+    "cp": "60650",
+    "VILLE": "LACHAPELLE AUX POTS    ",
+    "tel": "344805014",
+    "telecopie": "344842469",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53210865100011",
+    "lng": "1.90066274541272",
+    "lat": "49.4461359454564"
+  },
+  {
+    "finess": "600016885",
+    "raison_sociale": "SAAD PAYS DE BRAY SERVICES",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DE LA PRAIRIE",
+    "bp": "",
+    "cp": "60650",
+    "VILLE": "LACHAPELLE AUX POTS    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "45312732600016",
+    "lng": "1.90267184190173",
+    "lat": "49.442428300234"
+  }
+]

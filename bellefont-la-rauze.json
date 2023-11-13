@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "460003759",
+    "raison_sociale": "LVA GEORGES LYSE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "COURS",
+    "cp": "46090",
+    "VILLE": "BELLEFONT LA RAUZE    ",
+    "tel": "565314499",
+    "telecopie": "565314499",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "39285396600019",
+    "lng": "1.52458802601363",
+    "lat": "44.5294503135159"
+  },
+  {
+    "finess": "460008055",
+    "raison_sociale": "LVA A DOS D'ANE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "454 LIEU DIT LAGARDE",
+    "cp": "46090",
+    "VILLE": "BELLEFONT LA RAUZE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "87970109200022",
+    "lng": "1.50150285350556",
+    "lat": "44.4973584919392"
+  }
+]

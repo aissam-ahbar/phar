@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "460006042",
+    "raison_sociale": "MAISON RELAI GABRIEL BOUYSSOU",
+    "numero voie": "14",
+    "type_voie": "R",
+    "libelle_voie": "LABARTHE",
+    "bp": "",
+    "cp": "46090",
+    "VILLE": "ESPERE ",
+    "tel": "565228661",
+    "telecopie": "",
+    "categorie etablissement": "258",
+    "libelle categorie": "Maisons Relais - Pensions de Famille",
+    "siret": "77567227225303",
+    "lng": "1.3763152576455",
+    "lat": "44.5099555284524"
+  },
+  {
+    "finess": "460007990",
+    "raison_sociale": "SAAD GENERATIONS ET AIDES",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "DES GRANGES",
+    "bp": "",
+    "cp": "46090",
+    "VILLE": "ESPERE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "91839067500018",
+    "lng": "1.37466371145854",
+    "lat": "44.508228536425"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "670010321",
+    "raison_sociale": "PHARMACIE DE SOUFFLENHEIM",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "67620",
+    "VILLE": "SOUFFLENHEIM ",
+    "tel": "388866164",
+    "telecopie": "388867915",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "43823197900016",
+    "lng": "7.96747931655626",
+    "lat": "48.8280590540158"
+  },
+  {
+    "finess": "670015833",
+    "raison_sociale": "LBM DE SOUFFLENHEIM",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "67620",
+    "VILLE": "SOUFFLENHEIM ",
+    "tel": "388804000",
+    "telecopie": "388070896",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "77885200400085",
+    "lng": "7.96788433068139",
+    "lat": "48.8275691169747"
+  },
+  {
+    "finess": "670016187",
+    "raison_sociale": "EHPAD L'ORÉE DU BOIS",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE HAGUENAU",
+    "bp": "",
+    "cp": "67620",
+    "VILLE": "SOUFFLENHEIM ",
+    "tel": "388802222",
+    "telecopie": "388802265",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26670004600144",
+    "lng": "7.95222556606445",
+    "lat": "48.8307668477679"
+  }
+]

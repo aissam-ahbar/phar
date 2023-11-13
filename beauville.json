@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "470003732",
+    "raison_sociale": "PHARMACIE DES ARCADES",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "ARCHAMBAULT DE VENCAY",
+    "bp": "",
+    "cp": "47470",
+    "VILLE": "BEAUVILLE ",
+    "tel": "553954212",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50473565500012",
+    "lng": "0.880830435241804",
+    "lat": "44.2779959643661"
+  },
+  {
+    "finess": "470010521",
+    "raison_sociale": "SSIAD SANTE CHEZ SOI",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "SAINT ROCH",
+    "bp": "",
+    "cp": "47470",
+    "VILLE": "BEAUVILLE ",
+    "tel": "553954558",
+    "telecopie": "553954687",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "78216138400311",
+    "lng": "0.882923595478047",
+    "lat": "44.2753079581304"
+  },
+  {
+    "finess": "470018185",
+    "raison_sociale": "SAAD UNA BEAUVILLE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "SAINT ROCH",
+    "bp": "",
+    "cp": "47470",
+    "VILLE": "BEAUVILLE ",
+    "tel": "553952185",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "50465667900017",
+    "lng": "0.882923595478047",
+    "lat": "44.2753079581304"
+  }
+]

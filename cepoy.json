@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "450004692",
+    "raison_sociale": "PHARMACIE DE L'ISLE",
+    "numero voie": "13",
+    "type_voie": "AV",
+    "libelle_voie": "DU CHATEAU",
+    "bp": "LIEU-DIT L'ISLE",
+    "cp": "45120",
+    "VILLE": "CEPOY ",
+    "tel": "238854613",
+    "telecopie": "238932766",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75109817900011",
+    "lng": "2.74048312810643",
+    "lat": "48.0438829133632"
+  },
+  {
+    "finess": "450020979",
+    "raison_sociale": "SAAD MAINTENANT",
+    "numero voie": "18",
+    "type_voie": "AV",
+    "libelle_voie": "DU CHATEAU",
+    "bp": "",
+    "cp": "45120",
+    "VILLE": "CEPOY ",
+    "tel": "953993969",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "82771683800012",
+    "lng": "2.74022890291833",
+    "lat": "48.044003837999"
+  }
+]

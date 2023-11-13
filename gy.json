@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "700001860",
+    "raison_sociale": "PHARMACIE DU CHATEAU",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LES VORPES",
+    "bp": "",
+    "cp": "70700",
+    "VILLE": "GY ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49293823800051",
+    "lng": "5.81784693062924",
+    "lat": "47.4103319122868"
+  },
+  {
+    "finess": "700005614",
+    "raison_sociale": "CENTRE DE SANTE INFIRMIERS",
+    "numero voie": "62",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "70700",
+    "VILLE": "GY ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "31801060000068",
+    "lng": "5.81130927863963",
+    "lat": "47.4052774191302"
+  },
+  {
+    "finess": "700782022",
+    "raison_sociale": "EHPAD DE GY GHHS",
+    "numero voie": "90",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "70700",
+    "VILLE": "GY ",
+    "tel": "384327651",
+    "telecopie": "384328684",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26700661700174",
+    "lng": "5.80853151803327",
+    "lat": "47.4036177808594"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "490533304",
+    "raison_sociale": "PHARMACIE  GATILLON",
+    "numero voie": "55",
+    "type_voie": "AV",
+    "libelle_voie": "ROCHECHOUART",
+    "bp": "",
+    "cp": "49590",
+    "VILLE": "FONTEVRAUD L ABBAYE    ",
+    "tel": "241517113",
+    "telecopie": "970822159",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "90002189000018",
+    "lng": "0.050460382348792",
+    "lat": "47.1842238644184"
+  },
+  {
+    "finess": "490542644",
+    "raison_sociale": "EHPAD ALIENOR D AQUITAINE",
+    "numero voie": "19",
+    "type_voie": "PL",
+    "libelle_voie": "DU GRAND CLOS",
+    "bp": "BP 36",
+    "cp": "49590",
+    "VILLE": "FONTEVRAUD L ABBAYE    ",
+    "tel": "241520211",
+    "telecopie": "241383726",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26490666000024",
+    "lng": "0.04826908697161",
+    "lat": "47.1830977317528"
+  }
+]

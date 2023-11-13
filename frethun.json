@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "620003590",
+    "raison_sociale": "SERVICE D'ACCUEIL TEMPORAIRE",
+    "numero voie": "160",
+    "type_voie": "R",
+    "libelle_voie": "DES PRAIRIES",
+    "bp": "",
+    "cp": "62185",
+    "VILLE": "FRETHUN ",
+    "tel": "321825500",
+    "telecopie": "321363370",
+    "categorie etablissement": "395",
+    "libelle categorie": "Etablissement d'Accueil Temporaire pour Adultes Handicapés",
+    "siret": "77563119500218",
+    "lng": "1.81872956514522",
+    "lat": "50.9122391868734"
+  },
+  {
+    "finess": "620105833",
+    "raison_sociale": "FV AFAPEI FRÉTHUN",
+    "numero voie": "160",
+    "type_voie": "R",
+    "libelle_voie": "DES PRAIRIES",
+    "bp": "",
+    "cp": "62185",
+    "VILLE": "FRETHUN ",
+    "tel": "321825500",
+    "telecopie": "321363370",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "77563119500044",
+    "lng": "1.81872956514522",
+    "lat": "50.9122391868734"
+  }
+]

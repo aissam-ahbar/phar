@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "590028155",
+    "raison_sociale": "PHARMACIE HUBINET-DESORT",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "D'ASSEVENT",
+    "bp": "",
+    "cp": "59131",
+    "VILLE": "ROUSIES ",
+    "tel": "327621949",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49492313900021",
+    "lng": "4.0064950282867",
+    "lat": "50.275701753311"
+  },
+  {
+    "finess": "590028171",
+    "raison_sociale": "PHARMACIE VIETTI MICHELINA-RIVIERE",
+    "numero voie": "24",
+    "type_voie": "AV",
+    "libelle_voie": "DE FERRIERE",
+    "bp": "",
+    "cp": "59131",
+    "VILLE": "ROUSIES ",
+    "tel": "327641121",
+    "telecopie": "327620372",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40073927200013",
+    "lng": "3.97842980730641",
+    "lat": "50.2690602627519"
+  },
+  {
+    "finess": "590029989",
+    "raison_sociale": "CREFO MAUBEUGE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE L ARSENAL",
+    "bp": "",
+    "cp": "59131",
+    "VILLE": "ROUSIES ",
+    "tel": "327622502",
+    "telecopie": "327622501",
+    "categorie etablissement": "330",
+    "libelle categorie": "Ecoles Formant aux Professions Sociales",
+    "siret": "78371481900191",
+    "lng": "3.97929912942756",
+    "lat": "50.2701102526099"
+  }
+]

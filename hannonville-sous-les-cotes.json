@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "550003735",
+    "raison_sociale": "RESIDENCE AUTONOMIE DES COTES DE MEUSE",
+    "numero voie": "19",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA PROMENADE",
+    "bp": "",
+    "cp": "55210",
+    "VILLE": "HANNONVILLE SOUS LES COTES   ",
+    "tel": "329873469",
+    "telecopie": "329888316",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "77561531300951",
+    "lng": "5.65520915552599",
+    "lat": "49.0360809052158"
+  },
+  {
+    "finess": "550005250",
+    "raison_sociale": "EHPAD SAINT GEORGES OHS",
+    "numero voie": "14",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA PROMENADE",
+    "bp": "",
+    "cp": "55210",
+    "VILLE": "HANNONVILLE SOUS LES COTES   ",
+    "tel": "329873555",
+    "telecopie": "329873589",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77561531300878",
+    "lng": "5.65588494569007",
+    "lat": "49.0366120623711"
+  }
+]

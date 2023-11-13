@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "330039546",
+    "raison_sociale": "PHARMACIE DE BEAUTIRAN - LABUSSIERE",
+    "numero voie": "",
+    "type_voie": "ZA",
+    "libelle_voie": "DE CALENS",
+    "bp": "",
+    "cp": "33640",
+    "VILLE": "BEAUTIRAN ",
+    "tel": "556675333",
+    "telecopie": "556675755",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50358759400022",
+    "lng": "-0.465706917761129",
+    "lat": "44.700856437726"
+  },
+  {
+    "finess": "330799909",
+    "raison_sociale": "SAAD CCAS DE BEAUTIRAN",
+    "numero voie": "12",
+    "type_voie": "PL",
+    "libelle_voie": "VERDUN",
+    "bp": "",
+    "cp": "33640",
+    "VILLE": "BEAUTIRAN ",
+    "tel": "556670615",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26330037800019",
+    "lng": "-0.448728568801721",
+    "lat": "44.7044157050903"
+  }
+]

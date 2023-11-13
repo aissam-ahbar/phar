@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "70004270",
+    "raison_sociale": "EURL PHARMACIE ALZAS",
+    "numero voie": "195",
+    "type_voie": "RTE",
+    "libelle_voie": "d'AUBENAS",
+    "bp": "",
+    "cp": "7200",
+    "VILLE": "VOGUE ",
+    "tel": "475377490",
+    "telecopie": "475377490",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "47962877800017",
+    "lng": "4.4121083431453",
+    "lat": "44.5405020985787"
+  },
+  {
+    "finess": "70008545",
+    "raison_sociale": "SENIOR COMPAGNIE",
+    "numero voie": "75",
+    "type_voie": "RTE",
+    "libelle_voie": "D'AUBENAS",
+    "bp": "",
+    "cp": "7200",
+    "VILLE": "VOGUE ",
+    "tel": "647582522",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "81783297500012",
+    "lng": "4.41381474234788",
+    "lat": "44.5402227508092"
+  },
+  {
+    "finess": "70785993",
+    "raison_sociale": "SSIAD SUD ARDECHE",
+    "numero voie": "1015",
+    "type_voie": "RTE",
+    "libelle_voie": "DE RUOMS",
+    "bp": "",
+    "cp": "7200",
+    "VILLE": "VOGUE ",
+    "tel": "475397536",
+    "telecopie": "475357998",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "",
+    "lng": "4.41621190901883",
+    "lat": "44.5397283309793"
+  }
+]

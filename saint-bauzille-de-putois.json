@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "340030758",
+    "raison_sociale": "MSP DU THAURAC",
+    "numero voie": "123",
+    "type_voie": "R",
+    "libelle_voie": "DE L'AGANTIC",
+    "bp": "",
+    "cp": "34190",
+    "VILLE": "ST BAUZILLE DE PUTOIS   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "92174114600010",
+    "lng": "3.73694805357906",
+    "lat": "43.8959897337978"
+  },
+  {
+    "finess": "340795269",
+    "raison_sociale": "PHARMACIE DE SAINT BAUZILLE DE PUTOIS",
+    "numero voie": "871",
+    "type_voie": "AV",
+    "libelle_voie": "DU CHEMIN NEUF",
+    "bp": "",
+    "cp": "34190",
+    "VILLE": "ST BAUZILLE DE PUTOIS   ",
+    "tel": "467737005",
+    "telecopie": "467423710",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79813558800019",
+    "lng": "3.73710569271277",
+    "lat": "43.8975960259696"
+  }
+]

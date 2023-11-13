@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "250008950",
+    "raison_sociale": "PHARMACIE DEVECEY",
+    "numero voie": "4",
+    "type_voie": "RTE",
+    "libelle_voie": "de Bonnay",
+    "bp": "",
+    "cp": "25870",
+    "VILLE": "DEVECEY ",
+    "tel": "381568388",
+    "telecopie": "381568388",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82448655900019",
+    "lng": "6.01130072842532",
+    "lat": "47.3274498470193"
+  },
+  {
+    "finess": "250021052",
+    "raison_sociale": "SAAD VOUS C'EST NOUS",
+    "numero voie": "8",
+    "type_voie": "RTE",
+    "libelle_voie": "DE VESOUL",
+    "bp": "",
+    "cp": "25870",
+    "VILLE": "DEVECEY ",
+    "tel": "680875653",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "88272470100017",
+    "lng": "6.00979629841617",
+    "lat": "47.3289284761296"
+  }
+]

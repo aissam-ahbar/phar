@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "110008802",
+    "raison_sociale": "MSP DU RAZES",
+    "numero voie": "20",
+    "type_voie": "ALL",
+    "libelle_voie": "DES PLATANES",
+    "bp": "",
+    "cp": "11240",
+    "VILLE": "BELVEZE DU RAZES    ",
+    "tel": "468690152",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "88164465200011",
+    "lng": "2.09745224337342",
+    "lat": "43.1257148623385"
+  },
+  {
+    "finess": "110789807",
+    "raison_sociale": "SELARL PHARMACIE DU RAZES",
+    "numero voie": "20",
+    "type_voie": "ALL",
+    "libelle_voie": "DES PLATANES",
+    "bp": "",
+    "cp": "11240",
+    "VILLE": "BELVEZE DU RAZES    ",
+    "tel": "468690028",
+    "telecopie": "468694776",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "89006518800017",
+    "lng": "2.09745224337342",
+    "lat": "43.1257148623385"
+  }
+]

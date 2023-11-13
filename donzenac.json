@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "190003814",
+    "raison_sociale": "EHPAD DONZENAC",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LE MARTEL",
+    "cp": "19270",
+    "VILLE": "DONZENAC ",
+    "tel": "555220600",
+    "telecopie": "555220699",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26190720800027",
+    "lng": "1.52529727772854",
+    "lat": "45.2196154235412"
+  },
+  {
+    "finess": "190008185",
+    "raison_sociale": "PHARMACIE DE DONZENAC",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA LIBERTE",
+    "bp": "",
+    "cp": "19270",
+    "VILLE": "DONZENAC ",
+    "tel": "555857229",
+    "telecopie": "555856866",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50478799500019",
+    "lng": "1.52278549218551",
+    "lat": "45.2277099882448"
+  },
+  {
+    "finess": "190011577",
+    "raison_sociale": "CASEM HEVEA",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LA GARE",
+    "bp": "",
+    "cp": "19270",
+    "VILLE": "DONZENAC ",
+    "tel": "555856922",
+    "telecopie": "",
+    "categorie etablissement": "247",
+    "libelle categorie": "Entreprise adaptée",
+    "siret": "50251365800026",
+    "lng": "1.50130266942318",
+    "lat": "45.2242718365094"
+  }
+]

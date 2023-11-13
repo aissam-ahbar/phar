@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "440002657",
+    "raison_sociale": "EHPAD LE LOGIS PETITE FORET",
+    "numero voie": "22",
+    "type_voie": "R",
+    "libelle_voie": "ST ANDRE",
+    "bp": "",
+    "cp": "44130",
+    "VILLE": "BOUVRON ",
+    "tel": "240563113",
+    "telecopie": "240562196",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "30082256600018",
+    "lng": "-1.84556311492866",
+    "lat": "47.4131677001631"
+  },
+  {
+    "finess": "440015030",
+    "raison_sociale": "PHARMACIE BIRGAND",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "JEAN BAPTISTE OLLIVIER",
+    "bp": "",
+    "cp": "44130",
+    "VILLE": "BOUVRON ",
+    "tel": "240563790",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "32998532900013",
+    "lng": "-1.84575997498489",
+    "lat": "47.4176175450944"
+  },
+  {
+    "finess": "440047165",
+    "raison_sociale": "EAM LE HAMEAU",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DE LA FORET",
+    "bp": "",
+    "cp": "44130",
+    "VILLE": "BOUVRON ",
+    "tel": "251747605",
+    "telecopie": "",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "26440259500112",
+    "lng": "-1.84475020879523",
+    "lat": "47.4157395261585"
+  }
+]

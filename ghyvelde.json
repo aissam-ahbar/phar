@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590039442",
+    "raison_sociale": "PHARMACIE DES OYATS",
+    "numero voie": "149",
+    "type_voie": "R",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "59254",
+    "VILLE": "GHYVELDE ",
+    "tel": "328266360",
+    "telecopie": "328266360",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48347594300013",
+    "lng": "2.52663905922642",
+    "lat": "51.0518695263149"
+  },
+  {
+    "finess": "590812830",
+    "raison_sociale": "MAS LA DUNE AUX PINS",
+    "numero voie": "255",
+    "type_voie": "R",
+    "libelle_voie": "DE LA FRONTIERE",
+    "bp": "BP 14",
+    "cp": "59254",
+    "VILLE": "GHYVELDE ",
+    "tel": "328266800",
+    "telecopie": "328299954",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "30457621800636",
+    "lng": "2.56131256802024",
+    "lat": "51.0587113976335"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "220003974",
+    "raison_sociale": "EHPAD DE PLOUMILLIAU",
+    "numero voie": "14",
+    "type_voie": "R",
+    "libelle_voie": "ANATOLE LE BRAZ",
+    "bp": "",
+    "cp": "22300",
+    "VILLE": "PLOUMILLIAU ",
+    "tel": "296354592",
+    "telecopie": "296544084",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26220043900020",
+    "lng": "-3.52352216604343",
+    "lat": "48.6809677700889"
+  },
+  {
+    "finess": "220011472",
+    "raison_sociale": "PHARMACIE DES BRUYERES",
+    "numero voie": "6",
+    "type_voie": "PL",
+    "libelle_voie": "DE L EGLISE",
+    "bp": "",
+    "cp": "22300",
+    "VILLE": "PLOUMILLIAU ",
+    "tel": "296354536",
+    "telecopie": "296544085",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "47783363600012",
+    "lng": "-3.52309235248267",
+    "lat": "48.6796122600714"
+  }
+]

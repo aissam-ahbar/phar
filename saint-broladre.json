@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "350019865",
+    "raison_sociale": "PHARMACIE DES POLDERS",
+    "numero voie": "16",
+    "type_voie": "R",
+    "libelle_voie": "DE LA BOUSSAQUIERE",
+    "bp": "",
+    "cp": "35120",
+    "VILLE": "ST BROLADRE",
+    "tel": "299802354",
+    "telecopie": "299803004",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44493309700016",
+    "lng": "-1.65977087292764",
+    "lat": "48.5892526250249"
+  },
+  {
+    "finess": "350032116",
+    "raison_sociale": "RESIDENCE AUTONOMIE LES HERMELLES",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "LA BOUSSAQUIERE",
+    "bp": "",
+    "cp": "35120",
+    "VILLE": "ST BROLADRE",
+    "tel": "299803121",
+    "telecopie": "299803297",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26350242900024",
+    "lng": "-1.65854084925121",
+    "lat": "48.5874743079999"
+  }
+]

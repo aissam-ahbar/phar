@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "630008720",
+    "raison_sociale": "EURL SANCIAUT-BATTUT",
+    "numero voie": "20",
+    "type_voie": "R",
+    "libelle_voie": "du 8 mai 1945",
+    "bp": "",
+    "cp": "63690",
+    "VILLE": "TAUVES ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82905452700017",
+    "lng": "2.62261378523938",
+    "lat": "45.5612222014241"
+  },
+  {
+    "finess": "630015337",
+    "raison_sociale": "SSIAD DE TAUVES",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CLERMONT",
+    "bp": "",
+    "cp": "63690",
+    "VILLE": "TAUVES ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "77560243601342",
+    "lng": "2.62697188262959",
+    "lat": "45.5637545012345"
+  },
+  {
+    "finess": "630015899",
+    "raison_sociale": "CPTS SANCY OUEST",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU 8 MAI 1945",
+    "bp": "",
+    "cp": "63690",
+    "VILLE": "TAUVES ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "604",
+    "libelle categorie": "Communautés professionnelles territoriales de santé (CPTS)",
+    "siret": "91528523300010",
+    "lng": "2.62261378523938",
+    "lat": "45.5612222014241"
+  }
+]

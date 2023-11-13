@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "270010069",
+    "raison_sociale": "EHPAD THEMIS LES RIVALIERES VAUDREUIL",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "SAINTE MARGUERITE",
+    "bp": "",
+    "cp": "27100",
+    "VILLE": "LE VAUDREUIL",
+    "tel": "232610560",
+    "telecopie": "232610540",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "44353000100017",
+    "lng": "1.19109587632299",
+    "lat": "49.2510795911639"
+  },
+  {
+    "finess": "270011570",
+    "raison_sociale": "SAD CIAS SEINE EURE LE VAUDREUIL",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "BERNARD CHEDEVILLE",
+    "bp": "",
+    "cp": "27100",
+    "VILLE": "LE VAUDREUIL",
+    "tel": "232590274",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "20005017700027",
+    "lng": "1.20477130705276",
+    "lat": "49.2551289521429"
+  },
+  {
+    "finess": "270021645",
+    "raison_sociale": "PHARMACIE DU VAUDREUIL",
+    "numero voie": "5",
+    "type_voie": "PL",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "27100",
+    "VILLE": "LE VAUDREUIL",
+    "tel": "232590248",
+    "telecopie": "232610570",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81077010700011",
+    "lng": "1.20913175726421",
+    "lat": "49.2569472267238"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "560004939",
+    "raison_sociale": "RESIDENCE LES BLES D'OR",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DES CHENOTS",
+    "bp": "BP 9",
+    "cp": "56490",
+    "VILLE": "GUILLIERS ",
+    "tel": "297744054",
+    "telecopie": "297744779",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26560082500052",
+    "lng": "-2.41118559305901",
+    "lat": "48.0410298946691"
+  },
+  {
+    "finess": "560012767",
+    "raison_sociale": "SAAD CCAS GUILLIERS",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "56490",
+    "VILLE": "GUILLIERS ",
+    "tel": "297744015",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26560082500045",
+    "lng": "-2.40433743836436",
+    "lat": "48.0399323711"
+  },
+  {
+    "finess": "560017030",
+    "raison_sociale": "PHARMACIE GICQUIAUD",
+    "numero voie": "22",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "56490",
+    "VILLE": "GUILLIERS ",
+    "tel": "256305656",
+    "telecopie": "972096123",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "35072620400018",
+    "lng": "-2.40467637690427",
+    "lat": "48.0391428732535"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "100002179",
+    "raison_sociale": "EHPAD RESIDENCE DELATOUR",
+    "numero voie": "17",
+    "type_voie": "AV",
+    "libelle_voie": "CLOTILDE DELATOUR",
+    "bp": "",
+    "cp": "10170",
+    "VILLE": "MERY SUR SEINE    ",
+    "tel": "325212015",
+    "telecopie": "325212412",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26100020200018",
+    "lng": "3.89349321248017",
+    "lat": "48.5103702643191"
+  },
+  {
+    "finess": "100002526",
+    "raison_sociale": "PHARMACIE BECARD",
+    "numero voie": "42",
+    "type_voie": "R",
+    "libelle_voie": "GEORGES FLIZOT",
+    "bp": "",
+    "cp": "10170",
+    "VILLE": "MERY SUR SEINE    ",
+    "tel": "325212154",
+    "telecopie": "325211353",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51802244700024",
+    "lng": "3.89890419053606",
+    "lat": "48.5112677840265"
+  },
+  {
+    "finess": "100007541",
+    "raison_sociale": "HOME PLEIN ESPOIR- ITEP",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "MARTYRS DE LA LIBÉRATION",
+    "bp": "",
+    "cp": "10170",
+    "VILLE": "MERY SUR SEINE    ",
+    "tel": "325212065",
+    "telecopie": "325215944",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "30332389300048",
+    "lng": "3.88882476954826",
+    "lat": "48.5086959540708"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "110006061",
+    "raison_sociale": "MSP AXAT",
+    "numero voie": "2",
+    "type_voie": "PL",
+    "libelle_voie": "JOACHIM ESTRADE",
+    "bp": "",
+    "cp": "11140",
+    "VILLE": "AXAT ",
+    "tel": "468749271",
+    "telecopie": "468749270",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "78949123000015",
+    "lng": "2.23454460747448",
+    "lat": "42.8043136836343"
+  },
+  {
+    "finess": "110789773",
+    "raison_sociale": "SELARL PHARMACIE VALERIE BOURREL",
+    "numero voie": "2",
+    "type_voie": "PL",
+    "libelle_voie": "JOACHIM ESTRADE",
+    "bp": "",
+    "cp": "11140",
+    "VILLE": "AXAT ",
+    "tel": "468205015",
+    "telecopie": "970614372",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "41781334200025",
+    "lng": "2.23454460747448",
+    "lat": "42.8043136836343"
+  }
+]

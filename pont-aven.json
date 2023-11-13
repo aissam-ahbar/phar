@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "290012582",
+    "raison_sociale": "SELARL PHARMACIE DU BOIS D'AMOUR",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "EMILE BERNARD",
+    "bp": "",
+    "cp": "29930",
+    "VILLE": "PONT AVEN",
+    "tel": "298061476",
+    "telecopie": "298060920",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53878186500018",
+    "lng": "-3.74783735475399",
+    "lat": "47.8564164908971"
+  },
+  {
+    "finess": "290019850",
+    "raison_sociale": "EHPAD DE PENANROS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "KERENTRECH",
+    "bp": "",
+    "cp": "29930",
+    "VILLE": "PONT AVEN",
+    "tel": "298061888",
+    "telecopie": "298060961",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77758274300020",
+    "lng": "-3.76012044118059",
+    "lat": "47.8574049559222"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "290011246",
+    "raison_sociale": "PHARMACIE LECUP",
+    "numero voie": "2",
+    "type_voie": "RTE",
+    "libelle_voie": "DE QUIMPER",
+    "bp": "",
+    "cp": "29170",
+    "VILLE": "PLEUVEN ",
+    "tel": "298548079",
+    "telecopie": "298547315",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "78850739000011",
+    "lng": "-4.04561376475068",
+    "lat": "47.9066941099455"
+  },
+  {
+    "finess": "290021187",
+    "raison_sociale": "RESIDENCE TI AR C'HOAD",
+    "numero voie": "9",
+    "type_voie": "RES",
+    "libelle_voie": "DE TI AR C'HOAD",
+    "bp": "",
+    "cp": "29170",
+    "VILLE": "PLEUVEN ",
+    "tel": "298517040",
+    "telecopie": "298547278",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26290412100049",
+    "lng": "-4.04359454896784",
+    "lat": "47.9029908033495"
+  }
+]

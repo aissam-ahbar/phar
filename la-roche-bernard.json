@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "560025728",
+    "raison_sociale": "PSP SUD EST MORBIHAN",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DU FOUR",
+    "bp": "",
+    "cp": "56130",
+    "VILLE": "LA ROCHE BERNARD    ",
+    "tel": "980529352",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "-2.29950441798491",
+    "lat": "47.5191291019124"
+  },
+  {
+    "finess": "560031320",
+    "raison_sociale": "SAAD ESPACE ET VIE LA ROCHE BERNARD",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "DE LA FONTAINE",
+    "bp": "",
+    "cp": "56130",
+    "VILLE": "LA ROCHE BERNARD    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "91491620000019",
+    "lng": "-2.29904729436323",
+    "lat": "47.5187231829483"
+  }
+]

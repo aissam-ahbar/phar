@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "20002374",
+    "raison_sociale": "SNC PHARMACIE DU CLOITRE",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "ernest rousselot",
+    "bp": "",
+    "cp": "2160",
+    "VILLE": "BEAURIEUX ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38111919700022",
+    "lng": "3.73509640176137",
+    "lat": "49.3886539980254"
+  },
+  {
+    "finess": "20012472",
+    "raison_sociale": "SSIAD ADMR BEAURIEUX",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "ERNEST ROUSSELOT",
+    "bp": "",
+    "cp": "2160",
+    "VILLE": "BEAURIEUX ",
+    "tel": "323257688",
+    "telecopie": "323257688",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "",
+    "lng": "3.73549893437522",
+    "lat": "49.3880097444398"
+  },
+  {
+    "finess": "20013983",
+    "raison_sociale": "SAD ADMR BEAURIEUX ET ENVIRONS",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "ERNEST ROUSSELOT",
+    "bp": "",
+    "cp": "2160",
+    "VILLE": "BEAURIEUX ",
+    "tel": "323259320",
+    "telecopie": "323257688",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "3.73549893437522",
+    "lat": "49.3880097444398"
+  }
+]

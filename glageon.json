@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590017166",
+    "raison_sociale": "PHARMACIE DE GLAGEON",
+    "numero voie": "18",
+    "type_voie": "R",
+    "libelle_voie": "ROLAND ROULEAU",
+    "bp": "",
+    "cp": "59132",
+    "VILLE": "GLAGEON ",
+    "tel": "327570371",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88523805500010",
+    "lng": "4.07762393314232",
+    "lat": "50.0571041363199"
+  },
+  {
+    "finess": "590050662",
+    "raison_sociale": "CHU EMMAUS AVESNOIS GLAGEON",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU MOULIN",
+    "bp": "",
+    "cp": "59132",
+    "VILLE": "GLAGEON ",
+    "tel": "327570200",
+    "telecopie": "327597264",
+    "categorie etablissement": "219",
+    "libelle categorie": "Autre Centre d'Accueil",
+    "siret": "33430251000014",
+    "lng": "4.08026241497406",
+    "lat": "50.059017496806"
+  }
+]

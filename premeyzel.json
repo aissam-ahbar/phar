@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "10790004",
+    "raison_sociale": "FOYER DE VIE LA ROCHE FLEURIE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "1300",
+    "VILLE": "PREMEYZEL ",
+    "tel": "479816700",
+    "telecopie": "479420408",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "77554456200199",
+    "lng": "5.64739989340337",
+    "lat": "45.6826892968773"
+  },
+  {
+    "finess": "10790012",
+    "raison_sociale": "FAM LA ROCHE FLEURIE PREMEYZEL",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "1300",
+    "VILLE": "PREMEYZEL ",
+    "tel": "479816700",
+    "telecopie": "479420408",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "77554456200207",
+    "lng": "5.64739989340337",
+    "lat": "45.6826892968773"
+  }
+]

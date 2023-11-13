@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "330050113",
+    "raison_sociale": "SELURL - PHARMACIE DE POMPIGNAC",
+    "numero voie": "1",
+    "type_voie": "CHE",
+    "libelle_voie": "DE BRONDEAU",
+    "bp": "",
+    "cp": "33370",
+    "VILLE": "POMPIGNAC ",
+    "tel": "556729896",
+    "telecopie": "556728747",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82445323700029",
+    "lng": "-0.44023676812947",
+    "lat": "44.8502212172256"
+  },
+  {
+    "finess": "330064999",
+    "raison_sociale": "HANDI PHARM GIRONDE",
+    "numero voie": "3",
+    "type_voie": "ALL",
+    "libelle_voie": "CANTILLAC",
+    "bp": "",
+    "cp": "33370",
+    "VILLE": "POMPIGNAC ",
+    "tel": "549396777",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "84293067900027",
+    "lng": "-0.439580130861345",
+    "lat": "44.8509796525685"
+  }
+]

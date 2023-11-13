@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "410000442",
+    "raison_sociale": "RCRF LA MENAUDIERE - CHISSAY",
+    "numero voie": "2",
+    "type_voie": "ALL",
+    "libelle_voie": "DE LA MENAUDIERE",
+    "bp": "BP 9 41401 MONTRICHARD CEDEX",
+    "cp": "41400",
+    "VILLE": "CHISSAY EN TOURAINE    ",
+    "tel": "254711800",
+    "telecopie": "254711922",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "44192191300295",
+    "lng": "1.15385608657197",
+    "lat": "47.350374322361"
+  },
+  {
+    "finess": "410008536",
+    "raison_sociale": "GCS LE COURBAT /LA MENAUDIÈRE-ET SIÈGE",
+    "numero voie": "2",
+    "type_voie": "ALL",
+    "libelle_voie": "DE LA MENAUDIÈRE",
+    "bp": "",
+    "cp": "41400",
+    "VILLE": "CHISSAY EN TOURAINE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "696",
+    "libelle categorie": "Groupement de coopération sanitaire de moyens",
+    "siret": "50291578800017",
+    "lng": "1.15385608657197",
+    "lat": "47.350374322361"
+  }
+]

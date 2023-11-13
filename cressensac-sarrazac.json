@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "460003437",
+    "raison_sociale": "PHARMACIE DE CRESSENSAC",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "46600",
+    "VILLE": "CRESSENSAC SARRAZAC",
+    "tel": "565377009",
+    "telecopie": "565377719",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53077265600019",
+    "lng": "1.52155432577057",
+    "lat": "45.0203368080699"
+  },
+  {
+    "finess": "460007560",
+    "raison_sociale": "MSP DE CRESSENSAC",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "46600",
+    "VILLE": "CRESSENSAC SARRAZAC",
+    "tel": "565377597",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "84103333500016",
+    "lng": "1.52155432577057",
+    "lat": "45.0203368080699"
+  }
+]

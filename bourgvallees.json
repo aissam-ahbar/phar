@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "500012067",
+    "raison_sociale": "PHARMACIE DESERT",
+    "numero voie": "35",
+    "type_voie": "R",
+    "libelle_voie": "DES IFS",
+    "bp": "",
+    "cp": "50750",
+    "VILLE": "BOURGVALLEES ",
+    "tel": "233557075",
+    "telecopie": "233557312",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "33060238400019",
+    "lng": "-1.127859529448",
+    "lat": "49.0461242117028"
+  },
+  {
+    "finess": "500021787",
+    "raison_sociale": "FERME THERAPEUTIQUE - FBS MANCHE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LA POSTELLIERE",
+    "bp": "SOULLES",
+    "cp": "50750",
+    "VILLE": "BOURGVALLEES ",
+    "tel": "233554633",
+    "telecopie": "233777768",
+    "categorie etablissement": "366",
+    "libelle categorie": "Atelier Thérapeutique",
+    "siret": "78090155900937",
+    "lng": "-1.12739560072597",
+    "lat": "49.0488485433029"
+  }
+]

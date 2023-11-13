@@ -1,0 +1,19 @@
+[
+  {
+    "finess": "550001903",
+    "raison_sociale": "PHARMACIE GUILLOT",
+    "numero voie": "24",
+    "type_voie": "RTE",
+    "libelle_voie": "DE JAMETZ",
+    "bp": "",
+    "cp": "55600",
+    "VILLE": "MARVILLE ",
+    "tel": "329881919",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34847503900015",
+    "lng": "5.45195185682801",
+    "lat": "49.4496240250734"
+  }
+]

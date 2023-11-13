@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "620005363",
+    "raison_sociale": "PHARMACIE DUCHAUSSOY",
+    "numero voie": "102",
+    "type_voie": "R",
+    "libelle_voie": "D'HESDIN",
+    "bp": "",
+    "cp": "62134",
+    "VILLE": "ANVIN ",
+    "tel": "321046194",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "91883182700012",
+    "lng": "2.25437776037205",
+    "lat": "50.4462265449525"
+  },
+  {
+    "finess": "620029272",
+    "raison_sociale": "MSP DES VERTES COLLINES",
+    "numero voie": "200",
+    "type_voie": "R",
+    "libelle_voie": "D'HEUCHIN",
+    "bp": "",
+    "cp": "62134",
+    "VILLE": "ANVIN ",
+    "tel": "321036535",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "79120749100014",
+    "lng": "2.26088740913044",
+    "lat": "50.450031505591"
+  }
+]

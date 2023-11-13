@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "590020129",
+    "raison_sociale": "RESIDENCE DE VIE LES ACACIAS",
+    "numero voie": "",
+    "type_voie": "ESP",
+    "libelle_voie": "LES CHARMILLES",
+    "bp": "",
+    "cp": "59177",
+    "VILLE": "SAINS DU NORD    ",
+    "tel": "327612702",
+    "telecopie": "327614799",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "30457621800552",
+    "lng": "4.00535453555763",
+    "lat": "50.0880194034419"
+  },
+  {
+    "finess": "590028353",
+    "raison_sociale": "PHARMACIE DE SAINS",
+    "numero voie": "16",
+    "type_voie": "R",
+    "libelle_voie": "JEAN JAURES",
+    "bp": "",
+    "cp": "59177",
+    "VILLE": "SAINS DU NORD    ",
+    "tel": "327591532",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40945326300017",
+    "lng": "4.01097600233325",
+    "lat": "50.0938984910519"
+  },
+  {
+    "finess": "590783569",
+    "raison_sociale": "EHPAD RESIDENCE LA ROSERAIE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "BP 8",
+    "cp": "59177",
+    "VILLE": "SAINS DU NORD    ",
+    "tel": "327598587",
+    "telecopie": "327591558",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26590750100026",
+    "lng": "4.00535453555763",
+    "lat": "50.0880194034419"
+  }
+]

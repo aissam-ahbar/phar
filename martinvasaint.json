@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "500011234",
+    "raison_sociale": "PHARMACIE DE MARTINVAST",
+    "numero voie": "20",
+    "type_voie": "R",
+    "libelle_voie": "MAURICE BRISSET",
+    "bp": "",
+    "cp": "50690",
+    "VILLE": "MARTINVAST ",
+    "tel": "233521379",
+    "telecopie": "233521440",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "32833616900011",
+    "lng": "-1.66577717069333",
+    "lat": "49.5972637363366"
+  },
+  {
+    "finess": "500019278",
+    "raison_sociale": "EHPAD \"ELISABETH DE SURVILLE\"-MARTINVA",
+    "numero voie": "7",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LA POSTE",
+    "bp": "",
+    "cp": "50690",
+    "VILLE": "MARTINVAST ",
+    "tel": "233218570",
+    "telecopie": "233011168",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "78090155900754",
+    "lng": "-1.66332396453223",
+    "lat": "49.5967107890251"
+  },
+  {
+    "finess": "500025499",
+    "raison_sociale": "PSLA DE MARTINVAST",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU STADE",
+    "bp": "",
+    "cp": "50690",
+    "VILLE": "MARTINVAST ",
+    "tel": "233521391",
+    "telecopie": "234885277",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "85312598700018",
+    "lng": "-1.66511103447005",
+    "lat": "49.5983903086219"
+  }
+]

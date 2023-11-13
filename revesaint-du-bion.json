@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "40005142",
+    "raison_sociale": "UAMR SAVS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LE VILLAGE",
+    "cp": "4150",
+    "VILLE": "REVEST DU BION    ",
+    "tel": "492779010",
+    "telecopie": "",
+    "categorie etablissement": "446",
+    "libelle categorie": "Service d'Accompagnement à la Vie Sociale (S.A.V.S.)",
+    "siret": "33435347100777",
+    "lng": "5.54965271227998",
+    "lat": "44.0842489426746"
+  },
+  {
+    "finess": "40784837",
+    "raison_sociale": "ESAT DOMAINE DE LA HAUTE LEBRE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "4150",
+    "VILLE": "REVEST DU BION    ",
+    "tel": "492779010",
+    "telecopie": "492779018",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "33435347100256",
+    "lng": "5.53704335947242",
+    "lat": "44.1150599355336"
+  },
+  {
+    "finess": "40785123",
+    "raison_sociale": "FOYER HEBERG ADULTES HAND LE REGAIN",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE BANON",
+    "bp": "",
+    "cp": "4150",
+    "VILLE": "REVEST DU BION    ",
+    "tel": "492779010",
+    "telecopie": "492772576",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "",
+    "lng": "5.54826769566435",
+    "lat": "44.0831708620727"
+  }
+]

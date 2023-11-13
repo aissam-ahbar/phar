@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "450013560",
+    "raison_sociale": "INTERNAT LES CHATELIERS",
+    "numero voie": "4931",
+    "type_voie": "RTE",
+    "libelle_voie": "D'ORLEANS",
+    "bp": "",
+    "cp": "45160",
+    "VILLE": "ST HILAIRE ST MESMIN   ",
+    "tel": "238803560",
+    "telecopie": "",
+    "categorie etablissement": "396",
+    "libelle categorie": "Foyer Hébergement Enfants et Adolescents Handicapés",
+    "siret": "",
+    "lng": "1.82546420026643",
+    "lat": "47.8616664878856"
+  },
+  {
+    "finess": "450013735",
+    "raison_sociale": "IME LES CHATELLIERS",
+    "numero voie": "325",
+    "type_voie": "RTE",
+    "libelle_voie": "D'OLIVET",
+    "bp": "",
+    "cp": "45160",
+    "VILLE": "ST HILAIRE ST MESMIN   ",
+    "tel": "238763719",
+    "telecopie": "",
+    "categorie etablissement": "188",
+    "libelle categorie": "Etablissement pour Enfants ou Adolescents Polyhandicapés",
+    "siret": "8628031000185",
+    "lng": "1.83949163812642",
+    "lat": "47.866947344381"
+  },
+  {
+    "finess": "450015961",
+    "raison_sociale": "PHARMACIE DE ST HILAIRE ST MESMIN",
+    "numero voie": "90",
+    "type_voie": "PL",
+    "libelle_voie": "du Marché",
+    "bp": "",
+    "cp": "45160",
+    "VILLE": "ST HILAIRE ST MESMIN   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40449216700014",
+    "lng": "1.83330147118085",
+    "lat": "47.8660146797505"
+  }
+]

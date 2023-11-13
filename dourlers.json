@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590046751",
+    "raison_sociale": "UNITE DIALYSE DE DOURLERS",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "JEAN COIN",
+    "bp": "",
+    "cp": "59440",
+    "VILLE": "DOURLERS ",
+    "tel": "362288000",
+    "telecopie": "320966870",
+    "categorie etablissement": "146",
+    "libelle categorie": "Structure d'Alternative à la dialyse en centre",
+    "siret": "77562471100476",
+    "lng": "3.93889281406761",
+    "lat": "50.1739264202481"
+  },
+  {
+    "finess": "590065470",
+    "raison_sociale": "SANTELYS DIALYSE À DOMICILE MAUBEUGE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "JEAN COIN",
+    "bp": "",
+    "cp": "59440",
+    "VILLE": "DOURLERS ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "146",
+    "libelle categorie": "Structure d'Alternative à la dialyse en centre",
+    "siret": "",
+    "lng": "3.93889281406761",
+    "lat": "50.1739264202481"
+  }
+]

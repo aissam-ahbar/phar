@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "510019326",
+    "raison_sociale": "PHARMACIE DE GUEUX",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU CHATEAU",
+    "bp": "",
+    "cp": "51390",
+    "VILLE": "GUEUX ",
+    "tel": "326036027",
+    "telecopie": "326034713",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "91208716000012",
+    "lng": "3.90944031590358",
+    "lat": "49.2491919277463"
+  },
+  {
+    "finess": "510027451",
+    "raison_sociale": "ADMR GUEUX",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "51390",
+    "VILLE": "GUEUX ",
+    "tel": "326402420",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "30286841900045",
+    "lng": "3.9103477789225",
+    "lat": "49.2483948248605"
+  }
+]

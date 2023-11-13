@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "120008024",
+    "raison_sociale": "LIEU DE VIE  L'ECURIE DE SEVER",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "DES EQUIDES",
+    "bp": "",
+    "cp": "12240",
+    "VILLE": "CASTANET ",
+    "tel": "565699821",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "40779302500013",
+    "lng": "2.29029125474577",
+    "lat": "44.2791669589157"
+  },
+  {
+    "finess": "120785118",
+    "raison_sociale": "LIEUX DE VIE ET D'ACCUEIL LA CHABRAQUE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "SEVER",
+    "bp": "",
+    "cp": "12240",
+    "VILLE": "CASTANET ",
+    "tel": "565699992",
+    "telecopie": "565699687",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "32978815200018",
+    "lng": "2.29455631972772",
+    "lat": "44.2681890853199"
+  }
+]

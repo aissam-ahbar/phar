@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "120002290",
+    "raison_sociale": "PHARMACIE CHARIGNON-DUMAS",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "LE COMMUNAL",
+    "bp": "",
+    "cp": "12270",
+    "VILLE": "LA FOUILLADE",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "89302314300017",
+    "lng": "2.036399251777",
+    "lat": "44.2346412325706"
+  },
+  {
+    "finess": "120008818",
+    "raison_sociale": "MSP PAYS DES SERENES LA FOUILLADE",
+    "numero voie": "41",
+    "type_voie": "CHE",
+    "libelle_voie": "DU COMMUNAL",
+    "bp": "",
+    "cp": "12270",
+    "VILLE": "LA FOUILLADE",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "89198929500011",
+    "lng": "2.03411429077604",
+    "lat": "44.2361865596083"
+  }
+]

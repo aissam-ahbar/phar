@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "320002983",
+    "raison_sociale": "PHARMACIE DE LA BAÏSE",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "JULES FERRY",
+    "bp": "",
+    "cp": "32310",
+    "VILLE": "VALENCE SUR BAISE    ",
+    "tel": "562285108",
+    "telecopie": "562285783",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82088663800015",
+    "lng": "0.380851482483679",
+    "lat": "43.882798403208"
+  },
+  {
+    "finess": "320785363",
+    "raison_sociale": "EHPAD ROGER RAMBOUR",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "VOLTAIRE",
+    "bp": "",
+    "cp": "32310",
+    "VILLE": "VALENCE SUR BAISE    ",
+    "tel": "562285859",
+    "telecopie": "562285669",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "40207782000015",
+    "lng": "0.379486328882757",
+    "lat": "43.8830312565297"
+  }
+]

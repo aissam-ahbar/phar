@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "410003966",
+    "raison_sociale": "ESAT JEAN MURIEL",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE VENDOME",
+    "bp": "",
+    "cp": "41360",
+    "VILLE": "LUNAY ",
+    "tel": "254728460",
+    "telecopie": "254721357",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77568873207967",
+    "lng": "0.936140266808453",
+    "lat": "47.7996449139899"
+  },
+  {
+    "finess": "410004774",
+    "raison_sociale": "FOYER D'HEBERGEMENT JEAN MURIEL",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "DOMAINE DE LA MONTELLIERE",
+    "bp": "",
+    "cp": "41360",
+    "VILLE": "LUNAY ",
+    "tel": "254735602",
+    "telecopie": "254735600",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "77568873202422",
+    "lng": "0.914216449719684",
+    "lat": "47.8160982359477"
+  }
+]

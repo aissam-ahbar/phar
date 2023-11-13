@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "640018511",
+    "raison_sociale": "PHARMACIE DU BOURG",
+    "numero voie": "150",
+    "type_voie": "ALL",
+    "libelle_voie": "de Biellenave",
+    "bp": "",
+    "cp": "64200",
+    "VILLE": "BASSUSSARRY ",
+    "tel": "559265639",
+    "telecopie": "970623833",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80792969000020",
+    "lng": "-1.50980887939316",
+    "lat": "43.4461989878878"
+  },
+  {
+    "finess": "640020731",
+    "raison_sociale": "SAAD AGE D'OR SERVICES",
+    "numero voie": "1",
+    "type_voie": "ALL",
+    "libelle_voie": "DU MAKILA",
+    "bp": "",
+    "cp": "64200",
+    "VILLE": "BASSUSSARRY ",
+    "tel": "971452690",
+    "telecopie": "559452690",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "89986013400027",
+    "lng": "-1.48936182495628",
+    "lat": "43.4421728685819"
+  },
+  {
+    "finess": "640795977",
+    "raison_sociale": "EHPAD EGOA",
+    "numero voie": "143",
+    "type_voie": "CHE",
+    "libelle_voie": "DE HARGOUS",
+    "bp": "",
+    "cp": "64200",
+    "VILLE": "BASSUSSARRY ",
+    "tel": "559430676",
+    "telecopie": "559431746",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "37767610100027",
+    "lng": "-1.51012918708203",
+    "lat": "43.4454422078766"
+  }
+]

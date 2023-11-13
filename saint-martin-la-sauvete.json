@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "420780231",
+    "raison_sociale": "ISEF",
+    "numero voie": "4820",
+    "type_voie": "RTE",
+    "libelle_voie": "DU CHATEAU",
+    "bp": "",
+    "cp": "42260",
+    "VILLE": "ST MARTIN LA SAUVETE   ",
+    "tel": "477625757",
+    "telecopie": "477625504",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "77560232900028",
+    "lng": "3.9219305457386",
+    "lat": "45.8334823682328"
+  },
+  {
+    "finess": "420793291",
+    "raison_sociale": "MARPA LA SAUVETERRE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE BOURG",
+    "bp": "",
+    "cp": "42260",
+    "VILLE": "ST MARTIN LA SAUVETE   ",
+    "tel": "477622458",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26420134400019",
+    "lng": "3.9209099347726",
+    "lat": "45.8326162572063"
+  }
+]

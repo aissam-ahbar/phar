@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "390002947",
+    "raison_sociale": "PHARMACIE DE L'ABBAYE",
+    "numero voie": "2811",
+    "type_voie": "RTE",
+    "libelle_voie": "DE PREMANON",
+    "bp": "LA COMBE DU LAC",
+    "cp": "39310",
+    "VILLE": "LAMOURA ",
+    "tel": "384412269",
+    "telecopie": "384412638",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81493402200017",
+    "lng": "5.99135180750633",
+    "lat": "46.4083857697957"
+  },
+  {
+    "finess": "390006427",
+    "raison_sociale": "LIEU DE VIE LE PASSAGE VERS LA LIBERTE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LAJOUX",
+    "bp": "",
+    "cp": "39310",
+    "VILLE": "LAMOURA ",
+    "tel": "675766987",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "51303602000016",
+    "lng": "5.97147993694749",
+    "lat": "46.3884148643687"
+  }
+]

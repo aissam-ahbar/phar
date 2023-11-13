@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "700003817",
+    "raison_sociale": "SAAD ADMR 70 CHARCENNE",
+    "numero voie": "20",
+    "type_voie": "RTE",
+    "libelle_voie": "D'AVRIGNEY",
+    "bp": "",
+    "cp": "70700",
+    "VILLE": "CHARCENNE ",
+    "tel": "384328585",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "90216669300017",
+    "lng": "5.77861503725986",
+    "lat": "47.3693689853104"
+  },
+  {
+    "finess": "700784697",
+    "raison_sociale": "SPASAD ADMR 70 CHARCENNE-SCEY/SAÔNE",
+    "numero voie": "20",
+    "type_voie": "RTE",
+    "libelle_voie": "D AVRIGNEY",
+    "bp": "",
+    "cp": "70700",
+    "VILLE": "CHARCENNE ",
+    "tel": "384328251",
+    "telecopie": "384329771",
+    "categorie etablissement": "209",
+    "libelle categorie": "Service Polyvalent Aide et Soins A Domicile (S.P.A.S.A.D.)",
+    "siret": "38046067500016",
+    "lng": "5.77861503725986",
+    "lat": "47.3693689853104"
+  }
+]

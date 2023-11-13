@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "580002962",
+    "raison_sociale": "PHARMACIE DURET - SELARL SACDP",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "PRINCIPALE",
+    "bp": "",
+    "cp": "58230",
+    "VILLE": "OUROUX EN MORVAN    ",
+    "tel": "386782331",
+    "telecopie": "386787710",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80172777700014",
+    "lng": "3.94676099686307",
+    "lat": "47.1851924542451"
+  },
+  {
+    "finess": "580006914",
+    "raison_sociale": "MAISON DES PERMANENCES MEDICALES",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "DE LA CURE",
+    "bp": "",
+    "cp": "58230",
+    "VILLE": "OUROUX EN MORVAN    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "90464522300010",
+    "lng": "3.94676099686307",
+    "lat": "47.1851924542451"
+  }
+]

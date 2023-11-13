@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "160009007",
+    "raison_sociale": "EHPAD CHATEAU DE CRESSE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE JARNAC",
+    "bp": "LOGIS DE CRESSE",
+    "cp": "16200",
+    "VILLE": "BOURG CHARENTE",
+    "tel": "545837777",
+    "telecopie": "545837778",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "45349863600027",
+    "lng": "-0.206898123003938",
+    "lat": "45.6722624239722"
+  },
+  {
+    "finess": "160013231",
+    "raison_sociale": "PUV RESIDENCE DU PARC",
+    "numero voie": "",
+    "type_voie": "DOM",
+    "libelle_voie": "DU LOGIS DE CRESSE",
+    "bp": "",
+    "cp": "16200",
+    "VILLE": "BOURG CHARENTE",
+    "tel": "545837777",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "45349863600027",
+    "lng": "-0.199886934978385",
+    "lat": "45.6735073574264"
+  }
+]

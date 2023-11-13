@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "680006590",
+    "raison_sociale": "PHARMACIE DES DEUX RIVES",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "des Deux Rives",
+    "bp": "",
+    "cp": "68490",
+    "VILLE": "BANTZENHEIM ",
+    "tel": "389262222",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53776049800015",
+    "lng": "7.51630438659476",
+    "lat": "47.8259117819994"
+  },
+  {
+    "finess": "680014040",
+    "raison_sociale": "EHPAD LES MOLENES",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DES MOLENES",
+    "bp": "",
+    "cp": "68490",
+    "VILLE": "BANTZENHEIM ",
+    "tel": "389833440",
+    "telecopie": "389262956",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "39505289700018",
+    "lng": "7.51401452331912",
+    "lat": "47.8249732706791"
+  }
+]

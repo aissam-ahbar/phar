@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "500011648",
+    "raison_sociale": "PHARMACIE ROUSSEAU",
+    "numero voie": "14",
+    "type_voie": "",
+    "libelle_voie": "route de Saint-Laurent",
+    "bp": "",
+    "cp": "50670",
+    "VILLE": "ST POIS",
+    "tel": "233598024",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "37785010200015",
+    "lng": "-1.06742401558014",
+    "lat": "48.7512123134866"
+  },
+  {
+    "finess": "500016522",
+    "raison_sociale": "RESIDENCE AUTONOMIE GÉNÉRAL GRAINDORGE",
+    "numero voie": "15",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "50670",
+    "VILLE": "ST POIS",
+    "tel": "233598042",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "21500542200062",
+    "lng": "-1.06731055112678",
+    "lat": "48.7494600120118"
+  }
+]

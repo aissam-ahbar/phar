@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "560006553",
+    "raison_sociale": "RESIDENCE TREMER",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE TREMER",
+    "bp": "",
+    "cp": "56760",
+    "VILLE": "PENESTIN ",
+    "tel": "299903737",
+    "telecopie": "299904777",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26560289600028",
+    "lng": "-2.47202617266595",
+    "lat": "47.47845799403"
+  },
+  {
+    "finess": "560019390",
+    "raison_sociale": "PHARMACIE DE PENESTIN",
+    "numero voie": "52",
+    "type_voie": "R",
+    "libelle_voie": "DE L EGLISE",
+    "bp": "",
+    "cp": "56760",
+    "VILLE": "PENESTIN ",
+    "tel": "299903018",
+    "telecopie": "299904717",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52963148300029",
+    "lng": "-2.47008703144398",
+    "lat": "47.4828154535422"
+  }
+]

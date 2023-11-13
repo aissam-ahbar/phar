@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "640007191",
+    "raison_sociale": "PHARMACIE D'ARTHEZ",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "LA CARRERE",
+    "bp": "",
+    "cp": "64370",
+    "VILLE": "ARTHEZ DE BEARN    ",
+    "tel": "559677022",
+    "telecopie": "559677312",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51299466600018",
+    "lng": "-0.615737113020043",
+    "lat": "43.4647446017393"
+  },
+  {
+    "finess": "640015111",
+    "raison_sociale": "EHPAD LE TEMPLE",
+    "numero voie": "56",
+    "type_voie": "R",
+    "libelle_voie": "DE LA CARRERE",
+    "bp": "",
+    "cp": "64370",
+    "VILLE": "ARTHEZ DE BEARN    ",
+    "tel": "559674500",
+    "telecopie": "559674539",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20008105700016",
+    "lng": "-0.618536926958792",
+    "lat": "43.4648690695807"
+  },
+  {
+    "finess": "640789632",
+    "raison_sociale": "SSIAD D'ARTHEZ DE BEARN",
+    "numero voie": "44",
+    "type_voie": "RTE",
+    "libelle_voie": "DU BOURDALAT",
+    "bp": "",
+    "cp": "64370",
+    "VILLE": "ARTHEZ DE BEARN    ",
+    "tel": "559677697",
+    "telecopie": "559674925",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "32513181100037",
+    "lng": "-0.625865904686636",
+    "lat": "43.4652463528407"
+  }
+]

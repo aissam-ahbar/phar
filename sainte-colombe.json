@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "690020508",
+    "raison_sociale": "EML SCM STE COLOMBE CLINIQUE TRÉNEL",
+    "numero voie": "575",
+    "type_voie": "R",
+    "libelle_voie": "DU DOCTEUR TRÉNEL",
+    "bp": "",
+    "cp": "69560",
+    "VILLE": "STE COLOMBE",
+    "tel": "474537575",
+    "telecopie": "",
+    "categorie etablissement": "699",
+    "libelle categorie": "Entité Ayant Autorisation",
+    "siret": "43905626800022",
+    "lng": "4.8621236401783",
+    "lat": "45.5199672487355"
+  },
+  {
+    "finess": "690780663",
+    "raison_sociale": "CLINIQUE TRENEL",
+    "numero voie": "575",
+    "type_voie": "R",
+    "libelle_voie": "DU DOCTEUR TRENEL",
+    "bp": "",
+    "cp": "69560",
+    "VILLE": "STE COLOMBE",
+    "tel": "474537272",
+    "telecopie": "474537299",
+    "categorie etablissement": "365",
+    "libelle categorie": "Etablissement de Soins Pluridisciplinaire",
+    "siret": "77972575300015",
+    "lng": "4.8621236401783",
+    "lat": "45.5199672487355"
+  }
+]

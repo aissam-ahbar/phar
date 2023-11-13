@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "100003227",
+    "raison_sociale": "PHARMACIE CONTINANT",
+    "numero voie": "23",
+    "type_voie": "R",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "10180",
+    "VILLE": "ST LYE",
+    "tel": "325766308",
+    "telecopie": "325765749",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40848160400010",
+    "lng": "4.00075711793264",
+    "lat": "48.3630563446749"
+  },
+  {
+    "finess": "100007269",
+    "raison_sociale": "FOYER DE VIE DOMAINE DE MANTENAY",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE LA LIBERATION",
+    "bp": "",
+    "cp": "10180",
+    "VILLE": "ST LYE",
+    "tel": "325766057",
+    "telecopie": "325765008",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "77555526100277",
+    "lng": "4.02061146844558",
+    "lat": "48.3475081806129"
+  },
+  {
+    "finess": "100011881",
+    "raison_sociale": "EAM DE MANTENAY",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE LA LIBÉRATION",
+    "bp": "",
+    "cp": "10180",
+    "VILLE": "ST LYE",
+    "tel": "325766057",
+    "telecopie": "325765008",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "77555526100277",
+    "lng": "4.02061146844558",
+    "lat": "48.3475081806129"
+  }
+]

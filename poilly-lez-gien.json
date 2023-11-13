@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "450003942",
+    "raison_sociale": "EANM LE CLAIR RUISSEAU",
+    "numero voie": "",
+    "type_voie": "ZA",
+    "libelle_voie": "LES CLORISSEAUX",
+    "bp": "",
+    "cp": "45500",
+    "VILLE": "POILLY LEZ GIEN    ",
+    "tel": "238678877",
+    "telecopie": "238678880",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "77560751800286",
+    "lng": "2.61219767302936",
+    "lat": "47.6659670382788"
+  },
+  {
+    "finess": "450008966",
+    "raison_sociale": "ESAT LES IRIS - SITE SECONDAIRE",
+    "numero voie": "48",
+    "type_voie": "RTE",
+    "libelle_voie": "DE GIEN",
+    "bp": "",
+    "cp": "45500",
+    "VILLE": "POILLY LEZ GIEN    ",
+    "tel": "238672416",
+    "telecopie": "238678641",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77560751800161",
+    "lng": "2.61691919131441",
+    "lat": "47.6822121571082"
+  },
+  {
+    "finess": "450015714",
+    "raison_sociale": "SELARL  MADIPHARM",
+    "numero voie": "22",
+    "type_voie": "R",
+    "libelle_voie": "DE SULLY",
+    "bp": "",
+    "cp": "45500",
+    "VILLE": "POILLY LEZ GIEN    ",
+    "tel": "238672843",
+    "telecopie": "238678671",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82843364900013",
+    "lng": "2.59873619468224",
+    "lat": "47.6781286716574"
+  }
+]

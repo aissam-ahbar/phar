@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "500002738",
+    "raison_sociale": "EHPAD DU VAL DE SAIRE - BARFLEUR",
+    "numero voie": "77",
+    "type_voie": "R",
+    "libelle_voie": "SAINT THOMAS",
+    "bp": "",
+    "cp": "50760",
+    "VILLE": "BARFLEUR ",
+    "tel": "233540222",
+    "telecopie": "233540441",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20004253900029",
+    "lng": "-1.26736041871002",
+    "lat": "49.669045982154"
+  },
+  {
+    "finess": "500010541",
+    "raison_sociale": "PHARMACIE DE BARFLEUR",
+    "numero voie": "49",
+    "type_voie": "R",
+    "libelle_voie": "SAINT THOMAS BECKET",
+    "bp": "",
+    "cp": "50760",
+    "VILLE": "BARFLEUR ",
+    "tel": "233540436",
+    "telecopie": "233540941",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "42892424500015",
+    "lng": "-1.26480221245358",
+    "lat": "49.6707591556108"
+  },
+  {
+    "finess": "500020011",
+    "raison_sociale": "SSIAD DU VAL DE SAIRE - BARFLEUR",
+    "numero voie": "77",
+    "type_voie": "R",
+    "libelle_voie": "SAINT THOMAS",
+    "bp": "",
+    "cp": "50760",
+    "VILLE": "BARFLEUR ",
+    "tel": "233544339",
+    "telecopie": "",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "20004253900037",
+    "lng": "-1.26736041871002",
+    "lat": "49.669045982154"
+  }
+]

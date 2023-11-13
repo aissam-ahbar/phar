@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "300002201",
+    "raison_sociale": "EHPAD SAINT LAURENT",
+    "numero voie": "132",
+    "type_voie": "R",
+    "libelle_voie": "DU 19 MARS 1962",
+    "bp": "",
+    "cp": "30430",
+    "VILLE": "BARJAC ",
+    "tel": "466602960",
+    "telecopie": "466602993",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "81460192800025",
+    "lng": "4.35185343736908",
+    "lat": "44.3074223972879"
+  },
+  {
+    "finess": "300005493",
+    "raison_sociale": "PHARMACIE DE BARJAC",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "JEAN TASSY",
+    "bp": "",
+    "cp": "30430",
+    "VILLE": "BARJAC ",
+    "tel": "466245071",
+    "telecopie": "466247248",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "33301915600020",
+    "lng": "4.34668496437256",
+    "lat": "44.3063415806843"
+  },
+  {
+    "finess": "480003102",
+    "raison_sociale": "LIEU DE VIE ET D'ACCUEIL LES DRAGEONS",
+    "numero voie": "16",
+    "type_voie": "R",
+    "libelle_voie": "DU SUD",
+    "bp": "",
+    "cp": "48000",
+    "VILLE": "BARJAC ",
+    "tel": "607691280",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "53895787900017",
+    "lng": "3.41235143957779",
+    "lat": "44.5031158554355"
+  }
+]

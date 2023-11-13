@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "690050356",
+    "raison_sociale": "POUPONNIERE FRONTENAS",
+    "numero voie": "422",
+    "type_voie": "R",
+    "libelle_voie": "DE LA FORGE",
+    "bp": "",
+    "cp": "69620",
+    "VILLE": "FRONTENAS ",
+    "tel": "618564168",
+    "telecopie": "",
+    "categorie etablissement": "172",
+    "libelle categorie": "Pouponnière à Caractère Social",
+    "siret": "77564914800910",
+    "lng": "4.61968223261256",
+    "lat": "45.9217170021732"
+  },
+  {
+    "finess": "690805932",
+    "raison_sociale": "MECS LES PIERRES DOREES",
+    "numero voie": "422",
+    "type_voie": "R",
+    "libelle_voie": "DE LA FORGE",
+    "bp": "",
+    "cp": "69620",
+    "VILLE": "FRONTENAS ",
+    "tel": "474714848",
+    "telecopie": "474714849",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "77564914800910",
+    "lng": "4.61968223261256",
+    "lat": "45.9217170021732"
+  }
+]

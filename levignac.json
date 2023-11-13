@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "310009410",
+    "raison_sociale": "PHARMACIE DE LEVIGNAC",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "31530",
+    "VILLE": "LEVIGNAC ",
+    "tel": "561854327",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81442566600017",
+    "lng": "1.19448114142834",
+    "lat": "43.6666538495024"
+  },
+  {
+    "finess": "310028550",
+    "raison_sociale": "SAAD AJUDA SERVICES A LA PERSONNE",
+    "numero voie": "31",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "31530",
+    "VILLE": "LEVIGNAC ",
+    "tel": "561179556",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "83179755000017",
+    "lng": "1.19520274985338",
+    "lat": "43.6673228559276"
+  }
+]

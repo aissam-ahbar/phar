@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "620009910",
+    "raison_sociale": "PHARMACIE BAURAIN-WATINE",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DE LA PAIX",
+    "bp": "",
+    "cp": "62360",
+    "VILLE": "CONDETTE ",
+    "tel": "321837582",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79364719900017",
+    "lng": "1.62444759113476",
+    "lat": "50.6512271488203"
+  },
+  {
+    "finess": "620035790",
+    "raison_sociale": "MECS SAVI VIE ACTIVE CONDETTE",
+    "numero voie": "2",
+    "type_voie": "AV",
+    "libelle_voie": "DE L'YSER",
+    "bp": "",
+    "cp": "62360",
+    "VILLE": "CONDETTE ",
+    "tel": "637687956",
+    "telecopie": "",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "77562993401519",
+    "lng": "1.62796544315287",
+    "lat": "50.6558336239368"
+  },
+  {
+    "finess": "620113373",
+    "raison_sociale": "CCAS DE CONDETTE",
+    "numero voie": "28",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MARNE",
+    "bp": "",
+    "cp": "62360",
+    "VILLE": "CONDETTE ",
+    "tel": "321328889",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26620235700023",
+    "lng": "1.63323890825085",
+    "lat": "50.6541209342851"
+  }
+]

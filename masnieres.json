@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590024170",
+    "raison_sociale": "PHARMACIE DES LILAS",
+    "numero voie": "56",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "59241",
+    "VILLE": "MASNIERES ",
+    "tel": "327375157",
+    "telecopie": "327731826",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44513509800017",
+    "lng": "3.21003822263879",
+    "lat": "50.1171128889879"
+  },
+  {
+    "finess": "590044103",
+    "raison_sociale": "EHPAD DOUX SEJOUR",
+    "numero voie": "46",
+    "type_voie": "R",
+    "libelle_voie": "DE MARCOING",
+    "bp": "",
+    "cp": "59241",
+    "VILLE": "MASNIERES ",
+    "tel": "327734300",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "",
+    "lng": "3.20640609054334",
+    "lat": "50.1176255616616"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "90000175",
+    "raison_sociale": "CHIVA SITE ST JEAN DE VERGES",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DE BARRAU",
+    "bp": "BP 90064",
+    "cp": "9000",
+    "VILLE": "ST JEAN DE VERGES   ",
+    "tel": "561033177",
+    "telecopie": "561033051",
+    "categorie etablissement": "355",
+    "libelle categorie": "Centre Hospitalier (C.H.)",
+    "siret": "26090023800148",
+    "lng": "1.61587144401615",
+    "lat": "43.0285432019788"
+  },
+  {
+    "finess": "90002601",
+    "raison_sociale": "SELARL PHARMACIE DU PLANTAUREL",
+    "numero voie": "3",
+    "type_voie": "AV",
+    "libelle_voie": "DES ECOLIERS",
+    "bp": "",
+    "cp": "9000",
+    "VILLE": "ST JEAN DE VERGES   ",
+    "tel": "561646612",
+    "telecopie": "561646557",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50159406300015",
+    "lng": "1.61061059214295",
+    "lat": "43.0144764743476"
+  },
+  {
+    "finess": "90004565",
+    "raison_sociale": "MSP DU PLANTAUREL",
+    "numero voie": "3",
+    "type_voie": "ALL",
+    "libelle_voie": "DES ECOLIERS",
+    "bp": "",
+    "cp": "9000",
+    "VILLE": "ST JEAN DE VERGES   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "92240839800019",
+    "lng": "1.61061059214295",
+    "lat": "43.0144764743476"
+  }
+]

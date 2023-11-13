@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "160011086",
+    "raison_sociale": "PHARMACIE DE LUXÉ",
+    "numero voie": "1",
+    "type_voie": "RTE",
+    "libelle_voie": "D'AIGRE",
+    "bp": "",
+    "cp": "16230",
+    "VILLE": "LUXE ",
+    "tel": "545390039",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83001005400013",
+    "lng": "0.10445833028094",
+    "lat": "45.8883372296859"
+  },
+  {
+    "finess": "160011979",
+    "raison_sociale": "EHPAD - LES HESPERIDES",
+    "numero voie": "2",
+    "type_voie": "RTE",
+    "libelle_voie": "DE FONTENILLE",
+    "bp": "LIEU-DIT LE BOURG",
+    "cp": "16230",
+    "VILLE": "LUXE ",
+    "tel": "545395656",
+    "telecopie": "545395534",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26160091000028",
+    "lng": "0.133141731499372",
+    "lat": "45.8947831172518"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "10006021",
+    "raison_sociale": "PHARMACIE DE LA FORGE",
+    "numero voie": "92",
+    "type_voie": "RTE",
+    "libelle_voie": "DE DIVONNE",
+    "bp": "",
+    "cp": "1210",
+    "VILLE": "VERSONNEX ",
+    "tel": "450411413",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79469695500010",
+    "lng": "6.09638495346912",
+    "lat": "46.3015570968634"
+  },
+  {
+    "finess": "10011229",
+    "raison_sociale": "MAISON DE SANTE DE VERSONNEX",
+    "numero voie": "299",
+    "type_voie": "RTE",
+    "libelle_voie": "DE COLLEX BOSSY",
+    "bp": "",
+    "cp": "1210",
+    "VILLE": "VERSONNEX ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "90745239500011",
+    "lng": "6.09803237866649",
+    "lat": "46.2987799451223"
+  }
+]

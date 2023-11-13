@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "110003175",
+    "raison_sociale": "SELAS PHARMACIE DE VILLENEUVE",
+    "numero voie": "10",
+    "type_voie": "PROM",
+    "libelle_voie": "DES FOSSES",
+    "bp": "",
+    "cp": "11160",
+    "VILLE": "VILLENEUVE MINERVOIS",
+    "tel": "468261683",
+    "telecopie": "468261954",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53316674000019",
+    "lng": "2.46199811199928",
+    "lat": "43.3153151717999"
+  },
+  {
+    "finess": "110008547",
+    "raison_sociale": "STRUCTURE ACCUEIL ENFANCE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "MEYER",
+    "bp": "",
+    "cp": "11160",
+    "VILLE": "VILLENEUVE MINERVOIS",
+    "tel": "468118161",
+    "telecopie": "",
+    "categorie etablissement": "175",
+    "libelle categorie": "Foyer de l'Enfance",
+    "siret": "22110001900233",
+    "lng": "2.46024389632687",
+    "lat": "43.3155601167841"
+  }
+]

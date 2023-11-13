@@ -1,0 +1,19 @@
+[
+  {
+    "finess": "20002127",
+    "raison_sociale": "EHPAD CHEVRESIS-MONCEAU",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DE LA PLACE",
+    "bp": "",
+    "cp": "2270",
+    "VILLE": "CHEVRESIS MONCEAU",
+    "tel": "323808456",
+    "telecopie": "323806560",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26020013400013",
+    "lng": "3.57153907626785",
+    "lat": "49.7548854177352"
+  }
+]

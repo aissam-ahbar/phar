@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380024224",
+    "raison_sociale": "SAAD ADMR SATOLAS ET BONCE",
+    "numero voie": "3",
+    "type_voie": "PL",
+    "libelle_voie": "DU SYNDICAT",
+    "bp": "MONTEE DES LURONS",
+    "cp": "38290",
+    "VILLE": "SATOLAS ET BONCE    ",
+    "tel": "474902226",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "5.12654216202548",
+    "lat": "45.6937395239602"
+  },
+  {
+    "finess": "380025064",
+    "raison_sociale": "SAAD STIMUL'AVENIR",
+    "numero voie": "1",
+    "type_voie": "IMP",
+    "libelle_voie": "DES PRES",
+    "bp": "LE CHAFFARD",
+    "cp": "38290",
+    "VILLE": "SATOLAS ET BONCE    ",
+    "tel": "663515598",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "81461199200011",
+    "lng": "5.13987220967779",
+    "lat": "45.6691191576552"
+  }
+]

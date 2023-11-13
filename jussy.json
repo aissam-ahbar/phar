@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "20013660",
+    "raison_sociale": "SAAD SIAD DU CANTON DE SAINT-SIMON",
+    "numero voie": "58",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA VICTOIRE",
+    "bp": "",
+    "cp": "2480",
+    "VILLE": "JUSSY ",
+    "tel": "323632435",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "25020011000030",
+    "lng": "3.24175191898771",
+    "lat": "49.730148630509"
+  },
+  {
+    "finess": "570000521",
+    "raison_sociale": "I.M.E. \"LA ROSERAIE\" JUSSY",
+    "numero voie": "21",
+    "type_voie": "R",
+    "libelle_voie": "BOIS LA DAME",
+    "bp": "BP 20079",
+    "cp": "57130",
+    "VILLE": "JUSSY ",
+    "tel": "387600590",
+    "telecopie": "387601656",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "77561888700035",
+    "lng": "6.07512151854644",
+    "lat": "49.0979622522985"
+  }
+]

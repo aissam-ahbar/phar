@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "560012916",
+    "raison_sociale": "SAAD CCAS LARMOR BADEN",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "56870",
+    "VILLE": "LARMOR BADEN",
+    "tel": "297570538",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26560130200036",
+    "lng": "-2.89769019939657",
+    "lat": "47.5872944963077"
+  },
+  {
+    "finess": "560017840",
+    "raison_sociale": "SELARL PHIE PERINEAU",
+    "numero voie": "4",
+    "type_voie": "RTE",
+    "libelle_voie": "DE VANNES",
+    "bp": "",
+    "cp": "56870",
+    "VILLE": "LARMOR BADEN",
+    "tel": "297571696",
+    "telecopie": "297571409",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50176676000018",
+    "lng": "-2.89636845691597",
+    "lat": "47.5872503767829"
+  }
+]

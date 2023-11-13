@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "130013774",
+    "raison_sociale": "SELARL PHARMACIE URBAINE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "13810",
+    "VILLE": "EYGALIERES ",
+    "tel": "490959055",
+    "telecopie": "490959055",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80240960700016",
+    "lng": "4.94953817131388",
+    "lat": "43.7613564491555"
+  },
+  {
+    "finess": "130043425",
+    "raison_sociale": "EHPAD RESIDENCE LA SOUSTO",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA LÈQUE",
+    "bp": "",
+    "cp": "13810",
+    "VILLE": "EYGALIERES ",
+    "tel": "490903250",
+    "telecopie": "490211893",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "75205932900025",
+    "lng": "4.95157372173313",
+    "lat": "43.7570587637764"
+  },
+  {
+    "finess": "130054166",
+    "raison_sociale": "SAAD ADMR 13 EYGALIERES",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA LEQUE",
+    "bp": "BP 5",
+    "cp": "13810",
+    "VILLE": "EYGALIERES ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "78275126700041",
+    "lng": "4.95157372173313",
+    "lat": "43.7570587637764"
+  }
+]

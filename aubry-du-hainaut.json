@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "590048542",
+    "raison_sociale": "SESSAD ALISSA",
+    "numero voie": "40",
+    "type_voie": "R",
+    "libelle_voie": "DU MOULIN",
+    "bp": "",
+    "cp": "59494",
+    "VILLE": "AUBRY DU HAINAUT    ",
+    "tel": "327450750",
+    "telecopie": "",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "48390292000360",
+    "lng": "3.45495063088022",
+    "lat": "50.3701462343711"
+  },
+  {
+    "finess": "590052973",
+    "raison_sociale": "IME ALISSA",
+    "numero voie": "40",
+    "type_voie": "R",
+    "libelle_voie": "DU MOULIN",
+    "bp": "",
+    "cp": "59494",
+    "VILLE": "AUBRY DU HAINAUT    ",
+    "tel": "327450750",
+    "telecopie": "",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "",
+    "lng": "3.45495063088022",
+    "lat": "50.3701462343711"
+  },
+  {
+    "finess": "590784138",
+    "raison_sociale": "FOYER \" NOTRE DAME \"",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "HENRI MAURICE",
+    "bp": "",
+    "cp": "59494",
+    "VILLE": "AUBRY DU HAINAUT    ",
+    "tel": "327464756",
+    "telecopie": "327421576",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "77562406700481",
+    "lng": "3.46927859980173",
+    "lat": "50.3700198838157"
+  }
+]

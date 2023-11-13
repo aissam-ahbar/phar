@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "290009562",
+    "raison_sociale": "CDS INFIRMIER ARZANO",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "KERALVE",
+    "bp": "",
+    "cp": "29300",
+    "VILLE": "ARZANO ",
+    "tel": "298717334",
+    "telecopie": "298717957",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "32770618000061",
+    "lng": "-3.44475655800956",
+    "lat": "47.9020483500051"
+  },
+  {
+    "finess": "290011105",
+    "raison_sociale": "PHARMACIE D'ARZANO",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "BRIZEUX",
+    "bp": "",
+    "cp": "29300",
+    "VILLE": "ARZANO ",
+    "tel": "298717290",
+    "telecopie": "298717761",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88954336900017",
+    "lng": "-3.44068165433724",
+    "lat": "47.9011256484473"
+  },
+  {
+    "finess": "290020957",
+    "raison_sociale": "RESIDENCE DU SOLEIL LEVANT",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE PARK BRAZ",
+    "bp": "",
+    "cp": "29300",
+    "VILLE": "ARZANO ",
+    "tel": "298717878",
+    "telecopie": "298717099",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26290365100020",
+    "lng": "-3.43736654268444",
+    "lat": "47.899558792007"
+  }
+]

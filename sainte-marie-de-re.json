@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "170014997",
+    "raison_sociale": "PHARMACIE DE SAINTE MARIE",
+    "numero voie": "118",
+    "type_voie": "R",
+    "libelle_voie": "DU 14 JUILLET",
+    "bp": "LIEU-DIT LA FERLANDIERE",
+    "cp": "17740",
+    "VILLE": "STE MARIE DE RE   ",
+    "tel": "546302813",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "35284535800014",
+    "lng": "-1.32114456655165",
+    "lat": "46.154133955707"
+  },
+  {
+    "finess": "170803779",
+    "raison_sociale": "EHPAD RESIDENCE LA TONNELLE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DES AJONCS",
+    "bp": "LA NOUE EN RE",
+    "cp": "17740",
+    "VILLE": "STE MARIE DE RE   ",
+    "tel": "546300366",
+    "telecopie": "546300440",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "38375948700028",
+    "lng": "-1.33737864928777",
+    "lat": "46.1550199544126"
+  }
+]

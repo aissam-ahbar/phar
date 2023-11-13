@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "690010871",
+    "raison_sociale": "PHARMACIE GAREL - AMEN",
+    "numero voie": "17",
+    "type_voie": "AV",
+    "libelle_voie": "DU SENTIER",
+    "bp": "",
+    "cp": "69390",
+    "VILLE": "MILLERY ",
+    "tel": "478461843",
+    "telecopie": "472301917",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44540478300018",
+    "lng": "4.782721492058",
+    "lat": "45.6336807793932"
+  },
+  {
+    "finess": "690026661",
+    "raison_sociale": "SAAD ADMR MILLERY",
+    "numero voie": "19",
+    "type_voie": "R",
+    "libelle_voie": "BOURCHANIN",
+    "bp": "",
+    "cp": "69390",
+    "VILLE": "MILLERY ",
+    "tel": "472307948",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "77970838700039",
+    "lng": "4.78107800811406",
+    "lat": "45.6326394618363"
+  },
+  {
+    "finess": "690050471",
+    "raison_sociale": "MAISON DE SANTE DE MILLERY",
+    "numero voie": "6",
+    "type_voie": "AV",
+    "libelle_voie": "JACQUES NEMOS",
+    "bp": "",
+    "cp": "69390",
+    "VILLE": "MILLERY ",
+    "tel": "478462250",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "90056581300012",
+    "lng": "4.78202913870042",
+    "lat": "45.6335107024641"
+  }
+]

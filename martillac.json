@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "330013988",
+    "raison_sociale": "EMMAUS ERMITAGE",
+    "numero voie": "91",
+    "type_voie": "",
+    "libelle_voie": "ROUTE DE CADAUJAC",
+    "bp": "",
+    "cp": "33650",
+    "VILLE": "MARTILLAC ",
+    "tel": "556307132",
+    "telecopie": "556309872",
+    "categorie etablissement": "378",
+    "libelle categorie": "Etablissement Expérimental Enfance Protégée",
+    "siret": "78183771100022",
+    "lng": "-0.54869026968105",
+    "lat": "44.737562518395"
+  },
+  {
+    "finess": "330055831",
+    "raison_sociale": "SELARL PHARMACIE DE MARTILLAC",
+    "numero voie": "2",
+    "type_voie": "CHE",
+    "libelle_voie": "DE LA CANAVE",
+    "bp": "",
+    "cp": "33650",
+    "VILLE": "MARTILLAC ",
+    "tel": "556720114",
+    "telecopie": "971705197",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84340954100011",
+    "lng": "-0.531602799302897",
+    "lat": "44.721870223009"
+  },
+  {
+    "finess": "330059361",
+    "raison_sociale": "D'MEDICA",
+    "numero voie": "2",
+    "type_voie": "CHE",
+    "libelle_voie": "DE LA GRANGE",
+    "bp": "",
+    "cp": "33650",
+    "VILLE": "MARTILLAC ",
+    "tel": "562898850",
+    "telecopie": "557814310",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "42819372600588",
+    "lng": "-0.539206062620661",
+    "lat": "44.7213083318233"
+  }
+]

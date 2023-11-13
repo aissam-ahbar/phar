@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "560021362",
+    "raison_sociale": "PHARMACIE DU GOHLEN",
+    "numero voie": "12",
+    "type_voie": "R",
+    "libelle_voie": "des Montagnards",
+    "bp": "",
+    "cp": "56250",
+    "VILLE": "SULNIAC ",
+    "tel": "297532437",
+    "telecopie": "297531476",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51397817100025",
+    "lng": "-2.57272923463979",
+    "lat": "47.6749288245712"
+  },
+  {
+    "finess": "560028524",
+    "raison_sociale": "SAAD ADMR SULNIAC",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "56250",
+    "VILLE": "SULNIAC ",
+    "tel": "297532564",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "34272450700013",
+    "lng": "-2.5709713399462",
+    "lat": "47.6754422483121"
+  },
+  {
+    "finess": "560030678",
+    "raison_sociale": "MSP LASTAP SANTE",
+    "numero voie": "1",
+    "type_voie": "RLE",
+    "libelle_voie": "DU LAVOIR",
+    "bp": "",
+    "cp": "56250",
+    "VILLE": "SULNIAC ",
+    "tel": "683217280",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "89178735000018",
+    "lng": "-2.5714429872891",
+    "lat": "47.6765277913242"
+  }
+]

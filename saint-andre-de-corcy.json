@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "10005304",
+    "raison_sociale": "PHARMACIE SAINT ANDRE",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LA CROIX",
+    "bp": "",
+    "cp": "1390",
+    "VILLE": "ST ANDRE DE CORCY   ",
+    "tel": "472261032",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "32894965600024",
+    "lng": "4.95141508649317",
+    "lat": "45.9262043793871"
+  },
+  {
+    "finess": "10006914",
+    "raison_sociale": "SAAD ADMR ST-ANDRE-DE-CORCY",
+    "numero voie": "246",
+    "type_voie": "RTE",
+    "libelle_voie": "DE MONTHIEUX",
+    "bp": "",
+    "cp": "1390",
+    "VILLE": "ST ANDRE DE CORCY   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "4.95344575126084",
+    "lat": "45.9311631927814"
+  },
+  {
+    "finess": "10788230",
+    "raison_sociale": "EHPAD CHATEAU DE VERNANGE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE MONTHIEUX",
+    "bp": "",
+    "cp": "1390",
+    "VILLE": "ST ANDRE DE CORCY   ",
+    "tel": "472261616",
+    "telecopie": "472261999",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "33971073300025",
+    "lng": "4.94405664999428",
+    "lat": "45.9376239707061"
+  }
+]

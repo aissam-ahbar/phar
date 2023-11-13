@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "140013749",
+    "raison_sociale": "ITEP CAMILLE BLAISOT (ANNEXE) - CAIRON",
+    "numero voie": "5",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CREULLY",
+    "bp": "BURON",
+    "cp": "14610",
+    "VILLE": "CAIRON ",
+    "tel": "231534038",
+    "telecopie": "",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "77556139200140",
+    "lng": "-0.425502540306876",
+    "lat": "49.2200408810881"
+  },
+  {
+    "finess": "140028507",
+    "raison_sociale": "FOA DE LA TOURNERESSE - CAIRON",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DES NOISETIERS",
+    "bp": "",
+    "cp": "14610",
+    "VILLE": "CAIRON ",
+    "tel": "261451794",
+    "telecopie": "",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "77556144200267",
+    "lng": "-0.45280230229955",
+    "lat": "49.2362725013256"
+  },
+  {
+    "finess": "140032152",
+    "raison_sociale": "HÉBERGEMENT THÉRAPEUTIQUE - MDA 14",
+    "numero voie": "10",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CREULLY",
+    "bp": "BURON",
+    "cp": "14610",
+    "VILLE": "CAIRON ",
+    "tel": "231152520",
+    "telecopie": "",
+    "categorie etablissement": "377",
+    "libelle categorie": "Etablissement Expérimental pour Enfance Handicapée",
+    "siret": "77556139200504",
+    "lng": "-0.4255906966476",
+    "lat": "49.2201895499265"
+  }
+]

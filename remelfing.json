@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "570002709",
+    "raison_sociale": "PHARMACIE AUTHER",
+    "numero voie": "28",
+    "type_voie": "R",
+    "libelle_voie": "DU CHATEAU",
+    "bp": "",
+    "cp": "57200",
+    "VILLE": "REMELFING ",
+    "tel": "387281134",
+    "telecopie": "387281102",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50303051200019",
+    "lng": "7.09197353275765",
+    "lat": "49.0924957856501"
+  },
+  {
+    "finess": "570027250",
+    "raison_sociale": "SERV D'EDUC SPE ET DE SOINS A DOMICILE",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "DE NANCY",
+    "bp": "",
+    "cp": "57200",
+    "VILLE": "REMELFING ",
+    "tel": "354885492",
+    "telecopie": "",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "47940429500053",
+    "lng": "7.08380846289158",
+    "lat": "49.0847751150397"
+  }
+]

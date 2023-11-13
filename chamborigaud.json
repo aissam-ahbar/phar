@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "300020906",
+    "raison_sociale": "MSP DE GENOLHAC CHAMBORIGAUD",
+    "numero voie": "48",
+    "type_voie": "RTE",
+    "libelle_voie": "DE VILLEFORT",
+    "bp": "",
+    "cp": "30530",
+    "VILLE": "CHAMBORIGAUD ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "92164852300014",
+    "lng": "3.97035150589266",
+    "lat": "44.3056075560813"
+  },
+  {
+    "finess": "300780616",
+    "raison_sociale": "MAS LA JASSE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "30530",
+    "VILLE": "CHAMBORIGAUD ",
+    "tel": "466614864",
+    "telecopie": "466614280",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "77558012900028",
+    "lng": "3.97401721822626",
+    "lat": "44.3037207247156"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "430001321",
+    "raison_sociale": "PHARMACIE BOYER",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "CHOUCHIROU",
+    "bp": "",
+    "cp": "43370",
+    "VILLE": "BAINS ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83880546300018",
+    "lng": "3.78256651853712",
+    "lat": "45.0106685772913"
+  },
+  {
+    "finess": "430003830",
+    "raison_sociale": "SERVICE D'AIDE AUX FAMILLES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "43370",
+    "VILLE": "BAINS ",
+    "tel": "471575231",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "40439081700017",
+    "lng": "3.77655017397701",
+    "lat": "45.0092304203969"
+  }
+]

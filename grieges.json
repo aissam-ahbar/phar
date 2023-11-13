@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "10003853",
+    "raison_sociale": "PHARMACIE JEAN-MICHEL GRIZARD",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "GUSTAVE LAMBERT",
+    "bp": "",
+    "cp": "1290",
+    "VILLE": "GRIEGES ",
+    "tel": "385316390",
+    "telecopie": "385316258",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51136008300014",
+    "lng": "4.8513968181556",
+    "lat": "46.254436413902"
+  },
+  {
+    "finess": "10010270",
+    "raison_sociale": "MARPA DE LA VEYLE",
+    "numero voie": "19",
+    "type_voie": "ALL",
+    "libelle_voie": "DE LA MARPA",
+    "bp": "",
+    "cp": "1290",
+    "VILLE": "GRIEGES ",
+    "tel": "385508462",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "52534743100013",
+    "lng": "4.85129701860896",
+    "lat": "46.2565160136602"
+  }
+]

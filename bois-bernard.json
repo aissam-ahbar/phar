@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "620029553",
+    "raison_sociale": "LABORATOIRE SECONDAIRE CERBALLIANCE AR",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE NEUVIREUIL",
+    "bp": "",
+    "cp": "62320",
+    "VILLE": "BOIS BERNARD",
+    "tel": "321690001",
+    "telecopie": "321690006",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "49253817800038",
+    "lng": "2.91069343498417",
+    "lat": "50.3753574932598"
+  },
+  {
+    "finess": "620033910",
+    "raison_sociale": "SOCIETE D'IMAGERIE MEDICALE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE NEUVIREUIL",
+    "bp": "",
+    "cp": "62320",
+    "VILLE": "BOIS BERNARD",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "698",
+    "libelle categorie": "Autre Etablissement Loi Hospitalière",
+    "siret": "",
+    "lng": "2.91069343498417",
+    "lat": "50.3753574932598"
+  },
+  {
+    "finess": "620101501",
+    "raison_sociale": "HOPITAL PRIVE DE BOIS BERNARD",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE NEUVIREUIL",
+    "bp": "",
+    "cp": "62320",
+    "VILLE": "BOIS BERNARD",
+    "tel": "321792525",
+    "telecopie": "321792805",
+    "categorie etablissement": "365",
+    "libelle categorie": "Etablissement de Soins Pluridisciplinaire",
+    "siret": "30077440300020",
+    "lng": "2.91069343498417",
+    "lat": "50.3753574932598"
+  }
+]

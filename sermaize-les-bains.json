@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "510011935",
+    "raison_sociale": "EHPAD SARMATIA",
+    "numero voie": "24",
+    "type_voie": "R",
+    "libelle_voie": "BENARD",
+    "bp": "",
+    "cp": "51250",
+    "VILLE": "SERMAIZE LES BAINS    ",
+    "tel": "326732126",
+    "telecopie": "326732937",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "90217455600099",
+    "lng": "4.9090899614373",
+    "lat": "48.7866341161941"
+  },
+  {
+    "finess": "510021744",
+    "raison_sociale": "PHARMACIE MAURER - LOSA",
+    "numero voie": "11",
+    "type_voie": "AV",
+    "libelle_voie": "du Général Sarrail",
+    "bp": "",
+    "cp": "51250",
+    "VILLE": "SERMAIZE LES BAINS    ",
+    "tel": "326732046",
+    "telecopie": "326725469",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49427702300029",
+    "lng": "4.91820707109506",
+    "lat": "48.7861372231132"
+  },
+  {
+    "finess": "510026008",
+    "raison_sociale": "MAISON DE SANTE DU BOUT DE LA MARNE",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "CHARLES REMY",
+    "bp": "",
+    "cp": "51250",
+    "VILLE": "SERMAIZE LES BAINS    ",
+    "tel": "326732053",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "88116520300012",
+    "lng": "4.92008493616877",
+    "lat": "48.7872586006478"
+  }
+]

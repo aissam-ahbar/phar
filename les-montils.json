@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "410001994",
+    "raison_sociale": "SELARL PHARMACIE PAUMIER",
+    "numero voie": "1",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "41120",
+    "VILLE": "LES MONTILS",
+    "tel": "254440136",
+    "telecopie": "254440339",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79168280000010",
+    "lng": "1.29902580923456",
+    "lat": "47.4988928957897"
+  },
+  {
+    "finess": "410011357",
+    "raison_sociale": "MSP DE LES MONTILS",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "41120",
+    "VILLE": "LES MONTILS",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "1.30083128563844",
+    "lat": "47.4981845419052"
+  }
+]

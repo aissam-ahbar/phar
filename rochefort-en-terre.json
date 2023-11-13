@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "560002347",
+    "raison_sociale": "MAISON D'ACCUEIL DU GRAND JARDIN",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "PORTE CADRE",
+    "bp": "",
+    "cp": "56220",
+    "VILLE": "ROCHEFORT EN TERRE    ",
+    "tel": "297434070",
+    "telecopie": "297434071",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26560012200013",
+    "lng": "-2.3392030883332",
+    "lat": "47.6985765916113"
+  },
+  {
+    "finess": "560020760",
+    "raison_sociale": "SARL PHARMACIE POULLIN",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE GRASLIN",
+    "bp": "",
+    "cp": "56220",
+    "VILLE": "ROCHEFORT EN TERRE    ",
+    "tel": "297433279",
+    "telecopie": "297433529",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75220677100012",
+    "lng": "-2.34349533082601",
+    "lat": "47.6977244323531"
+  },
+  {
+    "finess": "560024838",
+    "raison_sociale": "MAISON  D'ACCUEIL DE LA MARE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA CROIX AUX MOINES",
+    "bp": "",
+    "cp": "56220",
+    "VILLE": "ROCHEFORT EN TERRE    ",
+    "tel": "297434962",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26560012200047",
+    "lng": "-2.3484530628956",
+    "lat": "47.6976183740338"
+  }
+]

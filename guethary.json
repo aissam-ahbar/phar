@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "640009460",
+    "raison_sociale": "PHARMACIE DE GUETHARY",
+    "numero voie": "179",
+    "type_voie": "AV",
+    "libelle_voie": "GETARIA",
+    "bp": "",
+    "cp": "64210",
+    "VILLE": "GUETHARY ",
+    "tel": "559265043",
+    "telecopie": "559547860",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81028057800016",
+    "lng": "-1.6046868240795",
+    "lat": "43.4242260419283"
+  },
+  {
+    "finess": "640786802",
+    "raison_sociale": "EHPAD TIERS TEMPS ESKUALDUNA",
+    "numero voie": "455",
+    "type_voie": "AV",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "64210",
+    "VILLE": "GUETHARY ",
+    "tel": "559475700",
+    "telecopie": "559475779",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "82339897900026",
+    "lng": "-1.60906936720168",
+    "lat": "43.4241881624242"
+  }
+]

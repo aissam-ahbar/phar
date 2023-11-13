@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "70003454",
+    "raison_sociale": "PHARMACIE MONTEL",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "JEAN GILLES",
+    "bp": "",
+    "cp": "7000",
+    "VILLE": "ST JULIEN EN ST ALBAN  ",
+    "tel": "475657261",
+    "telecopie": "475657261",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82499946000010",
+    "lng": "4.69635630446968",
+    "lat": "44.7536524538953"
+  },
+  {
+    "finess": "70008271",
+    "raison_sociale": "CENTRE DE SANTE VALLEE DE L'OUVEZE",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "FERNAND VINSON",
+    "bp": "",
+    "cp": "7000",
+    "VILLE": "ST JULIEN EN ST ALBAN  ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "21070255100016",
+    "lng": "4.69753668373316",
+    "lat": "44.7543646916224"
+  }
+]

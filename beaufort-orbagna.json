@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "390002061",
+    "raison_sociale": "PHARMACIE MOINE LAURENCE",
+    "numero voie": "21",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "39190",
+    "VILLE": "BEAUFORT ORBAGNA",
+    "tel": "384250451",
+    "telecopie": "384251247",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "43919847400017",
+    "lng": "5.43573616994671",
+    "lat": "46.574851715179"
+  },
+  {
+    "finess": "390006641",
+    "raison_sociale": "SPASAD LE BEAU SURAN",
+    "numero voie": "5",
+    "type_voie": "RTE",
+    "libelle_voie": "D'AUGISEY",
+    "bp": "",
+    "cp": "39190",
+    "VILLE": "BEAUFORT ORBAGNA",
+    "tel": "384251633",
+    "telecopie": "384251630",
+    "categorie etablissement": "209",
+    "libelle categorie": "Service Polyvalent Aide et Soins A Domicile (S.P.A.S.A.D.)",
+    "siret": "40956451500040",
+    "lng": "5.43852472982482",
+    "lat": "46.5723609035421"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "540003878",
+    "raison_sociale": "SSIAD LES HETRES",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "EMILE BARABAN",
+    "bp": "",
+    "cp": "54760",
+    "VILLE": "FAULX ",
+    "tel": "383494646",
+    "telecopie": "",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "20003095500047",
+    "lng": "6.20181058442892",
+    "lat": "48.7912973984258"
+  },
+  {
+    "finess": "540009479",
+    "raison_sociale": "RESIDENCE LES HETRES",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "EMILE BARABAN",
+    "bp": "",
+    "cp": "54760",
+    "VILLE": "FAULX ",
+    "tel": "383494646",
+    "telecopie": "383494647",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20003095500039",
+    "lng": "6.20181058442892",
+    "lat": "48.7912973984258"
+  }
+]

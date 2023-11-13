@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "470002908",
+    "raison_sociale": "LIEU DE VIE LE VALLON",
+    "numero voie": "1055",
+    "type_voie": "CHE",
+    "libelle_voie": "DE SAUTECRABE",
+    "bp": "",
+    "cp": "47140",
+    "VILLE": "FRESPECH ",
+    "tel": "553950668",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "40273366100019",
+    "lng": "0.807587901649199",
+    "lat": "44.2987070781468"
+  },
+  {
+    "finess": "470011040",
+    "raison_sociale": "FOYER DE VIE LA POUSSONNIE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "47140",
+    "VILLE": "FRESPECH ",
+    "tel": "553957804",
+    "telecopie": "553959263",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "78216138400071",
+    "lng": "0.825150118320934",
+    "lat": "44.310643303191"
+  }
+]

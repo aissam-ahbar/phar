@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "530009166",
+    "raison_sociale": "SAAD ADMR CHEMAZE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE LA POSTE",
+    "bp": "",
+    "cp": "53200",
+    "VILLE": "CHEMAZE ",
+    "tel": "243075266",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "81404131500015",
+    "lng": "-0.774414537588246",
+    "lat": "47.7870901848723"
+  },
+  {
+    "finess": "530029313",
+    "raison_sociale": "EHPAD BON ACCUEIL",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DU BON ACCUEIL",
+    "bp": "",
+    "cp": "53200",
+    "VILLE": "CHEMAZE ",
+    "tel": "243702170",
+    "telecopie": "243702283",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26530063200022",
+    "lng": "-0.776552917029063",
+    "lat": "47.7873230806091"
+  },
+  {
+    "finess": "530030386",
+    "raison_sociale": "PHARMACIE DE CHEMAZE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "de Bel Air",
+    "bp": "",
+    "cp": "53200",
+    "VILLE": "CHEMAZE ",
+    "tel": "243704327",
+    "telecopie": "243062334",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80120901600022",
+    "lng": "-0.775464435320111",
+    "lat": "47.7861534755552"
+  }
+]

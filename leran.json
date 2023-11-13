@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "90000548",
+    "raison_sociale": "SESSAD DE LERAN",
+    "numero voie": "18",
+    "type_voie": "AV",
+    "libelle_voie": "SAINT ROCH",
+    "bp": "",
+    "cp": "9600",
+    "VILLE": "LERAN ",
+    "tel": "534090124",
+    "telecopie": "561050289",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "30524289300181",
+    "lng": "1.9073601506219",
+    "lat": "42.9889265126885"
+  },
+  {
+    "finess": "90780347",
+    "raison_sociale": "IME SAINT JACQUES",
+    "numero voie": "34",
+    "type_voie": "COUR",
+    "libelle_voie": "ST JACQUES",
+    "bp": "",
+    "cp": "9600",
+    "VILLE": "LERAN ",
+    "tel": "561050280",
+    "telecopie": "561050289",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "30524289300173",
+    "lng": "1.91177966508405",
+    "lat": "42.9884514539887"
+  }
+]

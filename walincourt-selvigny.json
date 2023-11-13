@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590031902",
+    "raison_sociale": "PHARMACIE BRACKE",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "PIERRE FLINOIS",
+    "bp": "",
+    "cp": "59127",
+    "VILLE": "WALINCOURT SELVIGNY",
+    "tel": "327827252",
+    "telecopie": "327827520",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48332224400011",
+    "lng": "3.33641682793471",
+    "lat": "50.0704013417691"
+  },
+  {
+    "finess": "590061792",
+    "raison_sociale": "ACCES",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "ABBAYE DES GUILLEMINS",
+    "bp": "",
+    "cp": "59127",
+    "VILLE": "WALINCOURT SELVIGNY",
+    "tel": "361670102",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "3.3222893727088",
+    "lat": "50.0818158461503"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "500005046",
+    "raison_sociale": "EHPAD RESIDENCE DU PARC",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DE CARBONNEL",
+    "bp": "",
+    "cp": "50750",
+    "VILLE": "CANISY ",
+    "tel": "233566310",
+    "telecopie": "233566611",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26500131300013",
+    "lng": "-1.1745110822691",
+    "lat": "49.0765542306232"
+  },
+  {
+    "finess": "500010632",
+    "raison_sociale": "PHARMACIE LEROUGE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "JEAN FOLLAIN",
+    "bp": "",
+    "cp": "50750",
+    "VILLE": "CANISY ",
+    "tel": "233566147",
+    "telecopie": "233565032",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49310410300020",
+    "lng": "-1.17488973891415",
+    "lat": "49.0762016181268"
+  }
+]

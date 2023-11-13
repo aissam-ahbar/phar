@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "510016009",
+    "raison_sociale": "MARPA \"LES CHARMILLES\"",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "FRANCOIS DELABARRE",
+    "bp": "",
+    "cp": "51460",
+    "VILLE": "COURTISOLS ",
+    "tel": "326643588",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "50814624800010",
+    "lng": "4.51752416146483",
+    "lat": "48.9900001746518"
+  },
+  {
+    "finess": "510018641",
+    "raison_sociale": "PHARMACIE DE COURTISOLS",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "Alexandre Fichet",
+    "bp": "",
+    "cp": "51460",
+    "VILLE": "COURTISOLS ",
+    "tel": "326666018",
+    "telecopie": "326666993",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50073909900025",
+    "lng": "4.50371828292941",
+    "lat": "48.9878230463611"
+  }
+]

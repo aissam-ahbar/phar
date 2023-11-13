@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "620010215",
+    "raison_sociale": "PHARMACIE BURETTE",
+    "numero voie": "95",
+    "type_voie": "R",
+    "libelle_voie": "DU COLONEL BENTO ROMA",
+    "bp": "",
+    "cp": "62136",
+    "VILLE": "LA COUTURE",
+    "tel": "321021964",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82960621900014",
+    "lng": "2.71433858446762",
+    "lat": "50.5802103074781"
+  },
+  {
+    "finess": "620015818",
+    "raison_sociale": "EHPAD LES HÉLIANTINES",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "TOURET DE LA CLINCHE",
+    "bp": "",
+    "cp": "62136",
+    "VILLE": "LA COUTURE",
+    "tel": "321643411",
+    "telecopie": "321665280",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "38473987600124",
+    "lng": "2.71466990037472",
+    "lat": "50.5819369665196"
+  }
+]

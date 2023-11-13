@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "220011175",
+    "raison_sociale": "PHARMACIE AUV",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "de la Grande Abbaye",
+    "bp": "",
+    "cp": "22240",
+    "VILLE": "FREHEL ",
+    "tel": "296414007",
+    "telecopie": "296415920",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34345250400016",
+    "lng": "-2.36550976629638",
+    "lat": "48.6289644848437"
+  },
+  {
+    "finess": "220020432",
+    "raison_sociale": "RESIDENCE LES BLES D'OR",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU CLOS DU DEVANT",
+    "bp": "",
+    "cp": "22240",
+    "VILLE": "FREHEL ",
+    "tel": "296415528",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26220413400056",
+    "lng": "-2.3642099102627",
+    "lat": "48.6264373900941"
+  }
+]

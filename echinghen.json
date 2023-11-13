@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "620019653",
+    "raison_sociale": "FOYER DE VIE POUR ADULTES HANDICAPEES",
+    "numero voie": "77",
+    "type_voie": "RTE",
+    "libelle_voie": "DE BAINCTHUN",
+    "bp": "",
+    "cp": "62360",
+    "VILLE": "ECHINGHEN ",
+    "tel": "321997228",
+    "telecopie": "321807626",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "77563206000213",
+    "lng": "1.6485833039898",
+    "lat": "50.7036009765784"
+  },
+  {
+    "finess": "620026864",
+    "raison_sociale": "RESIDENCE SOCIALE EMMAUS ECHINGHEM",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE SAINT LEONARD",
+    "bp": "",
+    "cp": "62360",
+    "VILLE": "ECHINGHEN ",
+    "tel": "321910730",
+    "telecopie": "321917639",
+    "categorie etablissement": "259",
+    "libelle categorie": "Autre Résidence Sociale (hors Maison Relais",
+    "siret": "",
+    "lng": "1.64297455910406",
+    "lat": "50.698835351038"
+  }
+]

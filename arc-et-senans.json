@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "250002805",
+    "raison_sociale": "PHARMACIE  LANQUETIN",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "du Centre Bourg",
+    "bp": "",
+    "cp": "25610",
+    "VILLE": "ARC ET SENANS    ",
+    "tel": "381574246",
+    "telecopie": "381575490",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84899479400016",
+    "lng": "5.78448677706246",
+    "lat": "47.0342308206731"
+  },
+  {
+    "finess": "250019205",
+    "raison_sociale": "MARPA DU VAL DE LOUE ARC ET SENANS",
+    "numero voie": "18",
+    "type_voie": "R",
+    "libelle_voie": "DE LA LEVEE",
+    "bp": "",
+    "cp": "25610",
+    "VILLE": "ARC ET SENANS    ",
+    "tel": "381503882",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "80373382300014",
+    "lng": "5.78255202999224",
+    "lat": "47.0311054396862"
+  }
+]

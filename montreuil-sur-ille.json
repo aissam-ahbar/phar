@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "350019576",
+    "raison_sociale": "PHARMACIE SCHNEEGANS - GEORGES",
+    "numero voie": "36",
+    "type_voie": "AV",
+    "libelle_voie": "ALEXIS REY",
+    "bp": "",
+    "cp": "35440",
+    "VILLE": "MONTREUIL SUR ILLE    ",
+    "tel": "299697127",
+    "telecopie": "299696843",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79816764900028",
+    "lng": "-1.67177994649392",
+    "lat": "48.3070297789917"
+  },
+  {
+    "finess": "350035275",
+    "raison_sociale": "SAAD CCAS MONTREUIL SUR ILLE",
+    "numero voie": "19",
+    "type_voie": "AV",
+    "libelle_voie": "ALEXIS REY",
+    "bp": "",
+    "cp": "35440",
+    "VILLE": "MONTREUIL SUR ILLE    ",
+    "tel": "299697971",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26350182700020",
+    "lng": "-1.6710554808299",
+    "lat": "48.3073305972799"
+  },
+  {
+    "finess": "350040069",
+    "raison_sociale": "LES ROSEAUX DE L' ILLE",
+    "numero voie": "14",
+    "type_voie": "R",
+    "libelle_voie": "DU CLOS GERARD",
+    "bp": "",
+    "cp": "35440",
+    "VILLE": "MONTREUIL SUR ILLE    ",
+    "tel": "223225280",
+    "telecopie": "223225300",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20002679700031",
+    "lng": "-1.66486951801722",
+    "lat": "48.3109772250358"
+  }
+]

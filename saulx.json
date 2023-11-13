@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "700002876",
+    "raison_sociale": "PHARMACIE BOUVEROT",
+    "numero voie": "5",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "70240",
+    "VILLE": "SAULX ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52357510800023",
+    "lng": "6.27751537424425",
+    "lat": "47.6940259523994"
+  },
+  {
+    "finess": "700005176",
+    "raison_sociale": "MAISON SANTE PLURIDISCIPLINAIRE SAULX",
+    "numero voie": "5",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "70240",
+    "VILLE": "SAULX ",
+    "tel": "384926458",
+    "telecopie": "384920125",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "79096957000015",
+    "lng": "6.27751537424425",
+    "lat": "47.6940259523994"
+  },
+  {
+    "finess": "700780729",
+    "raison_sociale": "EHPAD JEAN MICHEL",
+    "numero voie": "18",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "70240",
+    "VILLE": "SAULX ",
+    "tel": "384958888",
+    "telecopie": "384958889",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26700005700013",
+    "lng": "6.27865414318277",
+    "lat": "47.695141696084"
+  }
+]

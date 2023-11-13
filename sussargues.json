@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "340029982",
+    "raison_sociale": "SAAD \"1001-SERVICES COM\"",
+    "numero voie": "34",
+    "type_voie": "",
+    "libelle_voie": "GRAND'RUE LOUIS BOUIS",
+    "bp": "",
+    "cp": "34160",
+    "VILLE": "SUSSARGUES ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "53875436700034",
+    "lng": "4.00444876373",
+    "lat": "43.7128672107737"
+  },
+  {
+    "finess": "340784032",
+    "raison_sociale": "EHPAD VILLA MARIE",
+    "numero voie": "17",
+    "type_voie": "R",
+    "libelle_voie": "DES CARIGNANS",
+    "bp": "",
+    "cp": "34160",
+    "VILLE": "SUSSARGUES ",
+    "tel": "467866590",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "80739557900020",
+    "lng": "4.00245153046948",
+    "lat": "43.7164222511407"
+  },
+  {
+    "finess": "340795764",
+    "raison_sociale": "PHARMACIE BEL",
+    "numero voie": "",
+    "type_voie": "GR",
+    "libelle_voie": "LOUIS BOUIS",
+    "bp": "",
+    "cp": "34160",
+    "VILLE": "SUSSARGUES ",
+    "tel": "467865692",
+    "telecopie": "467639527",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50144131500014",
+    "lng": "4.00404199645358",
+    "lat": "43.7130887404335"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "finess": "580001113",
+    "raison_sociale": "PHARMACIE SAINT ANTOINE",
+    "numero voie": "107",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LYON",
+    "bp": "",
+    "cp": "58000",
+    "VILLE": "CHALLUY ",
+    "tel": "386375403",
+    "telecopie": "386376681",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50207197000011",
+    "lng": "3.15679559618046",
+    "lat": "46.9702562892569"
+  }
+]

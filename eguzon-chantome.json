@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "360002430",
+    "raison_sociale": "SELARL PHARMACIE VALERIE PICAUD",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "36270",
+    "VILLE": "EGUZON CHANTOME",
+    "tel": "254474381",
+    "telecopie": "254473200",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50946092900011",
+    "lng": "1.58314878550769",
+    "lat": "46.4418535578025"
+  },
+  {
+    "finess": "360006126",
+    "raison_sociale": "EHPAD KORIAN HAMEAU D EGUZON",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "JEAN JAURES",
+    "bp": "",
+    "cp": "36270",
+    "VILLE": "EGUZON CHANTOME",
+    "tel": "254016610",
+    "telecopie": "254011816",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "91018347400014",
+    "lng": "1.57702869870473",
+    "lat": "46.4459373620259"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "650007024",
+    "raison_sociale": "SAAD MARPA DES BARONNIES",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "D'ESCOTS",
+    "bp": "",
+    "cp": "65130",
+    "VILLE": "BOURG DE BIGORRE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26650774800025",
+    "lng": "0.261342108635584",
+    "lat": "43.0911192085933"
+  },
+  {
+    "finess": "650787781",
+    "raison_sociale": "SAAD ADMR BARONNIES BAGNERES",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "PRINCIPALE",
+    "bp": "",
+    "cp": "65130",
+    "VILLE": "BOURG DE BIGORRE    ",
+    "tel": "562390128",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31563411300023",
+    "lng": "0.261342108635584",
+    "lat": "43.0911192085933"
+  },
+  {
+    "finess": "650788664",
+    "raison_sociale": "RA MARPA DES BARONNIES",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "D'ESCOTS",
+    "bp": "",
+    "cp": "65130",
+    "VILLE": "BOURG DE BIGORRE    ",
+    "tel": "562391678",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26650774800025",
+    "lng": "0.261342108635584",
+    "lat": "43.0911192085933"
+  }
+]

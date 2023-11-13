@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "50001619",
+    "raison_sociale": "MECS CEFP ADSEA05",
+    "numero voie": "1702",
+    "type_voie": "CHE",
+    "libelle_voie": "DE PONT LA DAME",
+    "bp": "",
+    "cp": "5140",
+    "VILLE": "ASPRES SUR BUECH    ",
+    "tel": "492586004",
+    "telecopie": "492586894",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "77554975100078",
+    "lng": "5.74930273510381",
+    "lat": "44.5228489291327"
+  },
+  {
+    "finess": "50002914",
+    "raison_sociale": "SELARL PHARMACIE DU HAUT BUECH",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DES JARDINS",
+    "bp": "",
+    "cp": "5140",
+    "VILLE": "ASPRES SUR BUECH    ",
+    "tel": "492586008",
+    "telecopie": "492587066",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50956357300021",
+    "lng": "5.75067715545713",
+    "lat": "44.5211842763365"
+  },
+  {
+    "finess": "50008929",
+    "raison_sociale": "SAAD ADMR DE BUECH ET CHAURANNE",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "5140",
+    "VILLE": "ASPRES SUR BUECH    ",
+    "tel": "492523782",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "35248537900023",
+    "lng": "5.75402682527907",
+    "lat": "44.5200603191252"
+  }
+]

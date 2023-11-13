@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "430004390",
+    "raison_sociale": "SERVICE D'AIDE AUX PERSONNES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "43150",
+    "VILLE": "LAUSSONNE ",
+    "tel": "471050608",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "35352511600011",
+    "lng": "4.05358442444098",
+    "lat": "44.9701937142081"
+  },
+  {
+    "finess": "430005439",
+    "raison_sociale": "EHPAD \"FOYER ST JEAN\"",
+    "numero voie": "14",
+    "type_voie": "RTE",
+    "libelle_voie": "DU MONASTIER",
+    "bp": "",
+    "cp": "43150",
+    "VILLE": "LAUSSONNE ",
+    "tel": "471051195",
+    "telecopie": "471050708",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77913229900016",
+    "lng": "4.05125322045392",
+    "lat": "44.9693288312703"
+  }
+]

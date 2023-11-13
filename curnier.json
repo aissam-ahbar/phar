@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "260011168",
+    "raison_sociale": "CENTRE DE SANTE PSMS DE CURNIER",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "26110",
+    "VILLE": "CURNIER ",
+    "tel": "475274206",
+    "telecopie": "475274388",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "53139564800011",
+    "lng": "5.23375296846883",
+    "lat": "44.3852766000743"
+  },
+  {
+    "finess": "260013065",
+    "raison_sociale": "SSIAD PSMS DE CURNIER",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "26110",
+    "VILLE": "CURNIER ",
+    "tel": "475274206",
+    "telecopie": "475270274",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "53139564800029",
+    "lng": "5.23375296846883",
+    "lat": "44.3852766000743"
+  },
+  {
+    "finess": "260016530",
+    "raison_sociale": "SERVICE D'AIDE ET ACCOMPA. À DOMICILE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "26110",
+    "VILLE": "CURNIER ",
+    "tel": "475274206",
+    "telecopie": "475274345",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "53139564800011",
+    "lng": "5.23375296846883",
+    "lat": "44.3852766000743"
+  }
+]

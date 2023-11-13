@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "610007494",
+    "raison_sociale": "CEF LE NUISEMENT ASS MONTJOIE",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LE NUISEMENT",
+    "bp": "",
+    "cp": "61370",
+    "VILLE": "STE GAUBURGE STE COLOMBE   ",
+    "tel": "233246412",
+    "telecopie": "233240535",
+    "categorie etablissement": "241",
+    "libelle categorie": "Foyer d'Action Educative (F.A.E.)",
+    "siret": "77565229000294",
+    "lng": "0.469602947848639",
+    "lat": "48.7100797606034"
+  },
+  {
+    "finess": "610786725",
+    "raison_sociale": "PHARMACIE DE LA VALLEE DE LA RISLE",
+    "numero voie": "27",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "61370",
+    "VILLE": "STE GAUBURGE STE COLOMBE   ",
+    "tel": "233340418",
+    "telecopie": "233343661",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48855069000017",
+    "lng": "0.430872073433649",
+    "lat": "48.7142642844356"
+  }
+]

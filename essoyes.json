@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "100002237",
+    "raison_sociale": "SELARL PHARMACIE D'ESSOYES",
+    "numero voie": "14",
+    "type_voie": "R",
+    "libelle_voie": "VICTOR HUGO",
+    "bp": "",
+    "cp": "10360",
+    "VILLE": "ESSOYES ",
+    "tel": "325296225",
+    "telecopie": "325297972",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44145740500013",
+    "lng": "4.53626375820425",
+    "lat": "48.0580018790148"
+  },
+  {
+    "finess": "100011816",
+    "raison_sociale": "SAAD AGES ET VIE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "ARNAUD BELTRAME",
+    "bp": "",
+    "cp": "10360",
+    "VILLE": "ESSOYES ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "4.53649323722469",
+    "lat": "48.0575821632071"
+  },
+  {
+    "finess": "100012053",
+    "raison_sociale": "SSAD D'ESSOYES - ADMR",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "10360",
+    "VILLE": "ESSOYES ",
+    "tel": "325293834",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "40021859000018",
+    "lng": "4.53769194330984",
+    "lat": "48.0576214210524"
+  }
+]

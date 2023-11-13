@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "100009265",
+    "raison_sociale": "RESIDENCE LE DOMAINE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE LA VERRIERE",
+    "bp": "",
+    "cp": "10200",
+    "VILLE": "SOULAINES DHUYS",
+    "tel": "325276400",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "52819529000036",
+    "lng": "4.73824092914424",
+    "lat": "48.3762107484202"
+  },
+  {
+    "finess": "100012251",
+    "raison_sociale": "SAAD DE SOULAINES DHUYS - ADMR",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU PLESSIS",
+    "bp": "",
+    "cp": "10200",
+    "VILLE": "SOULAINES DHUYS",
+    "tel": "325274799",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32245026300015",
+    "lng": "4.73526661709794",
+    "lat": "48.3751483676005"
+  }
+]

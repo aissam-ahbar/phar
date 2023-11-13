@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "340029578",
+    "raison_sociale": "SAAD \"PVS OLARGUES\"",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "ESPLANADE DE LA GARE",
+    "bp": "",
+    "cp": "34390",
+    "VILLE": "OLARGUES ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "78162278200238",
+    "lng": "2.91529294182898",
+    "lat": "43.5564990506148"
+  },
+  {
+    "finess": "340786466",
+    "raison_sociale": "SSIAD PRESENCE VERTE OLARGUES",
+    "numero voie": "",
+    "type_voie": "ESP",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "34390",
+    "VILLE": "OLARGUES ",
+    "tel": "467245961",
+    "telecopie": "467953088",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "78162278200022",
+    "lng": "2.91529294182898",
+    "lat": "43.5564990506148"
+  },
+  {
+    "finess": "340794973",
+    "raison_sociale": "PHARMACIE TERRAL",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "34390",
+    "VILLE": "OLARGUES ",
+    "tel": "467977054",
+    "telecopie": "970326752",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "41972453900012",
+    "lng": "2.91529294182898",
+    "lat": "43.5564990506148"
+  }
+]

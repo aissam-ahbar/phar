@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "690010970",
+    "raison_sociale": "PHARMACIE DE MORANCE",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DU REPLAT",
+    "bp": "",
+    "cp": "69480",
+    "VILLE": "MORANCE ",
+    "tel": "478436727",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51942346100010",
+    "lng": "4.70485277112898",
+    "lat": "45.9014093175289"
+  },
+  {
+    "finess": "690049325",
+    "raison_sociale": "MAISON DE SANTE DE MORANCE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LE CENTRE BOURG",
+    "cp": "69480",
+    "VILLE": "MORANCE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "88958880200013",
+    "lng": "4.70040403629906",
+    "lat": "45.8979644652683"
+  }
+]

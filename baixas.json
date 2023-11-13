@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "660786120",
+    "raison_sociale": "SAAD ADIPA",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "66390",
+    "VILLE": "BAIXAS ",
+    "tel": "468641450",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "30730134100029",
+    "lng": "2.80963145739797",
+    "lat": "42.7496759283733"
+  },
+  {
+    "finess": "660787979",
+    "raison_sociale": "PHARMACIE DEBENATH",
+    "numero voie": "9",
+    "type_voie": "AV",
+    "libelle_voie": "MARECHAL JOFFRE",
+    "bp": "",
+    "cp": "66390",
+    "VILLE": "BAIXAS ",
+    "tel": "468642881",
+    "telecopie": "468385185",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48907275100022",
+    "lng": "2.81211842105356",
+    "lat": "42.7513886969487"
+  }
+]

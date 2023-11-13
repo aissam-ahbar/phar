@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "440003606",
+    "raison_sociale": "EHPAD DU BOCAGE",
+    "numero voie": "340",
+    "type_voie": "R",
+    "libelle_voie": "DU BOCAGE",
+    "bp": "",
+    "cp": "44440",
+    "VILLE": "JOUE SUR ERDRE    ",
+    "tel": "240723545",
+    "telecopie": "240723547",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "50375715500117",
+    "lng": "-1.41518186827532",
+    "lat": "47.495960130041"
+  },
+  {
+    "finess": "440015576",
+    "raison_sociale": "PHARMACIE VILLERS",
+    "numero voie": "137",
+    "type_voie": "R",
+    "libelle_voie": "DU BOCAGE",
+    "bp": "",
+    "cp": "44440",
+    "VILLE": "JOUE SUR ERDRE    ",
+    "tel": "240723547",
+    "telecopie": "240723532",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83794255600015",
+    "lng": "-1.41933282917649",
+    "lat": "47.4960135600928"
+  }
+]

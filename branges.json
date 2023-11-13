@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "710002692",
+    "raison_sociale": "PHARMACIE THOUVEREY",
+    "numero voie": "1770",
+    "type_voie": "RTE",
+    "libelle_voie": "DU BOURG",
+    "bp": "",
+    "cp": "71500",
+    "VILLE": "BRANGES ",
+    "tel": "385750742",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "33388974900011",
+    "lng": "5.1888206269361",
+    "lat": "46.642918650064"
+  },
+  {
+    "finess": "710016536",
+    "raison_sociale": "DAME L'ORBIZE",
+    "numero voie": "340",
+    "type_voie": "R",
+    "libelle_voie": "DU BOIS DE CHIZE",
+    "bp": "",
+    "cp": "71500",
+    "VILLE": "BRANGES ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "30930547200099",
+    "lng": "5.20048905281125",
+    "lat": "46.6635868611576"
+  }
+]

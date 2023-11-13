@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "440042786",
+    "raison_sociale": "ESAT VAL DE VAY",
+    "numero voie": "9",
+    "type_voie": "",
+    "libelle_voie": "LE CHÂTEAU",
+    "bp": "LA FERME DU CHATEAU",
+    "cp": "44170",
+    "VILLE": "VAY ",
+    "tel": "240879380",
+    "telecopie": "240797584",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77560561100133",
+    "lng": "-1.71250209011584",
+    "lat": "47.5491729670214"
+  },
+  {
+    "finess": "440054104",
+    "raison_sociale": "SAESAT VAY",
+    "numero voie": "9",
+    "type_voie": "",
+    "libelle_voie": "LE CHATEAU",
+    "bp": "",
+    "cp": "44170",
+    "VILLE": "VAY ",
+    "tel": "240879380",
+    "telecopie": "",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "77560561100216",
+    "lng": "-1.71250209011584",
+    "lat": "47.5491729670214"
+  }
+]

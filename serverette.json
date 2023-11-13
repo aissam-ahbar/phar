@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "480002815",
+    "raison_sociale": "FAM SAINTE ANGELE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE SAINT DENIS",
+    "bp": "",
+    "cp": "48700",
+    "VILLE": "SERVERETTE ",
+    "tel": "466483056",
+    "telecopie": "466484020",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "77610330100029",
+    "lng": "3.39756949269248",
+    "lat": "44.7063708213869"
+  },
+  {
+    "finess": "480781921",
+    "raison_sociale": "FV SAINTE ANGELE SERVERETTE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE SAINT DENIS",
+    "bp": "",
+    "cp": "48700",
+    "VILLE": "SERVERETTE ",
+    "tel": "466483056",
+    "telecopie": "466484020",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "77610330100029",
+    "lng": "3.39756949269248",
+    "lat": "44.7063708213869"
+  }
+]

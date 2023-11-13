@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "660004383",
+    "raison_sociale": "SAAD A DOMICILE AGLY",
+    "numero voie": "23",
+    "type_voie": "AV",
+    "libelle_voie": "DU DOCTEUR TORREILLES",
+    "bp": "",
+    "cp": "66310",
+    "VILLE": "ESTAGEL ",
+    "tel": "468290029",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "77615000500028",
+    "lng": "2.69688362638682",
+    "lat": "42.7732925607118"
+  },
+  {
+    "finess": "660788308",
+    "raison_sociale": "PHARMACIE ROUVE",
+    "numero voie": "4",
+    "type_voie": "PL",
+    "libelle_voie": "ARAGO",
+    "bp": "",
+    "cp": "66310",
+    "VILLE": "ESTAGEL ",
+    "tel": "468291006",
+    "telecopie": "468290679",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "42493600300013",
+    "lng": "2.69904905020762",
+    "lat": "42.7723050807873"
+  }
+]

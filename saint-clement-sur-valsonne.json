@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "690033220",
+    "raison_sociale": "FOYER DE VIE ST-FRANCOIS D'ASSISE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LE TROUILLY",
+    "cp": "69170",
+    "VILLE": "ST CLEMENT SUR VALSONNE   ",
+    "tel": "474051202",
+    "telecopie": "474051264",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "77972540700018",
+    "lng": "4.45743790420041",
+    "lat": "45.920477654068"
+  },
+  {
+    "finess": "690785548",
+    "raison_sociale": "EHPAD ST-FRANCOIS-D'ASSISE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LE TROUILLY",
+    "cp": "69170",
+    "VILLE": "ST CLEMENT SUR VALSONNE   ",
+    "tel": "474051202",
+    "telecopie": "474051264",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77972540700018",
+    "lng": "4.45743790420041",
+    "lat": "45.920477654068"
+  }
+]

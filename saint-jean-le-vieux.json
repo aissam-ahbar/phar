@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "10008589",
+    "raison_sociale": "MARPA LE VERGER",
+    "numero voie": "49",
+    "type_voie": "ALL",
+    "libelle_voie": "DU VERGER",
+    "bp": "",
+    "cp": "1640",
+    "VILLE": "ST JEAN LE VIEUX   ",
+    "tel": "474360455",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "50047356600015",
+    "lng": "5.38684685088365",
+    "lat": "46.0301186225576"
+  },
+  {
+    "finess": "10780625",
+    "raison_sociale": "SAPHIR DITEP DE SAINT JEAN LE VIEUX",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU CHATEAU VAREY",
+    "bp": "",
+    "cp": "1640",
+    "VILLE": "ST JEAN LE VIEUX   ",
+    "tel": "474368122",
+    "telecopie": "474369635",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "77564661500093",
+    "lng": "5.40531631804941",
+    "lat": "46.0283938822979"
+  },
+  {
+    "finess": "640786844",
+    "raison_sociale": "EHPAD LUTXIBERRI",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE BOURG",
+    "bp": "",
+    "cp": "64220",
+    "VILLE": "ST JEAN LE VIEUX   ",
+    "tel": "559370778",
+    "telecopie": "559373964",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "31710026100070",
+    "lng": "-1.19371022093297",
+    "lat": "43.1660415322225"
+  }
+]

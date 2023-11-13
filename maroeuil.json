@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "620014076",
+    "raison_sociale": "PHARMACIE TERNAUX",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU 8 MAI",
+    "bp": "",
+    "cp": "62161",
+    "VILLE": "MAROEUIL ",
+    "tel": "321485862",
+    "telecopie": "321553379",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44461874800016",
+    "lng": "2.70586958791305",
+    "lat": "50.323613603337"
+  },
+  {
+    "finess": "620035212",
+    "raison_sociale": "MSP MAROEUIL",
+    "numero voie": "133",
+    "type_voie": "R",
+    "libelle_voie": "JEAN JAURÈS",
+    "bp": "",
+    "cp": "62161",
+    "VILLE": "MAROEUIL ",
+    "tel": "321243666",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "2.70313743060326",
+    "lat": "50.3207923557696"
+  }
+]

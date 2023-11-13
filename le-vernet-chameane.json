@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "630008936",
+    "raison_sociale": "SELARL PHARMACIE DU VERNET LA VARENNE",
+    "numero voie": "2",
+    "type_voie": "PL",
+    "libelle_voie": "SAINT  ROCH",
+    "bp": "",
+    "cp": "63580",
+    "VILLE": "LE VERNET CHAMEANE    ",
+    "tel": "473713079",
+    "telecopie": "473713732",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "42312882600025",
+    "lng": "3.45150145969244",
+    "lat": "45.4740603741678"
+  },
+  {
+    "finess": "630012003",
+    "raison_sociale": "MAISON DE SANTE LE VERNET LA VARENNE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE SAINTE-CATHERINE",
+    "bp": "",
+    "cp": "63580",
+    "VILLE": "LE VERNET CHAMEANE    ",
+    "tel": "473549894",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "53484297600019",
+    "lng": "3.45424275824079",
+    "lat": "45.471996221468"
+  },
+  {
+    "finess": "630014504",
+    "raison_sociale": "ADMR DU VERNET LA VARENNE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE LA POSTE",
+    "bp": "LE VERNET LA VARENNE",
+    "cp": "63580",
+    "VILLE": "LE VERNET CHAMEANE    ",
+    "tel": "473553467",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31622608300012",
+    "lng": "3.45114075304095",
+    "lat": "45.4739303548214"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "240010306",
+    "raison_sociale": "PHARMACIE DES TILLEULS",
+    "numero voie": "89",
+    "type_voie": "TOUR",
+    "libelle_voie": "DE VILLE",
+    "bp": "",
+    "cp": "24560",
+    "VILLE": "ISSIGEAC ",
+    "tel": "553587004",
+    "telecopie": "967566064",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81390465300017",
+    "lng": "0.608842495179378",
+    "lat": "44.7298831605758"
+  },
+  {
+    "finess": "240013961",
+    "raison_sociale": "EHPAD KORIAN YVAN ROQUE",
+    "numero voie": "42",
+    "type_voie": "R",
+    "libelle_voie": "DU TOUR DE VILLE",
+    "bp": "",
+    "cp": "24560",
+    "VILLE": "ISSIGEAC ",
+    "tel": "553746400",
+    "telecopie": "553239673",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "34117411801006",
+    "lng": "0.608842495179378",
+    "lat": "44.7298831605758"
+  }
+]

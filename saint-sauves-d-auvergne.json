@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "630005759",
+    "raison_sociale": "MARPA",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LE BOURG",
+    "cp": "63950",
+    "VILLE": "ST SAUVES D AUVERGNE   ",
+    "tel": "473810062",
+    "telecopie": "473810065",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26630141500011",
+    "lng": "2.68801606553758",
+    "lat": "45.6059255143806"
+  },
+  {
+    "finess": "630008621",
+    "raison_sociale": "PHARMACIE DE SAINT-SAUVES",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "du Sancy",
+    "bp": "",
+    "cp": "63950",
+    "VILLE": "ST SAUVES D AUVERGNE   ",
+    "tel": "473810686",
+    "telecopie": "473810686",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "35053139800013",
+    "lng": "2.69278476409791",
+    "lat": "45.6061484509956"
+  }
+]

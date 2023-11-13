@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "620014712",
+    "raison_sociale": "PHARMACIE SAINT HUBERT",
+    "numero voie": "73",
+    "type_voie": "RTE",
+    "libelle_voie": "DE MONTREUIL",
+    "bp": "",
+    "cp": "62170",
+    "VILLE": "NEUVILLE SOUS MONTREUIL    ",
+    "tel": "321062141",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81024272700016",
+    "lng": "1.77386309574826",
+    "lat": "50.4721768188217"
+  },
+  {
+    "finess": "620119099",
+    "raison_sociale": "SAD AIDE ET INTERVENTION A DOMICILE",
+    "numero voie": "38",
+    "type_voie": "R",
+    "libelle_voie": "DE BOULOGNE",
+    "bp": "",
+    "cp": "62170",
+    "VILLE": "NEUVILLE SOUS MONTREUIL    ",
+    "tel": "321863288",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "78397334000061",
+    "lng": "1.773656928071",
+    "lat": "50.4756194153144"
+  }
+]

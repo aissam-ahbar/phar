@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "510019193",
+    "raison_sociale": "PHARMACIE GIROST",
+    "numero voie": "78",
+    "type_voie": "R",
+    "libelle_voie": "DU GENERAL WEYGAND",
+    "bp": "",
+    "cp": "51230",
+    "VILLE": "FERE CHAMPENOISE",
+    "tel": "326424037",
+    "telecopie": "326819828",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88255987500019",
+    "lng": "3.98977790097955",
+    "lat": "48.7557948729679"
+  },
+  {
+    "finess": "510027774",
+    "raison_sociale": "SAAD AGE ET VIE DE FERE CHAMPENOISE",
+    "numero voie": "330",
+    "type_voie": "R",
+    "libelle_voie": "DE LETTRE DE TASSIGNY",
+    "bp": "",
+    "cp": "51230",
+    "VILLE": "FERE CHAMPENOISE",
+    "tel": "381250823",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "3.99442704076205",
+    "lat": "48.7567645564703"
+  }
+]

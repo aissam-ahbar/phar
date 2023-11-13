@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "210981940",
+    "raison_sociale": "FOYER D'HÉBERGT BEZOUOTTE",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DE LA FORGE",
+    "bp": "BP 23",
+    "cp": "21310",
+    "VILLE": "BEZOUOTTE ",
+    "tel": "380365959",
+    "telecopie": "380365260",
+    "categorie etablissement": "252",
+    "libelle categorie": "Foyer Hébergement Adultes Handicapés",
+    "siret": "77812546800471",
+    "lng": "5.33154638937119",
+    "lat": "47.382913485915"
+  },
+  {
+    "finess": "210984613",
+    "raison_sociale": "ESAT HANDY'UP BEZOUOTTE",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DE LA FORGE",
+    "bp": "BP 23",
+    "cp": "21310",
+    "VILLE": "BEZOUOTTE ",
+    "tel": "380365959",
+    "telecopie": "380365260",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77812546800489",
+    "lng": "5.33154638937119",
+    "lat": "47.382913485915"
+  }
+]

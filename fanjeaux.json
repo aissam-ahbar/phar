@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "110007622",
+    "raison_sociale": "EEPA PHV JEAN LOUBES",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DES FONTANELLES",
+    "bp": "",
+    "cp": "11270",
+    "VILLE": "FANJEAUX ",
+    "tel": "468247037",
+    "telecopie": "468246110",
+    "categorie etablissement": "381",
+    "libelle categorie": "Etablissement Expérimental pour Personnes Agées",
+    "siret": "26110006900036",
+    "lng": "2.03086522876006",
+    "lat": "43.1867285565517"
+  },
+  {
+    "finess": "110780749",
+    "raison_sociale": "EHPAD JEAN LOUBES",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DES FONTANELLES",
+    "bp": "",
+    "cp": "11270",
+    "VILLE": "FANJEAUX ",
+    "tel": "468247037",
+    "telecopie": "468246110",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26110006900036",
+    "lng": "2.03086522876006",
+    "lat": "43.1867285565517"
+  },
+  {
+    "finess": "110790441",
+    "raison_sociale": "SELARL PHARMACIE OCCITANE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE MIREPOIX",
+    "bp": "",
+    "cp": "11270",
+    "VILLE": "FANJEAUX ",
+    "tel": "468247616",
+    "telecopie": "468247980",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53399266500018",
+    "lng": "2.02282126217082",
+    "lat": "43.17912136616"
+  }
+]

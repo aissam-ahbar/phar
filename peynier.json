@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "130025703",
+    "raison_sociale": "PHARMACIE DE PEYNIER",
+    "numero voie": "19",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA LIBERATION",
+    "bp": "",
+    "cp": "13790",
+    "VILLE": "PEYNIER ",
+    "tel": "442530104",
+    "telecopie": "442530435",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "89837110900015",
+    "lng": "5.64037945498336",
+    "lat": "43.4466285798107"
+  },
+  {
+    "finess": "130052947",
+    "raison_sociale": "LBIA SITE PEYNIER",
+    "numero voie": "52",
+    "type_voie": "AV",
+    "libelle_voie": "GEORGES VACHER",
+    "bp": "",
+    "cp": "13790",
+    "VILLE": "PEYNIER ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "85089428800016",
+    "lng": "5.64016334684955",
+    "lat": "43.4486223210512"
+  }
+]

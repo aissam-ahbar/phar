@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "100002047",
+    "raison_sociale": "PHARMACIE AMY",
+    "numero voie": "25",
+    "type_voie": "R",
+    "libelle_voie": "GREGOIRE ROYER",
+    "bp": "",
+    "cp": "10500",
+    "VILLE": "DIENVILLE ",
+    "tel": "325573942",
+    "telecopie": "325927389",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "89155500500018",
+    "lng": "4.53247018099579",
+    "lat": "48.3508190933773"
+  },
+  {
+    "finess": "100010099",
+    "raison_sociale": "MSP DE DIENVILLE",
+    "numero voie": "26",
+    "type_voie": "AV",
+    "libelle_voie": "PAUL GIRARD",
+    "bp": "",
+    "cp": "10500",
+    "VILLE": "DIENVILLE ",
+    "tel": "325922168",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "4.5352170779943",
+    "lat": "48.3482126082692"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "50000298",
+    "raison_sociale": "SSR LA GUISANE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LA CROIX DE BRETAGNE",
+    "bp": "",
+    "cp": "5100",
+    "VILLE": "VILLAR ST PANCRACE    ",
+    "tel": "492210094",
+    "telecopie": "492205234",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "92384349400025",
+    "lng": "6.63904539487513",
+    "lat": "44.8789878584449"
+  },
+  {
+    "finess": "50006428",
+    "raison_sociale": "ESAT LES OVIERS",
+    "numero voie": "12",
+    "type_voie": "RTE",
+    "libelle_voie": "DES ESPAGNOLS",
+    "bp": "",
+    "cp": "5100",
+    "VILLE": "VILLAR ST PANCRACE    ",
+    "tel": "492210719",
+    "telecopie": "492210719",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "",
+    "lng": "6.62812915642335",
+    "lat": "44.8735310241747"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "20003331",
+    "raison_sociale": "PHARMACIE DU CHEMIN DES DAMES",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "PIERRE CURTIL",
+    "bp": "",
+    "cp": "2820",
+    "VILLE": "CORBENY ",
+    "tel": "323224820",
+    "telecopie": "323227271",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82822236400014",
+    "lng": "3.82289122870462",
+    "lat": "49.4620766957131"
+  },
+  {
+    "finess": "20003976",
+    "raison_sociale": "EHPAD COALLIA CORBENY",
+    "numero voie": "23",
+    "type_voie": "RTE",
+    "libelle_voie": "DE REIMS",
+    "bp": "",
+    "cp": "2820",
+    "VILLE": "CORBENY ",
+    "tel": "323220022",
+    "telecopie": "323222860",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77568030902567",
+    "lng": "3.82807259410918",
+    "lat": "49.4601367709611"
+  },
+  {
+    "finess": "20019089",
+    "raison_sociale": "MSP DE CORBENY",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "PIERRE CURTIL",
+    "bp": "",
+    "cp": "2820",
+    "VILLE": "CORBENY ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "92316044400017",
+    "lng": "3.82289122870462",
+    "lat": "49.4620766957131"
+  }
+]

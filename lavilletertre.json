@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "600014153",
+    "raison_sociale": "EHPAD RESIDENCE LE VAL FLEURY",
+    "numero voie": "22",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MARE",
+    "bp": "",
+    "cp": "60240",
+    "VILLE": "LAVILLETERTRE ",
+    "tel": "344100822",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "",
+    "lng": "1.9302236529455",
+    "lat": "49.1977486423613"
+  },
+  {
+    "finess": "600106272",
+    "raison_sociale": "FH UNAPEI60 LAVILLETERTRE",
+    "numero voie": "20",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MARE",
+    "bp": "",
+    "cp": "60240",
+    "VILLE": "LAVILLETERTRE ",
+    "tel": "344490715",
+    "telecopie": "344843711",
+    "categorie etablissement": "252",
+    "libelle categorie": "Foyer Hébergement Adultes Handicapés",
+    "siret": "77562913200397",
+    "lng": "1.92920725641808",
+    "lat": "49.1991287385982"
+  }
+]

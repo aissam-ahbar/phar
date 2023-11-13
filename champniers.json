@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "160005567",
+    "raison_sociale": "PHARMACIE DES MONTAGNES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "ZONE DES MONTAGNES",
+    "bp": "",
+    "cp": "16430",
+    "VILLE": "CHAMPNIERS ",
+    "tel": "545682279",
+    "telecopie": "545682020",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49875770700019",
+    "lng": "0.182641870586044",
+    "lat": "45.684933896146"
+  },
+  {
+    "finess": "160010765",
+    "raison_sociale": "PHARMACIE MAPPA",
+    "numero voie": "287",
+    "type_voie": "R",
+    "libelle_voie": "DES GRIVES MUSICIENNES",
+    "bp": "",
+    "cp": "16430",
+    "VILLE": "CHAMPNIERS ",
+    "tel": "545699360",
+    "telecopie": "545698338",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "47952900000016",
+    "lng": "0.201231182203465",
+    "lat": "45.7142572015438"
+  },
+  {
+    "finess": "160016697",
+    "raison_sociale": "SAAD ADHEO SERVICES SOUS MON TOIT",
+    "numero voie": "176",
+    "type_voie": "R",
+    "libelle_voie": "DE LA GENOISE",
+    "bp": "",
+    "cp": "16430",
+    "VILLE": "CHAMPNIERS ",
+    "tel": "619733184",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "53184182300036",
+    "lng": "0.186170477555703",
+    "lat": "45.6918647441139"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "520000787",
+    "raison_sociale": "PHARMACIE D'ANDELOT BLANCHEVILLE",
+    "numero voie": "88",
+    "type_voie": "R",
+    "libelle_voie": "DE LA DIVISION LECLERC",
+    "bp": "",
+    "cp": "52700",
+    "VILLE": "ANDELOT BLANCHEVILLE",
+    "tel": "325019206",
+    "telecopie": "325037040",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "33932367700015",
+    "lng": "5.29817844145776",
+    "lat": "48.2431391574621"
+  },
+  {
+    "finess": "520781832",
+    "raison_sociale": "MAS FOYER MONTECLAIR ANDELOT",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU PARC",
+    "bp": "",
+    "cp": "52700",
+    "VILLE": "ANDELOT BLANCHEVILLE",
+    "tel": "325013397",
+    "telecopie": "",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "26520016200013",
+    "lng": "5.30505462540512",
+    "lat": "48.2451592931303"
+  },
+  {
+    "finess": "520783820",
+    "raison_sociale": "SAAD ADMR D'ANDELOT",
+    "numero voie": "36",
+    "type_voie": "R",
+    "libelle_voie": "DIVISION LECLERC",
+    "bp": "",
+    "cp": "52700",
+    "VILLE": "ANDELOT BLANCHEVILLE",
+    "tel": "325019682",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32849855500015",
+    "lng": "5.29817844145776",
+    "lat": "48.2431391574621"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "100001981",
+    "raison_sociale": "SELARL PHARMACIE DE CHAVANGES",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "DU GILLIARD",
+    "bp": "",
+    "cp": "10330",
+    "VILLE": "CHAVANGES ",
+    "tel": "325921170",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80746916800015",
+    "lng": "4.57289051044021",
+    "lat": "48.5090362165369"
+  },
+  {
+    "finess": "100010057",
+    "raison_sociale": "MSP DE CHAVANGES",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "GILLIARD",
+    "bp": "",
+    "cp": "10330",
+    "VILLE": "CHAVANGES ",
+    "tel": "325270202",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "4.57287743244056",
+    "lat": "48.5088258449258"
+  },
+  {
+    "finess": "100012038",
+    "raison_sociale": "SAAD DE CHAVANGES - ADMR",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "FORT LEVESQUE",
+    "bp": "",
+    "cp": "10330",
+    "VILLE": "CHAVANGES ",
+    "tel": "325284400",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31162363100018",
+    "lng": "4.57217397160306",
+    "lat": "48.509074491973"
+  }
+]

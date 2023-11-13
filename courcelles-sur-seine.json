@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "270019441",
+    "raison_sociale": "PHARMACIE DES 2 TERRES",
+    "numero voie": "5",
+    "type_voie": "RTE",
+    "libelle_voie": "DES ANDELYS",
+    "bp": "",
+    "cp": "27940",
+    "VILLE": "COURCELLES SUR SEINE    ",
+    "tel": "232779892",
+    "telecopie": "232779552",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79836950000011",
+    "lng": "1.35849378332098",
+    "lat": "49.1830961453196"
+  },
+  {
+    "finess": "270024672",
+    "raison_sociale": "ENTREPRISE ADAPTEE SARL ARTISANE SERV",
+    "numero voie": "54",
+    "type_voie": "RTE",
+    "libelle_voie": "DES ANDELYS",
+    "bp": "BP 541",
+    "cp": "27940",
+    "VILLE": "COURCELLES SUR SEINE    ",
+    "tel": "232524606",
+    "telecopie": "232524645",
+    "categorie etablissement": "247",
+    "libelle categorie": "Entreprise adaptée",
+    "siret": "41360562700012",
+    "lng": "1.36571671267535",
+    "lat": "49.1886832799711"
+  },
+  {
+    "finess": "270030414",
+    "raison_sociale": "CENTRE DE SANTE DE COURCELLES S/ SEINE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU CHATEAU D'EAU",
+    "bp": "",
+    "cp": "27940",
+    "VILLE": "COURCELLES SUR SEINE    ",
+    "tel": "232530251",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "21270180900080",
+    "lng": "1.35813614122007",
+    "lat": "49.1827378706957"
+  }
+]

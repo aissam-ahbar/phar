@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "670012384",
+    "raison_sociale": "PHARMACIE DE LA CIGOGNE",
+    "numero voie": "31",
+    "type_voie": "R",
+    "libelle_voie": "PRINCIPALE",
+    "bp": "",
+    "cp": "67920",
+    "VILLE": "SUNDHOUSE ",
+    "tel": "388852019",
+    "telecopie": "388858488",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82853423000010",
+    "lng": "7.59920004522165",
+    "lat": "48.251148774798"
+  },
+  {
+    "finess": "670013218",
+    "raison_sociale": "SITE RELAIS DU RIED",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "DE WITTISHEIM",
+    "bp": "",
+    "cp": "67920",
+    "VILLE": "SUNDHOUSE ",
+    "tel": "388744192",
+    "telecopie": "388741566",
+    "categorie etablissement": "377",
+    "libelle categorie": "Etablissement Expérimental pour Enfance Handicapée",
+    "siret": "",
+    "lng": "7.59526283029761",
+    "lat": "48.2523168846076"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "570005405",
+    "raison_sociale": "FOYER-LOGEMENT \"NILVANGE 1\"",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "VICTOR HUGO",
+    "bp": "",
+    "cp": "57240",
+    "VILLE": "NILVANGE ",
+    "tel": "382852589",
+    "telecopie": "382554684",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "77561892900126",
+    "lng": "6.05048038483502",
+    "lat": "49.3413953665949"
+  },
+  {
+    "finess": "570019414",
+    "raison_sociale": "PHARMACIE WATELET",
+    "numero voie": "66",
+    "type_voie": "R",
+    "libelle_voie": "JOFFRE",
+    "bp": "",
+    "cp": "57240",
+    "VILLE": "NILVANGE ",
+    "tel": "382841359",
+    "telecopie": "382840881",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48987200200014",
+    "lng": "6.04933731605021",
+    "lat": "49.3422734190228"
+  }
+]

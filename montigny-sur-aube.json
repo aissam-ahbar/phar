@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "210006151",
+    "raison_sociale": "EURL PHARMACIE FROSSARD DZIERZYNSKI",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE POTELLE",
+    "bp": "",
+    "cp": "21520",
+    "VILLE": "MONTIGNY SUR AUBE    ",
+    "tel": "380935171",
+    "telecopie": "380935731",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45056225100014",
+    "lng": "4.77928488367636",
+    "lat": "47.9509948369877"
+  },
+  {
+    "finess": "210007449",
+    "raison_sociale": "SPASAD MONTIGNY SUR AUBE ADMR",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "21520",
+    "VILLE": "MONTIGNY SUR AUBE    ",
+    "tel": "380514751",
+    "telecopie": "380510402",
+    "categorie etablissement": "209",
+    "libelle categorie": "Service Polyvalent Aide et Soins A Domicile (S.P.A.S.A.D.)",
+    "siret": "77821418900145",
+    "lng": "4.77752785524023",
+    "lat": "47.953223230846"
+  },
+  {
+    "finess": "210986865",
+    "raison_sociale": "MARPA RESIDENCE L AUBE D OR",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "VIEILLE ROUTE DE DIJON",
+    "bp": "",
+    "cp": "21520",
+    "VILLE": "MONTIGNY SUR AUBE    ",
+    "tel": "380935464",
+    "telecopie": "380935695",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "77556777900613",
+    "lng": "4.77372517226992",
+    "lat": "47.9528702085327"
+  }
+]

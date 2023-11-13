@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "500005269",
+    "raison_sociale": "PHARMACIE DES TILLEULS",
+    "numero voie": "34",
+    "type_voie": "R",
+    "libelle_voie": "ST MARTIN",
+    "bp": "",
+    "cp": "50180",
+    "VILLE": "THEREVAL ",
+    "tel": "233056033",
+    "telecopie": "233772320",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51159554800021",
+    "lng": "-1.16825234014955",
+    "lat": "49.1282465359589"
+  },
+  {
+    "finess": "500020342",
+    "raison_sociale": "HÔPITAL DE NUIT (ESPACE LÉO KANNER)",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA GROTTE",
+    "bp": "",
+    "cp": "50180",
+    "VILLE": "THEREVAL ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "292",
+    "libelle categorie": "Centre Hospitalier Spécialisé lutte Maladies Mentales",
+    "siret": "",
+    "lng": "-1.166869708105",
+    "lat": "49.1281648205934"
+  },
+  {
+    "finess": "500020359",
+    "raison_sociale": "CATTP (ESPACE LÉO KANNER)-HÉBECREVON",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA GROTTE",
+    "bp": "",
+    "cp": "50180",
+    "VILLE": "THEREVAL ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "425",
+    "libelle categorie": "Centre d'Accueil Thérapeutique à temps partiel (C.A.T.T.P.)",
+    "siret": "78090155900846",
+    "lng": "-1.166869708105",
+    "lat": "49.1281648205934"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "110009370",
+    "raison_sociale": "MSP SUD MINERVOIS",
+    "numero voie": "4",
+    "type_voie": "ZA",
+    "libelle_voie": "DE LA DISTILLERIE",
+    "bp": "",
+    "cp": "11120",
+    "VILLE": "ST MARCEL SUR AUDE   ",
+    "tel": "411669785",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "91465134400014",
+    "lng": "2.92312828374685",
+    "lat": "43.2456945480171"
+  },
+  {
+    "finess": "110787777",
+    "raison_sociale": "EHPAD LO PORTANEL",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE L'ALICANTE",
+    "bp": "",
+    "cp": "11120",
+    "VILLE": "ST MARCEL SUR AUDE   ",
+    "tel": "468934150",
+    "telecopie": "468934592",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "34787681500015",
+    "lng": "2.92252212637992",
+    "lat": "43.245337901728"
+  },
+  {
+    "finess": "110791126",
+    "raison_sociale": "SELARL PHARMACIE DE MALASSAN",
+    "numero voie": "3",
+    "type_voie": "LOT",
+    "libelle_voie": "\"\"LA GALERIE DE MALASSAN\"\"",
+    "bp": "",
+    "cp": "11120",
+    "VILLE": "ST MARCEL SUR AUDE   ",
+    "tel": "468936236",
+    "telecopie": "468936236",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83104515800019",
+    "lng": "2.91855664664082",
+    "lat": "43.247674659581"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "550001754",
+    "raison_sociale": "PHARMACIE HERY",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DES BOTS",
+    "bp": "",
+    "cp": "55300",
+    "VILLE": "LACROIX SUR MEUSE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48308998300041",
+    "lng": "5.5109527850958",
+    "lat": "48.9736845932268"
+  },
+  {
+    "finess": "550003123",
+    "raison_sociale": "SAAD ADMR LACROISEE DES 16",
+    "numero voie": "39",
+    "type_voie": "R",
+    "libelle_voie": "GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "55300",
+    "VILLE": "LACROIX SUR MEUSE    ",
+    "tel": "329901611",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32491790500014",
+    "lng": "5.51098916533443",
+    "lat": "48.9729667870031"
+  }
+]

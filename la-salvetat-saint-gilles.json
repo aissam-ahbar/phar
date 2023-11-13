@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "310011424",
+    "raison_sociale": "PHARMACIE MARCEL",
+    "numero voie": "2",
+    "type_voie": "AV",
+    "libelle_voie": "des Capitouls",
+    "bp": "",
+    "cp": "31880",
+    "VILLE": "LA SALVETAT ST GILLES   ",
+    "tel": "561864636",
+    "telecopie": "561065756",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48840909500020",
+    "lng": "1.27268267828136",
+    "lat": "43.5778607526953"
+  },
+  {
+    "finess": "310011440",
+    "raison_sociale": "PHARMACIE GOUT FRANCOISE",
+    "numero voie": "5",
+    "type_voie": "AV",
+    "libelle_voie": "STE GERMAINE",
+    "bp": "",
+    "cp": "31880",
+    "VILLE": "LA SALVETAT ST GILLES   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82101109500014",
+    "lng": "1.267318233197",
+    "lat": "43.5789452514255"
+  },
+  {
+    "finess": "310023601",
+    "raison_sociale": "LBM INOVIE CBM LA SALVETAT",
+    "numero voie": "7",
+    "type_voie": "AV",
+    "libelle_voie": "DES PYRENEES",
+    "bp": "",
+    "cp": "31880",
+    "VILLE": "LA SALVETAT ST GILLES   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "39978705000018",
+    "lng": "1.27252737939308",
+    "lat": "43.5762752441779"
+  }
+]

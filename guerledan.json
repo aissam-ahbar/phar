@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "220011209",
+    "raison_sociale": "PHARMACIE LE POTIER",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "MICHELLE LE BRUN",
+    "bp": "",
+    "cp": "22530",
+    "VILLE": "GUERLEDAN ",
+    "tel": "296285949",
+    "telecopie": "296263033",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "47928651000033",
+    "lng": "-2.98709752968313",
+    "lat": "48.1981306623347"
+  },
+  {
+    "finess": "220015580",
+    "raison_sociale": "EHPAD ROCH AR BUDO",
+    "numero voie": "8",
+    "type_voie": "RLE",
+    "libelle_voie": "DU ROCH BIDO",
+    "bp": "",
+    "cp": "22530",
+    "VILLE": "GUERLEDAN ",
+    "tel": "296285133",
+    "telecopie": "296285052",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20006555500027",
+    "lng": "-2.98862630403333",
+    "lat": "48.2004894504415"
+  },
+  {
+    "finess": "220025316",
+    "raison_sociale": "MSP UZEL ET GUERLEDAN",
+    "numero voie": "3",
+    "type_voie": "PL",
+    "libelle_voie": "SAINTE SUZANNE",
+    "bp": "",
+    "cp": "22530",
+    "VILLE": "GUERLEDAN ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "92305234400010",
+    "lng": "-2.98789826201845",
+    "lat": "48.2023023237532"
+  }
+]

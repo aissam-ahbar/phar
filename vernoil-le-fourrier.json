@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "490019114",
+    "raison_sociale": "MAISON DE SANTE DE VERNOIL VERNANTES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LA PRAIRIE DE PAMPOË",
+    "bp": "",
+    "cp": "49390",
+    "VILLE": "VERNOIL LE FOURRIER    ",
+    "tel": "241515709",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "79265463400015",
+    "lng": "0.070980882140106",
+    "lat": "47.3900544025171"
+  },
+  {
+    "finess": "490534336",
+    "raison_sociale": "PHARMACIE DES FOURRIERS",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU CENTRE",
+    "bp": "",
+    "cp": "49390",
+    "VILLE": "VERNOIL LE FOURRIER    ",
+    "tel": "241515128",
+    "telecopie": "241514258",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "33075904400010",
+    "lng": "0.079809862765351",
+    "lat": "47.3872588202024"
+  },
+  {
+    "finess": "490537230",
+    "raison_sociale": "RESIDENCE LES TAMARIS",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "CHAMBARDELIERE",
+    "bp": "",
+    "cp": "49390",
+    "VILLE": "VERNOIL LE FOURRIER    ",
+    "tel": "241515417",
+    "telecopie": "241674326",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26490248700026",
+    "lng": "0.076460602791425",
+    "lat": "47.3853378345965"
+  }
+]

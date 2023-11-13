@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "410005201",
+    "raison_sociale": "EURL PHARMACIE DESMIER",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DES TILLEULS",
+    "bp": "",
+    "cp": "41000",
+    "VILLE": "ST SULPICE DE POMMERAY   ",
+    "tel": "254428623",
+    "telecopie": "254451147",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52332040600011",
+    "lng": "1.27535324285924",
+    "lat": "47.6076458091717"
+  },
+  {
+    "finess": "410009443",
+    "raison_sociale": "ELIVIE -  ST SULPICE DE POMMERAY",
+    "numero voie": "31",
+    "type_voie": "R",
+    "libelle_voie": "JULES BERTHONNEAU",
+    "bp": "ZI LES ROUGEMONTS NORD",
+    "cp": "41000",
+    "VILLE": "ST SULPICE DE POMMERAY   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "33395438600921",
+    "lng": "1.29957834969014",
+    "lat": "47.6061222008334"
+  },
+  {
+    "finess": "410011027",
+    "raison_sociale": "CENTRE DE SANTÉ DU GRAND BLÉSOIS",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "DES TILLEULS",
+    "bp": "",
+    "cp": "41000",
+    "VILLE": "ST SULPICE DE POMMERAY   ",
+    "tel": "254876068",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "13002679200072",
+    "lng": "1.2749502148173",
+    "lat": "47.6076758676227"
+  }
+]

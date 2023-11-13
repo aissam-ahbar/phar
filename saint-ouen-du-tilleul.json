@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "270000433",
+    "raison_sociale": "CLINIQUE  LE VALLON",
+    "numero voie": "25",
+    "type_voie": "RTE",
+    "libelle_voie": "DES FOUGERES",
+    "bp": "LES FOURNEAUX",
+    "cp": "27670",
+    "VILLE": "ST OUEN DU TILLEUL   ",
+    "tel": "232965400",
+    "telecopie": "232965489",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "",
+    "lng": "0.960517618713106",
+    "lat": "49.286301805177"
+  },
+  {
+    "finess": "270009566",
+    "raison_sociale": "RESIDENCE CCAS SAINT-OUEN TILLEUL",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE L'ETOILE",
+    "bp": "",
+    "cp": "27670",
+    "VILLE": "ST OUEN DU TILLEUL   ",
+    "tel": "235877025",
+    "telecopie": "235810542",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26270315000025",
+    "lng": "0.952067177582799",
+    "lat": "49.2928257105322"
+  },
+  {
+    "finess": "270021777",
+    "raison_sociale": "SELAS PHARMACIE DU TILLEUL",
+    "numero voie": "40",
+    "type_voie": "R",
+    "libelle_voie": "DES CANADIENS",
+    "bp": "",
+    "cp": "27670",
+    "VILLE": "ST OUEN DU TILLEUL   ",
+    "tel": "235877232",
+    "telecopie": "235875967",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "43465100600026",
+    "lng": "0.950258204802145",
+    "lat": "49.2948605635297"
+  }
+]

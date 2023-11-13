@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "20002093",
+    "raison_sociale": "EHPAD BUIRONFOSSE",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "DU 12E CHASSEUR",
+    "bp": "",
+    "cp": "2620",
+    "VILLE": "BUIRONFOSSE ",
+    "tel": "323972449",
+    "telecopie": "323978647",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26020901000016",
+    "lng": "3.83048525800989",
+    "lat": "49.962708756568"
+  },
+  {
+    "finess": "20002796",
+    "raison_sociale": "PHARMACIE DE BUIRONFOSSE",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "11 Novembre 1918",
+    "bp": "",
+    "cp": "2620",
+    "VILLE": "BUIRONFOSSE ",
+    "tel": "323972435",
+    "telecopie": "323972799",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "33773106100012",
+    "lng": "3.83423902447646",
+    "lat": "49.9646325383386"
+  }
+]

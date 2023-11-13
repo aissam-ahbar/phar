@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "640012845",
+    "raison_sociale": "PHARMACIE DU FRONTON",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DU FRONTON    SARE",
+    "bp": "",
+    "cp": "64310",
+    "VILLE": "SARE ",
+    "tel": "559542047",
+    "telecopie": "970633019",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82296476300012",
+    "lng": "-1.58100477283377",
+    "lat": "43.3127188093572"
+  },
+  {
+    "finess": "640781795",
+    "raison_sociale": "EHPAD JEAN DITHURBIDE",
+    "numero voie": "325",
+    "type_voie": "",
+    "libelle_voie": "LARRUNGO BIDEA",
+    "bp": "",
+    "cp": "64310",
+    "VILLE": "SARE ",
+    "tel": "559542159",
+    "telecopie": "559475001",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26640553900013",
+    "lng": "-1.58100477283377",
+    "lat": "43.3127188093572"
+  }
+]

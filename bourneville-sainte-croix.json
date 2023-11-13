@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "270019094",
+    "raison_sociale": "PHARMACIE DE BOURNEVILLE",
+    "numero voie": "47",
+    "type_voie": "",
+    "libelle_voie": "Grande Rue",
+    "bp": "",
+    "cp": "27500",
+    "VILLE": "BOURNEVILLE STE CROIX    ",
+    "tel": "232574121",
+    "telecopie": "232425428",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48427518500011",
+    "lng": "0.617414390827635",
+    "lat": "49.3908550622876"
+  },
+  {
+    "finess": "270029192",
+    "raison_sociale": "SAP RISLE SEINE",
+    "numero voie": "3",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "27500",
+    "VILLE": "BOURNEVILLE STE CROIX    ",
+    "tel": "986519290",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "83007163500015",
+    "lng": "0.620245053569444",
+    "lat": "49.3903262822622"
+  },
+  {
+    "finess": "270029960",
+    "raison_sociale": "MSP DE BOURNEVILLE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DES JARDINS",
+    "bp": "",
+    "cp": "27500",
+    "VILLE": "BOURNEVILLE STE CROIX    ",
+    "tel": "232410973",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "89502126900017",
+    "lng": "0.622841133540958",
+    "lat": "49.390939376352"
+  }
+]

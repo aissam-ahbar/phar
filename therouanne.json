@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "620017061",
+    "raison_sociale": "PHARMACIE MILHAMONT",
+    "numero voie": "29",
+    "type_voie": "",
+    "libelle_voie": "GRAND RUE",
+    "bp": "",
+    "cp": "62129",
+    "VILLE": "THEROUANNE ",
+    "tel": "321955480",
+    "telecopie": "321950661",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83519032300013",
+    "lng": "2.25902355912992",
+    "lat": "50.6362269866389"
+  },
+  {
+    "finess": "620032763",
+    "raison_sociale": "MSP DE LA MORINIE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "SAINT JEAN",
+    "bp": "",
+    "cp": "62129",
+    "VILLE": "THEROUANNE ",
+    "tel": "321955497",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "2.25652246737206",
+    "lat": "50.6384503046803"
+  }
+]

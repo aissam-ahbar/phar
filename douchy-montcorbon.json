@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "450005566",
+    "raison_sociale": "SELARL GRANDE PHARMACIE DU GATINAIS",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DE BOURGOGNE",
+    "bp": "",
+    "cp": "45220",
+    "VILLE": "DOUCHY MONTCORBON",
+    "tel": "238871229",
+    "telecopie": "238870200",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53262429300025",
+    "lng": "3.0547264069332",
+    "lat": "47.9425117171613"
+  },
+  {
+    "finess": "450019377",
+    "raison_sociale": "LBM BIOALLIANCE DOUCHY",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DU GUE SAINT JEAN",
+    "bp": "",
+    "cp": "45220",
+    "VILLE": "DOUCHY MONTCORBON",
+    "tel": "238871351",
+    "telecopie": "238870414",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "38939406500210",
+    "lng": "3.05161053709389",
+    "lat": "47.9434436677296"
+  }
+]

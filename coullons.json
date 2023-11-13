@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "450002225",
+    "raison_sociale": "EHPAD LA CHANTERELLE",
+    "numero voie": "14",
+    "type_voie": "R",
+    "libelle_voie": "P L BOURASSIN",
+    "bp": "",
+    "cp": "45720",
+    "VILLE": "COULLONS ",
+    "tel": "238295730",
+    "telecopie": "238295730",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26450019000014",
+    "lng": "2.49234310545149",
+    "lat": "47.6196174262014"
+  },
+  {
+    "finess": "450005434",
+    "raison_sociale": "SELARL PHARMACIE FANNY PETIT",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "45720",
+    "VILLE": "COULLONS ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79288615200026",
+    "lng": "2.4926127987291",
+    "lat": "47.6210777003884"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "290013309",
+    "raison_sociale": "PHARMACIE DE LA MARINE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE PONT L ABBE",
+    "bp": "TY LEZ",
+    "cp": "29120",
+    "VILLE": "COMBRIT ",
+    "tel": "298563420",
+    "telecopie": "298564971",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44451314700025",
+    "lng": "-4.1617236208835",
+    "lat": "47.8839389785231"
+  },
+  {
+    "finess": "290019918",
+    "raison_sociale": "EHPAD KERBORC'HIS",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "CHAUVEL",
+    "bp": "",
+    "cp": "29120",
+    "VILLE": "COMBRIT ",
+    "tel": "298519220",
+    "telecopie": "298519448",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77758274300061",
+    "lng": "-4.15524845232688",
+    "lat": "47.8868245727875"
+  },
+  {
+    "finess": "290026673",
+    "raison_sociale": "SAAD COMBRIT",
+    "numero voie": "2",
+    "type_voie": "PL",
+    "libelle_voie": "CROAS AR BLEON",
+    "bp": "",
+    "cp": "29120",
+    "VILLE": "COMBRIT ",
+    "tel": "298564094",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "-4.15926012237957",
+    "lat": "47.8873411231826"
+  }
+]

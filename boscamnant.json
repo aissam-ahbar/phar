@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "170000178",
+    "raison_sociale": "CENTRE HOSPITALIER BOSCAMNANT",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LES BRUYERES",
+    "bp": "",
+    "cp": "17360",
+    "VILLE": "BOSCAMNANT ",
+    "tel": "546865000",
+    "telecopie": "546865013",
+    "categorie etablissement": "355",
+    "libelle categorie": "Centre Hospitalier (C.H.)",
+    "siret": "26170026400011",
+    "lng": "-0.08546930739982",
+    "lat": "45.1984910550779"
+  },
+  {
+    "finess": "170791263",
+    "raison_sociale": "EHPAD - LES BRUYERES - CH BOSCAMNANT",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LES BRUYERES",
+    "bp": "",
+    "cp": "17360",
+    "VILLE": "BOSCAMNANT ",
+    "tel": "546865000",
+    "telecopie": "546865008",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26170026400029",
+    "lng": "-0.08546930739982",
+    "lat": "45.1984910550779"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "660009226",
+    "raison_sociale": "MSP DU FENOUILLEDES - LATOUR DE FRANCE",
+    "numero voie": "2",
+    "type_voie": "AV",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "66720",
+    "VILLE": "LATOUR DE FRANCE    ",
+    "tel": "468867901",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "79290162100047",
+    "lng": "2.65819501438095",
+    "lat": "42.7679978483699"
+  },
+  {
+    "finess": "660785551",
+    "raison_sociale": "EHPAD RESIDENCE LE MOULIN",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "66720",
+    "VILLE": "LATOUR DE FRANCE    ",
+    "tel": "468291729",
+    "telecopie": "468291872",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "32385664100119",
+    "lng": "2.66017053149765",
+    "lat": "42.7676354722648"
+  },
+  {
+    "finess": "660788399",
+    "raison_sociale": "PHARMACIE NOTRE DAME",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "Madeleine Bres",
+    "bp": "",
+    "cp": "66720",
+    "VILLE": "LATOUR DE FRANCE    ",
+    "tel": "468291113",
+    "telecopie": "468870193",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "92200193800013",
+    "lng": "2.65343575566124",
+    "lat": "42.7685562328971"
+  }
+]

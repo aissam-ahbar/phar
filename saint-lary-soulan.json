@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "650003304",
+    "raison_sociale": "PHARMACIE PRAT",
+    "numero voie": "26",
+    "type_voie": "R",
+    "libelle_voie": "VINCENT MIR",
+    "bp": "",
+    "cp": "65170",
+    "VILLE": "ST LARY SOULAN    ",
+    "tel": "562394025",
+    "telecopie": "562400361",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34095851100016",
+    "lng": "0.322920530638229",
+    "lat": "42.8171882823764"
+  },
+  {
+    "finess": "650005945",
+    "raison_sociale": "MSP DE SAINT LARY VILLAGE",
+    "numero voie": "19",
+    "type_voie": "R",
+    "libelle_voie": "DES FOUGÈRES",
+    "bp": "",
+    "cp": "65170",
+    "VILLE": "ST LARY SOULAN    ",
+    "tel": "562394704",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "21650388800010",
+    "lng": "0.321905191942938",
+    "lat": "42.8152735222402"
+  },
+  {
+    "finess": "650787427",
+    "raison_sociale": "THERMES ST LARY SOULAN",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "65170",
+    "VILLE": "ST LARY SOULAN    ",
+    "tel": "562394739",
+    "telecopie": "",
+    "categorie etablissement": "126",
+    "libelle categorie": "Etablissement Thermal",
+    "siret": "94880755700020",
+    "lng": "0.320245266281627",
+    "lat": "42.8158105637579"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "470005844",
+    "raison_sociale": "ESAT DE BOUET",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LIEU DIT BOUET",
+    "cp": "47160",
+    "VILLE": "ST LEON",
+    "tel": "553793893",
+    "telecopie": "553791445",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "32376548700018",
+    "lng": "0.245503007392283",
+    "lat": "44.2761383250713"
+  },
+  {
+    "finess": "470005851",
+    "raison_sociale": "FOYER D'HEBERGEMENT BOUËT",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "47160",
+    "VILLE": "ST LEON",
+    "tel": "553793893",
+    "telecopie": "553791445",
+    "categorie etablissement": "252",
+    "libelle categorie": "Foyer Hébergement Adultes Handicapés",
+    "siret": "32376548700059",
+    "lng": "0.245503007392283",
+    "lat": "44.2761383250713"
+  },
+  {
+    "finess": "470014390",
+    "raison_sociale": "SAVS DE BOUET",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LIEU DIT BOUET",
+    "cp": "47160",
+    "VILLE": "ST LEON",
+    "tel": "553793893",
+    "telecopie": "553791445",
+    "categorie etablissement": "446",
+    "libelle categorie": "Service d'Accompagnement à la Vie Sociale (S.A.V.S.)",
+    "siret": "32376548700042",
+    "lng": "0.245503007392283",
+    "lat": "44.2761383250713"
+  }
+]

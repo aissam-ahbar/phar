@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "450015524",
+    "raison_sociale": "SELARL PHARMACIE DE PANNES",
+    "numero voie": "1346",
+    "type_voie": "R",
+    "libelle_voie": "DE MERCY",
+    "bp": "",
+    "cp": "45700",
+    "VILLE": "PANNES ",
+    "tel": "238930621",
+    "telecopie": "238858634",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40130376300015",
+    "lng": "2.70833799456634",
+    "lat": "48.0014204058864"
+  },
+  {
+    "finess": "450019955",
+    "raison_sociale": "LBM BPR ANALYSES SPECIALISEES PANNES",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DES PLATANES",
+    "bp": "",
+    "cp": "45700",
+    "VILLE": "PANNES ",
+    "tel": "238858566",
+    "telecopie": "238858565",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "50388163300021",
+    "lng": "2.67087074194079",
+    "lat": "47.993422962309"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "290013762",
+    "raison_sociale": "PHARMACIE LE MOINE",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "DU LEURRE",
+    "bp": "",
+    "cp": "29710",
+    "VILLE": "PLOGASTEL ST GERMAIN    ",
+    "tel": "298545598",
+    "telecopie": "298545565",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82374050100015",
+    "lng": "-4.27298120808772",
+    "lat": "47.985385195025"
+  },
+  {
+    "finess": "290031996",
+    "raison_sociale": "RESIDENCE AOLYS",
+    "numero voie": "5",
+    "type_voie": "ALL",
+    "libelle_voie": "DES SOURCES",
+    "bp": "",
+    "cp": "29710",
+    "VILLE": "PLOGASTEL ST GERMAIN    ",
+    "tel": "229403788",
+    "telecopie": "229403141",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "45320400000146",
+    "lng": "-4.26744336552401",
+    "lat": "47.9788175232662"
+  },
+  {
+    "finess": "290037068",
+    "raison_sociale": "MSP EST CAP SIZUN",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "ROZ AR GALL",
+    "bp": "",
+    "cp": "29710",
+    "VILLE": "PLOGASTEL ST GERMAIN    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "91765542500010",
+    "lng": "-4.27393413896153",
+    "lat": "47.98024791509"
+  }
+]

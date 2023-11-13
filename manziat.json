@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "10004216",
+    "raison_sociale": "PHARMACIE DU BOURG",
+    "numero voie": "1318",
+    "type_voie": "",
+    "libelle_voie": "GRAND'ROUTE",
+    "bp": "",
+    "cp": "1570",
+    "VILLE": "MANZIAT ",
+    "tel": "385361415",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50441257800024",
+    "lng": "4.90762176998156",
+    "lat": "46.3596579300111"
+  },
+  {
+    "finess": "10790384",
+    "raison_sociale": "MARPA DE MANZIAT",
+    "numero voie": "74",
+    "type_voie": "R",
+    "libelle_voie": "DE LA FRÉRIE",
+    "bp": "",
+    "cp": "1570",
+    "VILLE": "MANZIAT ",
+    "tel": "385301547",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "39971555600011",
+    "lng": "4.90448760742662",
+    "lat": "46.3577512300408"
+  }
+]

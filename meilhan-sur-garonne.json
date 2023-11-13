@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "470008103",
+    "raison_sociale": "RESIDENCE AUTONOMIE LABEYRIE",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LABEYRIES",
+    "bp": "",
+    "cp": "47180",
+    "VILLE": "MEILHAN SUR GARONNE    ",
+    "tel": "553943174",
+    "telecopie": "553943127",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "78216138400352",
+    "lng": "0.032697966022861",
+    "lat": "44.5201348160175"
+  },
+  {
+    "finess": "470010752",
+    "raison_sociale": "PHARMACIE JAUTARD",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "RAYMOND PEYDECASTAING",
+    "bp": "",
+    "cp": "47180",
+    "VILLE": "MEILHAN SUR GARONNE    ",
+    "tel": "553943016",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50245733600019",
+    "lng": "0.032965542560052",
+    "lat": "44.5205780289419"
+  }
+]

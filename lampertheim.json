@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "670008150",
+    "raison_sociale": "PHARMACIE DE LAMPERTHEIM",
+    "numero voie": "18",
+    "type_voie": "R",
+    "libelle_voie": "PRINCIPALE",
+    "bp": "",
+    "cp": "67450",
+    "VILLE": "LAMPERTHEIM ",
+    "tel": "388204160",
+    "telecopie": "388339412",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40994248900025",
+    "lng": "7.70208184181267",
+    "lat": "48.6518352574139"
+  },
+  {
+    "finess": "670020809",
+    "raison_sociale": "HUAS ADOMA LAMPERTHEIM",
+    "numero voie": "17",
+    "type_voie": "R",
+    "libelle_voie": "DU CHEMIN DE FER",
+    "bp": "",
+    "cp": "67450",
+    "VILLE": "LAMPERTHEIM ",
+    "tel": "368005850",
+    "telecopie": "",
+    "categorie etablissement": "216",
+    "libelle categorie": "Résidence Hôtelière à Vocation Sociale (R.H.V.S.)",
+    "siret": "78805803009272",
+    "lng": "7.72227576989495",
+    "lat": "48.6508538129457"
+  }
+]

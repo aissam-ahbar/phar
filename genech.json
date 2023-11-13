@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590017117",
+    "raison_sociale": "PHARMACIE HUYGHE",
+    "numero voie": "1255",
+    "type_voie": "R",
+    "libelle_voie": "DE LA LIBERATION",
+    "bp": "",
+    "cp": "59242",
+    "VILLE": "GENECH ",
+    "tel": "320845663",
+    "telecopie": "320840505",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "78842791200027",
+    "lng": "3.21795251594641",
+    "lat": "50.5309969551626"
+  },
+  {
+    "finess": "590035150",
+    "raison_sociale": "CENTRE D'ACCUEIL POUR ADULTES AUTISTES",
+    "numero voie": "250",
+    "type_voie": "R",
+    "libelle_voie": "DU COMMANDANT BAYART",
+    "bp": "BP 40",
+    "cp": "59242",
+    "VILLE": "GENECH ",
+    "tel": "320055270",
+    "telecopie": "320057249",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "38134409200139",
+    "lng": "3.21500685841021",
+    "lat": "50.5234768798679"
+  }
+]

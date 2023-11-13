@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "620010561",
+    "raison_sociale": "PHARMACIE CHATELAIN",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DE LA LIBERTE",
+    "bp": "",
+    "cp": "62119",
+    "VILLE": "DOURGES ",
+    "tel": "321202639",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80072981600010",
+    "lng": "2.98539532679074",
+    "lat": "50.4354976637621"
+  },
+  {
+    "finess": "620010595",
+    "raison_sociale": "PHARMACIE DES CITES",
+    "numero voie": "14",
+    "type_voie": "R",
+    "libelle_voie": "ROGER SALENGRO",
+    "bp": "",
+    "cp": "62119",
+    "VILLE": "DOURGES ",
+    "tel": "321201042",
+    "telecopie": "321759171",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80076228800010",
+    "lng": "2.98904633192889",
+    "lat": "50.4313956152496"
+  }
+]

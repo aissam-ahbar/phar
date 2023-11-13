@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "330050329",
+    "raison_sociale": "MAISON RELAIS BETHANIE",
+    "numero voie": "164",
+    "type_voie": "RTE",
+    "libelle_voie": "DE BETHANIE",
+    "bp": "",
+    "cp": "33650",
+    "VILLE": "ST MORILLON",
+    "tel": "984010679",
+    "telecopie": "",
+    "categorie etablissement": "258",
+    "libelle categorie": "Maisons Relais - Pensions de Famille",
+    "siret": "32716602100052",
+    "lng": "-0.517597136931389",
+    "lat": "44.6566708367825"
+  },
+  {
+    "finess": "330051715",
+    "raison_sociale": "PHARMACIE DE SAINT-MORILLON",
+    "numero voie": "1",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CASTRES",
+    "bp": "",
+    "cp": "33650",
+    "VILLE": "ST MORILLON",
+    "tel": "556202075",
+    "telecopie": "556784804",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79838257800010",
+    "lng": "-0.500494068601751",
+    "lat": "44.6533936761566"
+  }
+]

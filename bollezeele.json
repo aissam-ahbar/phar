@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590011532",
+    "raison_sociale": "PHARMACIE SAUTIERE",
+    "numero voie": "15",
+    "type_voie": "",
+    "libelle_voie": "GRAND PLACE",
+    "bp": "",
+    "cp": "59470",
+    "VILLE": "BOLLEZEELE ",
+    "tel": "328680224",
+    "telecopie": "328225731",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49847245500019",
+    "lng": "2.32697197741205",
+    "lat": "50.8657343595138"
+  },
+  {
+    "finess": "590783288",
+    "raison_sociale": "EHPAD RESIDENCE SAINT-LOUIS",
+    "numero voie": "703",
+    "type_voie": "RTE",
+    "libelle_voie": "DE MERCKEGHEM",
+    "bp": "",
+    "cp": "59470",
+    "VILLE": "BOLLEZEELE ",
+    "tel": "328680440",
+    "telecopie": "328680559",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26590713900017",
+    "lng": "2.31944749706069",
+    "lat": "50.8683024374118"
+  }
+]

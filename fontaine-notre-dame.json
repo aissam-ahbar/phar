@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590016705",
+    "raison_sociale": "PHARMACIE FONTENOISE",
+    "numero voie": "1710",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "59400",
+    "VILLE": "FONTAINE NOTRE DAME    ",
+    "tel": "327815551",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84836071500017",
+    "lng": "3.15495837941712",
+    "lat": "50.1657574226428"
+  },
+  {
+    "finess": "590050761",
+    "raison_sociale": "CHU EMMAUS FONTAINE-NOTRE-DAME",
+    "numero voie": "952",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "59400",
+    "VILLE": "FONTAINE NOTRE DAME    ",
+    "tel": "327781210",
+    "telecopie": "327743953",
+    "categorie etablissement": "219",
+    "libelle categorie": "Autre Centre d'Accueil",
+    "siret": "31389783700024",
+    "lng": "3.16479333279234",
+    "lat": "50.1678325172265"
+  }
+]

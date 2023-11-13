@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "250009560",
+    "raison_sociale": "ESAT SDH",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU BASSIN",
+    "bp": "",
+    "cp": "25220",
+    "VILLE": "ROCHE LEZ BEAUPRE    ",
+    "tel": "381471000",
+    "telecopie": "381570828",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "20003658000096",
+    "lng": "6.1030420994494",
+    "lat": "47.2714143988201"
+  },
+  {
+    "finess": "250012911",
+    "raison_sociale": "PHARMACIE  LUGAND",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DES PRÉS CHALOTS",
+    "bp": "",
+    "cp": "25220",
+    "VILLE": "ROCHE LEZ BEAUPRE    ",
+    "tel": "381570450",
+    "telecopie": "381605018",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79915900900023",
+    "lng": "6.10379940021467",
+    "lat": "47.2731122341431"
+  },
+  {
+    "finess": "250021151",
+    "raison_sociale": "MSP DE ROCHE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DES PRES CHALOTS",
+    "bp": "",
+    "cp": "25220",
+    "VILLE": "ROCHE LEZ BEAUPRE    ",
+    "tel": "381554925",
+    "telecopie": "381554925",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "80886788100019",
+    "lng": "6.10382632449565",
+    "lat": "47.2732574666582"
+  }
+]

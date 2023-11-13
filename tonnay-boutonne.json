@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "170015937",
+    "raison_sociale": "PHARMACIE DE LA BOUTONNE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "des Pêcheurs",
+    "bp": "",
+    "cp": "17380",
+    "VILLE": "TONNAY BOUTONNE",
+    "tel": "546332057",
+    "telecopie": "546332915",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53477102700024",
+    "lng": "-0.710802233649072",
+    "lat": "45.9657895474353"
+  },
+  {
+    "finess": "170024913",
+    "raison_sociale": "MSP DE PROXIMITÉ",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "DU CHAMP DE FOIRE",
+    "bp": "",
+    "cp": "17380",
+    "VILLE": "TONNAY BOUTONNE",
+    "tel": "546596000",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "50446887700015",
+    "lng": "-0.706668769375135",
+    "lat": "45.969273149918"
+  },
+  {
+    "finess": "170803696",
+    "raison_sociale": "EHPAD - LES JARDINS DE VOLTONIA",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DES DOUVES",
+    "bp": "BP 24",
+    "cp": "17380",
+    "VILLE": "TONNAY BOUTONNE",
+    "tel": "546595500",
+    "telecopie": "546332970",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20000300200017",
+    "lng": "-0.704896712731926",
+    "lat": "45.9683765111821"
+  }
+]

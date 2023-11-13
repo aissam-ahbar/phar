@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "440014686",
+    "raison_sociale": "PHARMACIE D'ABBARETZ",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "DE L EGLISE",
+    "bp": "",
+    "cp": "44170",
+    "VILLE": "ABBARETZ ",
+    "tel": "240870020",
+    "telecopie": "240870020",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83965699800011",
+    "lng": "-1.53304957265002",
+    "lat": "47.5524353615973"
+  },
+  {
+    "finess": "440059640",
+    "raison_sociale": "SAAD VITALLIANCE NANTES CHATEAUBRIANT",
+    "numero voie": "8",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "44170",
+    "VILLE": "ABBARETZ ",
+    "tel": "762630731",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "45105338301272",
+    "lng": "-1.53368871027601",
+    "lat": "47.5526377017945"
+  }
+]

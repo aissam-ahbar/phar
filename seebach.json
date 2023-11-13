@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "670009182",
+    "raison_sociale": "SELARL PHARMACIE DE SEEBACH",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DE LA HAUTE VIENNE",
+    "bp": "",
+    "cp": "67160",
+    "VILLE": "SEEBACH ",
+    "tel": "388947564",
+    "telecopie": "388947564",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45017393500013",
+    "lng": "7.99185600834132",
+    "lat": "48.971363333803"
+  },
+  {
+    "finess": "670782432",
+    "raison_sociale": "CTRE SOINS INF.SEEBACH",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "67160",
+    "VILLE": "SEEBACH ",
+    "tel": "388947419",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "31112778100087",
+    "lng": "7.99253806606675",
+    "lat": "48.9642239826379"
+  }
+]

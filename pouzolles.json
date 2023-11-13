@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "340018324",
+    "raison_sociale": "FAM LES COTEAUX DE SESAME",
+    "numero voie": "1",
+    "type_voie": "RTE",
+    "libelle_voie": "DE MARGON",
+    "bp": "",
+    "cp": "34480",
+    "VILLE": "POUZOLLES ",
+    "tel": "499572090",
+    "telecopie": "467245259",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "40532963200104",
+    "lng": "3.28646674047607",
+    "lat": "43.4814955394456"
+  },
+  {
+    "finess": "340024538",
+    "raison_sociale": "MSP LES 7 PECHS",
+    "numero voie": "10",
+    "type_voie": "RTE",
+    "libelle_voie": "DE ROUJAN",
+    "bp": "",
+    "cp": "34480",
+    "VILLE": "POUZOLLES ",
+    "tel": "467246055",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "83196744300019",
+    "lng": "3.28223466085285",
+    "lat": "43.4809290332547"
+  },
+  {
+    "finess": "340029933",
+    "raison_sociale": "CPTS HAUTS CANTONS ET VIGNOBLES",
+    "numero voie": "10",
+    "type_voie": "RTE",
+    "libelle_voie": "DE ROUJAN",
+    "bp": "",
+    "cp": "34480",
+    "VILLE": "POUZOLLES ",
+    "tel": "651527088",
+    "telecopie": "",
+    "categorie etablissement": "604",
+    "libelle categorie": "Communautés professionnelles territoriales de santé (CPTS)",
+    "siret": "89939069400011",
+    "lng": "3.28223466085285",
+    "lat": "43.4809290332547"
+  }
+]

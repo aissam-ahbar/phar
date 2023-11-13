@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "130009442",
+    "raison_sociale": "SELARL PHARMACIE DE LA COTE BLEUE",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DRAIO DE LA MAR",
+    "bp": "",
+    "cp": "13620",
+    "VILLE": "CARRY LE ROUET    ",
+    "tel": "442445220",
+    "telecopie": "442446695",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34344302400017",
+    "lng": "5.14266184123698",
+    "lat": "43.3294126921054"
+  },
+  {
+    "finess": "130032857",
+    "raison_sociale": "SELARL  PHARMACIE DU CENTRE",
+    "numero voie": "22",
+    "type_voie": "AV",
+    "libelle_voie": "ARISTIDE BRIAND",
+    "bp": "",
+    "cp": "13620",
+    "VILLE": "CARRY LE ROUET    ",
+    "tel": "442445777",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "47966035900015",
+    "lng": "5.15204746496306",
+    "lat": "43.331908984428"
+  },
+  {
+    "finess": "130039662",
+    "raison_sociale": "LBM SYNLAB PROVENCE SITE CARRY",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DRAIO DE LA MAR",
+    "bp": "",
+    "cp": "13620",
+    "VILLE": "CARRY LE ROUET    ",
+    "tel": "442451745",
+    "telecopie": "442450660",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "",
+    "lng": "5.14266184123698",
+    "lat": "43.3294126921054"
+  }
+]

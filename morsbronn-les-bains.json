@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "670008671",
+    "raison_sociale": "PHARMACIE  KESSLER",
+    "numero voie": "18",
+    "type_voie": "RTE",
+    "libelle_voie": "DE HAGUENAU",
+    "bp": "",
+    "cp": "67360",
+    "VILLE": "MORSBRONN LES BAINS    ",
+    "tel": "388093057",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48948927800015",
+    "lng": "7.74651732720093",
+    "lat": "48.9039404920219"
+  },
+  {
+    "finess": "670013077",
+    "raison_sociale": "ETABLISSEMENT THERMAL MORSBRONN",
+    "numero voie": "12",
+    "type_voie": "RTE",
+    "libelle_voie": "DE HAGUENAU",
+    "bp": "",
+    "cp": "67360",
+    "VILLE": "MORSBRONN LES BAINS    ",
+    "tel": "388098493",
+    "telecopie": "",
+    "categorie etablissement": "126",
+    "libelle categorie": "Etablissement Thermal",
+    "siret": "79942755400016",
+    "lng": "7.74687406097379",
+    "lat": "48.9062461778759"
+  },
+  {
+    "finess": "670780550",
+    "raison_sociale": "CRF MORSBRONN LES BAINS",
+    "numero voie": "12",
+    "type_voie": "RTE",
+    "libelle_voie": "DE HAGUENAU",
+    "bp": "",
+    "cp": "67360",
+    "VILLE": "MORSBRONN LES BAINS    ",
+    "tel": "388098499",
+    "telecopie": "388540436",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "42481025700065",
+    "lng": "7.74687406097379",
+    "lat": "48.9062461778759"
+  }
+]

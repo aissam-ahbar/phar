@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "10005536",
+    "raison_sociale": "PHARMACIE MARION-TISSIER",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA FONTAINE",
+    "bp": "",
+    "cp": "1560",
+    "VILLE": "ST JULIEN SUR REYSSOUZE   ",
+    "tel": "474526103",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50091609300015",
+    "lng": "5.11056727696642",
+    "lat": "46.4008790901494"
+  },
+  {
+    "finess": "10010684",
+    "raison_sociale": "MARPA DE ST JULIEN SUR REYSSOUZE",
+    "numero voie": "45",
+    "type_voie": "R",
+    "libelle_voie": "DU GRAND PRÉ",
+    "bp": "",
+    "cp": "1560",
+    "VILLE": "ST JULIEN SUR REYSSOUZE   ",
+    "tel": "474326328",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "81214371700021",
+    "lng": "5.10781452993877",
+    "lat": "46.4038088781964"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "600004550",
+    "raison_sociale": "PHARMACIE GRECO",
+    "numero voie": "109",
+    "type_voie": "R",
+    "libelle_voie": "ARISTIDE BRIAND",
+    "bp": "",
+    "cp": "60870",
+    "VILLE": "VILLERS ST PAUL    ",
+    "tel": "344710832",
+    "telecopie": "344717288",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "41186563700010",
+    "lng": "2.49693047836604",
+    "lat": "49.2913439573848"
+  },
+  {
+    "finess": "600005607",
+    "raison_sociale": "PHARMACIE LEOURIER",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "ARISTIDE BRIAND",
+    "bp": "",
+    "cp": "60870",
+    "VILLE": "VILLERS ST PAUL    ",
+    "tel": "344712511",
+    "telecopie": "344741512",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80894632100011",
+    "lng": "2.48297037574808",
+    "lat": "49.2874113440823"
+  },
+  {
+    "finess": "600014823",
+    "raison_sociale": "CAU SAMU SOCIAL OISE VILLERS-ST-PAUL",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "JACQUES MONOD",
+    "bp": "",
+    "cp": "60870",
+    "VILLE": "VILLERS ST PAUL    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "219",
+    "libelle categorie": "Autre Centre d'Accueil",
+    "siret": "45332633200039",
+    "lng": "2.50233195768086",
+    "lat": "49.2816287655676"
+  }
+]

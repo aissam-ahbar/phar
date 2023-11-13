@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "460002967",
+    "raison_sociale": "PHARMACIE DE BAGNAC",
+    "numero voie": "8",
+    "type_voie": "AV",
+    "libelle_voie": "Joseph Canteloube",
+    "bp": "",
+    "cp": "46270",
+    "VILLE": "BAGNAC SUR CELE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "31741473800029",
+    "lng": "2.15834151749386",
+    "lat": "44.6656799570681"
+  },
+  {
+    "finess": "460781768",
+    "raison_sociale": "EHPAD VAL DU CELE",
+    "numero voie": "3",
+    "type_voie": "RTE",
+    "libelle_voie": "DES SONNERIES",
+    "bp": "",
+    "cp": "46270",
+    "VILLE": "BAGNAC SUR CELE    ",
+    "tel": "565349084",
+    "telecopie": "565349209",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26460136000029",
+    "lng": "2.15556258960542",
+    "lat": "44.6674243249866"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "620011890",
+    "raison_sociale": "PHARMACIE BOUDRY",
+    "numero voie": "124",
+    "type_voie": "RTE",
+    "libelle_voie": "DE BLENDECQUES",
+    "bp": "",
+    "cp": "62570",
+    "VILLE": "HELFAUT ",
+    "tel": "321935757",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48034001700015",
+    "lng": "2.24316258438449",
+    "lat": "50.6978722721395"
+  },
+  {
+    "finess": "620024208",
+    "raison_sociale": "NEPHROCARE HELFAUT",
+    "numero voie": "1500",
+    "type_voie": "RTE",
+    "libelle_voie": "DE BLENDECQUES",
+    "bp": "",
+    "cp": "62570",
+    "VILLE": "HELFAUT ",
+    "tel": "321951144",
+    "telecopie": "321385105",
+    "categorie etablissement": "141",
+    "libelle categorie": "Centre de dialyse",
+    "siret": "34287819600043",
+    "lng": "2.24311503195215",
+    "lat": "50.6980272297881"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "620007542",
+    "raison_sociale": "PHARMACIE BUSCH WILLERVAL",
+    "numero voie": "226",
+    "type_voie": "R",
+    "libelle_voie": "DU GAL DE GAULLE",
+    "bp": "",
+    "cp": "62138",
+    "VILLE": "BILLY BERCLAU",
+    "tel": "321408418",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "85150687300013",
+    "lng": "2.87374300725692",
+    "lat": "50.5229995612283"
+  },
+  {
+    "finess": "620007575",
+    "raison_sociale": "SELARL PHARMACIE VANDROMME",
+    "numero voie": "149",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "62138",
+    "VILLE": "BILLY BERCLAU",
+    "tel": "321401292",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79044194300012",
+    "lng": "2.87056172579941",
+    "lat": "50.5210844447651"
+  },
+  {
+    "finess": "620119271",
+    "raison_sociale": "EHPAD \"LES HELIANTINES\"",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU 1ER MAI",
+    "bp": "",
+    "cp": "62138",
+    "VILLE": "BILLY BERCLAU",
+    "tel": "321746470",
+    "telecopie": "321746980",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "38473987600066",
+    "lng": "2.8668251614068",
+    "lat": "50.5205482210534"
+  }
+]

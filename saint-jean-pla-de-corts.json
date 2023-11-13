@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "660007329",
+    "raison_sociale": "EHPAD RESIDENCE MUTUALISTE ST JEAN PLA",
+    "numero voie": "5",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LA FORET",
+    "bp": "",
+    "cp": "66490",
+    "VILLE": "ST JEAN PLA DE CORTS  ",
+    "tel": "468363666",
+    "telecopie": "468834075",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "50741273200046",
+    "lng": "2.79798954128432",
+    "lat": "42.4982098430082"
+  },
+  {
+    "finess": "660789280",
+    "raison_sociale": "GRANDE PHARMACIE CATALANE",
+    "numero voie": "31",
+    "type_voie": "AV",
+    "libelle_voie": "DU CANIGOU",
+    "bp": "",
+    "cp": "66490",
+    "VILLE": "ST JEAN PLA DE CORTS  ",
+    "tel": "468832222",
+    "telecopie": "468835409",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "87748035000017",
+    "lng": "2.78689800740297",
+    "lat": "42.5143924673531"
+  }
+]

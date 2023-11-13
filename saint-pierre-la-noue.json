@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "170014740",
+    "raison_sociale": "PHARMACIE VERMANDE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "CHANTE-ALOUETTE",
+    "bp": "",
+    "cp": "17700",
+    "VILLE": "ST PIERRE LA NOUE   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83081629400011",
+    "lng": "-0.795667760374065",
+    "lat": "46.0757309134301"
+  },
+  {
+    "finess": "170024384",
+    "raison_sociale": "MSP DE ST GERMAIN DE MARENCENNES",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "CHANTE ALOUETTE",
+    "bp": "",
+    "cp": "17700",
+    "VILLE": "ST PIERRE LA NOUE   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "53531387800014",
+    "lng": "-0.79533165639059",
+    "lat": "46.0758909183406"
+  }
+]

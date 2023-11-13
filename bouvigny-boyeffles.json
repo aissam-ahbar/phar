@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "620008326",
+    "raison_sociale": "PHARMACIE DES MONTS D'ARTOIS",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU 8 MAI",
+    "bp": "",
+    "cp": "62172",
+    "VILLE": "BOUVIGNY BOYEFFLES",
+    "tel": "321292201",
+    "telecopie": "321298330",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82821776000010",
+    "lng": "2.66951947732802",
+    "lat": "50.4222241973006"
+  },
+  {
+    "finess": "620102905",
+    "raison_sociale": "IME BOIS DE MALANNOY",
+    "numero voie": "61",
+    "type_voie": "R",
+    "libelle_voie": "ERNEST DUQUESNOY",
+    "bp": "",
+    "cp": "62172",
+    "VILLE": "BOUVIGNY BOYEFFLES",
+    "tel": "321727744",
+    "telecopie": "321727749",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "20004716500283",
+    "lng": "2.66925161752949",
+    "lat": "50.4332885464643"
+  },
+  {
+    "finess": "620106112",
+    "raison_sociale": "EHPAD  DU BON ACCUEIL",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "CURIE",
+    "bp": "",
+    "cp": "62172",
+    "VILLE": "BOUVIGNY BOYEFFLES",
+    "tel": "321291148",
+    "telecopie": "321444883",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77562993400883",
+    "lng": "2.68523757259841",
+    "lat": "50.417487610729"
+  }
+]

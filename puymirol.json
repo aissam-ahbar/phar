@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "470009796",
+    "raison_sociale": "EHPAD LES TERRASSES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "RUE DES AMOURS",
+    "bp": "",
+    "cp": "47270",
+    "VILLE": "PUYMIROL ",
+    "tel": "553692300",
+    "telecopie": "553955644",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26470358800014",
+    "lng": "0.796158176098773",
+    "lat": "44.1860346506823"
+  },
+  {
+    "finess": "470011933",
+    "raison_sociale": "PHARMACIE PUYMIROL",
+    "numero voie": "32",
+    "type_voie": "R",
+    "libelle_voie": "ROYALE",
+    "bp": "",
+    "cp": "47270",
+    "VILLE": "PUYMIROL ",
+    "tel": "966111427",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84326266800018",
+    "lng": "0.796180396562493",
+    "lat": "44.1869778504753"
+  },
+  {
+    "finess": "470017641",
+    "raison_sociale": "SAAD ADMR DU CANTON DE PUYMIROL",
+    "numero voie": "8",
+    "type_voie": "PL",
+    "libelle_voie": "DU MARECHAL LECLERC",
+    "bp": "",
+    "cp": "47270",
+    "VILLE": "PUYMIROL ",
+    "tel": "553871175",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "40383581200039",
+    "lng": "0.796061931931116",
+    "lat": "44.1867413580717"
+  }
+]

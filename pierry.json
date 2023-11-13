@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "510015399",
+    "raison_sociale": "SESSAD DE L'ASS. \"PEP\"",
+    "numero voie": "11",
+    "type_voie": "CHE",
+    "libelle_voie": "DES FORGES",
+    "bp": "",
+    "cp": "51530",
+    "VILLE": "PIERRY ",
+    "tel": "326323807",
+    "telecopie": "326547225",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "31108757100056",
+    "lng": "3.94709799178904",
+    "lat": "49.0263121858562"
+  },
+  {
+    "finess": "510019680",
+    "raison_sociale": "SELARL PHARMACIE DE PIERRY",
+    "numero voie": "51",
+    "type_voie": "R",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "51530",
+    "VILLE": "PIERRY ",
+    "tel": "326540279",
+    "telecopie": "326561952",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83007839000010",
+    "lng": "3.93986355129513",
+    "lat": "49.0204564935124"
+  },
+  {
+    "finess": "510021348",
+    "raison_sociale": "ITEP LES FORGES",
+    "numero voie": "11",
+    "type_voie": "CHE",
+    "libelle_voie": "DES FORGES",
+    "bp": "",
+    "cp": "51530",
+    "VILLE": "PIERRY ",
+    "tel": "326323807",
+    "telecopie": "326524275",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "31108757100072",
+    "lng": "3.94709799178904",
+    "lat": "49.0263121858562"
+  }
+]

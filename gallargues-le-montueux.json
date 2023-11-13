@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "300006145",
+    "raison_sociale": "PHARMACIE GALLARGUES-LE-MONTUEUX",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DES AIGUILLONS",
+    "bp": "",
+    "cp": "30660",
+    "VILLE": "GALLARGUES LE MONTUEUX    ",
+    "tel": "466350173",
+    "telecopie": "466515711",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88307013800010",
+    "lng": "4.17725043529883",
+    "lat": "43.719480573051"
+  },
+  {
+    "finess": "300019627",
+    "raison_sociale": "MFR PETITE CAMARGUES",
+    "numero voie": "560",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LA PLAGE",
+    "bp": "",
+    "cp": "30660",
+    "VILLE": "GALLARGUES LE MONTUEUX    ",
+    "tel": "466352662",
+    "telecopie": "",
+    "categorie etablissement": "330",
+    "libelle categorie": "Ecoles Formant aux Professions Sociales",
+    "siret": "35267239800034",
+    "lng": "4.18225337519536",
+    "lat": "43.7150310713843"
+  },
+  {
+    "finess": "300780491",
+    "raison_sociale": "CL LES OLIVIERS GALLARGUES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "CABASSU",
+    "bp": "BP 1",
+    "cp": "30660",
+    "VILLE": "GALLARGUES LE MONTUEUX    ",
+    "tel": "466359200",
+    "telecopie": "466359250",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "68020147200015",
+    "lng": "4.17108672420941",
+    "lat": "43.7299494366054"
+  }
+]

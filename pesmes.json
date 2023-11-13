@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "700001019",
+    "raison_sociale": "EHPAD SAINT HILAIRE",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DES CAPUCINS",
+    "bp": "",
+    "cp": "70140",
+    "VILLE": "PESMES ",
+    "tel": "384312868",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "",
+    "lng": "5.56324282276839",
+    "lat": "47.2814779862783"
+  },
+  {
+    "finess": "700002496",
+    "raison_sociale": "PHARMACIE DU CENTRE",
+    "numero voie": "22",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "70140",
+    "VILLE": "PESMES ",
+    "tel": "384312065",
+    "telecopie": "384312911",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48187434500012",
+    "lng": "5.56351334265875",
+    "lat": "47.2792697435023"
+  },
+  {
+    "finess": "700005192",
+    "raison_sociale": "MAISON SANTE PLURIDISCIPLINAIRE PESMES",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA TUILERIE",
+    "bp": "",
+    "cp": "70140",
+    "VILLE": "PESMES ",
+    "tel": "384312204",
+    "telecopie": "384312560",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "84059472500011",
+    "lng": "5.56768048001633",
+    "lat": "47.2818013766851"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "430009183",
+    "raison_sociale": "CADA LÉO LAGRANGE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LA GARE",
+    "cp": "43100",
+    "VILLE": "ST BEAUZIRE",
+    "tel": "471768008",
+    "telecopie": "",
+    "categorie etablissement": "443",
+    "libelle categorie": "Centre Accueil Demandeurs Asile (C.A.D.A.)",
+    "siret": "32368669100243",
+    "lng": "3.29986487047523",
+    "lat": "45.2743443363948"
+  },
+  {
+    "finess": "630008233",
+    "raison_sociale": "PHARMACIE L. FOUCHARD",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE RIOM",
+    "bp": "",
+    "cp": "63360",
+    "VILLE": "ST BEAUZIRE",
+    "tel": "473339012",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40167615000022",
+    "lng": "3.18022169138711",
+    "lat": "45.8515572720282"
+  }
+]

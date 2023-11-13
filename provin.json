@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590011508",
+    "raison_sociale": "EHPAD TEMPS DE VIE PROVIN",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "JEAN BAPTISTE LEBAS",
+    "bp": "",
+    "cp": "59185",
+    "VILLE": "PROVIN ",
+    "tel": "320545037",
+    "telecopie": "320774017",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "",
+    "lng": "2.91384366476228",
+    "lat": "50.514387579535"
+  },
+  {
+    "finess": "590026183",
+    "raison_sociale": "PHARMACIE DE LA SOURCE",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "JULES GUESDE",
+    "bp": "",
+    "cp": "59185",
+    "VILLE": "PROVIN ",
+    "tel": "320866556",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "91524537700014",
+    "lng": "2.90667849127194",
+    "lat": "50.5112982839837"
+  }
+]

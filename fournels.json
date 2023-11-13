@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "480001254",
+    "raison_sociale": "EHPAD L'ALISIER",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "D'ALBARET LE COMTAL",
+    "bp": "",
+    "cp": "48310",
+    "VILLE": "FOURNELS ",
+    "tel": "466940214",
+    "telecopie": "466940215",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "47843906000011",
+    "lng": "3.12153692657014",
+    "lat": "44.822933570017"
+  },
+  {
+    "finess": "480003144",
+    "raison_sociale": "PROPHARMACIE MR BASTIEN ARPAJOU",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LA VACHELLERIE",
+    "bp": "",
+    "cp": "48310",
+    "VILLE": "FOURNELS ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "627",
+    "libelle categorie": "Propharmacie",
+    "siret": "81508854700022",
+    "lng": "3.118386279676",
+    "lat": "44.8184092358921"
+  }
+]

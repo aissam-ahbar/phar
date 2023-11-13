@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "620005397",
+    "raison_sociale": "SARL PHARMACIE AERTS",
+    "numero voie": "47",
+    "type_voie": "R",
+    "libelle_voie": "ROGER SALENGRO",
+    "bp": "",
+    "cp": "62223",
+    "VILLE": "ANZIN ST AUBIN    ",
+    "tel": "321734098",
+    "telecopie": "321076308",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45372037700010",
+    "lng": "2.75092240887353",
+    "lat": "50.3098645864876"
+  },
+  {
+    "finess": "620025833",
+    "raison_sociale": "SSIAD ADMR D'ARRAS ET ENVIRONS",
+    "numero voie": "501",
+    "type_voie": "R",
+    "libelle_voie": "DES FILATIERS",
+    "bp": "",
+    "cp": "62223",
+    "VILLE": "ANZIN ST AUBIN    ",
+    "tel": "321150416",
+    "telecopie": "961472739",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "51106733200029",
+    "lng": "2.75557170737584",
+    "lat": "50.3135981407652"
+  }
+]

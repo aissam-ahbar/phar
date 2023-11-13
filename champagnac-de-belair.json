@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "240013706",
+    "raison_sociale": "PHARMACIE DE CHAMPAGNAC DE BELAIR",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "24530",
+    "VILLE": "CHAMPAGNAC DE BELAIR    ",
+    "tel": "553049766",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75314474000028",
+    "lng": "0.698688653911075",
+    "lat": "45.393944547862"
+  },
+  {
+    "finess": "240014506",
+    "raison_sociale": "EHPAD RESIDENCE LES CHAMINADES",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DES CHAMINADES",
+    "bp": "",
+    "cp": "24530",
+    "VILLE": "CHAMPAGNAC DE BELAIR    ",
+    "tel": "553137440",
+    "telecopie": "553047451",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "48008096900318",
+    "lng": "0.699745964820899",
+    "lat": "45.3888143856971"
+  }
+]

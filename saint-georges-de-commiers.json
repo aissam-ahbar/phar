@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380009472",
+    "raison_sociale": "PHARMACIE SAUVAIRE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "38450",
+    "VILLE": "ST GEORGES DE COMMIERS   ",
+    "tel": "476725390",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "43319437000014",
+    "lng": "5.70181036074691",
+    "lat": "45.039459889093"
+  },
+  {
+    "finess": "380012948",
+    "raison_sociale": "EHPAD LE CHANT DU RAVINSON",
+    "numero voie": "25",
+    "type_voie": "R",
+    "libelle_voie": "DES TILLERETS",
+    "bp": "",
+    "cp": "38450",
+    "VILLE": "ST GEORGES DE COMMIERS   ",
+    "tel": "476131198",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77559584600459",
+    "lng": "5.7100813412576",
+    "lat": "45.048251797007"
+  }
+]

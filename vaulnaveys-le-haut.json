@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "380011502",
+    "raison_sociale": "PHARMACIE ROMEO",
+    "numero voie": "529",
+    "type_voie": "AV",
+    "libelle_voie": "d'Uriage",
+    "bp": "",
+    "cp": "38410",
+    "VILLE": "VAULNAVEYS LE HAUT    ",
+    "tel": "476891653",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80447737000014",
+    "lng": "5.81075213890073",
+    "lat": "45.1187431087332"
+  },
+  {
+    "finess": "380022582",
+    "raison_sociale": "MAISON DE SANTE DE VAULNAVEYS",
+    "numero voie": "655",
+    "type_voie": "AV",
+    "libelle_voie": "D'URIAGE",
+    "bp": "",
+    "cp": "38410",
+    "VILLE": "VAULNAVEYS LE HAUT    ",
+    "tel": "679163050",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "88289250800012",
+    "lng": "5.81128533828787",
+    "lat": "45.1197549719447"
+  },
+  {
+    "finess": "380026112",
+    "raison_sociale": "RESIDENCE AUTONOMIE LE VERNON",
+    "numero voie": "2560",
+    "type_voie": "AV",
+    "libelle_voie": "D'URIAGE",
+    "bp": "LE VERNON",
+    "cp": "38410",
+    "VILLE": "VAULNAVEYS LE HAUT    ",
+    "tel": "438420320",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "32735516000067",
+    "lng": "5.81667673311071",
+    "lat": "45.126410447161"
+  }
+]

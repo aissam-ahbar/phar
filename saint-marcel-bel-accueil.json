@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380795906",
+    "raison_sociale": "SCE TRAV.FAMIL.ST-MARCEL-BEL-AC",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38080",
+    "VILLE": "ST MARCEL BEL ACCUEIL   ",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37912872100014",
+    "lng": "5.23659892712232",
+    "lat": "45.6474297775348"
+  },
+  {
+    "finess": "380796417",
+    "raison_sociale": "SERVICE D'AIDES MENAGERES DE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38080",
+    "VILLE": "ST MARCEL BEL ACCUEIL   ",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37924003900014",
+    "lng": "5.23659892712232",
+    "lat": "45.6474297775348"
+  }
+]

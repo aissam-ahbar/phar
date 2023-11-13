@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "20003265",
+    "raison_sociale": "SELARL PHARMACIE DE CHEZY SUR MARNE",
+    "numero voie": "10",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "2570",
+    "VILLE": "CHEZY SUR MARNE    ",
+    "tel": "323828698",
+    "telecopie": "323821983",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84499005100014",
+    "lng": "3.36631841452407",
+    "lat": "48.9881359635143"
+  },
+  {
+    "finess": "20004008",
+    "raison_sociale": "EHPAD PORTES CHAMPAGNE CHÉZY-SUR-MARNE",
+    "numero voie": "25",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "2570",
+    "VILLE": "CHEZY SUR MARNE    ",
+    "tel": "323825959",
+    "telecopie": "323825958",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "",
+    "lng": "3.36673763122556",
+    "lat": "48.9877129478404"
+  }
+]

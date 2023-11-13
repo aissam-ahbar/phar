@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "330043589",
+    "raison_sociale": "MAISON RELAIS LA BERGERIE",
+    "numero voie": "14",
+    "type_voie": "RTE",
+    "libelle_voie": "DU LEU",
+    "bp": "",
+    "cp": "33450",
+    "VILLE": "ST SULPICE ET CAMEYRAC   ",
+    "tel": "557832693",
+    "telecopie": "",
+    "categorie etablissement": "258",
+    "libelle categorie": "Maisons Relais - Pensions de Famille",
+    "siret": "30664083000023",
+    "lng": "-0.369985342259244",
+    "lat": "44.899261383314"
+  },
+  {
+    "finess": "330051897",
+    "raison_sociale": "PHARMACIE  BIRAULT",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DE LAGRAULA",
+    "bp": "",
+    "cp": "33450",
+    "VILLE": "ST SULPICE ET CAMEYRAC   ",
+    "tel": "556308305",
+    "telecopie": "556308305",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38236485900019",
+    "lng": "-0.37113412213778",
+    "lat": "44.9057383639384"
+  }
+]

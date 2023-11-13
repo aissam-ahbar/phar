@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "60005576",
+    "raison_sociale": "SELARL PHARMACIE GRANDJEAN",
+    "numero voie": "380",
+    "type_voie": "RTE",
+    "libelle_voie": "DE DRAGUIGNAN",
+    "bp": "",
+    "cp": "6530",
+    "VILLE": "LE TIGNET",
+    "tel": "493660936",
+    "telecopie": "493660926",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "43152087300016",
+    "lng": "6.85568628078354",
+    "lat": "43.6354049140846"
+  },
+  {
+    "finess": "60026820",
+    "raison_sociale": "SAAD SERVICES AUX PARTICULIERS SP06",
+    "numero voie": "1377",
+    "type_voie": "CHE",
+    "libelle_voie": "DES MOULINS",
+    "bp": "",
+    "cp": "6530",
+    "VILLE": "LE TIGNET",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "48467415500029",
+    "lng": "6.83602804440992",
+    "lat": "43.6316218446946"
+  }
+]

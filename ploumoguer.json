@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "290014133",
+    "raison_sociale": "PHARMACIE DE LA MER D'IROISE",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "DU STADE HUON DE KERMADEC",
+    "bp": "",
+    "cp": "29810",
+    "VILLE": "PLOUMOGUER ",
+    "tel": "298896843",
+    "telecopie": "298893498",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "89445467700010",
+    "lng": "-4.72227501022677",
+    "lat": "48.4031492072259"
+  },
+  {
+    "finess": "290038884",
+    "raison_sociale": "MSP DE PLOUMOGUER",
+    "numero voie": "35",
+    "type_voie": "R",
+    "libelle_voie": "DU STADE HUON DE KERMADEC",
+    "bp": "",
+    "cp": "29810",
+    "VILLE": "PLOUMOGUER ",
+    "tel": "229003153",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "91242243300017",
+    "lng": "-4.72227501022677",
+    "lat": "48.4031492072259"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "500011010",
+    "raison_sociale": "PHARMACIE DU SENEQUET",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU LITTORAL",
+    "bp": "",
+    "cp": "50560",
+    "VILLE": "GOUVILLE SUR MER    ",
+    "tel": "233478567",
+    "telecopie": "233473699",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "43992976100021",
+    "lng": "-1.5841465630161",
+    "lat": "49.0913908599613"
+  },
+  {
+    "finess": "500012968",
+    "raison_sociale": "CENTRE D'AIDE AUX JEUNES DIABETIQUES",
+    "numero voie": "39",
+    "type_voie": "RTE",
+    "libelle_voie": "DU LITTORAL",
+    "bp": "",
+    "cp": "50560",
+    "VILLE": "GOUVILLE SUR MER    ",
+    "tel": "233479929",
+    "telecopie": "",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "77568883100160",
+    "lng": "-1.58342170380036",
+    "lat": "49.0940943227879"
+  }
+]

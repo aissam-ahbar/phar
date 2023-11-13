@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "590029955",
+    "raison_sociale": "PHARMACIE DES IRIS",
+    "numero voie": "4",
+    "type_voie": "",
+    "libelle_voie": "GRAND RUE",
+    "bp": "",
+    "cp": "59181",
+    "VILLE": "STEENWERCK ",
+    "tel": "328499458",
+    "telecopie": "328404138",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82855572200010",
+    "lng": "2.77589244330288",
+    "lat": "50.7004557723753"
+  },
+  {
+    "finess": "590782850",
+    "raison_sociale": "EHPAD RESIDENCE ABBE LEFRANCOIS",
+    "numero voie": "24",
+    "type_voie": "R",
+    "libelle_voie": "DU STADE",
+    "bp": "",
+    "cp": "59181",
+    "VILLE": "STEENWERCK ",
+    "tel": "328499659",
+    "telecopie": "328400467",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26590754300010",
+    "lng": "2.7796783909692",
+    "lat": "50.6986938769474"
+  },
+  {
+    "finess": "590811675",
+    "raison_sociale": "SCE D'AIDE A DOMICILE",
+    "numero voie": "12",
+    "type_voie": "R",
+    "libelle_voie": "DE NIEPPE",
+    "bp": "",
+    "cp": "59181",
+    "VILLE": "STEENWERCK ",
+    "tel": "328499958",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "78383376700040",
+    "lng": "2.77994298411207",
+    "lat": "50.7011826746698"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "240007302",
+    "raison_sociale": "SAAD ADMR VERTEILLAC",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE BOURG",
+    "bp": "",
+    "cp": "24320",
+    "VILLE": "VERTEILLAC ",
+    "tel": "553906039",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32101710500024",
+    "lng": "0.36564560220294",
+    "lat": "45.3495934646657"
+  },
+  {
+    "finess": "240013003",
+    "raison_sociale": "SNC ALAIN BALLOUT",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "PUYMONZAC",
+    "bp": "",
+    "cp": "24320",
+    "VILLE": "VERTEILLAC ",
+    "tel": "553914062",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "35043895800026",
+    "lng": "0.368369934428783",
+    "lat": "45.3478592541003"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "490002227",
+    "raison_sociale": "EHPAD ESBV MAZE",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "PAUL RICHOU",
+    "bp": "",
+    "cp": "49630",
+    "VILLE": "MAZE MILON",
+    "tel": "241806027",
+    "telecopie": "241806937",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26490664500090",
+    "lng": "-0.271904112326402",
+    "lat": "47.4554501896118"
+  },
+  {
+    "finess": "490022407",
+    "raison_sociale": "SAAD KAZALIS - RESIDENCE HESTIA",
+    "numero voie": "25",
+    "type_voie": "ALL",
+    "libelle_voie": "DES COUDRIERS",
+    "bp": "",
+    "cp": "49630",
+    "VILLE": "MAZE MILON",
+    "tel": "241667832",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "85245555900017",
+    "lng": "-0.269952306894527",
+    "lat": "47.4578997842291"
+  },
+  {
+    "finess": "490533510",
+    "raison_sociale": "SELARL CATHERINE COUSEIN",
+    "numero voie": "37",
+    "type_voie": "R",
+    "libelle_voie": "Principale",
+    "bp": "",
+    "cp": "49630",
+    "VILLE": "MAZE MILON",
+    "tel": "241802554",
+    "telecopie": "241802861",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53213842700028",
+    "lng": "-0.267222272392311",
+    "lat": "47.454763686388"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "90782095",
+    "raison_sociale": "MAS DE GUILHOT",
+    "numero voie": "5",
+    "type_voie": "RTE",
+    "libelle_voie": "DE GUILHOT",
+    "bp": "BP 1",
+    "cp": "9100",
+    "VILLE": "BENAGUES ",
+    "tel": "561679808",
+    "telecopie": "561679819",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "77668114000062",
+    "lng": "1.61822469165534",
+    "lat": "43.0714437380597"
+  },
+  {
+    "finess": "90784091",
+    "raison_sociale": "EAM DE GUILHOT",
+    "numero voie": "5",
+    "type_voie": "RTE",
+    "libelle_voie": "DE GUILHOT",
+    "bp": "",
+    "cp": "9100",
+    "VILLE": "BENAGUES ",
+    "tel": "561679811",
+    "telecopie": "561679822",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "77668114000245",
+    "lng": "1.61822469165534",
+    "lat": "43.0714437380597"
+  }
+]

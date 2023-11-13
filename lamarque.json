@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "330047192",
+    "raison_sociale": "PHARMACIE MASSON",
+    "numero voie": "3",
+    "type_voie": "CHE",
+    "libelle_voie": "du Cartillon",
+    "bp": "",
+    "cp": "33460",
+    "VILLE": "LAMARQUE ",
+    "tel": "556589005",
+    "telecopie": "557885004",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49997661100024",
+    "lng": "-0.717562358403828",
+    "lat": "45.0957886163047"
+  },
+  {
+    "finess": "330786302",
+    "raison_sociale": "EHPAD LE RETOU",
+    "numero voie": "21",
+    "type_voie": "RTE",
+    "libelle_voie": "DE PAUILLAC",
+    "bp": "",
+    "cp": "33460",
+    "VILLE": "LAMARQUE ",
+    "tel": "556589014",
+    "telecopie": "556589598",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "48008096900854",
+    "lng": "-0.726718428229561",
+    "lat": "45.0945975133679"
+  }
+]

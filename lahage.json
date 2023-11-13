@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "310782545",
+    "raison_sociale": "FOYER DE VIE SAINT MEDARD SITE LAHAGE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "31370",
+    "VILLE": "LAHAGE ",
+    "tel": "561915980",
+    "telecopie": "561915981",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "77572842100022",
+    "lng": "1.06120807674055",
+    "lat": "43.4408019799552"
+  },
+  {
+    "finess": "310790480",
+    "raison_sociale": "ESAT LA FERME",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "31370",
+    "VILLE": "LAHAGE ",
+    "tel": "561915950",
+    "telecopie": "561915951",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77572842100071",
+    "lng": "1.06120807674055",
+    "lat": "43.4408019799552"
+  }
+]

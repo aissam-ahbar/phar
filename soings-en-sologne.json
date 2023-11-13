@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "410005490",
+    "raison_sociale": "RASPA RESIDENCE ACCUEIL SOLOGNE",
+    "numero voie": "12",
+    "type_voie": "R",
+    "libelle_voie": "DE LA SAUVEE",
+    "bp": "",
+    "cp": "41230",
+    "VILLE": "SOINGS EN SOLOGNE    ",
+    "tel": "254987660",
+    "telecopie": "254987655",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "21410247700079",
+    "lng": "1.52284320665339",
+    "lat": "47.4102491329777"
+  },
+  {
+    "finess": "410006720",
+    "raison_sociale": "S.E.L.A.R.L. PHARMACIE TRESTARD",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DE BLOIS",
+    "bp": "",
+    "cp": "41230",
+    "VILLE": "SOINGS EN SOLOGNE    ",
+    "tel": "254987292",
+    "telecopie": "254987719",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81197531700017",
+    "lng": "1.52495610189418",
+    "lat": "47.4131867914117"
+  },
+  {
+    "finess": "410010797",
+    "raison_sociale": "POLE SMS (SANTE MUR SOING) - ET",
+    "numero voie": "14",
+    "type_voie": "R",
+    "libelle_voie": "DE LA SAUVÉE",
+    "bp": "",
+    "cp": "41230",
+    "VILLE": "SOINGS EN SOLOGNE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "87920026900014",
+    "lng": "1.52206737058154",
+    "lat": "47.4095252954994"
+  }
+]

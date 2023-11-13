@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "100002377",
+    "raison_sociale": "SELARL PHARMACIE FOULON",
+    "numero voie": "35",
+    "type_voie": "AV",
+    "libelle_voie": "DU MARECHAL FOCH",
+    "bp": "",
+    "cp": "10280",
+    "VILLE": "FONTAINE LES GRES    ",
+    "tel": "325702236",
+    "telecopie": "325702245",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83474549900014",
+    "lng": "3.92007046378484",
+    "lat": "48.4218111271905"
+  },
+  {
+    "finess": "100006907",
+    "raison_sociale": "EHPAD STE MARTHE",
+    "numero voie": "59",
+    "type_voie": "AV",
+    "libelle_voie": "FOCH",
+    "bp": "",
+    "cp": "10280",
+    "VILLE": "FONTAINE LES GRES    ",
+    "tel": "325702630",
+    "telecopie": "325766257",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26100787600020",
+    "lng": "3.91692905045823",
+    "lat": "48.426611085724"
+  }
+]

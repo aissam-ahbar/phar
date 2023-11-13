@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "310010715",
+    "raison_sociale": "SELARL PHARMACIE DE ROQUETTES",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "Colette Besson",
+    "bp": "",
+    "cp": "31120",
+    "VILLE": "ROQUETTES ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88463123500097",
+    "lng": "1.38075361331438",
+    "lat": "43.4902798160155"
+  },
+  {
+    "finess": "310021456",
+    "raison_sociale": "EHPAD MBV-BELLAGARDEL",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "LA CANAL",
+    "bp": "",
+    "cp": "31120",
+    "VILLE": "ROQUETTES ",
+    "tel": "534567676",
+    "telecopie": "561439996",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "44456253200192",
+    "lng": "1.36791628601219",
+    "lat": "43.4939460844864"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "290004662",
+    "raison_sociale": "EHPAD DU GUIC",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "HENT AR STOUP",
+    "bp": "",
+    "cp": "29650",
+    "VILLE": "GUERLESQUIN ",
+    "tel": "298728249",
+    "telecopie": "298728856",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26290064000026",
+    "lng": "-3.58945105218601",
+    "lat": "48.5148233073336"
+  },
+  {
+    "finess": "290012590",
+    "raison_sociale": "SELARL PHARMACIE DE GUERLESQUIN",
+    "numero voie": "32",
+    "type_voie": "R",
+    "libelle_voie": "du Général de Gaulle",
+    "bp": "",
+    "cp": "29650",
+    "VILLE": "GUERLESQUIN ",
+    "tel": "298728789",
+    "telecopie": "298729084",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82449422300020",
+    "lng": "-3.58837426309302",
+    "lat": "48.517041547241"
+  },
+  {
+    "finess": "290021716",
+    "raison_sociale": "SAAD CCAS GUERLESQUIN",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DU MARTRAY",
+    "bp": "",
+    "cp": "29650",
+    "VILLE": "GUERLESQUIN ",
+    "tel": "298728179",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26290064000034",
+    "lng": "-3.5883351896181",
+    "lat": "48.5171737098436"
+  }
+]

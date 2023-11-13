@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "570016915",
+    "raison_sociale": "PHARMACIE SAINTE LUCIE",
+    "numero voie": "21",
+    "type_voie": "R",
+    "libelle_voie": "D INGWILLER",
+    "bp": "",
+    "cp": "57620",
+    "VILLE": "GOETZENBRUCK ",
+    "tel": "387968845",
+    "telecopie": "387969654",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79033677000017",
+    "lng": "7.37841931859829",
+    "lat": "48.9757670147793"
+  },
+  {
+    "finess": "570026757",
+    "raison_sociale": "MAISON DE SANTE \" LES VERRIERS \"",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE BITCHE",
+    "bp": "",
+    "cp": "57620",
+    "VILLE": "GOETZENBRUCK ",
+    "tel": "387062904",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "7.38062501888236",
+    "lat": "48.9840575188994"
+  }
+]

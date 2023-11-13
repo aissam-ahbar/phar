@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "410003156",
+    "raison_sociale": "PHARMACIE DE BIGAULT",
+    "numero voie": "27",
+    "type_voie": "R",
+    "libelle_voie": "HENRI DE GEOFFRE",
+    "bp": "",
+    "cp": "41210",
+    "VILLE": "NEUNG SUR BEUVRON    ",
+    "tel": "254836226",
+    "telecopie": "254836759",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80451529400010",
+    "lng": "1.80470099266947",
+    "lat": "47.5347342238028"
+  },
+  {
+    "finess": "410006878",
+    "raison_sociale": "EHPAD L OREE DES PINS",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU STADE",
+    "bp": "",
+    "cp": "41210",
+    "VILLE": "NEUNG SUR BEUVRON    ",
+    "tel": "254956550",
+    "telecopie": "254837350",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20001328200047",
+    "lng": "1.80619510627532",
+    "lat": "47.5347963450448"
+  },
+  {
+    "finess": "410011126",
+    "raison_sociale": "CPTS SOLOGNE",
+    "numero voie": "27",
+    "type_voie": "R",
+    "libelle_voie": "HENRY DE GEOFFRE",
+    "bp": "",
+    "cp": "41210",
+    "VILLE": "NEUNG SUR BEUVRON    ",
+    "tel": "659767968",
+    "telecopie": "",
+    "categorie etablissement": "604",
+    "libelle categorie": "Communautés professionnelles territoriales de santé (CPTS)",
+    "siret": "91145047600013",
+    "lng": "1.80470099266947",
+    "lat": "47.5347342238028"
+  }
+]

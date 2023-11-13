@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "690012604",
+    "raison_sociale": "PHARMACIE DE SAINT GEORGES",
+    "numero voie": "161",
+    "type_voie": "AV",
+    "libelle_voie": "CHARLES DE GAULLE",
+    "bp": "",
+    "cp": "69830",
+    "VILLE": "ST GEORGES DE RENEINS   ",
+    "tel": "474676350",
+    "telecopie": "474677411",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53026983600017",
+    "lng": "4.72288620745701",
+    "lat": "46.0634649478476"
+  },
+  {
+    "finess": "690048897",
+    "raison_sociale": "CPTS BEAUJOLAIS DOMBES",
+    "numero voie": "115",
+    "type_voie": "R",
+    "libelle_voie": "DU BEAUJOLAIS",
+    "bp": "",
+    "cp": "69830",
+    "VILLE": "ST GEORGES DE RENEINS   ",
+    "tel": "620633536",
+    "telecopie": "",
+    "categorie etablissement": "604",
+    "libelle categorie": "Communautés professionnelles territoriales de santé (CPTS)",
+    "siret": "88171724300011",
+    "lng": "4.71734080015242",
+    "lat": "46.0625627815434"
+  },
+  {
+    "finess": "690806484",
+    "raison_sociale": "EHPAD LES JARDINS D'ANNE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DES JARDINS",
+    "bp": "",
+    "cp": "69830",
+    "VILLE": "ST GEORGES DE RENEINS   ",
+    "tel": "474677584",
+    "telecopie": "474097817",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26691028000020",
+    "lng": "4.7208872674327",
+    "lat": "46.0616101213453"
+  }
+]

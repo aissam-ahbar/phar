@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "140006370",
+    "raison_sociale": "SAD ASS LOCALE ADMR DE SAINT SYLVAIN",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DES CANADIENS",
+    "bp": "",
+    "cp": "14190",
+    "VILLE": "ST SYLVAIN",
+    "tel": "231783380",
+    "telecopie": "231783380",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32028026600018",
+    "lng": "-0.219221711768056",
+    "lat": "49.0566491063993"
+  },
+  {
+    "finess": "140011149",
+    "raison_sociale": "PHARMACIE DE SAINT-SYLVAIN",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "Saint-Martin-des-Bois",
+    "bp": "",
+    "cp": "14190",
+    "VILLE": "ST SYLVAIN",
+    "tel": "231781041",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81953194800019",
+    "lng": "-0.215135623724686",
+    "lat": "49.0565138065202"
+  },
+  {
+    "finess": "140034265",
+    "raison_sociale": "MSP SAINT SYLVAIN",
+    "numero voie": "1",
+    "type_voie": "IMP",
+    "libelle_voie": "DES SEMENCES",
+    "bp": "",
+    "cp": "14190",
+    "VILLE": "ST SYLVAIN",
+    "tel": "231781294",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "92271901800017",
+    "lng": "-0.218617050767815",
+    "lat": "49.0566581157943"
+  }
+]

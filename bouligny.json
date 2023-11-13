@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "550001168",
+    "raison_sociale": "CSP FILIERIS DE BOULIGNY",
+    "numero voie": "3",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MINE",
+    "bp": "",
+    "cp": "55240",
+    "VILLE": "BOULIGNY ",
+    "tel": "329879221",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "77568531604019",
+    "lng": "5.72980154798575",
+    "lat": "49.2911482068044"
+  },
+  {
+    "finess": "550001366",
+    "raison_sociale": "PHARMACIE DE BOULIGNY",
+    "numero voie": "217",
+    "type_voie": "R",
+    "libelle_voie": "DE LA LIBERATION",
+    "bp": "",
+    "cp": "55240",
+    "VILLE": "BOULIGNY ",
+    "tel": "329879317",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "33211716700012",
+    "lng": "5.72105499731943",
+    "lat": "49.2900693906193"
+  },
+  {
+    "finess": "550003594",
+    "raison_sociale": "MAISON DE RETRAITE VICTOR BONAL",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "FONTAINE",
+    "bp": "",
+    "cp": "55240",
+    "VILLE": "BOULIGNY ",
+    "tel": "329879324",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "25550218900020",
+    "lng": "5.7417532872343",
+    "lat": "49.2920303879939"
+  }
+]

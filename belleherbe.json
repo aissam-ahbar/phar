@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "250003365",
+    "raison_sociale": "PHARMACIE DE BELLEHERBE -PHIE GROSSOT",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA POSTE",
+    "bp": "",
+    "cp": "25380",
+    "VILLE": "BELLEHERBE ",
+    "tel": "381443351",
+    "telecopie": "381443406",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "87928653200012",
+    "lng": "6.65450661278024",
+    "lat": "47.2590704828242"
+  },
+  {
+    "finess": "250009917",
+    "raison_sociale": "SCE DE TRAVAILLEUSES FAMILIALES",
+    "numero voie": "1",
+    "type_voie": "ALL",
+    "libelle_voie": "DES SAPINS",
+    "bp": "",
+    "cp": "25380",
+    "VILLE": "BELLEHERBE ",
+    "tel": "381443279",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "30587707800025",
+    "lng": "6.65618078745186",
+    "lat": "47.2595701312154"
+  },
+  {
+    "finess": "250009925",
+    "raison_sociale": "SERVICE D'AIDES MENAGERES",
+    "numero voie": "1",
+    "type_voie": "ALL",
+    "libelle_voie": "DES SAPINS",
+    "bp": "",
+    "cp": "25380",
+    "VILLE": "BELLEHERBE ",
+    "tel": "381443279",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "30587707800025",
+    "lng": "6.65618078745186",
+    "lat": "47.2595701312154"
+  }
+]

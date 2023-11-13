@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "580002368",
+    "raison_sociale": "SSIAD TANNAY",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DE LA HALLE",
+    "bp": "",
+    "cp": "58190",
+    "VILLE": "TANNAY ",
+    "tel": "386298138",
+    "telecopie": "386200078",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "",
+    "lng": "3.59095483752633",
+    "lat": "47.3665007728252"
+  },
+  {
+    "finess": "580003291",
+    "raison_sociale": "PHARMACIE SOPHIE PERCHERON",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "58190",
+    "VILLE": "TANNAY ",
+    "tel": "386298377",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81862887700016",
+    "lng": "3.59204259358354",
+    "lat": "47.367451291164"
+  },
+  {
+    "finess": "580006500",
+    "raison_sociale": "MAISON DE SANTE TANNAYSIENNE",
+    "numero voie": "8",
+    "type_voie": "PL",
+    "libelle_voie": "CHARLES CHAIGNEAU",
+    "bp": "",
+    "cp": "58190",
+    "VILLE": "TANNAY ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "82337389900025",
+    "lng": "3.59090496924125",
+    "lat": "47.3670258660118"
+  }
+]

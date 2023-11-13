@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "190002089",
+    "raison_sociale": "EANM FOYER DE FAUGERAS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "CHATEAU DE FAUGERAS",
+    "bp": "",
+    "cp": "19140",
+    "VILLE": "CONDAT SUR GANAVEIX    ",
+    "tel": "555732808",
+    "telecopie": "555738868",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "42006224200011",
+    "lng": "1.59061459596976",
+    "lat": "45.4506143233268"
+  },
+  {
+    "finess": "190011403",
+    "raison_sociale": "FAM DE FAUGERAS CONDAT SUR GANAVEIX",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "FAUGERAS",
+    "cp": "19140",
+    "VILLE": "CONDAT SUR GANAVEIX    ",
+    "tel": "555732808",
+    "telecopie": "555738868",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "42006224200029",
+    "lng": "1.59061459596976",
+    "lat": "45.4506143233268"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "580000743",
+    "raison_sociale": "SSIAD ENTRAINS SUR NOHAIN",
+    "numero voie": "5",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "58410",
+    "VILLE": "ENTRAINS SUR NOHAIN    ",
+    "tel": "386292838",
+    "telecopie": "386292540",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "30805046700064",
+    "lng": "3.25605989536975",
+    "lat": "47.4640676319149"
+  },
+  {
+    "finess": "580001865",
+    "raison_sociale": "PHARMACIE MODERNE",
+    "numero voie": "4",
+    "type_voie": "PL",
+    "libelle_voie": "DU MARCHE",
+    "bp": "",
+    "cp": "58410",
+    "VILLE": "ENTRAINS SUR NOHAIN    ",
+    "tel": "386292232",
+    "telecopie": "386292378",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48114979700013",
+    "lng": "3.25561031086432",
+    "lat": "47.4630424146962"
+  },
+  {
+    "finess": "580970473",
+    "raison_sociale": "EHPAD DU HAUT NOHAIN",
+    "numero voie": "5",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "58410",
+    "VILLE": "ENTRAINS SUR NOHAIN    ",
+    "tel": "386292431",
+    "telecopie": "386292540",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "",
+    "lng": "3.25605989536975",
+    "lat": "47.4640676319149"
+  }
+]

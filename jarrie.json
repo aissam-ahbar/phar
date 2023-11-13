@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "380007617",
+    "raison_sociale": "PHARMACIE BONNET EMILIE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "GEORGES CLEMENCEAU",
+    "bp": "",
+    "cp": "38560",
+    "VILLE": "JARRIE ",
+    "tel": "476688732",
+    "telecopie": "476687353",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79842588000019",
+    "lng": "5.74225921899262",
+    "lat": "45.0865536760601"
+  },
+  {
+    "finess": "380007633",
+    "raison_sociale": "PHARMACIE CHEVALIER-LY",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LES SIMIANES",
+    "bp": "",
+    "cp": "38560",
+    "VILLE": "JARRIE ",
+    "tel": "476720636",
+    "telecopie": "476720333",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81169976800016",
+    "lng": "5.75763083005473",
+    "lat": "45.1152469758713"
+  },
+  {
+    "finess": "380022616",
+    "raison_sociale": "MAISON DE SANTE DE BASSE JARRIE",
+    "numero voie": "73",
+    "type_voie": "R",
+    "libelle_voie": "GEORGES VIVIER",
+    "bp": "",
+    "cp": "38560",
+    "VILLE": "JARRIE ",
+    "tel": "476686797",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "90350300100013",
+    "lng": "5.74140817136368",
+    "lat": "45.0883647835557"
+  }
+]

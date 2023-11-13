@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "670007673",
+    "raison_sociale": "SELAS PHARMACIE DE HERRLISHEIM",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "DE GAMBSHEIM",
+    "bp": "",
+    "cp": "67850",
+    "VILLE": "HERRLISHEIM ",
+    "tel": "388969822",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "92233485900019",
+    "lng": "7.90537008430986",
+    "lat": "48.7279441298813"
+  },
+  {
+    "finess": "670015445",
+    "raison_sociale": "LBM HERRLISHEIM",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE GAMBSHEIM",
+    "bp": "",
+    "cp": "67850",
+    "VILLE": "HERRLISHEIM ",
+    "tel": "388969394",
+    "telecopie": "388968883",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "44454273200151",
+    "lng": "7.90584850278106",
+    "lat": "48.7286426667208"
+  },
+  {
+    "finess": "670016195",
+    "raison_sociale": "EHPAD LE CLOS FLEURI",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DES HERONS",
+    "bp": "",
+    "cp": "67850",
+    "VILLE": "HERRLISHEIM ",
+    "tel": "388802222",
+    "telecopie": "388802265",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26670004600151",
+    "lng": "7.90303981019393",
+    "lat": "48.7276002353988"
+  }
+]

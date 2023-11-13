@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "140006271",
+    "raison_sociale": "SAD ASS LOCALE ADMR MORTEAUX-COULIBEUF",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DES ÉCOLES",
+    "bp": "",
+    "cp": "14620",
+    "VILLE": "MORTEAUX COULIBOEUF",
+    "tel": "231408524",
+    "telecopie": "231408524",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32028018300031",
+    "lng": "-0.075150760129288",
+    "lat": "48.9246196431964"
+  },
+  {
+    "finess": "140010596",
+    "raison_sociale": "PHARMACIE DES MONTS D'ERAINES",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "des Ecoles",
+    "bp": "",
+    "cp": "14620",
+    "VILLE": "MORTEAUX COULIBOEUF",
+    "tel": "231907655",
+    "telecopie": "231902973",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45394589100019",
+    "lng": "-0.075150760129288",
+    "lat": "48.9246196431964"
+  },
+  {
+    "finess": "140020728",
+    "raison_sociale": "EHPAD LES LYS BLANCS",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "14620",
+    "VILLE": "MORTEAUX COULIBOEUF",
+    "tel": "231204650",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "78076226600028",
+    "lng": "-0.075150760129288",
+    "lat": "48.9246196431964"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "590031936",
+    "raison_sociale": "PHARMACIE DES 4 RUES",
+    "numero voie": "24",
+    "type_voie": "R",
+    "libelle_voie": "MARCEL DANNA",
+    "bp": "",
+    "cp": "59135",
+    "VILLE": "WALLERS ",
+    "tel": "327356333",
+    "telecopie": "327242301",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44062550700015",
+    "lng": "3.39123726003621",
+    "lat": "50.373196159524"
+  },
+  {
+    "finess": "590035010",
+    "raison_sociale": "EHPAD RESIDENCE \"EPIS D'OR\"",
+    "numero voie": "12",
+    "type_voie": "AV",
+    "libelle_voie": "CHARLES DE GAULLE",
+    "bp": "",
+    "cp": "59135",
+    "VILLE": "WALLERS ",
+    "tel": "327304594",
+    "telecopie": "361324007",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "41986768400062",
+    "lng": "3.39138487056599",
+    "lat": "50.3710500111635"
+  },
+  {
+    "finess": "590804076",
+    "raison_sociale": "CSP FILIERIS  DE WALLERS",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DU DISPENSAIRE",
+    "bp": "",
+    "cp": "59135",
+    "VILLE": "WALLERS ",
+    "tel": "321086970",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "77568531602674",
+    "lng": "3.42939302392044",
+    "lat": "50.3806923280979"
+  }
+]

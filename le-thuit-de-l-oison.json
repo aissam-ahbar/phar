@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "270021975",
+    "raison_sociale": "PHARMACIE GERARD",
+    "numero voie": "40",
+    "type_voie": "R",
+    "libelle_voie": "HENRI DE CAMPION",
+    "bp": "LE THUIT SIGNOL",
+    "cp": "27370",
+    "VILLE": "LE THUIT DE L OISON  ",
+    "tel": "235878142",
+    "telecopie": "235872240",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75320075700015",
+    "lng": "0.938479727835974",
+    "lat": "49.2658890923529"
+  },
+  {
+    "finess": "270028376",
+    "raison_sociale": "VITALAIRE - LE THUIT DE L'OISON",
+    "numero voie": "",
+    "type_voie": "ZA",
+    "libelle_voie": "DE THUIT ANGER",
+    "bp": "HAMEAU LE CAMP PERIER",
+    "cp": "27370",
+    "VILLE": "LE THUIT DE L OISON  ",
+    "tel": "235603700",
+    "telecopie": "235603652",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "42503977300758",
+    "lng": "0.952133850516616",
+    "lat": "49.2676063476302"
+  }
+]

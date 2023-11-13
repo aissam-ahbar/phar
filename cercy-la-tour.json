@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "580001097",
+    "raison_sociale": "PHARMACIE BAL LECOINTE",
+    "numero voie": "95",
+    "type_voie": "AV",
+    "libelle_voie": "Louis Coudant",
+    "bp": "",
+    "cp": "58340",
+    "VILLE": "CERCY LA TOUR    ",
+    "tel": "386505104",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49533391600015",
+    "lng": "3.64849532696614",
+    "lat": "46.8579545272916"
+  },
+  {
+    "finess": "580780856",
+    "raison_sociale": "EHPAD CERCY LA TOUR",
+    "numero voie": "86",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CHATILLON",
+    "bp": "",
+    "cp": "58340",
+    "VILLE": "CERCY LA TOUR    ",
+    "tel": "386505944",
+    "telecopie": "386502623",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26580002900018",
+    "lng": "3.66074117794415",
+    "lat": "46.8787581096779"
+  }
+]

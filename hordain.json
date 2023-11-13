@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590019105",
+    "raison_sociale": "PHARMACIE DES ECOLES",
+    "numero voie": "14",
+    "type_voie": "R",
+    "libelle_voie": "DES ECOLES",
+    "bp": "",
+    "cp": "59111",
+    "VILLE": "HORDAIN ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82293608400026",
+    "lng": "3.31260230838892",
+    "lat": "50.2606832119018"
+  },
+  {
+    "finess": "590061271",
+    "raison_sociale": "LA VIE TRANQUILLE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "JEAN JAURES",
+    "bp": "",
+    "cp": "59111",
+    "VILLE": "HORDAIN ",
+    "tel": "327489482",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "3.31341836043317",
+    "lat": "50.2628585607926"
+  }
+]

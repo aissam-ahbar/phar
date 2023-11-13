@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "100002013",
+    "raison_sociale": "SELARL PHARMACIE DE CRENEY",
+    "numero voie": "36",
+    "type_voie": "RTE",
+    "libelle_voie": "CLAUDE BERTRAND",
+    "bp": "",
+    "cp": "10150",
+    "VILLE": "CRENEY PRES TROYES    ",
+    "tel": "325769747",
+    "telecopie": "325769747",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81437078900012",
+    "lng": "4.1297357505377",
+    "lat": "48.3303537385443"
+  },
+  {
+    "finess": "100007558",
+    "raison_sociale": "EHPAD LES JARDINS DE CRENEY",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DE L'AULNE",
+    "bp": "",
+    "cp": "10150",
+    "VILLE": "CRENEY PRES TROYES    ",
+    "tel": "325466670",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "52779981100023",
+    "lng": "4.1172827494049",
+    "lat": "48.3322256016274"
+  },
+  {
+    "finess": "100011345",
+    "raison_sociale": "MSP ACTIVE SANTE CRENEY",
+    "numero voie": "24",
+    "type_voie": "R",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "10150",
+    "VILLE": "CRENEY PRES TROYES    ",
+    "tel": "674989993",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "84424680100014",
+    "lng": "4.12778350159264",
+    "lat": "48.333204015024"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "480780444",
+    "raison_sociale": "EHPAD SAINT NICOLAS AUROUX",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DEPARTEMENTALE 988",
+    "bp": "",
+    "cp": "48600",
+    "VILLE": "AUROUX ",
+    "tel": "466695594",
+    "telecopie": "466695603",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "32082549000115",
+    "lng": "3.72427177490535",
+    "lat": "44.7536813267693"
+  },
+  {
+    "finess": "480783448",
+    "raison_sociale": "FV RESIDENCE SAINT NICOLAS AUROUX",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE BOURG",
+    "bp": "",
+    "cp": "48600",
+    "VILLE": "AUROUX ",
+    "tel": "466696500",
+    "telecopie": "466656509",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "32082549000065",
+    "lng": "3.72870596009902",
+    "lat": "44.7530301194042"
+  }
+]

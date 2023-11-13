@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "620019356",
+    "raison_sociale": "ASSO. ALPHA TRANSPORTS ET SERVICES",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DE LA FERNAYE",
+    "bp": "",
+    "cp": "62600",
+    "VILLE": "GROFFLIERS ",
+    "tel": "321845678",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "38437889900072",
+    "lng": "1.60554197433952",
+    "lat": "50.3917702939561"
+  },
+  {
+    "finess": "620034793",
+    "raison_sociale": "MSP DES 4 CHEMINS",
+    "numero voie": "7",
+    "type_voie": "RTE",
+    "libelle_voie": "DE VERTON",
+    "bp": "",
+    "cp": "62600",
+    "VILLE": "GROFFLIERS ",
+    "tel": "321946327",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "1.61036922436255",
+    "lat": "50.3880993986436"
+  }
+]

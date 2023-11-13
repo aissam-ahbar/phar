@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "220015952",
+    "raison_sociale": "SARL PHARMACIE DE LA VILLENEUVE",
+    "numero voie": "",
+    "type_voie": "PARC",
+    "libelle_voie": "D'ACTIVITÉS DE LA VILLENEUV",
+    "bp": "",
+    "cp": "22800",
+    "VILLE": "ST BRANDAN",
+    "tel": "296749306",
+    "telecopie": "296749322",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50975614400028",
+    "lng": "-2.89857915145615",
+    "lat": "48.4006810349702"
+  },
+  {
+    "finess": "220021588",
+    "raison_sociale": "PÔLE MEDICAL DE LA VILLE NEUVE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LA VILLENEUVE",
+    "bp": "",
+    "cp": "22800",
+    "VILLE": "ST BRANDAN",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "-2.89857915145615",
+    "lat": "48.4006810349702"
+  },
+  {
+    "finess": "220025142",
+    "raison_sociale": "SAAD MAISON AGES ET VIE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE BEL AIR",
+    "bp": "",
+    "cp": "22800",
+    "VILLE": "ST BRANDAN",
+    "tel": "756022679",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "75051007500054",
+    "lng": "-2.87160431698154",
+    "lat": "48.3874063762657"
+  }
+]

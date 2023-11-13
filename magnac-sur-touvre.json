@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "160011094",
+    "raison_sociale": "PHARMACIE PROUD",
+    "numero voie": "39",
+    "type_voie": "R",
+    "libelle_voie": "VICTOR HUGO",
+    "bp": "",
+    "cp": "16600",
+    "VILLE": "MAGNAC SUR TOUVRE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53089135700010",
+    "lng": "0.236460074375641",
+    "lat": "45.6664870351728"
+  },
+  {
+    "finess": "160011102",
+    "raison_sociale": "SELAS PHARMACIE HAFIL",
+    "numero voie": "42",
+    "type_voie": "R",
+    "libelle_voie": "JOLIOT CURIE",
+    "bp": "",
+    "cp": "16600",
+    "VILLE": "MAGNAC SUR TOUVRE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83962311300017",
+    "lng": "0.223718890917461",
+    "lat": "45.677795152474"
+  },
+  {
+    "finess": "160011854",
+    "raison_sociale": "ESAT DE MAGNAC",
+    "numero voie": "",
+    "type_voie": "ZONE",
+    "libelle_voie": "DE MAUMONT",
+    "bp": "",
+    "cp": "16600",
+    "VILLE": "MAGNAC SUR TOUVRE    ",
+    "tel": "545683737",
+    "telecopie": "545692861",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "78117295200298",
+    "lng": "0.236370258913266",
+    "lat": "45.6601793913402"
+  }
+]

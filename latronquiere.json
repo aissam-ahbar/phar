@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "460003866",
+    "raison_sociale": "EURL PHARMACIE HAMM",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "46210",
+    "VILLE": "LATRONQUIERE ",
+    "tel": "565402503",
+    "telecopie": "565402933",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53813701900013",
+    "lng": "2.0769776183899",
+    "lat": "44.7993745717808"
+  },
+  {
+    "finess": "460787039",
+    "raison_sociale": "EHPAD LES SEGALINES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE BOURG",
+    "bp": "",
+    "cp": "46210",
+    "VILLE": "LATRONQUIERE ",
+    "tel": "565119066",
+    "telecopie": "565119083",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26460269900029",
+    "lng": "2.07822857837859",
+    "lat": "44.7994353978251"
+  }
+]

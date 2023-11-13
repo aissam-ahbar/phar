@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "630007672",
+    "raison_sociale": "PHARMACIE DE RANDAN",
+    "numero voie": "49",
+    "type_voie": "R",
+    "libelle_voie": "DU COMMERCE",
+    "bp": "",
+    "cp": "63310",
+    "VILLE": "RANDAN ",
+    "tel": "470415022",
+    "telecopie": "470415015",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53861359700011",
+    "lng": "3.35422617938166",
+    "lat": "46.0150883790267"
+  },
+  {
+    "finess": "630781540",
+    "raison_sociale": "EHPAD \"LES TILLEULS\"",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DES DOMES",
+    "bp": "",
+    "cp": "63310",
+    "VILLE": "RANDAN ",
+    "tel": "470415095",
+    "telecopie": "470415091",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26630777600010",
+    "lng": "3.35205127642642",
+    "lat": "46.0123126080085"
+  },
+  {
+    "finess": "630785962",
+    "raison_sociale": "EHPAD \"LA VILLA CLAUDINE\"",
+    "numero voie": "4",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "63310",
+    "VILLE": "RANDAN ",
+    "tel": "470415666",
+    "telecopie": "470561208",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "42948707700019",
+    "lng": "3.35267440980625",
+    "lat": "46.013149036948"
+  }
+]

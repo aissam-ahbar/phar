@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "660005430",
+    "raison_sociale": "SAAD CCAS PONTEILLA",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU CONFLUENT",
+    "bp": "",
+    "cp": "66300",
+    "VILLE": "PONTEILLA ",
+    "tel": "468537224",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26660044400019",
+    "lng": "2.81165399216148",
+    "lat": "42.6264955899193"
+  },
+  {
+    "finess": "660006131",
+    "raison_sociale": "SELARL PHARMACIE DES CLOCHERS",
+    "numero voie": "35",
+    "type_voie": "AV",
+    "libelle_voie": "DE PERPIGNAN",
+    "bp": "",
+    "cp": "66300",
+    "VILLE": "PONTEILLA ",
+    "tel": "468353152",
+    "telecopie": "468842056",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80292607100019",
+    "lng": "2.81268510291307",
+    "lat": "42.6238614175833"
+  }
+]

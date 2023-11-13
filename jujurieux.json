@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "10004034",
+    "raison_sociale": "PHARMACIE DE JUJURIEUX",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DES SPORTS",
+    "bp": "",
+    "cp": "1640",
+    "VILLE": "JUJURIEUX ",
+    "tel": "474368166",
+    "telecopie": "474369943",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53466006300015",
+    "lng": "5.40725213742398",
+    "lat": "46.040645696984"
+  },
+  {
+    "finess": "10012813",
+    "raison_sociale": "SAAD LES FEES DU SOIN",
+    "numero voie": "16",
+    "type_voie": "R",
+    "libelle_voie": "JULES FERRY",
+    "bp": "",
+    "cp": "1640",
+    "VILLE": "JUJURIEUX ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "5.41052346541894",
+    "lat": "46.0388085885292"
+  },
+  {
+    "finess": "10788644",
+    "raison_sociale": "EHPAD CHATEAU DE VALENCE JUJURIEUX",
+    "numero voie": "12",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "1640",
+    "VILLE": "JUJURIEUX ",
+    "tel": "474368901",
+    "telecopie": "474369178",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "34921026000015",
+    "lng": "5.41012703795789",
+    "lat": "46.0390314353581"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "320001555",
+    "raison_sociale": "PHARMACIE DE LA HALLE",
+    "numero voie": "5",
+    "type_voie": "PL",
+    "libelle_voie": "de la Halle",
+    "bp": "",
+    "cp": "32430",
+    "VILLE": "COLOGNE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "92203859100017",
+    "lng": "0.977215231000984",
+    "lat": "43.7220671824056"
+  },
+  {
+    "finess": "320003254",
+    "raison_sociale": "EHPAD ALLIANCE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE CLOS DE LA BOURDETTE",
+    "bp": "",
+    "cp": "32430",
+    "VILLE": "COLOGNE ",
+    "tel": "562067474",
+    "telecopie": "562067044",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "42143937300018",
+    "lng": "0.978948617635337",
+    "lat": "43.7251400297337"
+  },
+  {
+    "finess": "320004054",
+    "raison_sociale": "SAAD ADMR COLOGNE GERS EST",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "CAMILLE CATALAN",
+    "bp": "",
+    "cp": "32430",
+    "VILLE": "COLOGNE ",
+    "tel": "562050531",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "51066712400026",
+    "lng": "0.97683355348206",
+    "lat": "43.7217342410423"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "120001532",
+    "raison_sociale": "PHARMACIE DE LA VALLEE",
+    "numero voie": "12",
+    "type_voie": "AV",
+    "libelle_voie": "DES CAUSSES",
+    "bp": "",
+    "cp": "12520",
+    "VILLE": "AGUESSAC ",
+    "tel": "565598225",
+    "telecopie": "565597166",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88882167500012",
+    "lng": "3.09799813522241",
+    "lat": "44.1541444222566"
+  },
+  {
+    "finess": "120005400",
+    "raison_sociale": "SAAD AL ADMR CAUSSES ET VALLEES",
+    "numero voie": "10",
+    "type_voie": "AV",
+    "libelle_voie": "DES CAUSSES",
+    "bp": "MAISON DE SANTE",
+    "cp": "12520",
+    "VILLE": "AGUESSAC ",
+    "tel": "565772222",
+    "telecopie": "565772220",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "3.09798691236414",
+    "lat": "44.1563369988492"
+  },
+  {
+    "finess": "120007471",
+    "raison_sociale": "MSP DE LA VALLEE",
+    "numero voie": "10",
+    "type_voie": "AV",
+    "libelle_voie": "DES CAUSSES",
+    "bp": "",
+    "cp": "12520",
+    "VILLE": "AGUESSAC ",
+    "tel": "565598280",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "3.09798691236414",
+    "lat": "44.1563369988492"
+  }
+]

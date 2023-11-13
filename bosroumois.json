@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "270019011",
+    "raison_sociale": "PHARMACIE DU ROUMOIS",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DU ROUMOIS",
+    "bp": "",
+    "cp": "27670",
+    "VILLE": "BOSROUMOIS ",
+    "tel": "235877675",
+    "telecopie": "235875677",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "43469722300015",
+    "lng": "0.922653520574342",
+    "lat": "49.2890281877005"
+  },
+  {
+    "finess": "270024169",
+    "raison_sociale": "CMS BOSC ROGER EN ROUMOIS",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "RENE GROUVEL",
+    "bp": "BP 51",
+    "cp": "27670",
+    "VILLE": "BOSROUMOIS ",
+    "tel": "235877051",
+    "telecopie": "235878021",
+    "categorie etablissement": "230",
+    "libelle categorie": "Etablissement Consultation Protection Infantile",
+    "siret": "",
+    "lng": "0.922448819821875",
+    "lat": "49.2904257027362"
+  },
+  {
+    "finess": "270029341",
+    "raison_sociale": "PSLA - BOSROUMOIS",
+    "numero voie": "25",
+    "type_voie": "R",
+    "libelle_voie": "DU 18 JUIN 1940",
+    "bp": "",
+    "cp": "27670",
+    "VILLE": "BOSROUMOIS ",
+    "tel": "235877878",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "84808728400016",
+    "lng": "0.92298197637371",
+    "lat": "49.2895778899166"
+  }
+]

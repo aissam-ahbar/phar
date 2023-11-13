@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "170010524",
+    "raison_sociale": "PHARMACIE IMBERT-BELIN",
+    "numero voie": "14",
+    "type_voie": "",
+    "libelle_voie": "GRANDE PLACE",
+    "bp": "",
+    "cp": "17490",
+    "VILLE": "BEAUVAIS SUR MATHA    ",
+    "tel": "546261395",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40371721800016",
+    "lng": "-0.18662189822165",
+    "lat": "45.8829618754201"
+  },
+  {
+    "finess": "170024244",
+    "raison_sociale": "POLE DE SANTE DE BEAUVAIS-SUR-MATHA",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "DES BANCS",
+    "bp": "",
+    "cp": "17490",
+    "VILLE": "BEAUVAIS SUR MATHA    ",
+    "tel": "546261077",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "-0.188708614886807",
+    "lat": "45.8820270178538"
+  },
+  {
+    "finess": "170025282",
+    "raison_sociale": "VILLAGE D'ENFANTS DE BEAUVAIS/MATHA",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "GILBERT COTTEAU",
+    "bp": "",
+    "cp": "17490",
+    "VILLE": "BEAUVAIS SUR MATHA    ",
+    "tel": "546262372",
+    "telecopie": "",
+    "categorie etablissement": "176",
+    "libelle categorie": "Village d'Enfants",
+    "siret": "77566680300264",
+    "lng": "-0.189021434711498",
+    "lat": "45.8818803021865"
+  }
+]

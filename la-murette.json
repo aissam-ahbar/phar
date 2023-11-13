@@ -1,0 +1,19 @@
+[
+  {
+    "finess": "380008334",
+    "raison_sociale": "PHARMACIE DE LA MURETTE",
+    "numero voie": "125",
+    "type_voie": "R",
+    "libelle_voie": "DU BOUCHAT",
+    "bp": "",
+    "cp": "38140",
+    "VILLE": "LA MURETTE",
+    "tel": "476661010",
+    "telecopie": "476661944",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83973082700012",
+    "lng": "5.54174885193972",
+    "lat": "45.3801654657757"
+  }
+]

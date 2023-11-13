@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590028221",
+    "raison_sociale": "PHARMACIE DESSENNE",
+    "numero voie": "395",
+    "type_voie": "RTE",
+    "libelle_voie": "Nationale",
+    "bp": "",
+    "cp": "59281",
+    "VILLE": "RUMILLY EN CAMBRESIS    ",
+    "tel": "327375028",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81537961500017",
+    "lng": "3.21408094013887",
+    "lat": "50.1301889561672"
+  },
+  {
+    "finess": "590811634",
+    "raison_sociale": "SCE D'AIDE A DOMICILE ADMR",
+    "numero voie": "258",
+    "type_voie": "R",
+    "libelle_voie": "CHARLES GIDE",
+    "bp": "",
+    "cp": "59281",
+    "VILLE": "RUMILLY EN CAMBRESIS    ",
+    "tel": "327375792",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32110278200034",
+    "lng": "3.22118568171472",
+    "lat": "50.1268194124731"
+  }
+]

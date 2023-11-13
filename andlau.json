@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "670006220",
+    "raison_sociale": "PHARMACIE VOLTZ",
+    "numero voie": "16",
+    "type_voie": "R",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "67140",
+    "VILLE": "ANDLAU ",
+    "tel": "388080204",
+    "telecopie": "388085914",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40204620500017",
+    "lng": "7.41804495994103",
+    "lat": "48.3861135012881"
+  },
+  {
+    "finess": "670780618",
+    "raison_sociale": "EHPAD STOLTZ-GRIMM",
+    "numero voie": "12",
+    "type_voie": "COUR",
+    "libelle_voie": "DE L'ABBAYE",
+    "bp": "",
+    "cp": "67140",
+    "VILLE": "ANDLAU ",
+    "tel": "388089305",
+    "telecopie": "388082351",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26670002000016",
+    "lng": "7.41399118784603",
+    "lat": "48.3879884264807"
+  },
+  {
+    "finess": "670780741",
+    "raison_sociale": "INSTITUTION MERTIAN DE ANDLAU",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "DE LA COMMANDERIE",
+    "bp": "",
+    "cp": "67140",
+    "VILLE": "ANDLAU ",
+    "tel": "388585700",
+    "telecopie": "",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "38449328400416",
+    "lng": "7.42141711467461",
+    "lat": "48.385240650189"
+  }
+]

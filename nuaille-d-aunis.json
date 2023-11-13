@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "170012363",
+    "raison_sociale": "PHARMACIE RIVET",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "17540",
+    "VILLE": "NUAILLE D AUNIS    ",
+    "tel": "546018112",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49127157300017",
+    "lng": "-0.932203498977768",
+    "lat": "46.2254137677192"
+  },
+  {
+    "finess": "170022925",
+    "raison_sociale": "CONSULT. DE PROTECTION INFANTILE",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DU CHATEAU",
+    "bp": "",
+    "cp": "17540",
+    "VILLE": "NUAILLE D AUNIS    ",
+    "tel": "546669392",
+    "telecopie": "",
+    "categorie etablissement": "230",
+    "libelle categorie": "Etablissement Consultation Protection Infantile",
+    "siret": "22170001601009",
+    "lng": "-0.933180471289773",
+    "lat": "46.2244927944294"
+  }
+]

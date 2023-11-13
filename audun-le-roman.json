@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "540004967",
+    "raison_sociale": "PHARMACIE DE LA SOURCE",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "LUCIEN MICHEL",
+    "bp": "",
+    "cp": "54560",
+    "VILLE": "AUDUN LE ROMAN    ",
+    "tel": "382216014",
+    "telecopie": "382216021",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44464692100015",
+    "lng": "5.89342450660569",
+    "lat": "49.3686685647363"
+  },
+  {
+    "finess": "540005105",
+    "raison_sociale": "FOYER RESIDENCE A. CROIZAT",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "AMBROISE CROIZAT",
+    "bp": "",
+    "cp": "54560",
+    "VILLE": "AUDUN LE ROMAN    ",
+    "tel": "382216617",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26540045700023",
+    "lng": "5.89372227313012",
+    "lat": "49.371249214929"
+  },
+  {
+    "finess": "540025087",
+    "raison_sociale": "MAISON DE SANTE AUDUNOISE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DES VERGERS",
+    "bp": "",
+    "cp": "54560",
+    "VILLE": "AUDUN LE ROMAN    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "85183667600011",
+    "lng": "5.89757156673102",
+    "lat": "49.369058524798"
+  }
+]

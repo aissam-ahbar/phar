@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "330053380",
+    "raison_sociale": "PHARMACIE D'YVRAC",
+    "numero voie": "14",
+    "type_voie": "AV",
+    "libelle_voie": "DES TABERNOTTES",
+    "bp": "",
+    "cp": "33370",
+    "VILLE": "YVRAC ",
+    "tel": "556067379",
+    "telecopie": "556749390",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38132937400023",
+    "lng": "-0.465201585073281",
+    "lat": "44.880551115213"
+  },
+  {
+    "finess": "330781618",
+    "raison_sociale": "IMPRO LE VIEUX MOULIN",
+    "numero voie": "8",
+    "type_voie": "CHE",
+    "libelle_voie": "DE LA ROCHE",
+    "bp": "",
+    "cp": "33370",
+    "VILLE": "YVRAC ",
+    "tel": "556066896",
+    "telecopie": "556745095",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "78203081100031",
+    "lng": "-0.46990565072887",
+    "lat": "44.8818442891993"
+  },
+  {
+    "finess": "330791757",
+    "raison_sociale": "EHPAD MA RESIDENCE",
+    "numero voie": "185",
+    "type_voie": "AV",
+    "libelle_voie": "DU PERIGORD",
+    "bp": "",
+    "cp": "33370",
+    "VILLE": "YVRAC ",
+    "tel": "557341125",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "34151364600016",
+    "lng": "-0.452473712511582",
+    "lat": "44.8655507220937"
+  }
+]

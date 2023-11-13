@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "330045311",
+    "raison_sociale": "PHARMACIE SOUS-LALET",
+    "numero voie": "2",
+    "type_voie": "AV",
+    "libelle_voie": "DE MOUTILLE",
+    "bp": "",
+    "cp": "33360",
+    "VILLE": "CENAC ",
+    "tel": "556200500",
+    "telecopie": "556201864",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38366345700018",
+    "lng": "-0.461088698988591",
+    "lat": "44.7801233642295"
+  },
+  {
+    "finess": "330781121",
+    "raison_sociale": "CHATEAU RAUZE  - LADAPT",
+    "numero voie": "26",
+    "type_voie": "AV",
+    "libelle_voie": "DU RAUZE",
+    "bp": "",
+    "cp": "33360",
+    "VILLE": "CENAC ",
+    "tel": "556207165",
+    "telecopie": "556201397",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "77569338500210",
+    "lng": "-0.445067256086209",
+    "lat": "44.7771874249594"
+  }
+]

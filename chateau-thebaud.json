@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "440015212",
+    "raison_sociale": "PHARMACIE SEVRE ET MAINE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DU PRIEURE",
+    "bp": "",
+    "cp": "44690",
+    "VILLE": "CHATEAU THEBAUD",
+    "tel": "240065280",
+    "telecopie": "240065879",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53120259600023",
+    "lng": "-1.42241977198782",
+    "lat": "47.124974526885"
+  },
+  {
+    "finess": "440036713",
+    "raison_sociale": "SAAD ADMR DE CHATEAU THEBAUD",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "44690",
+    "VILLE": "CHATEAU THEBAUD",
+    "tel": "240548445",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "34496315200030",
+    "lng": "-1.41884434318781",
+    "lat": "47.1244061491197"
+  },
+  {
+    "finess": "440054674",
+    "raison_sociale": "SARL VYANA MEDICAL",
+    "numero voie": "21",
+    "type_voie": "R",
+    "libelle_voie": "DES CHATAIGNIERS",
+    "bp": "PA LE BUTAY",
+    "cp": "44690",
+    "VILLE": "CHATEAU THEBAUD",
+    "tel": "228018170",
+    "telecopie": "230740031",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "43782358600049",
+    "lng": "-1.44920821869242",
+    "lat": "47.0972612334888"
+  }
+]

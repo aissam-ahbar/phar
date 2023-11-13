@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "500004833",
+    "raison_sociale": "RESIDENCE \"LES HIRONDELLES\"",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "DE LA VIEILLARDIERE",
+    "bp": "LA RIVIERE",
+    "cp": "50600",
+    "VILLE": "GRANDPARIGNY ",
+    "tel": "233793340",
+    "telecopie": "233498742",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "78091011300023",
+    "lng": "-1.09245361108759",
+    "lat": "48.5838659698325"
+  },
+  {
+    "finess": "500011507",
+    "raison_sociale": "PHARMACIE KARAM",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LA RIVIERE",
+    "bp": "",
+    "cp": "50600",
+    "VILLE": "GRANDPARIGNY ",
+    "tel": "233491162",
+    "telecopie": "233496140",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53823138200010",
+    "lng": "-1.09109846613595",
+    "lat": "48.5824732192911"
+  }
+]

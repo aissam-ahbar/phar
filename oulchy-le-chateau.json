@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "20002200",
+    "raison_sociale": "EHPAD OULCHY-LE-CHÂTEAU",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DE L'HÔTEL DIEU",
+    "bp": "",
+    "cp": "2210",
+    "VILLE": "OULCHY LE CHATEAU    ",
+    "tel": "323552124",
+    "telecopie": "323552872",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26020026600013",
+    "lng": "3.36835377872841",
+    "lat": "49.2039357449557"
+  },
+  {
+    "finess": "20009841",
+    "raison_sociale": "SELURL PHARMACIE BOURGEOIS-GORVIEN",
+    "numero voie": "17",
+    "type_voie": "R",
+    "libelle_voie": "QUINQUET DE MONJOUR",
+    "bp": "",
+    "cp": "2210",
+    "VILLE": "OULCHY LE CHATEAU    ",
+    "tel": "323552103",
+    "telecopie": "323557696",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51056497400010",
+    "lng": "3.36711495644082",
+    "lat": "49.2033749329899"
+  }
+]

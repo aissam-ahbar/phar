@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "10003366",
+    "raison_sociale": "PHARMACIE OLIVA-SEVAIN",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DU MARCHE",
+    "bp": "",
+    "cp": "1320",
+    "VILLE": "CHALAMONT ",
+    "tel": "474362175",
+    "telecopie": "474469123",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53860677300017",
+    "lng": "5.17080715713889",
+    "lat": "45.9969878114939"
+  },
+  {
+    "finess": "10786119",
+    "raison_sociale": "EHPAD DES MILLE ETANGS A CHALAMONT",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'HOPITAL",
+    "bp": "",
+    "cp": "1320",
+    "VILLE": "CHALAMONT ",
+    "tel": "474617014",
+    "telecopie": "474469899",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26010006000029",
+    "lng": "5.16951249277936",
+    "lat": "45.9959829653761"
+  },
+  {
+    "finess": "10789295",
+    "raison_sociale": "SSIAD LES MILLE ETANGS",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'HOPITAL",
+    "bp": "",
+    "cp": "1320",
+    "VILLE": "CHALAMONT ",
+    "tel": "474469184",
+    "telecopie": "474469184",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "",
+    "lng": "5.16951249277936",
+    "lat": "45.9959829653761"
+  }
+]

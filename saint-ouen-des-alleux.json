@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "350020558",
+    "raison_sociale": "PHARMACIE DES ALLEUX",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU DOCTEUR GORVEL",
+    "bp": "",
+    "cp": "35140",
+    "VILLE": "ST OUEN DES ALLEUX   ",
+    "tel": "299393850",
+    "telecopie": "299393668",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81892618000014",
+    "lng": "-1.42807499230843",
+    "lat": "48.3245095085566"
+  },
+  {
+    "finess": "350048708",
+    "raison_sociale": "MAISON DE SOINS DU COUESNON",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DU DOCTEUR GORVEL",
+    "bp": "",
+    "cp": "35140",
+    "VILLE": "ST OUEN DES ALLEUX   ",
+    "tel": "299393806",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "-1.42773971479387",
+    "lat": "48.3244914216369"
+  },
+  {
+    "finess": "350055281",
+    "raison_sociale": "SAAD AGES ET VIE",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DU DOCTEUR GORVEL",
+    "bp": "",
+    "cp": "35140",
+    "VILLE": "ST OUEN DES ALLEUX   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "75051007500013",
+    "lng": "-1.42758395937328",
+    "lat": "48.3245513198405"
+  }
+]

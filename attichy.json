@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "600004386",
+    "raison_sociale": "PHARMACIE MAREK",
+    "numero voie": "12",
+    "type_voie": "R",
+    "libelle_voie": "DU TONDU DU METZ",
+    "bp": "",
+    "cp": "60350",
+    "VILLE": "ATTICHY ",
+    "tel": "344421048",
+    "telecopie": "344421048",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75247178900012",
+    "lng": "3.04739865807004",
+    "lat": "49.4125339835789"
+  },
+  {
+    "finess": "600100614",
+    "raison_sociale": "EHPAD RES LES 2 CHÂTEAUX MAISON DORCHY",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DU PARC",
+    "bp": "",
+    "cp": "60350",
+    "VILLE": "ATTICHY ",
+    "tel": "344421033",
+    "telecopie": "344425017",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "",
+    "lng": "3.04477008687312",
+    "lat": "49.4107948545458"
+  },
+  {
+    "finess": "600101547",
+    "raison_sociale": "EHPAD TEMPS DE VIE ATTICHY",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DES NOYONVALS",
+    "bp": "",
+    "cp": "60350",
+    "VILLE": "ATTICHY ",
+    "tel": "344421019",
+    "telecopie": "344204808",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "39434217400395",
+    "lng": "3.05509154015255",
+    "lat": "49.4103609559343"
+  }
+]

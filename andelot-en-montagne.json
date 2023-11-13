@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "390001873",
+    "raison_sociale": "PHARMACIE DUSSOUILLEZ",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DU BATTOIR",
+    "bp": "",
+    "cp": "39110",
+    "VILLE": "ANDELOT EN MONTAGNE    ",
+    "tel": "384514478",
+    "telecopie": "384522331",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48235075800017",
+    "lng": "5.92955714715267",
+    "lat": "46.8504543489117"
+  },
+  {
+    "finess": "390785194",
+    "raison_sociale": "SAAD ADMR D'ANDELOT EN MONTAGNE",
+    "numero voie": "20",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "39110",
+    "VILLE": "ANDELOT EN MONTAGNE    ",
+    "tel": "384514254",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "77835922400020",
+    "lng": "5.93446188569206",
+    "lat": "46.8525791454461"
+  }
+]

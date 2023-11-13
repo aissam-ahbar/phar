@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "160007050",
+    "raison_sociale": "EHPAD DE LA BOEME",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DES SOURCES",
+    "bp": "",
+    "cp": "16440",
+    "VILLE": "MOUTHIERS SUR BOEME    ",
+    "tel": "545678487",
+    "telecopie": "545674038",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26160066200025",
+    "lng": "0.123835168026876",
+    "lat": "45.5540787853639"
+  },
+  {
+    "finess": "160011227",
+    "raison_sociale": "PHARMACIE DE BOËME",
+    "numero voie": "2",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "16440",
+    "VILLE": "MOUTHIERS SUR BOEME    ",
+    "tel": "545679203",
+    "telecopie": "545678259",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81461135600019",
+    "lng": "0.123161697320343",
+    "lat": "45.5535866772533"
+  }
+]

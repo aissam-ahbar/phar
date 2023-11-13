@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "330050774",
+    "raison_sociale": "PHARMACIE BAUDIN BALERE",
+    "numero voie": "8",
+    "type_voie": "AV",
+    "libelle_voie": "de Loustallaut",
+    "bp": "",
+    "cp": "33880",
+    "VILLE": "ST CAPRAIS DE BORDEAUX   ",
+    "tel": "556218607",
+    "telecopie": "556787540",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75309366500010",
+    "lng": "-0.434530225194003",
+    "lat": "44.7498723890422"
+  },
+  {
+    "finess": "330057068",
+    "raison_sociale": "MAISON SANTE PLURIDISC COLLECTIF SANTE",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "CARVOEIRA",
+    "bp": "",
+    "cp": "33880",
+    "VILLE": "ST CAPRAIS DE BORDEAUX   ",
+    "tel": "556207000",
+    "telecopie": "556207090",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "-0.433984892430258",
+    "lat": "44.750861647881"
+  },
+  {
+    "finess": "330792177",
+    "raison_sociale": "EHPAD CHATEAU LA CURE",
+    "numero voie": "1",
+    "type_voie": "RTE",
+    "libelle_voie": "DU STADE",
+    "bp": "",
+    "cp": "33880",
+    "VILLE": "ST CAPRAIS DE BORDEAUX   ",
+    "tel": "556787148",
+    "telecopie": "556786505",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "32982376900016",
+    "lng": "-0.433381492056987",
+    "lat": "44.7470477456823"
+  }
+]

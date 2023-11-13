@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "340006998",
+    "raison_sociale": "SSIAD MFGS SSAM ROUJAN",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "DU COUSTEL",
+    "bp": "",
+    "cp": "34320",
+    "VILLE": "ROUJAN ",
+    "tel": "499571047",
+    "telecopie": "467983373",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "81317979300910",
+    "lng": "3.31779340176455",
+    "lat": "43.4992313459173"
+  },
+  {
+    "finess": "340028778",
+    "raison_sociale": "MSP CALYPSO",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DU COUSTEL",
+    "bp": "",
+    "cp": "34320",
+    "VILLE": "ROUJAN ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "90961062800010",
+    "lng": "3.31759516610079",
+    "lat": "43.4989197281081"
+  },
+  {
+    "finess": "340795228",
+    "raison_sociale": "PHARMACIE DES OLIVETTES",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DE PEZENAS",
+    "bp": "",
+    "cp": "34320",
+    "VILLE": "ROUJAN ",
+    "tel": "467246030",
+    "telecopie": "467248748",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39322653500036",
+    "lng": "3.31986057961147",
+    "lat": "43.5009104229355"
+  }
+]

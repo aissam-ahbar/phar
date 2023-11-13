@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "310009147",
+    "raison_sociale": "SELARL PHARMACIE GHEDIN",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "JEAN PASCAL",
+    "bp": "",
+    "cp": "31620",
+    "VILLE": "LABASTIDE ST SERNIN    ",
+    "tel": "561849093",
+    "telecopie": "561848644",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49112568800011",
+    "lng": "1.47036655652951",
+    "lat": "43.7383006711073"
+  },
+  {
+    "finess": "310027974",
+    "raison_sociale": "SAAD VIVRE BIEN CHEZ SOI",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "DU CASTEL",
+    "bp": "",
+    "cp": "31620",
+    "VILLE": "LABASTIDE ST SERNIN    ",
+    "tel": "534269588",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "50781809400017",
+    "lng": "1.46495400971107",
+    "lat": "43.7355838580828"
+  },
+  {
+    "finess": "310033378",
+    "raison_sociale": "MSP LABASTIDE SAINT SERNIN",
+    "numero voie": "31",
+    "type_voie": "R",
+    "libelle_voie": "JEAN PASCAL",
+    "bp": "",
+    "cp": "31620",
+    "VILLE": "LABASTIDE ST SERNIN    ",
+    "tel": "561849533",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "91166388800012",
+    "lng": "1.4710082515051",
+    "lat": "43.7390467962614"
+  }
+]

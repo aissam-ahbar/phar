@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "50003623",
+    "raison_sociale": "SELAS PHARMACIE 1350",
+    "numero voie": "158",
+    "type_voie": "ALL",
+    "libelle_voie": "des Boutiques",
+    "bp": "",
+    "cp": "5330",
+    "VILLE": "ST CHAFFREY",
+    "tel": "492240621",
+    "telecopie": "492241046",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "85251362100015",
+    "lng": "6.58927609078296",
+    "lat": "44.9333091997918"
+  },
+  {
+    "finess": "50007855",
+    "raison_sociale": "CDS MEDICAL DE CHANTEMERLE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE SERRE D'AIGLE",
+    "bp": "CHANTEMERLE",
+    "cp": "5330",
+    "VILLE": "ST CHAFFREY",
+    "tel": "492546299",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "",
+    "lng": "6.6074896010012",
+    "lat": "44.9264939631455"
+  }
+]

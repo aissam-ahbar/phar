@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "570017442",
+    "raison_sociale": "PHARMACIE DE HUNDLING",
+    "numero voie": "3",
+    "type_voie": "PL",
+    "libelle_voie": "DU GÉNÉRAL DE GAULLE",
+    "bp": "",
+    "cp": "57990",
+    "VILLE": "HUNDLING ",
+    "tel": "387025097",
+    "telecopie": "387025762",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81367528700011",
+    "lng": "6.98172095081706",
+    "lat": "49.1077841725761"
+  },
+  {
+    "finess": "570029777",
+    "raison_sociale": "MSP HUNDLING",
+    "numero voie": "5",
+    "type_voie": "PL",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "57990",
+    "VILLE": "HUNDLING ",
+    "tel": "387851954",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "88850050100018",
+    "lng": "6.98172095081706",
+    "lat": "49.1077841725761"
+  }
+]

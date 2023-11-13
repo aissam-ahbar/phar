@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380011221",
+    "raison_sociale": "PHARMACIE FARINEA",
+    "numero voie": "214",
+    "type_voie": "",
+    "libelle_voie": "Grand'Rue",
+    "bp": "",
+    "cp": "38460",
+    "VILLE": "TREPT ",
+    "tel": "474928491",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79848864900012",
+    "lng": "5.31998443684182",
+    "lat": "45.6870927502498"
+  },
+  {
+    "finess": "380019679",
+    "raison_sociale": "MAISON DE SANTE TREPT",
+    "numero voie": "14",
+    "type_voie": "PL",
+    "libelle_voie": "SEBASTIEN BOYRIVENT",
+    "bp": "",
+    "cp": "38460",
+    "VILLE": "TREPT ",
+    "tel": "474967112",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "81534325600013",
+    "lng": "5.3215887302309",
+    "lat": "45.6854119954402"
+  }
+]

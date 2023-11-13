@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "250013125",
+    "raison_sociale": "PHARMACIE DU MARAIS",
+    "numero voie": "28",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "25660",
+    "VILLE": "SAONE ",
+    "tel": "381557319",
+    "telecopie": "381558627",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39030248700017",
+    "lng": "6.11729223756213",
+    "lat": "47.2247092715373"
+  },
+  {
+    "finess": "250015245",
+    "raison_sociale": "EHPAD ALEXIS MARQUISET ANNEXE SAONE",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "DU BOULEAU",
+    "bp": "",
+    "cp": "25660",
+    "VILLE": "SAONE ",
+    "tel": "381559800",
+    "telecopie": "381558632",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26250671000033",
+    "lng": "6.12260974678689",
+    "lat": "47.2241317978097"
+  },
+  {
+    "finess": "250017563",
+    "raison_sociale": "LBM CBM25 DU PLATEAU",
+    "numero voie": "1",
+    "type_voie": "ALL",
+    "libelle_voie": "JAHIER",
+    "bp": "",
+    "cp": "25660",
+    "VILLE": "SAONE ",
+    "tel": "381559898",
+    "telecopie": "381557519",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "71282108100114",
+    "lng": "6.11621227715519",
+    "lat": "47.2253807164907"
+  }
+]

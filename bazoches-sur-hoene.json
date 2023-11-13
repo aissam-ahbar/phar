@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "610786162",
+    "raison_sociale": "PHARMACIE DE L'HOENE",
+    "numero voie": "14",
+    "type_voie": "PL",
+    "libelle_voie": "DE L EGLISE",
+    "bp": "",
+    "cp": "61560",
+    "VILLE": "BAZOCHES SUR HOENE    ",
+    "tel": "233250023",
+    "telecopie": "233252569",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83450338500017",
+    "lng": "0.470416881897959",
+    "lat": "48.5530787574956"
+  },
+  {
+    "finess": "610789356",
+    "raison_sociale": "CONS JEUNES ENF-BAZOCHES/HOENE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "61560",
+    "VILLE": "BAZOCHES SUR HOENE    ",
+    "tel": "233252512",
+    "telecopie": "",
+    "categorie etablissement": "230",
+    "libelle categorie": "Etablissement Consultation Protection Infantile",
+    "siret": "",
+    "lng": "0.470508980479263",
+    "lat": "48.5528278124967"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "540002581",
+    "raison_sociale": "EHPAD JEAN FRANCOIS FIDRY A LABRY",
+    "numero voie": "26",
+    "type_voie": "R",
+    "libelle_voie": "ROLAND DARET",
+    "bp": "",
+    "cp": "54800",
+    "VILLE": "LABRY ",
+    "tel": "382331015",
+    "telecopie": "382335870",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26540022600014",
+    "lng": "5.8791678459038",
+    "lat": "49.1722305968076"
+  },
+  {
+    "finess": "540026549",
+    "raison_sociale": "CENTRE DE SANTE DE LABRY",
+    "numero voie": "22",
+    "type_voie": "R",
+    "libelle_voie": "DES FRERES MOREL",
+    "bp": "",
+    "cp": "54800",
+    "VILLE": "LABRY ",
+    "tel": "382215838",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "26540047300012",
+    "lng": "5.88319843034175",
+    "lat": "49.1724157163664"
+  }
+]

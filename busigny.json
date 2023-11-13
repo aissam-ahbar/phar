@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590012084",
+    "raison_sociale": "PHARMACIE DES 2 VILLAGES",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "GUYNEMER",
+    "bp": "",
+    "cp": "59137",
+    "VILLE": "BUSIGNY ",
+    "tel": "327857190",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38999783400012",
+    "lng": "3.46879179650357",
+    "lat": "50.0347221081289"
+  },
+  {
+    "finess": "590787164",
+    "raison_sociale": "VILLAGE D'ENFANTS SOS BUSIGNY",
+    "numero voie": "194",
+    "type_voie": "R",
+    "libelle_voie": "DES FRERES DESJARDIN",
+    "bp": "",
+    "cp": "59137",
+    "VILLE": "BUSIGNY ",
+    "tel": "327857080",
+    "telecopie": "327857394",
+    "categorie etablissement": "176",
+    "libelle categorie": "Village d'Enfants",
+    "siret": "77566680300066",
+    "lng": "3.45995038789123",
+    "lat": "50.0267976591443"
+  }
+]

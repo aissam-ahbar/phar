@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "140011156",
+    "raison_sociale": "PHARMACIE DES HALLES",
+    "numero voie": "70",
+    "type_voie": "R",
+    "libelle_voie": "LOUVEL ET BRIERE",
+    "bp": "",
+    "cp": "14800",
+    "VILLE": "TOUQUES ",
+    "tel": "231880041",
+    "telecopie": "231880365",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "89136251900011",
+    "lng": "0.101879945097919",
+    "lat": "49.3437590181388"
+  },
+  {
+    "finess": "140017104",
+    "raison_sociale": "PHARMACIE LES OCEANIDES",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE PARIS",
+    "bp": "",
+    "cp": "14800",
+    "VILLE": "TOUQUES ",
+    "tel": "231814300",
+    "telecopie": "231813609",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38205198500028",
+    "lng": "0.091544212841854",
+    "lat": "49.3520513450018"
+  }
+]

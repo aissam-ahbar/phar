@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "80002124",
+    "raison_sociale": "PHARMACIE PUGLISI",
+    "numero voie": "27",
+    "type_voie": "PL",
+    "libelle_voie": "CHARLEMAGNE",
+    "bp": "",
+    "cp": "8130",
+    "VILLE": "ATTIGNY ",
+    "tel": "324712042",
+    "telecopie": "324713167",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40993925300012",
+    "lng": "4.57901054794784",
+    "lat": "49.4779310383344"
+  },
+  {
+    "finess": "80006398",
+    "raison_sociale": "FV LA BARAUDELLE",
+    "numero voie": "1",
+    "type_voie": "IMP",
+    "libelle_voie": "LE LONG PRE",
+    "bp": "",
+    "cp": "8130",
+    "VILLE": "ATTIGNY ",
+    "tel": "324714606",
+    "telecopie": "324714230",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "31387289700076",
+    "lng": "4.57964757260943",
+    "lat": "49.4856023674781"
+  },
+  {
+    "finess": "80009996",
+    "raison_sociale": "FAM LA BARAUDELLE",
+    "numero voie": "1",
+    "type_voie": "IMP",
+    "libelle_voie": "LE LONG PRE",
+    "bp": "",
+    "cp": "8130",
+    "VILLE": "ATTIGNY ",
+    "tel": "324714606",
+    "telecopie": "324714230",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "31387289700076",
+    "lng": "4.57964757260943",
+    "lat": "49.4856023674781"
+  }
+]

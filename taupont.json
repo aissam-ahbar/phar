@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "560021412",
+    "raison_sociale": "EURL PHARMACIE LEGAVRE-GRUAIS",
+    "numero voie": "39",
+    "type_voie": "AV",
+    "libelle_voie": "DE PORHOET",
+    "bp": "",
+    "cp": "56800",
+    "VILLE": "TAUPONT ",
+    "tel": "297935486",
+    "telecopie": "297935493",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50474100000013",
+    "lng": "-2.43811660893174",
+    "lat": "47.95787387122"
+  },
+  {
+    "finess": "560030603",
+    "raison_sociale": "SAAD LA PASSERELLE DU TEMPS",
+    "numero voie": "17",
+    "type_voie": "AV",
+    "libelle_voie": "DU PORHOËT",
+    "bp": "",
+    "cp": "56800",
+    "VILLE": "TAUPONT ",
+    "tel": "297756490",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "90099792500012",
+    "lng": "-2.43966888615753",
+    "lat": "47.9590747651397"
+  }
+]

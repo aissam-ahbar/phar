@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "270020241",
+    "raison_sociale": "GRANDE PHARMACIE DU CENTRE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "27620",
+    "VILLE": "GASNY ",
+    "tel": "232521004",
+    "telecopie": "232538663",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48072716300010",
+    "lng": "1.60302298280006",
+    "lat": "49.0911228916892"
+  },
+  {
+    "finess": "270023989",
+    "raison_sociale": "CMS GASNY",
+    "numero voie": "15",
+    "type_voie": "RES",
+    "libelle_voie": "GRENIER A GRAINS",
+    "bp": "",
+    "cp": "27620",
+    "VILLE": "GASNY ",
+    "tel": "232538195",
+    "telecopie": "232695652",
+    "categorie etablissement": "230",
+    "libelle categorie": "Etablissement Consultation Protection Infantile",
+    "siret": "",
+    "lng": "1.60260817596139",
+    "lat": "49.0878681258247"
+  }
+]

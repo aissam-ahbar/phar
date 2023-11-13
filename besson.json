@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "30001572",
+    "raison_sociale": "PHARMACIE DE BESSON",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DES BOITINS",
+    "bp": "",
+    "cp": "3210",
+    "VILLE": "BESSON ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82774178600012",
+    "lng": "3.2634003356695",
+    "lat": "46.4715726501218"
+  },
+  {
+    "finess": "30006431",
+    "raison_sociale": "SAAD DE BESSON",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "3210",
+    "VILLE": "BESSON ",
+    "tel": "470428076",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31012933300012",
+    "lng": "3.26335982851328",
+    "lat": "46.4710108569719"
+  },
+  {
+    "finess": "30008999",
+    "raison_sociale": "MAISON DE SANTE EQUIPES DES BOITINS",
+    "numero voie": "8",
+    "type_voie": "RTE",
+    "libelle_voie": "DES BOITINS",
+    "bp": "",
+    "cp": "3210",
+    "VILLE": "BESSON ",
+    "tel": "470428396",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "91126404200019",
+    "lng": "3.26347622831664",
+    "lat": "46.471365369587"
+  }
+]

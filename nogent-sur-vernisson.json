@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "450008503",
+    "raison_sociale": "PHARMACIE NOGENTAISE",
+    "numero voie": "22",
+    "type_voie": "R",
+    "libelle_voie": "Georges Bannery",
+    "bp": "",
+    "cp": "45290",
+    "VILLE": "NOGENT SUR VERNISSON    ",
+    "tel": "238976008",
+    "telecopie": "238976008",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75158292500010",
+    "lng": "2.74143150941494",
+    "lat": "47.8480109873888"
+  },
+  {
+    "finess": "450020938",
+    "raison_sociale": "SAAD CONFIEZ-NOUS NOGENT SUR VERNISSON",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "ARISTIDE BRIAND",
+    "bp": "",
+    "cp": "45290",
+    "VILLE": "NOGENT SUR VERNISSON    ",
+    "tel": "234026702",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "81814997300013",
+    "lng": "2.74164136537251",
+    "lat": "47.8460971516634"
+  }
+]

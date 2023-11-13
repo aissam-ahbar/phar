@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "370005217",
+    "raison_sociale": "EHPAD MANOIR DU VERGER",
+    "numero voie": "7",
+    "type_voie": "CHE",
+    "libelle_voie": "FIER DE PIED",
+    "bp": "",
+    "cp": "37270",
+    "VILLE": "VERETZ ",
+    "tel": "247503228",
+    "telecopie": "247505233",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "72480153500019",
+    "lng": "0.814062043959821",
+    "lat": "47.355481667174"
+  },
+  {
+    "finess": "370009342",
+    "raison_sociale": "SELAS  PHARMACIE DE LA GUÉRINIÈRE",
+    "numero voie": "1",
+    "type_voie": "AV",
+    "libelle_voie": "MARTIN LUTHER KING",
+    "bp": "",
+    "cp": "37270",
+    "VILLE": "VERETZ ",
+    "tel": "247503017",
+    "telecopie": "247505273",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79367630500014",
+    "lng": "0.803635113904813",
+    "lat": "47.3551219948335"
+  }
+]

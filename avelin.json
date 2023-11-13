@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590010534",
+    "raison_sociale": "PHARMACIE BRASSELET-DEHOSSE",
+    "numero voie": "18",
+    "type_voie": "R",
+    "libelle_voie": "DE LILLE",
+    "bp": "",
+    "cp": "59710",
+    "VILLE": "AVELIN ",
+    "tel": "320323494",
+    "telecopie": "320901099",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "35318059900048",
+    "lng": "3.08166049105861",
+    "lat": "50.5398016402165"
+  },
+  {
+    "finess": "590069613",
+    "raison_sociale": "SAAD ADOM PEVELE - CAP AUTONOMIE",
+    "numero voie": "19",
+    "type_voie": "R",
+    "libelle_voie": "DE LILLE",
+    "bp": "",
+    "cp": "59710",
+    "VILLE": "AVELIN ",
+    "tel": "374694984",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "3.0813672819487",
+    "lat": "50.539642966673"
+  }
+]

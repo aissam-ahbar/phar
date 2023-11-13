@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "260004197",
+    "raison_sociale": "PHARMACIE VOGEL",
+    "numero voie": "",
+    "type_voie": "ZA",
+    "libelle_voie": "LES FLOTTES",
+    "bp": "",
+    "cp": "26750",
+    "VILLE": "CHATILLON ST JEAN    ",
+    "tel": "475453580",
+    "telecopie": "475714512",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79821520800017",
+    "lng": "5.12793911544599",
+    "lat": "45.0828615648068"
+  },
+  {
+    "finess": "260021746",
+    "raison_sociale": "MAISON DE SANTE DE CHATILLON ST JEAN",
+    "numero voie": "555",
+    "type_voie": "R",
+    "libelle_voie": "DE GOGNARD",
+    "bp": "",
+    "cp": "26750",
+    "VILLE": "CHATILLON ST JEAN    ",
+    "tel": "475710035",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "5.12786456224112",
+    "lat": "45.083274618263"
+  }
+]

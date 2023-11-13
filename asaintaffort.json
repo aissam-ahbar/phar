@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "470001744",
+    "raison_sociale": "EHPAD LA BOURDETTE",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "LA BOURDETTE",
+    "bp": "",
+    "cp": "47220",
+    "VILLE": "ASTAFFORT ",
+    "tel": "553670562",
+    "telecopie": "553670563",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20004419600018",
+    "lng": "0.655031081723056",
+    "lat": "44.0611015588252"
+  },
+  {
+    "finess": "470003682",
+    "raison_sociale": "PHARMACIE ADON - PEYRONNET",
+    "numero voie": "16",
+    "type_voie": "PL",
+    "libelle_voie": "ANDRE ROUTIER",
+    "bp": "",
+    "cp": "47220",
+    "VILLE": "ASTAFFORT ",
+    "tel": "553671030",
+    "telecopie": "553671934",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50523123300014",
+    "lng": "0.651281297636347",
+    "lat": "44.0631596694662"
+  },
+  {
+    "finess": "470013251",
+    "raison_sociale": "FOYER DE VIE ARCHE EN AGENAIS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "47220",
+    "VILLE": "ASTAFFORT ",
+    "tel": "553475317",
+    "telecopie": "553475317",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "42076769100033",
+    "lng": "0.654219721672804",
+    "lat": "44.0660337864234"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "finess": "10005767",
+    "raison_sociale": "PHARMACIE BRISON",
+    "numero voie": "32",
+    "type_voie": "GR",
+    "libelle_voie": "RUE",
+    "bp": "",
+    "cp": "1150",
+    "VILLE": "SAULT BRENAZ",
+    "tel": "474366156",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34782706500017",
+    "lng": "5.40725940315208",
+    "lat": "45.8559650950337"
+  }
+]

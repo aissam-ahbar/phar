@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "350005435",
+    "raison_sociale": "MAISON DE RETRAITE HYACINTHE HEVIN",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "HYACINTHE HEVIN",
+    "bp": "BP 44",
+    "cp": "35370",
+    "VILLE": "ETRELLES ",
+    "tel": "299966206",
+    "telecopie": "299967495",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77767810300014",
+    "lng": "-1.19173697415257",
+    "lat": "48.0607353613715"
+  },
+  {
+    "finess": "350021408",
+    "raison_sociale": "PHARMACIE LE GARO",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "CHANOINE DELALANDE",
+    "bp": "",
+    "cp": "35370",
+    "VILLE": "ETRELLES ",
+    "tel": "299967100",
+    "telecopie": "299967200",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38417050200023",
+    "lng": "-1.19146758071421",
+    "lat": "48.0591003662151"
+  }
+]

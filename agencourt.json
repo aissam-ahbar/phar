@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "210007415",
+    "raison_sociale": "FAM RES. DU PARC AGENCOURT",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU LAVOIR",
+    "bp": "",
+    "cp": "21700",
+    "VILLE": "AGENCOURT ",
+    "tel": "380610547",
+    "telecopie": "380611427",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "77556724100036",
+    "lng": "4.97575668192664",
+    "lat": "47.1279871432849"
+  },
+  {
+    "finess": "210012902",
+    "raison_sociale": "MFR AGENCOURT",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DU LAVOIR",
+    "bp": "",
+    "cp": "21700",
+    "VILLE": "AGENCOURT ",
+    "tel": "380610214",
+    "telecopie": "380613167",
+    "categorie etablissement": "330",
+    "libelle categorie": "Ecoles Formant aux Professions Sociales",
+    "siret": "77815852700011",
+    "lng": "4.97511460774672",
+    "lat": "47.1274622622789"
+  },
+  {
+    "finess": "210983391",
+    "raison_sociale": "MAS MAURICE GAUSSET AGENCOURT",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU LAVOIR",
+    "bp": "",
+    "cp": "21700",
+    "VILLE": "AGENCOURT ",
+    "tel": "380610547",
+    "telecopie": "380611427",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "77556724100036",
+    "lng": "4.97575668192664",
+    "lat": "47.1279871432849"
+  }
+]

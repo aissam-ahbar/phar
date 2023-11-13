@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "610005548",
+    "raison_sociale": "FJT RÉSIDENCE SOCIALE COURTOMER ALTHEA",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "VIMAL DU BOUCHET",
+    "bp": "",
+    "cp": "61390",
+    "VILLE": "COURTOMER ",
+    "tel": "233152030",
+    "telecopie": "233152031",
+    "categorie etablissement": "257",
+    "libelle categorie": "Foyer de Jeunes Travailleurs (résidence sociale ou non)",
+    "siret": "78093671200022",
+    "lng": "0.356155662867014",
+    "lat": "48.6269677783359"
+  },
+  {
+    "finess": "610785321",
+    "raison_sociale": "SAD ASS UNA CANTON DE COURTOMER",
+    "numero voie": "7",
+    "type_voie": "PL",
+    "libelle_voie": "SAINT-LHOMER",
+    "bp": "",
+    "cp": "61390",
+    "VILLE": "COURTOMER ",
+    "tel": "233288222",
+    "telecopie": "233288268",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "35048572800017",
+    "lng": "0.357669543467706",
+    "lat": "48.6279877858213"
+  },
+  {
+    "finess": "610786303",
+    "raison_sociale": "PHARMACIE GILLET",
+    "numero voie": "2",
+    "type_voie": "PL",
+    "libelle_voie": "SAINT LHOMER",
+    "bp": "",
+    "cp": "61390",
+    "VILLE": "COURTOMER ",
+    "tel": "233284055",
+    "telecopie": "233285522",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88092206700017",
+    "lng": "0.35799118902393",
+    "lat": "48.6279634228413"
+  }
+]

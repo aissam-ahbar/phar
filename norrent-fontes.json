@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "620014910",
+    "raison_sociale": "PHARMACIE DU MARAIS",
+    "numero voie": "49",
+    "type_voie": "RTE",
+    "libelle_voie": "Départementale 943",
+    "bp": "",
+    "cp": "62120",
+    "VILLE": "NORRENT FONTES",
+    "tel": "321020476",
+    "telecopie": "321260068",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84428720100017",
+    "lng": "2.40802237830974",
+    "lat": "50.5853991569021"
+  },
+  {
+    "finess": "620027342",
+    "raison_sociale": "LYS ARTOIS FLANDRE SERVICES",
+    "numero voie": "96",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "62120",
+    "VILLE": "NORRENT FONTES",
+    "tel": "321265283",
+    "telecopie": "321265629",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "52071993100021",
+    "lng": "2.40586160443646",
+    "lat": "50.5895434129964"
+  }
+]

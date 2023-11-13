@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "420004475",
+    "raison_sociale": "PHARMACIE DE MACLAS",
+    "numero voie": "124",
+    "type_voie": "PL",
+    "libelle_voie": "DE L EGLISE",
+    "bp": "",
+    "cp": "42520",
+    "VILLE": "MACLAS ",
+    "tel": "474873867",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79213484300012",
+    "lng": "4.68515109092905",
+    "lat": "45.3628202540667"
+  },
+  {
+    "finess": "420017675",
+    "raison_sociale": "MAISON DE SANTE DE MACLAS",
+    "numero voie": "102",
+    "type_voie": "PL",
+    "libelle_voie": "DES ANCIENS COMBATTANTS",
+    "bp": "",
+    "cp": "42520",
+    "VILLE": "MACLAS ",
+    "tel": "474873832",
+    "telecopie": "474873394",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "90077410000011",
+    "lng": "4.68358243173476",
+    "lat": "45.3639264313614"
+  },
+  {
+    "finess": "420784464",
+    "raison_sociale": "LA ROSEE DU PILAT",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DES GENERATIONS",
+    "bp": "",
+    "cp": "42520",
+    "VILLE": "MACLAS ",
+    "tel": "474873763",
+    "telecopie": "474874541",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26421033700020",
+    "lng": "4.68487510986914",
+    "lat": "45.3618489989112"
+  }
+]

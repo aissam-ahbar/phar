@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590018255",
+    "raison_sociale": "PHARMACIE D'HAULCHIN",
+    "numero voie": "540",
+    "type_voie": "AV",
+    "libelle_voie": "DE L'EUROPE",
+    "bp": "",
+    "cp": "59121",
+    "VILLE": "HAULCHIN ",
+    "tel": "327441241",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39490056700014",
+    "lng": "3.42207578387362",
+    "lat": "50.3177599116122"
+  },
+  {
+    "finess": "590049078",
+    "raison_sociale": "ACCUEIL DE JOUR YOSOKO",
+    "numero voie": "23",
+    "type_voie": "R",
+    "libelle_voie": "MADELEINE CAULIER",
+    "bp": "",
+    "cp": "59121",
+    "VILLE": "HAULCHIN ",
+    "tel": "327381841",
+    "telecopie": "",
+    "categorie etablissement": "207",
+    "libelle categorie": "Centre de Jour pour Personnes Agées",
+    "siret": "24590028700104",
+    "lng": "3.43169313827034",
+    "lat": "50.3206293452027"
+  }
+]

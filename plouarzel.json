@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "290010891",
+    "raison_sociale": "PHARMACIE DU CORSEN",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "29810",
+    "VILLE": "PLOUARZEL ",
+    "tel": "298896343",
+    "telecopie": "982620350",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82405583400017",
+    "lng": "-4.73241450860464",
+    "lat": "48.4332994331913"
+  },
+  {
+    "finess": "290018597",
+    "raison_sociale": "RESIDENCE TY BRAZ",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE TREZIEN",
+    "bp": "",
+    "cp": "29810",
+    "VILLE": "PLOUARZEL ",
+    "tel": "298893392",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "39144758800149",
+    "lng": "-4.74706938213136",
+    "lat": "48.426219551852"
+  }
+]

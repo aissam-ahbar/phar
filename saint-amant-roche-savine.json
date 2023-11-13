@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "630008134",
+    "raison_sociale": "PHARMACIE REMY",
+    "numero voie": "21",
+    "type_voie": "R",
+    "libelle_voie": "HENRI POURRAT",
+    "bp": "",
+    "cp": "63890",
+    "VILLE": "ST AMANT ROCHE SAVINE   ",
+    "tel": "473957038",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44491135800018",
+    "lng": "3.6317722033512",
+    "lat": "45.5742172837644"
+  },
+  {
+    "finess": "630009595",
+    "raison_sociale": "EHPAD \"GASPARD DES MONTAGNES\"",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "63890",
+    "VILLE": "ST AMANT ROCHE SAVINE   ",
+    "tel": "473957300",
+    "telecopie": "473953940",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20001333200016",
+    "lng": "3.63151943988154",
+    "lat": "45.5763420919312"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "160009551",
+    "raison_sociale": "EHPAD - VALLEE DU BANDIAT",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "GD PLANTIER-GARENNE",
+    "bp": "",
+    "cp": "16380",
+    "VILLE": "MARTHON ",
+    "tel": "545702223",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "35056404300023",
+    "lng": "0.44638560479253",
+    "lat": "45.6125562464913"
+  },
+  {
+    "finess": "160011136",
+    "raison_sociale": "PHARMACIE DE LA TOUR",
+    "numero voie": "4",
+    "type_voie": "",
+    "libelle_voie": "Grand Rue",
+    "bp": "",
+    "cp": "16380",
+    "VILLE": "MARTHON ",
+    "tel": "545702204",
+    "telecopie": "545703678",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48498542900022",
+    "lng": "0.443879069360106",
+    "lat": "45.6123758792026"
+  },
+  {
+    "finess": "160013439",
+    "raison_sociale": "LVA \"LE GRAND BREUILH\"",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LE GRAND BREUILH",
+    "bp": "",
+    "cp": "16380",
+    "VILLE": "MARTHON ",
+    "tel": "545702854",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "42196055000018",
+    "lng": "0.44638560479253",
+    "lat": "45.6125562464913"
+  }
+]

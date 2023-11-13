@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "430000281",
+    "raison_sociale": "EPEAP - \"LE MEYGAL\"",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE BOUCHAS",
+    "bp": "",
+    "cp": "43260",
+    "VILLE": "ST HOSTIEN",
+    "tel": "471576125",
+    "telecopie": "471576200",
+    "categorie etablissement": "188",
+    "libelle categorie": "Etablissement pour Enfants ou Adolescents Polyhandicapés",
+    "siret": "77560376400108",
+    "lng": "4.0438211242365",
+    "lat": "45.0742824402881"
+  },
+  {
+    "finess": "430004820",
+    "raison_sociale": "SERVICE D'AIDE AUX  PERSONNES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "43260",
+    "VILLE": "ST HOSTIEN",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31510756500014",
+    "lng": "4.04741533966172",
+    "lat": "45.0723964446724"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "380000547",
+    "raison_sociale": "PUV LA TOUVIERE",
+    "numero voie": "2",
+    "type_voie": "RTE",
+    "libelle_voie": "DE GRENOBLE",
+    "bp": "LA ROSSATIERE",
+    "cp": "38690",
+    "VILLE": "CHABONS ",
+    "tel": "476650658",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "40139552000018",
+    "lng": "5.40425121429662",
+    "lat": "45.445849678152"
+  },
+  {
+    "finess": "380003772",
+    "raison_sociale": "PHARMACIE GUILLAUD-DURAND",
+    "numero voie": "110",
+    "type_voie": "RTE",
+    "libelle_voie": "DE GRENOBLE",
+    "bp": "",
+    "cp": "38690",
+    "VILLE": "CHABONS ",
+    "tel": "476650028",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "32944344400016",
+    "lng": "5.42690327651067",
+    "lat": "45.441845586699"
+  },
+  {
+    "finess": "380791319",
+    "raison_sociale": "SSIAD DES TERRES FROIDES CHABONS",
+    "numero voie": "90",
+    "type_voie": "IMP",
+    "libelle_voie": "DES CANUTS",
+    "bp": "",
+    "cp": "38690",
+    "VILLE": "CHABONS ",
+    "tel": "476650214",
+    "telecopie": "476650883",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "37924495700039",
+    "lng": "5.42930718276348",
+    "lat": "45.4439367412623"
+  }
+]

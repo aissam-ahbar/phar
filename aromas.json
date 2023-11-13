@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "390004695",
+    "raison_sociale": "EHPAD NOTRE MAISON",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "MONTDIDIER",
+    "bp": "MARSONNAS",
+    "cp": "39240",
+    "VILLE": "AROMAS ",
+    "tel": "474507221",
+    "telecopie": "474507066",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77836141000039",
+    "lng": "5.4882338647291",
+    "lat": "46.2764611816838"
+  },
+  {
+    "finess": "390781128",
+    "raison_sociale": "FOYER DE VIE NOTRE MAISON",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "MONTDIDIER",
+    "bp": "MARSONNAS",
+    "cp": "39240",
+    "VILLE": "AROMAS ",
+    "tel": "474507221",
+    "telecopie": "474507066",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "77836141000013",
+    "lng": "5.4882338647291",
+    "lat": "46.2764611816838"
+  }
+]

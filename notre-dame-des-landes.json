@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "440028645",
+    "raison_sociale": "SELARL PHARMACIE DES LANDES",
+    "numero voie": "8",
+    "type_voie": "RTE",
+    "libelle_voie": "DE NANTES",
+    "bp": "",
+    "cp": "44130",
+    "VILLE": "NOTRE DAME DES LANDES   ",
+    "tel": "240572022",
+    "telecopie": "240572022",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53033126300018",
+    "lng": "-1.70986519531578",
+    "lat": "47.3811963485149"
+  },
+  {
+    "finess": "440059210",
+    "raison_sociale": "LVA LES OISILLONS",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LA DURINIERE",
+    "bp": "",
+    "cp": "44130",
+    "VILLE": "NOTRE DAME DES LANDES   ",
+    "tel": "962522979",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "88748839300018",
+    "lng": "-1.6869288576138",
+    "lat": "47.3844149489608"
+  }
+]

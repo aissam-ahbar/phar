@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "330027038",
+    "raison_sociale": "SAAD GROUPEMENT ESAD",
+    "numero voie": "17",
+    "type_voie": "AV",
+    "libelle_voie": "ANDRE LAFON",
+    "bp": "",
+    "cp": "33820",
+    "VILLE": "ST CIERS SUR GIRONDE   ",
+    "tel": "557326699",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "13001109100019",
+    "lng": "-0.609684547971042",
+    "lat": "45.29104463662"
+  },
+  {
+    "finess": "330050840",
+    "raison_sociale": "SELARL PHARMACIE CREGUT",
+    "numero voie": "53",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "33820",
+    "VILLE": "ST CIERS SUR GIRONDE   ",
+    "tel": "557326047",
+    "telecopie": "557327897",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79311398600012",
+    "lng": "-0.612577579722807",
+    "lat": "45.2915659246615"
+  },
+  {
+    "finess": "330800178",
+    "raison_sociale": "EHPAD LA CHENAIE",
+    "numero voie": "6",
+    "type_voie": "AV",
+    "libelle_voie": "ANDRE LAFON",
+    "bp": "",
+    "cp": "33820",
+    "VILLE": "ST CIERS SUR GIRONDE   ",
+    "tel": "557329932",
+    "telecopie": "557327983",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "34335602800013",
+    "lng": "-0.608861640684674",
+    "lat": "45.2907016402166"
+  }
+]

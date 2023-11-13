@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "100002542",
+    "raison_sociale": "PHARMACIE  DE MUSSY SUR SEINE",
+    "numero voie": "1",
+    "type_voie": "QU",
+    "libelle_voie": "INTERROMPU",
+    "bp": "",
+    "cp": "10250",
+    "VILLE": "MUSSY SUR SEINE    ",
+    "tel": "325384034",
+    "telecopie": "325384647",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79742834900014",
+    "lng": "4.49777862740642",
+    "lat": "47.9775181023314"
+  },
+  {
+    "finess": "100003433",
+    "raison_sociale": "EHPAD LES GLYCINES",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "GAMBETTA",
+    "bp": "",
+    "cp": "10250",
+    "VILLE": "MUSSY SUR SEINE    ",
+    "tel": "325384110",
+    "telecopie": "325382281",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26100255400028",
+    "lng": "4.49819862343234",
+    "lat": "47.9797620637338"
+  },
+  {
+    "finess": "100008762",
+    "raison_sociale": "SAAD DU CCAS DE MUSSY",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DE L'HOTEL DE VILLE",
+    "bp": "BP 6",
+    "cp": "10250",
+    "VILLE": "MUSSY SUR SEINE    ",
+    "tel": "325384010",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26100255400036",
+    "lng": "4.49823987826446",
+    "lat": "47.9792295882778"
+  }
+]

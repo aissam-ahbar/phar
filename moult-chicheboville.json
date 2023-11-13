@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "140010604",
+    "raison_sociale": "PHARMACIE DE L'ENVOL",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE PARIS",
+    "bp": "",
+    "cp": "14370",
+    "VILLE": "MOULT CHICHEBOVILLE",
+    "tel": "231236887",
+    "telecopie": "231236887",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "32838691700012",
+    "lng": "-0.171547491865682",
+    "lat": "49.1175877669393"
+  },
+  {
+    "finess": "140031741",
+    "raison_sociale": "FRANCE OXYGENE - SITE DE MOULT",
+    "numero voie": "",
+    "type_voie": "ZI",
+    "libelle_voie": "LES GRANDES CARRIERES",
+    "bp": "",
+    "cp": "14370",
+    "VILLE": "MOULT CHICHEBOVILLE",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "40371572500111",
+    "lng": "-0.181419116581688",
+    "lat": "49.1153347347621"
+  }
+]

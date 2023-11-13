@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "380005819",
+    "raison_sociale": "EHPAD LES VERGERS",
+    "numero voie": "360",
+    "type_voie": "R",
+    "libelle_voie": "DE L'EYRARD",
+    "bp": "",
+    "cp": "38360",
+    "VILLE": "NOYAREY ",
+    "tel": "476869660",
+    "telecopie": "476432237",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "43997564000640",
+    "lng": "5.62729330376023",
+    "lat": "45.25054556793"
+  },
+  {
+    "finess": "380008383",
+    "raison_sociale": "PHARMACIE POLOSSAT",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU MAUPAS",
+    "bp": "",
+    "cp": "38360",
+    "VILLE": "NOYAREY ",
+    "tel": "476539115",
+    "telecopie": "476539829",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49818981000019",
+    "lng": "5.62929564756798",
+    "lat": "45.2459451813503"
+  },
+  {
+    "finess": "380781922",
+    "raison_sociale": "VILLAGE DE L'AMITIE",
+    "numero voie": "525",
+    "type_voie": "CHE",
+    "libelle_voie": "DU MOULIN",
+    "bp": "",
+    "cp": "38360",
+    "VILLE": "NOYAREY ",
+    "tel": "476539546",
+    "telecopie": "476537041",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "77559588700339",
+    "lng": "5.6334743171578",
+    "lat": "45.2428800152941"
+  }
+]

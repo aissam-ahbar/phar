@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "70004551",
+    "raison_sociale": "S.A.V.S. DU CROS D'AUZON",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "7200",
+    "VILLE": "ST MAURICE D ARDECHE   ",
+    "tel": "475370401",
+    "telecopie": "475370102",
+    "categorie etablissement": "446",
+    "libelle categorie": "Service d'Accompagnement à la Vie Sociale (S.A.V.S.)",
+    "siret": "",
+    "lng": "4.40918533739404",
+    "lat": "44.5335489523025"
+  },
+  {
+    "finess": "70783659",
+    "raison_sociale": "ESAT DU CROS D'AUZON - AESIO SANTÉ",
+    "numero voie": "805",
+    "type_voie": "CHE",
+    "libelle_voie": "DE L'AUZON",
+    "bp": "DOMAINDE DU CROS D'AUZON",
+    "cp": "7200",
+    "VILLE": "ST MAURICE D ARDECHE   ",
+    "tel": "475377586",
+    "telecopie": "475370102",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77947198601197",
+    "lng": "4.39960316825092",
+    "lat": "44.5213916531226"
+  }
+]

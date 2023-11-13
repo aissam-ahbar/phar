@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "640784112",
+    "raison_sociale": "FOYER DE VIE L'ABRI MONTAGNARD",
+    "numero voie": "",
+    "type_voie": "QUA",
+    "libelle_voie": "BUGALA",
+    "bp": "",
+    "cp": "64490",
+    "VILLE": "OSSE EN ASPE    ",
+    "tel": "559347051",
+    "telecopie": "559345958",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "48390292000287",
+    "lng": "-0.616932594059607",
+    "lat": "42.9951208177875"
+  },
+  {
+    "finess": "640794558",
+    "raison_sociale": "EHPAD AUTOMNE EN ASPE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "64490",
+    "VILLE": "OSSE EN ASPE    ",
+    "tel": "559347053",
+    "telecopie": "559345266",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "33392567500014",
+    "lng": "-0.636043318440392",
+    "lat": "43.0073485868112"
+  },
+  {
+    "finess": "640795563",
+    "raison_sociale": "SSIAD AUTOMNE EN ASPE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "64490",
+    "VILLE": "OSSE EN ASPE    ",
+    "tel": "559347053",
+    "telecopie": "559345266",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "33392567500014",
+    "lng": "-0.616932594059607",
+    "lat": "42.9951208177875"
+  }
+]

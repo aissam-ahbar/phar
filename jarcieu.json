@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380007567",
+    "raison_sociale": "PHARMACIE DE JARCIEU",
+    "numero voie": "1406",
+    "type_voie": "RTE",
+    "libelle_voie": "Départementale 519",
+    "bp": "",
+    "cp": "38270",
+    "VILLE": "JARCIEU ",
+    "tel": "474848520",
+    "telecopie": "474798370",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83125050100028",
+    "lng": "4.94587209215897",
+    "lat": "45.3333301253816"
+  },
+  {
+    "finess": "380796763",
+    "raison_sociale": "SCE AIDE MENAGERE JARCIEU",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38270",
+    "VILLE": "JARCIEU ",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37843735400012",
+    "lng": "4.94818019574114",
+    "lat": "45.3360092431631"
+  }
+]

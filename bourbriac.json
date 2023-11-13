@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "220004022",
+    "raison_sociale": "EHPAD DE COAT LIOU",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE COAT LIOU",
+    "bp": "",
+    "cp": "22390",
+    "VILLE": "BOURBRIAC ",
+    "tel": "296434477",
+    "telecopie": "296436147",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26220056100021",
+    "lng": "-3.18341950478969",
+    "lat": "48.4795674205376"
+  },
+  {
+    "finess": "220017248",
+    "raison_sociale": "PHARMACIE DU PAYS BRIACIN",
+    "numero voie": "91",
+    "type_voie": "R",
+    "libelle_voie": "DE L'ARMOR",
+    "bp": "",
+    "cp": "22390",
+    "VILLE": "BOURBRIAC ",
+    "tel": "296434970",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51363029300027",
+    "lng": "-3.1868744448623",
+    "lat": "48.4841823352847"
+  },
+  {
+    "finess": "220025647",
+    "raison_sociale": "MSP DU PAYS BRIACIN",
+    "numero voie": "7",
+    "type_voie": "",
+    "libelle_voie": "PEN AR HOAT",
+    "bp": "",
+    "cp": "22390",
+    "VILLE": "BOURBRIAC ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "91861620200019",
+    "lng": "-3.18312008491939",
+    "lat": "48.4810439789203"
+  }
+]

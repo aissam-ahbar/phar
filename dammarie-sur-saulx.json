@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "550001507",
+    "raison_sociale": "PHARMACIE BERVILLER",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "55500",
+    "VILLE": "DAMMARIE SUR SAULX    ",
+    "tel": "329759016",
+    "telecopie": "329758837",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34232790500044",
+    "lng": "5.23843948266687",
+    "lat": "48.5935366793467"
+  },
+  {
+    "finess": "550003172",
+    "raison_sociale": "SAAD ADMR MINIERES",
+    "numero voie": "2",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "55500",
+    "VILLE": "DAMMARIE SUR SAULX    ",
+    "tel": "329456485",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32088078400014",
+    "lng": "5.23750337064046",
+    "lat": "48.5931223385754"
+  },
+  {
+    "finess": "550006001",
+    "raison_sociale": "MARPA LA VIGNE SEGUIN",
+    "numero voie": "2",
+    "type_voie": "CHE",
+    "libelle_voie": "DES GENDARMES",
+    "bp": "",
+    "cp": "55500",
+    "VILLE": "DAMMARIE SUR SAULX    ",
+    "tel": "329453628",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "51384250000011",
+    "lng": "5.24335250735868",
+    "lat": "48.5936826354984"
+  }
+]

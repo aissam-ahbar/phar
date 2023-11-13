@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "150001857",
+    "raison_sociale": "PHARMACIE GUITTARD - GOUTILLE",
+    "numero voie": "13",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "15240",
+    "VILLE": "SAIGNES ",
+    "tel": "471406202",
+    "telecopie": "471405156",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "33775096200017",
+    "lng": "2.47916533203799",
+    "lat": "45.3349258785277"
+  },
+  {
+    "finess": "150781904",
+    "raison_sociale": "EHPAD \"L'OREE DU BOIS\"",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DES GENTIANES",
+    "bp": "",
+    "cp": "15240",
+    "VILLE": "SAIGNES ",
+    "tel": "471406478",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77556256400069",
+    "lng": "2.47907379310658",
+    "lat": "45.3367957155436"
+  }
+]

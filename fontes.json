@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "340784040",
+    "raison_sociale": "EHPAD JEANNE DELANOUE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CABRIERES",
+    "bp": "",
+    "cp": "34320",
+    "VILLE": "FONTES ",
+    "tel": "467257250",
+    "telecopie": "467257251",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "52313258700057",
+    "lng": "3.37970399855099",
+    "lat": "43.5452529755708"
+  },
+  {
+    "finess": "340793314",
+    "raison_sociale": "SELARL LES SOURCES",
+    "numero voie": "22",
+    "type_voie": "BD",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "34320",
+    "VILLE": "FONTES ",
+    "tel": "467251564",
+    "telecopie": "989155714",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48336727200018",
+    "lng": "3.38004640205654",
+    "lat": "43.5397975644192"
+  }
+]

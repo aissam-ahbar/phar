@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "530004506",
+    "raison_sociale": "SAAD ADMR SAINT AIGNAN SUR ROE",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DU RELAIS DES DILIGENCES",
+    "bp": "",
+    "cp": "53390",
+    "VILLE": "ST AIGNAN SUR ROE   ",
+    "tel": "243074594",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31311743400016",
+    "lng": "-1.13773628479559",
+    "lat": "47.8414198693654"
+  },
+  {
+    "finess": "530031012",
+    "raison_sociale": "PHARMACIE GENDRON-MURAIL",
+    "numero voie": "16",
+    "type_voie": "R",
+    "libelle_voie": "Pierre Boisramé",
+    "bp": "",
+    "cp": "53390",
+    "VILLE": "ST AIGNAN SUR ROE   ",
+    "tel": "243065134",
+    "telecopie": "243066374",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49406965100029",
+    "lng": "-1.13631916822274",
+    "lat": "47.8403956286467"
+  },
+  {
+    "finess": "530033075",
+    "raison_sociale": "EHPAD RESIDENCE ST GABRIEL",
+    "numero voie": "6",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "53390",
+    "VILLE": "ST AIGNAN SUR ROE   ",
+    "tel": "243065154",
+    "telecopie": "243069764",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77680969100038",
+    "lng": "-1.13720162766621",
+    "lat": "47.8417568824872"
+  }
+]

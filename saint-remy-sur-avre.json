@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "280004367",
+    "raison_sociale": "PHARMACIE DE SAINT REMY",
+    "numero voie": "12",
+    "type_voie": "R",
+    "libelle_voie": "de la Gare",
+    "bp": "",
+    "cp": "28380",
+    "VILLE": "ST REMY SUR AVRE   ",
+    "tel": "237489205",
+    "telecopie": "237489207",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83945062400011",
+    "lng": "1.24257398374379",
+    "lat": "48.7629967462355"
+  },
+  {
+    "finess": "280503137",
+    "raison_sociale": "RESIDENCE SOCIALE COATEL",
+    "numero voie": "24",
+    "type_voie": "AV",
+    "libelle_voie": "JF KENNEDY",
+    "bp": "",
+    "cp": "28380",
+    "VILLE": "ST REMY SUR AVRE   ",
+    "tel": "237489065",
+    "telecopie": "",
+    "categorie etablissement": "259",
+    "libelle categorie": "Autre Résidence Sociale (hors Maison Relais",
+    "siret": "",
+    "lng": "1.24844434810712",
+    "lat": "48.7601997167269"
+  },
+  {
+    "finess": "280503830",
+    "raison_sociale": "CONSULT.PROTECTION INFANTILE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "28380",
+    "VILLE": "ST REMY SUR AVRE   ",
+    "tel": "237489003",
+    "telecopie": "",
+    "categorie etablissement": "230",
+    "libelle categorie": "Etablissement Consultation Protection Infantile",
+    "siret": "22280001300302",
+    "lng": "1.2387778725058",
+    "lat": "48.7624991079555"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "100002591",
+    "raison_sociale": "SELARL PHARMACIE LERMITE",
+    "numero voie": "63",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "10240",
+    "VILLE": "NOGENT SUR AUBE    ",
+    "tel": "325376680",
+    "telecopie": "325376680",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48438144700024",
+    "lng": "4.31028460486846",
+    "lat": "48.4935593417971"
+  },
+  {
+    "finess": "100011360",
+    "raison_sociale": "MSP ASSOC PROFESSIONNELS SANTE NOGENT",
+    "numero voie": "64",
+    "type_voie": "R",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "10240",
+    "VILLE": "NOGENT SUR AUBE    ",
+    "tel": "972548765",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "88035522700013",
+    "lng": "4.3106535750694",
+    "lat": "48.4933195446649"
+  }
+]

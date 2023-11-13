@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "300008661",
+    "raison_sociale": "PHARMACIE CHABROLLES",
+    "numero voie": "7",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA POSTE",
+    "bp": "",
+    "cp": "30129",
+    "VILLE": "REDESSAN ",
+    "tel": "466202204",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39180010900012",
+    "lng": "4.49664001934322",
+    "lat": "43.8304880358592"
+  },
+  {
+    "finess": "300012390",
+    "raison_sociale": "EHPAD VILLA REDICIANO",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU 19 MARS 1962",
+    "bp": "",
+    "cp": "30129",
+    "VILLE": "REDESSAN ",
+    "tel": "466022292",
+    "telecopie": "466022230",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20001676400017",
+    "lng": "4.50108299741789",
+    "lat": "43.8275764806854"
+  }
+]

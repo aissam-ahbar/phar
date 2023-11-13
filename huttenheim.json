@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "670007871",
+    "raison_sociale": "PHARMACIE DE HUTTENHEIM",
+    "numero voie": "19",
+    "type_voie": "R",
+    "libelle_voie": "DE BENFELD",
+    "bp": "",
+    "cp": "67230",
+    "VILLE": "HUTTENHEIM ",
+    "tel": "388743297",
+    "telecopie": "388741401",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80363619000024",
+    "lng": "7.58659236667426",
+    "lat": "48.3662797300186"
+  },
+  {
+    "finess": "670021351",
+    "raison_sociale": "ESCALE DU RIED",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "LOUIS WIEDMANN",
+    "bp": "",
+    "cp": "67230",
+    "VILLE": "HUTTENHEIM ",
+    "tel": "388744192",
+    "telecopie": "",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "",
+    "lng": "7.58655378734011",
+    "lat": "48.3620716956432"
+  },
+  {
+    "finess": "670780840",
+    "raison_sociale": "IMPRO DU RIED SITE HUTTENHEIM",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "LOUIS WIEDEMANN",
+    "bp": "",
+    "cp": "67230",
+    "VILLE": "HUTTENHEIM ",
+    "tel": "388744192",
+    "telecopie": "388741566",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "77564204400108",
+    "lng": "7.58655378734011",
+    "lat": "48.3620716956432"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "170011514",
+    "raison_sociale": "PHARMACIE PETITE CHAMPAGNE",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "17520",
+    "VILLE": "JARNAC CHAMPAGNE",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83101502900018",
+    "lng": "-0.402930307320001",
+    "lat": "45.5577215717127"
+  },
+  {
+    "finess": "170024657",
+    "raison_sociale": "MSP DU PARC BARABEAU",
+    "numero voie": "1",
+    "type_voie": "IMP",
+    "libelle_voie": "BARABEAU",
+    "bp": "",
+    "cp": "17520",
+    "VILLE": "JARNAC CHAMPAGNE",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "84161530500015",
+    "lng": "-0.397593857387255",
+    "lat": "45.5578813019206"
+  }
+]

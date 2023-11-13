@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "420786998",
+    "raison_sociale": "ESAT COLOMBIER - BLEGNIERE BUSSY",
+    "numero voie": "586",
+    "type_voie": "RTE",
+    "libelle_voie": "DU COLOMBIER",
+    "bp": "",
+    "cp": "42260",
+    "VILLE": "BUSSY ALBIEUX",
+    "tel": "477977530",
+    "telecopie": "477977539",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "33447499600017",
+    "lng": "4.04121161666965",
+    "lat": "45.7938258143639"
+  },
+  {
+    "finess": "420792582",
+    "raison_sociale": "SCE DE TRAVAILLEUSES FAMILIALES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE BOURG",
+    "bp": "",
+    "cp": "42260",
+    "VILLE": "BUSSY ALBIEUX",
+    "tel": "477246045",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "4.03373561907264",
+    "lat": "45.794852733321"
+  }
+]

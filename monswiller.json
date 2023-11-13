@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "670008655",
+    "raison_sociale": "PHARMACIE DE MONSWILLER",
+    "numero voie": "20",
+    "type_voie": "R",
+    "libelle_voie": "DU GAL LECLERC",
+    "bp": "",
+    "cp": "67700",
+    "VILLE": "MONSWILLER ",
+    "tel": "388913111",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53000716000019",
+    "lng": "7.37772142381051",
+    "lat": "48.7575268437314"
+  },
+  {
+    "finess": "670014802",
+    "raison_sociale": "LIEU DE VIE LA PETITE FERME EQUESTRE",
+    "numero voie": "58",
+    "type_voie": "R",
+    "libelle_voie": "FIRTH",
+    "bp": "",
+    "cp": "67700",
+    "VILLE": "MONSWILLER ",
+    "tel": "369921829",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "42420521900019",
+    "lng": "7.36763553202727",
+    "lat": "48.758387426888"
+  },
+  {
+    "finess": "670019082",
+    "raison_sociale": "SAAD MAPA DE L'ALTENBERG-ASADO",
+    "numero voie": "24",
+    "type_voie": "R",
+    "libelle_voie": "DU GENERAL LECLERC",
+    "bp": "",
+    "cp": "67700",
+    "VILLE": "MONSWILLER ",
+    "tel": "388017825",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "80357803800017",
+    "lng": "7.377492710334",
+    "lat": "48.758421606556"
+  }
+]

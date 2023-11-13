@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "360002893",
+    "raison_sociale": "LA PHARMACIE DU BOURG",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "de la Poste",
+    "bp": "",
+    "cp": "36190",
+    "VILLE": "ORSENNES ",
+    "tel": "254472104",
+    "telecopie": "254472987",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49459377500013",
+    "lng": "1.68265678853209",
+    "lat": "46.4773504662368"
+  },
+  {
+    "finess": "360004477",
+    "raison_sociale": "FAM RESIDENCE ALGIRA",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "JEANNE D'ARC",
+    "bp": "",
+    "cp": "36190",
+    "VILLE": "ORSENNES ",
+    "tel": "254016101",
+    "telecopie": "254016109",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "43783306400029",
+    "lng": "1.68012974699241",
+    "lat": "46.4750617570809"
+  }
+]

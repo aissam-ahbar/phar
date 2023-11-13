@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "590015756",
+    "raison_sociale": "PHARMACIE SELOSSE",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "VICTOR HUGO",
+    "bp": "",
+    "cp": "59320",
+    "VILLE": "EMMERIN ",
+    "tel": "320073802",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48108279000025",
+    "lng": "3.00121111827474",
+    "lat": "50.59303504075"
+  },
+  {
+    "finess": "590064770",
+    "raison_sociale": "IME LA PEPINIERE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "59320",
+    "VILLE": "EMMERIN ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "",
+    "lng": "3.00084456209183",
+    "lat": "50.5943507488464"
+  },
+  {
+    "finess": "590793451",
+    "raison_sociale": "SCE D'AIDE A DOMICILE",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "AUGUSTE POTIE",
+    "bp": "",
+    "cp": "59320",
+    "VILLE": "EMMERIN ",
+    "tel": "320071760",
+    "telecopie": "320079019",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26590193400017",
+    "lng": "3.00048642986981",
+    "lat": "50.5939316280803"
+  }
+]

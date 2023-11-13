@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "210011037",
+    "raison_sociale": "SESSAD DES TROIS RIVIERES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "21320",
+    "VILLE": "ESSEY ",
+    "tel": "380905244",
+    "telecopie": "",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "42416376400329",
+    "lng": "4.52163545616364",
+    "lat": "47.2044538764796"
+  },
+  {
+    "finess": "210780748",
+    "raison_sociale": "IME DE VILLENEUVE ESSEY RESAM 21",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "ROUTE DÉPARTEMENTALE 981",
+    "bp": "",
+    "cp": "21320",
+    "VILLE": "ESSEY ",
+    "tel": "380905240",
+    "telecopie": "380644040",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "42416376400196",
+    "lng": "4.52163545616364",
+    "lat": "47.2044538764796"
+  }
+]

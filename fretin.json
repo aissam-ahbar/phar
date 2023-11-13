@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590017083",
+    "raison_sociale": "PHARMACIE DELOBELLE JEAN-PAUL",
+    "numero voie": "48",
+    "type_voie": "R",
+    "libelle_voie": "ALFRED COUSIN",
+    "bp": "",
+    "cp": "59273",
+    "VILLE": "FRETIN ",
+    "tel": "320598046",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44089709800024",
+    "lng": "3.13318657385283",
+    "lat": "50.5611686191451"
+  },
+  {
+    "finess": "590811576",
+    "raison_sociale": "SCE D'AIDE A DOMICILE",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "LOUIS CHUFFART",
+    "bp": "",
+    "cp": "59273",
+    "VILLE": "FRETIN ",
+    "tel": "320599666",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31716694000021",
+    "lng": "3.13936336532065",
+    "lat": "50.5579818956955"
+  }
+]

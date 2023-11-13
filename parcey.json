@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "390003713",
+    "raison_sociale": "PHARMACIE BOURDIN",
+    "numero voie": "49",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "39100",
+    "VILLE": "PARCEY ",
+    "tel": "384710500",
+    "telecopie": "384710849",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52836440900011",
+    "lng": "5.4951773564159",
+    "lat": "47.0186458805972"
+  },
+  {
+    "finess": "390785327",
+    "raison_sociale": "SAAD ASS ADMR DE PARCEY LE DESCHAUX",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "D'AVAL",
+    "bp": "",
+    "cp": "39100",
+    "VILLE": "PARCEY ",
+    "tel": "384710301",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "77840993800025",
+    "lng": "5.48318242127062",
+    "lat": "47.0234318748205"
+  }
+]

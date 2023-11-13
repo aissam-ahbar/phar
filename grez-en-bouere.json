@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "530004027",
+    "raison_sociale": "SAAD GREZ EN BOUERE",
+    "numero voie": "28",
+    "type_voie": "R",
+    "libelle_voie": "DE LA LIBERATION",
+    "bp": "ESPACE FORGE",
+    "cp": "53290",
+    "VILLE": "GREZ EN BOUERE    ",
+    "tel": "243073411",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "78624619900016",
+    "lng": "-0.520633756904204",
+    "lat": "47.873771827115"
+  },
+  {
+    "finess": "530030550",
+    "raison_sociale": "PHARMACIE DU SQUARE",
+    "numero voie": "2",
+    "type_voie": "IMP",
+    "libelle_voie": "DES ECOLES",
+    "bp": "",
+    "cp": "53290",
+    "VILLE": "GREZ EN BOUERE    ",
+    "tel": "243705008",
+    "telecopie": "243706478",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "42434768000011",
+    "lng": "-0.523256981407225",
+    "lat": "47.87419754606"
+  }
+]

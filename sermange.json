@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "390005130",
+    "raison_sociale": "SERV. MANDATAIRE DU NORD EST",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "39700",
+    "VILLE": "SERMANGE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "33272348500014",
+    "lng": "5.64856812401346",
+    "lat": "47.1941717043355"
+  },
+  {
+    "finess": "390785368",
+    "raison_sociale": "SERV. AIDE MENAGERE ROCHEFORT",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "39700",
+    "VILLE": "SERMANGE ",
+    "tel": "384810770",
+    "telecopie": "384810681",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "77841574500026",
+    "lng": "5.64856812401346",
+    "lat": "47.1941717043355"
+  }
+]

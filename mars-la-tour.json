@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "540002615",
+    "raison_sociale": "MAISON DE RETRAITE ST DOMINIQUE",
+    "numero voie": "70",
+    "type_voie": "R",
+    "libelle_voie": "DE METZ",
+    "bp": "",
+    "cp": "54800",
+    "VILLE": "MARS LA TOUR    ",
+    "tel": "382339234",
+    "telecopie": "382339530",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26540021800011",
+    "lng": "5.89331283460843",
+    "lat": "49.0989690475146"
+  },
+  {
+    "finess": "540015120",
+    "raison_sociale": "PHARMACIE GUITTIN",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE VERDUN",
+    "bp": "",
+    "cp": "54800",
+    "VILLE": "MARS LA TOUR    ",
+    "tel": "382339211",
+    "telecopie": "382339599",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39288279100016",
+    "lng": "5.88723964135494",
+    "lat": "49.099032309703"
+  }
+]

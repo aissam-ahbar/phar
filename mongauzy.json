@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "330057050",
+    "raison_sociale": "SECTION OCCUPATIONNELLE DE JOUR",
+    "numero voie": "17",
+    "type_voie": "CHT",
+    "libelle_voie": "DE GUERRE NORD",
+    "bp": "",
+    "cp": "33190",
+    "VILLE": "MONGAUZY ",
+    "tel": "556617909",
+    "telecopie": "556611282",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "77558500300889",
+    "lng": "0.033501729001321",
+    "lat": "44.5672240761233"
+  },
+  {
+    "finess": "330791716",
+    "raison_sociale": "ESAT LES MASSIOTS",
+    "numero voie": "17",
+    "type_voie": "CHT",
+    "libelle_voie": "DE GUERRE NORD",
+    "bp": "",
+    "cp": "33190",
+    "VILLE": "MONGAUZY ",
+    "tel": "556617909",
+    "telecopie": "556611282",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77558500300889",
+    "lng": "0.033501729001321",
+    "lat": "44.5672240761233"
+  }
+]

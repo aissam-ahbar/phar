@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "560020646",
+    "raison_sociale": "EURL PHARMACIE PHILIPPE TENIER",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "DU CHANOINE MARTIN",
+    "bp": "",
+    "cp": "56500",
+    "VILLE": "REGUINY ",
+    "tel": "297386549",
+    "telecopie": "297386447",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39080728700029",
+    "lng": "-2.75013301820073",
+    "lat": "47.9801403652849"
+  },
+  {
+    "finess": "560025934",
+    "raison_sociale": "MSP DE REGUINY",
+    "numero voie": "4",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "56500",
+    "VILLE": "REGUINY ",
+    "tel": "297386639",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "-2.74593931158236",
+    "lat": "47.9769773691583"
+  }
+]

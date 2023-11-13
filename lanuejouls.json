@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "120002415",
+    "raison_sociale": "PHARMACIE DE LANUEJOULS",
+    "numero voie": "520",
+    "type_voie": "AV",
+    "libelle_voie": "DU ROUERGUE",
+    "bp": "",
+    "cp": "12350",
+    "VILLE": "LANUEJOULS ",
+    "tel": "565291300",
+    "telecopie": "565291303",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "78013211400015",
+    "lng": "2.16871937009484",
+    "lat": "44.4280351709137"
+  },
+  {
+    "finess": "120005202",
+    "raison_sociale": "SAAD AL ADMR LANUEJOULS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "FOYER INTERGENERATIONNEL",
+    "cp": "12350",
+    "VILLE": "LANUEJOULS ",
+    "tel": "565772222",
+    "telecopie": "565772220",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "2.16111923503394",
+    "lat": "44.4247025081172"
+  }
+]

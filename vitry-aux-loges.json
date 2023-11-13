@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "450007174",
+    "raison_sociale": "RESIDENCE AUTONOMIE HENRI DESCHAMPS",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "FERDINAND BUISSON",
+    "bp": "",
+    "cp": "45530",
+    "VILLE": "VITRY AUX LOGES    ",
+    "tel": "238594554",
+    "telecopie": "238593679",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26450169300024",
+    "lng": "2.26615162800326",
+    "lat": "47.9405652446238"
+  },
+  {
+    "finess": "450016910",
+    "raison_sociale": "PHARMACIE FOUQUEAU",
+    "numero voie": "23",
+    "type_voie": "R",
+    "libelle_voie": "GAMBETTA",
+    "bp": "",
+    "cp": "45530",
+    "VILLE": "VITRY AUX LOGES    ",
+    "tel": "238594717",
+    "telecopie": "238593670",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "41990628400015",
+    "lng": "2.26680875579021",
+    "lat": "47.9384705852646"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "350022026",
+    "raison_sociale": "PHARMACIE DE LUITRE-DOMPIERRE",
+    "numero voie": "18",
+    "type_voie": "R",
+    "libelle_voie": "DE NORMANDIE",
+    "bp": "",
+    "cp": "35133",
+    "VILLE": "LUITRE DOMPIERRE",
+    "tel": "299979616",
+    "telecopie": "299979743",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88462920500011",
+    "lng": "-1.11700279120124",
+    "lat": "48.2848704580827"
+  },
+  {
+    "finess": "350040101",
+    "raison_sociale": "RESIDENCE SAINT GILLES",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE JUVIGNE",
+    "bp": "",
+    "cp": "35133",
+    "VILLE": "LUITRE DOMPIERRE",
+    "tel": "299979897",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "38238402200036",
+    "lng": "-1.11501172430036",
+    "lat": "48.2818314716194"
+  }
+]

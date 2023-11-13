@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "310035175",
+    "raison_sociale": "HJ PSY GEN CL DE BEAUPUY",
+    "numero voie": "",
+    "type_voie": "DOM",
+    "libelle_voie": "ARTAUD",
+    "bp": "",
+    "cp": "31850",
+    "VILLE": "BEAUPUY ",
+    "tel": "561845650",
+    "telecopie": "",
+    "categorie etablissement": "292",
+    "libelle categorie": "Centre Hospitalier Spécialisé lutte Maladies Mentales",
+    "siret": "",
+    "lng": "1.55515416976796",
+    "lat": "43.6462351896272"
+  },
+  {
+    "finess": "310780390",
+    "raison_sociale": "CL DE BEAUPUY",
+    "numero voie": "",
+    "type_voie": "DOM",
+    "libelle_voie": "ARTAUD",
+    "bp": "",
+    "cp": "31850",
+    "VILLE": "BEAUPUY ",
+    "tel": "561845650",
+    "telecopie": "",
+    "categorie etablissement": "161",
+    "libelle categorie": "Maison de Santé pour Maladies Mentales",
+    "siret": "62080085400015",
+    "lng": "1.55515416976796",
+    "lat": "43.6462351896272"
+  }
+]

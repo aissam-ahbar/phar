@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "230001794",
+    "raison_sociale": "PHARMACIE DE L'ABBAYE",
+    "numero voie": "12",
+    "type_voie": "R",
+    "libelle_voie": "du Marché",
+    "bp": "",
+    "cp": "23210",
+    "VILLE": "BENEVENT L ABBAYE    ",
+    "tel": "555626031",
+    "telecopie": "555626974",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51049871000019",
+    "lng": "1.62895856121297",
+    "lat": "46.1182555930063"
+  },
+  {
+    "finess": "230780264",
+    "raison_sociale": "EHPAD PELISSON FONTANIER",
+    "numero voie": "12",
+    "type_voie": "AV",
+    "libelle_voie": "DU LIMOUSIN",
+    "bp": "",
+    "cp": "23210",
+    "VILLE": "BENEVENT L ABBAYE    ",
+    "tel": "555626035",
+    "telecopie": "555626717",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26230210200021",
+    "lng": "1.62104788420393",
+    "lat": "46.1150184062529"
+  }
+]

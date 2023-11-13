@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "620020784",
+    "raison_sociale": "SERVICE D'AIDE A DOMICILE",
+    "numero voie": "19",
+    "type_voie": "CHS",
+    "libelle_voie": "BRUNEHAUT",
+    "bp": "BP 9",
+    "cp": "62120",
+    "VILLE": "RELY ",
+    "tel": "321023323",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32469848900071",
+    "lng": "2.35392483121685",
+    "lat": "50.5697104636185"
+  },
+  {
+    "finess": "620027243",
+    "raison_sociale": "ASSOCIATION S.P.A.S.A.D. DES 3 CANTONS",
+    "numero voie": "19",
+    "type_voie": "CHS",
+    "libelle_voie": "BRUNEHAUT",
+    "bp": "",
+    "cp": "62120",
+    "VILLE": "RELY ",
+    "tel": "321023323",
+    "telecopie": "",
+    "categorie etablissement": "209",
+    "libelle categorie": "Service Polyvalent Aide et Soins A Domicile (S.P.A.S.A.D.)",
+    "siret": "32469848900071",
+    "lng": "2.35392483121685",
+    "lat": "50.5697104636185"
+  },
+  {
+    "finess": "620115378",
+    "raison_sociale": "SSIAD RELY - ST VENANT",
+    "numero voie": "19",
+    "type_voie": "CHS",
+    "libelle_voie": "BRUNEHAUT",
+    "bp": "",
+    "cp": "62120",
+    "VILLE": "RELY ",
+    "tel": "321024547",
+    "telecopie": "321275081",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "41527315000011",
+    "lng": "2.35392483121685",
+    "lat": "50.5697104636185"
+  }
+]

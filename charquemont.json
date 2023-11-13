@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "250008182",
+    "raison_sociale": "PHARMACIE CHAPITAUX",
+    "numero voie": "33",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "25140",
+    "VILLE": "CHARQUEMONT ",
+    "tel": "381440001",
+    "telecopie": "381440883",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39123511600020",
+    "lng": "6.8236570854965",
+    "lat": "47.2113962018087"
+  },
+  {
+    "finess": "250009958",
+    "raison_sociale": "SCE DE TRAVAILLEUSES FAMILIALES - ADMR",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "25140",
+    "VILLE": "CHARQUEMONT ",
+    "tel": "381682387",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "77830312300039",
+    "lng": "6.82831164873168",
+    "lat": "47.214384441976"
+  },
+  {
+    "finess": "250009966",
+    "raison_sociale": "SERVICE D'AIDES MENAGERES - ADMR",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "25140",
+    "VILLE": "CHARQUEMONT ",
+    "tel": "381682387",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "77830312300039",
+    "lng": "6.82831164873168",
+    "lat": "47.214384441976"
+  }
+]

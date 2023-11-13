@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "10008605",
+    "raison_sociale": "EAM  DU COLOMBIER",
+    "numero voie": "470",
+    "type_voie": "R",
+    "libelle_voie": "DE LA PIECE",
+    "bp": "",
+    "cp": "1260",
+    "VILLE": "ARVIERE EN VALROMEY    ",
+    "tel": "479876006",
+    "telecopie": "479875332",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "77564325700063",
+    "lng": "5.71879409614714",
+    "lat": "45.9108573273567"
+  },
+  {
+    "finess": "10784197",
+    "raison_sociale": "FOYER HEBERG DU COLOM BIER VIRIEU LE P",
+    "numero voie": "470",
+    "type_voie": "R",
+    "libelle_voie": "DE LA PIECE",
+    "bp": "VIRIEU LE PETIT",
+    "cp": "1260",
+    "VILLE": "ARVIERE EN VALROMEY    ",
+    "tel": "479876006",
+    "telecopie": "479875332",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "77564325700063",
+    "lng": "5.71879409614714",
+    "lat": "45.9108573273567"
+  },
+  {
+    "finess": "10786861",
+    "raison_sociale": "SERVICE D'ACCUEIL DE JOUR DU COLOMBIER",
+    "numero voie": "470",
+    "type_voie": "R",
+    "libelle_voie": "DE LA PIÈCE",
+    "bp": "VIRIEU LE PETIT",
+    "cp": "1260",
+    "VILLE": "ARVIERE EN VALROMEY    ",
+    "tel": "479876006",
+    "telecopie": "479875332",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "77564325700063",
+    "lng": "5.71879409614714",
+    "lat": "45.9108573273567"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "370006694",
+    "raison_sociale": "PHARMACIE BREBION-MAUPETIT",
+    "numero voie": "47",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "37210",
+    "VILLE": "PARCAY MESLAY",
+    "tel": "247291700",
+    "telecopie": "247291128",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49335528300018",
+    "lng": "0.745020476766369",
+    "lat": "47.4409948683564"
+  },
+  {
+    "finess": "370013781",
+    "raison_sociale": "SOS OXYGENE CENTRE - PARCAY MESLAY",
+    "numero voie": "320",
+    "type_voie": "R",
+    "libelle_voie": "DEWOITINE",
+    "bp": "",
+    "cp": "37210",
+    "VILLE": "PARCAY MESLAY",
+    "tel": "247556652",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "53336247100013",
+    "lng": "0.716686919728996",
+    "lat": "47.4443291357878"
+  }
+]

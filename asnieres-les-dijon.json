@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "210003018",
+    "raison_sociale": "ACCUEIL DE JOUR LE BOIS JOLI",
+    "numero voie": "1",
+    "type_voie": "ALL",
+    "libelle_voie": "DE LA CENDINE",
+    "bp": "",
+    "cp": "21380",
+    "VILLE": "ASNIERES LES DIJON    ",
+    "tel": "380453944",
+    "telecopie": "380562786",
+    "categorie etablissement": "207",
+    "libelle categorie": "Centre de Jour pour Personnes Agées",
+    "siret": "77821402300161",
+    "lng": "5.04457348053224",
+    "lat": "47.3837949801695"
+  },
+  {
+    "finess": "210014148",
+    "raison_sociale": "TENDRE UNE MAIN",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MARE",
+    "bp": "",
+    "cp": "21380",
+    "VILLE": "ASNIERES LES DIJON    ",
+    "tel": "380300244",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "5.04494528212658",
+    "lat": "47.3853391165822"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "130054133",
+    "raison_sociale": "SAAD ADMR 13 AUREILLE",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DE LA BERGERIE",
+    "bp": "",
+    "cp": "13930",
+    "VILLE": "AUREILLE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "78275126700041",
+    "lng": "4.94777053671364",
+    "lat": "43.7060749104744"
+  },
+  {
+    "finess": "130799992",
+    "raison_sociale": "CONSULTATIONS DE PMI - AUREILLE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "13930",
+    "VILLE": "AUREILLE ",
+    "tel": "490579201",
+    "telecopie": "",
+    "categorie etablissement": "230",
+    "libelle categorie": "Etablissement Consultation Protection Infantile",
+    "siret": "22130001501674",
+    "lng": "4.94910299638467",
+    "lat": "43.7066181183686"
+  }
+]

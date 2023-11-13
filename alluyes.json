@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "280002023",
+    "raison_sociale": "MECS ALLUYES",
+    "numero voie": "3",
+    "type_voie": "AV",
+    "libelle_voie": "CHEVALLIER DEBEAUSSE",
+    "bp": "",
+    "cp": "28800",
+    "VILLE": "ALLUYES ",
+    "tel": "237477777",
+    "telecopie": "237472255",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "77507922100013",
+    "lng": "1.36285114288343",
+    "lat": "48.2294518274948"
+  },
+  {
+    "finess": "280009515",
+    "raison_sociale": "SAR - FONDATION CHEVALLIER DEBEAUSSE",
+    "numero voie": "3",
+    "type_voie": "AV",
+    "libelle_voie": "CHEVALLIER DEBEAUSSE",
+    "bp": "",
+    "cp": "28800",
+    "VILLE": "ALLUYES ",
+    "tel": "237477777",
+    "telecopie": "",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "77507922100013",
+    "lng": "1.36285114288343",
+    "lat": "48.2294518274948"
+  }
+]

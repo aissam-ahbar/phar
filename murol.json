@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "630007201",
+    "raison_sociale": "PHARMACIE DE MUROL",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "D ESTAING",
+    "bp": "",
+    "cp": "63790",
+    "VILLE": "MUROL ",
+    "tel": "473886042",
+    "telecopie": "473886042",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "89329822400013",
+    "lng": "2.94085987741484",
+    "lat": "45.5747196263221"
+  },
+  {
+    "finess": "630012151",
+    "raison_sociale": "MSP DE MUROL",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "GUY MAUPASSANT",
+    "bp": "",
+    "cp": "63790",
+    "VILLE": "MUROL ",
+    "tel": "473882800",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "80133711400012",
+    "lng": "2.94609089756519",
+    "lat": "45.5724422531007"
+  }
+]

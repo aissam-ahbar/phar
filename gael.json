@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "350020707",
+    "raison_sociale": "SELARL PHARMACIE DE GAEL",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "de la Croix de la Chesnais",
+    "bp": "",
+    "cp": "35290",
+    "VILLE": "GAEL ",
+    "tel": "299077219",
+    "telecopie": "299077458",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50014441500014",
+    "lng": "-2.21986607036497",
+    "lat": "48.1383222705498"
+  },
+  {
+    "finess": "350032678",
+    "raison_sociale": "RESIDENCE LA DOMNONEE",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "LIEUTENANT GUILLARD",
+    "bp": "",
+    "cp": "35290",
+    "VILLE": "GAEL ",
+    "tel": "299077603",
+    "telecopie": "299077604",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77568030901601",
+    "lng": "-2.22012285330029",
+    "lat": "48.1318738338252"
+  }
+]

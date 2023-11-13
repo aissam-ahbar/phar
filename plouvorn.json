@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "290010909",
+    "raison_sociale": "PHARMACIE PICARD",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DES CHATAIGNIERS",
+    "bp": "",
+    "cp": "29420",
+    "VILLE": "PLOUVORN ",
+    "tel": "298613340",
+    "telecopie": "298610392",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79084952500023",
+    "lng": "-4.04656968543598",
+    "lat": "48.5794490313939"
+  },
+  {
+    "finess": "290020163",
+    "raison_sociale": "RESIDENCE SAINT ROCH",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DU 18 JUIN 1940",
+    "bp": "",
+    "cp": "29420",
+    "VILLE": "PLOUVORN ",
+    "tel": "298613590",
+    "telecopie": "298613000",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26290178800022",
+    "lng": "-4.03844844104218",
+    "lat": "48.5795425745065"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "400010807",
+    "raison_sociale": "PHARMACIE DES PINS",
+    "numero voie": "113",
+    "type_voie": "AV",
+    "libelle_voie": "du Brassenx",
+    "bp": "",
+    "cp": "40110",
+    "VILLE": "YGOS ST SATURNIN    ",
+    "tel": "558517192",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38784935900014",
+    "lng": "-0.738400319734691",
+    "lat": "43.9762209927323"
+  },
+  {
+    "finess": "400014189",
+    "raison_sociale": "MSP LA CALLUNE",
+    "numero voie": "320",
+    "type_voie": "R",
+    "libelle_voie": "DES LAURIERS",
+    "bp": "",
+    "cp": "40110",
+    "VILLE": "YGOS ST SATURNIN    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "-0.737820309915574",
+    "lat": "43.9778590107823"
+  }
+]

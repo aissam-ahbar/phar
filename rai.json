@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "610002586",
+    "raison_sociale": "FOYER DE VIE \"CHRISTIAN BILLAULT\"",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LA FOULNERIE",
+    "cp": "61270",
+    "VILLE": "RAI ",
+    "tel": "233343964",
+    "telecopie": "233245981",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "78504100500394",
+    "lng": "0.541510087729325",
+    "lat": "48.7530453131054"
+  },
+  {
+    "finess": "610788028",
+    "raison_sociale": "PHARMACIE DU PROG'RAI",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "PIERRE QUENTIN",
+    "bp": "",
+    "cp": "61270",
+    "VILLE": "RAI ",
+    "tel": "233849638",
+    "telecopie": "970613240",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53071876600013",
+    "lng": "0.584522669534346",
+    "lat": "48.7533510744581"
+  }
+]

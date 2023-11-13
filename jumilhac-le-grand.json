@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "240000604",
+    "raison_sociale": "MECS DE BIONE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LIEU DIT  BIONE",
+    "cp": "24630",
+    "VILLE": "JUMILHAC LE GRAND    ",
+    "tel": "553553550",
+    "telecopie": "553553551",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "78166889200016",
+    "lng": "1.06246659147504",
+    "lat": "45.4947129675546"
+  },
+  {
+    "finess": "240010355",
+    "raison_sociale": "PHARMACIE DE JUMILHAC",
+    "numero voie": "4",
+    "type_voie": "PL",
+    "libelle_voie": "DU CHATEAU",
+    "bp": "",
+    "cp": "24630",
+    "VILLE": "JUMILHAC LE GRAND    ",
+    "tel": "553553040",
+    "telecopie": "553553044",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "32516920900021",
+    "lng": "1.0610137800043",
+    "lat": "45.492965671204"
+  },
+  {
+    "finess": "240017442",
+    "raison_sociale": "MSP LES PAQUERETTES",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DES PAQUERETTES",
+    "bp": "",
+    "cp": "24630",
+    "VILLE": "JUMILHAC LE GRAND    ",
+    "tel": "553525305",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "53160543400012",
+    "lng": "1.06724989592383",
+    "lat": "45.4954925977144"
+  }
+]

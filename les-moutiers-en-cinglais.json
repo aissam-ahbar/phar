@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "140011628",
+    "raison_sociale": "EHPAD \"LES OPALINES\"",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE THURY HARCOURT",
+    "bp": "",
+    "cp": "14220",
+    "VILLE": "LES MOUTIERS EN CINGLAIS   ",
+    "tel": "231793111",
+    "telecopie": "231791899",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "48085852100010",
+    "lng": "-0.429883658643044",
+    "lat": "49.0161572521175"
+  },
+  {
+    "finess": "140018748",
+    "raison_sociale": "FERME DE LA HUPPERIE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "14220",
+    "VILLE": "LES MOUTIERS EN CINGLAIS   ",
+    "tel": "231793696",
+    "telecopie": "",
+    "categorie etablissement": "252",
+    "libelle categorie": "Foyer Hébergement Adultes Handicapés",
+    "siret": "38045892700015",
+    "lng": "-0.422365356062455",
+    "lat": "49.03136099661"
+  }
+]

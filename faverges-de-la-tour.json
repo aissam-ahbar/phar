@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380796201",
+    "raison_sociale": "SCE TRAV.FAMIL.FAVERGES-LA-TOUR",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38110",
+    "VILLE": "FAVERGES DE LA TOUR   ",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37855209500010",
+    "lng": "5.52712732943902",
+    "lat": "45.5907535463073"
+  },
+  {
+    "finess": "380796870",
+    "raison_sociale": "SCE AIDE MENAG.FAVERGES-LA-TOUR",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38110",
+    "VILLE": "FAVERGES DE LA TOUR   ",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37855209500028",
+    "lng": "5.52712732943902",
+    "lat": "45.5907535463073"
+  }
+]

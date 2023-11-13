@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "660012121",
+    "raison_sociale": "CENTRE MUNICIPAL DE SANTE ESPIRA",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "JAUPART",
+    "bp": "",
+    "cp": "66600",
+    "VILLE": "ESPIRA DE L AGLY   ",
+    "tel": "468641753",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "21660069200018",
+    "lng": "2.83612863339585",
+    "lat": "42.7770954596999"
+  },
+  {
+    "finess": "660785536",
+    "raison_sociale": "EHPAD RESIDENCE DU MOULIN",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU 4 SEPTEMBRE",
+    "bp": "",
+    "cp": "66600",
+    "VILLE": "ESPIRA DE L AGLY   ",
+    "tel": "468574400",
+    "telecopie": "468574401",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "40125156602465",
+    "lng": "2.83931936955384",
+    "lat": "42.7757290597012"
+  },
+  {
+    "finess": "660788290",
+    "raison_sociale": "SELARL PHARMACIE DE L'AGLY",
+    "numero voie": "29",
+    "type_voie": "R",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "66600",
+    "VILLE": "ESPIRA DE L AGLY   ",
+    "tel": "468641755",
+    "telecopie": "468643643",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "30109915600020",
+    "lng": "2.83553242737728",
+    "lat": "42.7755659616568"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "430002253",
+    "raison_sociale": "PHARMACIE DE L'ALLAGNON",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "de la Prade",
+    "bp": "",
+    "cp": "43410",
+    "VILLE": "LEMPDES SUR ALLAGNON    ",
+    "tel": "471765211",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50014244300026",
+    "lng": "3.26948462519353",
+    "lat": "45.3825033336846"
+  },
+  {
+    "finess": "430009241",
+    "raison_sociale": "MAISON DE SANTE EN PAYS D'ALLAGNON",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DE LA PRADE",
+    "bp": "",
+    "cp": "43410",
+    "VILLE": "LEMPDES SUR ALLAGNON    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "90949187000012",
+    "lng": "3.26948462519353",
+    "lat": "45.3825033336846"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "20003927",
+    "raison_sociale": "EHPAD SAINT-VINCENT-DE-PAUL",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MALADRERIE",
+    "bp": "",
+    "cp": "2550",
+    "VILLE": "ORIGNY EN THIERACHE    ",
+    "tel": "323913200",
+    "telecopie": "323984844",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "78020524100018",
+    "lng": "4.01571729729779",
+    "lat": "49.8914567544973"
+  },
+  {
+    "finess": "20009775",
+    "raison_sociale": "PHARMACIE HYEANS-TABARY",
+    "numero voie": "25",
+    "type_voie": "R",
+    "libelle_voie": "DE VERVINS",
+    "bp": "",
+    "cp": "2550",
+    "VILLE": "ORIGNY EN THIERACHE    ",
+    "tel": "323984283",
+    "telecopie": "323984871",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49388220300018",
+    "lng": "4.01694686303186",
+    "lat": "49.8938407723515"
+  },
+  {
+    "finess": "20012340",
+    "raison_sociale": "EA APIHT ORIGNY-EN-THIÉRACHE",
+    "numero voie": "18",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA GARE",
+    "bp": "BP 12",
+    "cp": "2550",
+    "VILLE": "ORIGNY EN THIERACHE    ",
+    "tel": "323983040",
+    "telecopie": "323982990",
+    "categorie etablissement": "247",
+    "libelle categorie": "Entreprise adaptée",
+    "siret": "40916209600021",
+    "lng": "4.02490220354996",
+    "lat": "49.8917223689123"
+  }
+]

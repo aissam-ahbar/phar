@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "180000275",
+    "raison_sociale": "EHPAD RESIDENCE ANDRE MAGINOT",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE BOURGES",
+    "bp": "",
+    "cp": "18330",
+    "VILLE": "NEUVY SUR BARANGEON    ",
+    "tel": "248529560",
+    "telecopie": "248529562",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "40989616400012",
+    "lng": "2.26060308370257",
+    "lat": "47.3125319729921"
+  },
+  {
+    "finess": "180003550",
+    "raison_sociale": "PHARMACIE DE LA FORET",
+    "numero voie": "3",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LA CHAPELLE",
+    "bp": "",
+    "cp": "18330",
+    "VILLE": "NEUVY SUR BARANGEON    ",
+    "tel": "248516609",
+    "telecopie": "248516498",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "87871973100019",
+    "lng": "2.25524364264704",
+    "lat": "47.315272363744"
+  },
+  {
+    "finess": "180008781",
+    "raison_sociale": "IME SOLOGNE - SITE ANNEXE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE MENETREOL",
+    "bp": "",
+    "cp": "18330",
+    "VILLE": "NEUVY SUR BARANGEON    ",
+    "tel": "248516242",
+    "telecopie": "248516895",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "77502216300197",
+    "lng": "2.25391164396212",
+    "lat": "47.3251037895489"
+  }
+]

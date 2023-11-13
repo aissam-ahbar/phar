@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "690010616",
+    "raison_sociale": "PHARMACIE MEGE-GIRARD",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "La Folletière",
+    "bp": "",
+    "cp": "69870",
+    "VILLE": "LAMURE SUR AZERGUES    ",
+    "tel": "474030650",
+    "telecopie": "474031082",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81764993200024",
+    "lng": "4.49638515593171",
+    "lat": "46.0318997721143"
+  },
+  {
+    "finess": "690024294",
+    "raison_sociale": "SERVICE AIDE MENAGERE A DOMICILE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "CENTRALE",
+    "bp": "",
+    "cp": "69870",
+    "VILLE": "LAMURE SUR AZERGUES    ",
+    "tel": "474020450",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "30928562500013",
+    "lng": "4.4900127846231",
+    "lat": "46.0619168661006"
+  },
+  {
+    "finess": "690786645",
+    "raison_sociale": "MAISON D'ENFANTS DOCTEUR YVERT",
+    "numero voie": "268",
+    "type_voie": "R",
+    "libelle_voie": "CENTRALE",
+    "bp": "",
+    "cp": "69870",
+    "VILLE": "LAMURE SUR AZERGUES    ",
+    "tel": "474030564",
+    "telecopie": "474031817",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "77564914800902",
+    "lng": "4.4900127846231",
+    "lat": "46.0619168661006"
+  }
+]

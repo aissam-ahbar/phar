@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "500011374",
+    "raison_sociale": "PHARMACIE PRISIAISE",
+    "numero voie": "2",
+    "type_voie": "PL",
+    "libelle_voie": "du Général Leclerc",
+    "bp": "",
+    "cp": "50190",
+    "VILLE": "PERIERS ",
+    "tel": "233765858",
+    "telecopie": "233765850",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80278471000021",
+    "lng": "-1.40880806526482",
+    "lat": "49.1865747952914"
+  },
+  {
+    "finess": "500012232",
+    "raison_sociale": "EHPAD \"RESIDENCE ANAÏS DE GROUCY\"",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "DE BASTOGNE",
+    "bp": "BP 28",
+    "cp": "50190",
+    "VILLE": "PERIERS ",
+    "tel": "233763500",
+    "telecopie": "233763600",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26500104000020",
+    "lng": "-1.40853634921407",
+    "lat": "49.1845641577367"
+  },
+  {
+    "finess": "500014758",
+    "raison_sociale": "SSIAD - PERIERS",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "DE BASTOGNE",
+    "bp": "BP 28",
+    "cp": "50190",
+    "VILLE": "PERIERS ",
+    "tel": "233763535",
+    "telecopie": "233763604",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "26500104000046",
+    "lng": "-1.40853634921407",
+    "lat": "49.1845641577367"
+  }
+]

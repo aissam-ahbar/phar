@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380025957",
+    "raison_sociale": "SAAD CAÂD 38",
+    "numero voie": "23",
+    "type_voie": "CHEM",
+    "libelle_voie": "DES COTTES",
+    "bp": "",
+    "cp": "38410",
+    "VILLE": "VAULNAVEYS LE BAS    ",
+    "tel": "951685702",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "5.79352216769465",
+    "lat": "45.0938519070392"
+  },
+  {
+    "finess": "380782250",
+    "raison_sociale": "CHRS OZANAM",
+    "numero voie": "200",
+    "type_voie": "AV",
+    "libelle_voie": "DES VAULNAVEYS",
+    "bp": "LES COIRETS",
+    "cp": "38410",
+    "VILLE": "VAULNAVEYS LE BAS    ",
+    "tel": "476891784",
+    "telecopie": "476890106",
+    "categorie etablissement": "214",
+    "libelle categorie": "Centre Hébergement & Réinsertion Sociale (C.H.R.S.)",
+    "siret": "77559593700027",
+    "lng": "5.80632822283661",
+    "lat": "45.1132334030446"
+  }
+]

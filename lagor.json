@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "640009874",
+    "raison_sociale": "PHARMACIE COULERU",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "64150",
+    "VILLE": "LAGOR ",
+    "tel": "559601436",
+    "telecopie": "559604859",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82062919400011",
+    "lng": "-0.652153474581904",
+    "lat": "43.3923464090122"
+  },
+  {
+    "finess": "640793493",
+    "raison_sociale": "SAAD ADMR DE LAGOR",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "64150",
+    "VILLE": "LAGOR ",
+    "tel": "559715425",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37916505300016",
+    "lng": "-0.652153474581904",
+    "lat": "43.3923464090122"
+  }
+]

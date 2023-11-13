@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "440002996",
+    "raison_sociale": "EHPAD ST JOSEPH",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DES CHARMILLES",
+    "bp": "",
+    "cp": "44390",
+    "VILLE": "LES TOUCHES",
+    "tel": "251128900",
+    "telecopie": "240724100",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "50995434300018",
+    "lng": "-1.43057801015263",
+    "lat": "47.4432856131708"
+  },
+  {
+    "finess": "440030666",
+    "raison_sociale": "FOYERS SAINT JOSEPH",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DU CALVAIRE",
+    "bp": "",
+    "cp": "44390",
+    "VILLE": "LES TOUCHES",
+    "tel": "251128970",
+    "telecopie": "251124885",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "78608182800026",
+    "lng": "-1.42936246518914",
+    "lat": "47.4420552571039"
+  },
+  {
+    "finess": "440031664",
+    "raison_sociale": "PHARMACIE ROY-BONEU",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "DU CALVAIRE",
+    "bp": "",
+    "cp": "44390",
+    "VILLE": "LES TOUCHES",
+    "tel": "240724354",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48971780100018",
+    "lng": "-1.42934759487716",
+    "lat": "47.4420522171885"
+  }
+]

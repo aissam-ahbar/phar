@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "400010435",
+    "raison_sociale": "PHARMACIE DE LA PLACE",
+    "numero voie": "60",
+    "type_voie": "AV",
+    "libelle_voie": "Hagenthal le Bas",
+    "bp": "",
+    "cp": "40250",
+    "VILLE": "SOUPROSSE ",
+    "tel": "558442312",
+    "telecopie": "558442312",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45348986600021",
+    "lng": "-0.705354126004226",
+    "lat": "43.7873904116803"
+  },
+  {
+    "finess": "400010898",
+    "raison_sociale": "EHPAD DES 5 RIVIERES",
+    "numero voie": "100",
+    "type_voie": "ALL",
+    "libelle_voie": "DE COMPEYRON",
+    "bp": "",
+    "cp": "40250",
+    "VILLE": "SOUPROSSE ",
+    "tel": "558446090",
+    "telecopie": "558441760",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26400429200035",
+    "lng": "-0.703115356175575",
+    "lat": "43.7874413274584"
+  }
+]

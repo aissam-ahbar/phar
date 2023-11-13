@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "330064502",
+    "raison_sociale": "MSP SAINT PIERRE D'AURILLAC",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "33490",
+    "VILLE": "ST PIERRE D AURILLAC   ",
+    "tel": "556623388",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "91387617300018",
+    "lng": "-0.188067197109657",
+    "lat": "44.5741183046769"
+  },
+  {
+    "finess": "330797390",
+    "raison_sociale": "RA NOSTE PETIT OUSTAOU",
+    "numero voie": "10",
+    "type_voie": "RTE",
+    "libelle_voie": "DE SAINT ANDRE DU BOIS",
+    "bp": "",
+    "cp": "33490",
+    "VILLE": "ST PIERRE D AURILLAC   ",
+    "tel": "556633027",
+    "telecopie": "556631739",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26330453700032",
+    "lng": "-0.190481266643846",
+    "lat": "44.5723168925417"
+  },
+  {
+    "finess": "330801135",
+    "raison_sociale": "SAAD CCAS DE SAINT PIERRE D'AURILLAC",
+    "numero voie": "124",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA LIBERATION",
+    "bp": "",
+    "cp": "33490",
+    "VILLE": "ST PIERRE D AURILLAC   ",
+    "tel": "556636940",
+    "telecopie": "556631739",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26330453700024",
+    "lng": "-0.190310847243343",
+    "lat": "44.5718442987491"
+  }
+]

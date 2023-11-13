@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "530002286",
+    "raison_sociale": "EHPAD LES ORMEAUX",
+    "numero voie": "26",
+    "type_voie": "RTE",
+    "libelle_voie": "D'ERNEE",
+    "bp": "",
+    "cp": "53240",
+    "VILLE": "LA BACONNIERE",
+    "tel": "243027108",
+    "telecopie": "243027276",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26530055800011",
+    "lng": "-0.893614385750486",
+    "lat": "48.1846093912167"
+  },
+  {
+    "finess": "530032879",
+    "raison_sociale": "PHARMACIE PAQUEREAU",
+    "numero voie": "62",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LAVAL",
+    "bp": "",
+    "cp": "53240",
+    "VILLE": "LA BACONNIERE",
+    "tel": "243026310",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51032460100010",
+    "lng": "-0.890847777592971",
+    "lat": "48.1798844711574"
+  }
+]

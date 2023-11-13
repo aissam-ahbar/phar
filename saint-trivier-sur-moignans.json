@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "10005734",
+    "raison_sociale": "PHARMACIE DE SAINT TRIVIER",
+    "numero voie": "92",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CHATILLON",
+    "bp": "",
+    "cp": "1990",
+    "VILLE": "ST TRIVIER SUR MOIGNANS   ",
+    "tel": "474558014",
+    "telecopie": "474558838",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83297333300012",
+    "lng": "4.8985892078418",
+    "lat": "46.0728350872718"
+  },
+  {
+    "finess": "10007045",
+    "raison_sociale": "SAAD ADMR ST-TRIVIER SUR MOIGNANS",
+    "numero voie": "258",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CHATILLON",
+    "bp": "",
+    "cp": "1990",
+    "VILLE": "ST TRIVIER SUR MOIGNANS   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "4.89971296129546",
+    "lat": "46.0738197090535"
+  },
+  {
+    "finess": "10781011",
+    "raison_sociale": "EHPAD PUBLIC LES SAULAIES",
+    "numero voie": "119",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "1990",
+    "VILLE": "ST TRIVIER SUR MOIGNANS   ",
+    "tel": "474558068",
+    "telecopie": "474558079",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26010025000018",
+    "lng": "4.89666697066617",
+    "lat": "46.0716998728644"
+  }
+]

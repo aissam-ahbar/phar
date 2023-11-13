@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "380002949",
+    "raison_sociale": "SESSAD DE L'AULP DU SEUIL",
+    "numero voie": "51",
+    "type_voie": "RTE",
+    "libelle_voie": "D'HURTIERES",
+    "bp": "",
+    "cp": "38570",
+    "VILLE": "TENCIN ",
+    "tel": "458270075",
+    "telecopie": "476920490",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "77559588700487",
+    "lng": "5.95493987871894",
+    "lat": "45.3044586271058"
+  },
+  {
+    "finess": "380023895",
+    "raison_sociale": "SAAD ADMR TENCIN",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "ROUTE DU LAC",
+    "bp": "",
+    "cp": "38570",
+    "VILLE": "TENCIN ",
+    "tel": "787872622",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "5.9516464150089",
+    "lat": "45.3117514413206"
+  },
+  {
+    "finess": "380796516",
+    "raison_sociale": "SERVICE D'AIDES MENAGERES DE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38570",
+    "VILLE": "TENCIN ",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37924189600016",
+    "lng": "5.95668450296616",
+    "lat": "45.3081465566506"
+  }
+]

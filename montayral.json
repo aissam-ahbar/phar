@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "470011487",
+    "raison_sociale": "SELAS  PHARMACIE DE MONTAYRAL",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DE FUMEL",
+    "bp": "",
+    "cp": "47500",
+    "VILLE": "MONTAYRAL ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83005816000011",
+    "lng": "0.977957764168727",
+    "lat": "44.4844132420473"
+  },
+  {
+    "finess": "470014986",
+    "raison_sociale": "LBM NOVABIO - MONTAYRAL - PORTE DU QUE",
+    "numero voie": "",
+    "type_voie": "ZONE",
+    "libelle_voie": "D'ACTIVITE PORTE DU QUERCY",
+    "bp": "TRICOU",
+    "cp": "47500",
+    "VILLE": "MONTAYRAL ",
+    "tel": "553710239",
+    "telecopie": "553711027",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "49779500500147",
+    "lng": "0.986037347415921",
+    "lat": "44.4807717828169"
+  },
+  {
+    "finess": "470017526",
+    "raison_sociale": "SAAD ADMR MONTAYRAL",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "47500",
+    "VILLE": "MONTAYRAL ",
+    "tel": "553366351",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32591980100010",
+    "lng": "0.986037347415921",
+    "lat": "44.4807717828169"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "370006330",
+    "raison_sociale": "SELARL PHARMACIE LOUSTANAU",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "37250",
+    "VILLE": "MONTBAZON ",
+    "tel": "247260092",
+    "telecopie": "247340277",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50170004100012",
+    "lng": "0.715783365029835",
+    "lat": "47.2881399144917"
+  },
+  {
+    "finess": "370012478",
+    "raison_sociale": "LBM LABORIZON CENTRE MONTBAZON",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA VENNETIERE",
+    "bp": "",
+    "cp": "37250",
+    "VILLE": "MONTBAZON ",
+    "tel": "247262828",
+    "telecopie": "247261427",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "69480136600246",
+    "lng": "0.720644933945975",
+    "lat": "47.2885174231354"
+  },
+  {
+    "finess": "370016339",
+    "raison_sociale": "MSP MONTBAZON",
+    "numero voie": "5",
+    "type_voie": "ALL",
+    "libelle_voie": "JOHN ROPPER",
+    "bp": "",
+    "cp": "37250",
+    "VILLE": "MONTBAZON ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "91863541800018",
+    "lng": "0.708463790403631",
+    "lat": "47.2750130501568"
+  }
+]

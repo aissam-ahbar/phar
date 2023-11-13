@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "260016605",
+    "raison_sociale": "ASS ADMR \"LE PINIER\"",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "BP 5",
+    "cp": "26620",
+    "VILLE": "LUS LA CROIX HAUTE   ",
+    "tel": "492585512",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "95040863300010",
+    "lng": "5.70558292486131",
+    "lat": "44.6645278366395"
+  },
+  {
+    "finess": "260019765",
+    "raison_sociale": "PROPHARMACIE KRISTINE GOUVERNEUR",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LE VILLAGE",
+    "cp": "26620",
+    "VILLE": "LUS LA CROIX HAUTE   ",
+    "tel": "492547814",
+    "telecopie": "",
+    "categorie etablissement": "627",
+    "libelle categorie": "Propharmacie",
+    "siret": "81263753600010",
+    "lng": "5.70589814473446",
+    "lat": "44.6651777122295"
+  }
+]

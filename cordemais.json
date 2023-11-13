@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "440012086",
+    "raison_sociale": "EHPAD LE PRIEURE",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DE LA CHAUSSEE",
+    "bp": "",
+    "cp": "44360",
+    "VILLE": "CORDEMAIS ",
+    "tel": "240577198",
+    "telecopie": "240578672",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "31344713800030",
+    "lng": "-1.8797587741889",
+    "lat": "47.2928470216646"
+  },
+  {
+    "finess": "440015279",
+    "raison_sociale": "PHARMACIE LECERF-JAILLET",
+    "numero voie": "2",
+    "type_voie": "CHE",
+    "libelle_voie": "DE LA SENECHALAIS",
+    "bp": "",
+    "cp": "44360",
+    "VILLE": "CORDEMAIS ",
+    "tel": "240578588",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40367580400013",
+    "lng": "-1.88157382016498",
+    "lat": "47.2898175597396"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "590025870",
+    "raison_sociale": "PHARMACIE DOURIEZ",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "HYACINTHE MARS",
+    "bp": "",
+    "cp": "59494",
+    "VILLE": "PETITE FORET",
+    "tel": "327294993",
+    "telecopie": "327298387",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84059114300010",
+    "lng": "3.47456135265192",
+    "lat": "50.3709773746704"
+  },
+  {
+    "finess": "590045647",
+    "raison_sociale": "ACCUEIL DE JOUR LA RELAILLIENCE",
+    "numero voie": "90",
+    "type_voie": "R",
+    "libelle_voie": "LEO FERRÉ",
+    "bp": "",
+    "cp": "59494",
+    "VILLE": "PETITE FORET",
+    "tel": "327200940",
+    "telecopie": "",
+    "categorie etablissement": "207",
+    "libelle categorie": "Centre de Jour pour Personnes Agées",
+    "siret": "24590028700096",
+    "lng": "3.47600131914281",
+    "lat": "50.3709484890311"
+  },
+  {
+    "finess": "590059739",
+    "raison_sociale": "ORKYN",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "LINQUETTE",
+    "bp": "ESPACE FERNAND LINQUETTE",
+    "cp": "59494",
+    "VILLE": "PETITE FORET",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "",
+    "lng": "3.47369027330374",
+    "lat": "50.3831679913631"
+  }
+]

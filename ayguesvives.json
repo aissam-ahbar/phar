@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "310006564",
+    "raison_sociale": "PHARMACIE CANOD",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE TICAILLE",
+    "bp": "",
+    "cp": "31450",
+    "VILLE": "AYGUESVIVES ",
+    "tel": "561811602",
+    "telecopie": "561279204",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50391151300029",
+    "lng": "1.59991781228809",
+    "lat": "43.4424288305246"
+  },
+  {
+    "finess": "310029640",
+    "raison_sociale": "SAAD GENERATION +",
+    "numero voie": "26",
+    "type_voie": "CHE",
+    "libelle_voie": "DE TOULOUSE",
+    "bp": "",
+    "cp": "31450",
+    "VILLE": "AYGUESVIVES ",
+    "tel": "534433686",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "52021421400014",
+    "lng": "1.5952876685942",
+    "lat": "43.4399205376913"
+  }
+]

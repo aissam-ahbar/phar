@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "350021085",
+    "raison_sociale": "PHARMACIE DU VALLION",
+    "numero voie": "13",
+    "type_voie": "PL",
+    "libelle_voie": "DE L EGLISE",
+    "bp": "",
+    "cp": "35430",
+    "VILLE": "ST JOUAN DES GUERETS   ",
+    "tel": "299810608",
+    "telecopie": "299816120",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84141302400016",
+    "lng": "-1.97332363590121",
+    "lat": "48.5990636128235"
+  },
+  {
+    "finess": "350052924",
+    "raison_sociale": "RÉSIDENCE ACCUEIL UDAF 35",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "35430",
+    "VILLE": "ST JOUAN DES GUERETS   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "258",
+    "libelle categorie": "Maisons Relais - Pensions de Famille",
+    "siret": "",
+    "lng": "-1.97233130539109",
+    "lat": "48.5990456321418"
+  }
+]

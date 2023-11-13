@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "20009247",
+    "raison_sociale": "CHÂTEAU DE LA SOURCE",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "PORTENEUVE",
+    "bp": "",
+    "cp": "2310",
+    "VILLE": "NOGENT L ARTAUD    ",
+    "tel": "323849080",
+    "telecopie": "323849081",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "49367204200030",
+    "lng": "3.32263566695988",
+    "lat": "48.9666906891835"
+  },
+  {
+    "finess": "20009510",
+    "raison_sociale": "SELARL PHARMACIE DE NOGENT",
+    "numero voie": "41",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "2310",
+    "VILLE": "NOGENT L ARTAUD    ",
+    "tel": "953472927",
+    "telecopie": "323701114",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49980297300010",
+    "lng": "3.32195847009043",
+    "lat": "48.9662869528935"
+  }
+]

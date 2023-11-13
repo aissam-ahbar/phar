@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "160017125",
+    "raison_sociale": "LVA MARPEN INSERTION FORMATION",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "D'AIGRE",
+    "bp": "",
+    "cp": "16140",
+    "VILLE": "TUSSON ",
+    "tel": "545314579",
+    "telecopie": "",
+    "categorie etablissement": "378",
+    "libelle categorie": "Etablissement Expérimental Enfance Protégée",
+    "siret": "80850827900011",
+    "lng": "0.063206026549104",
+    "lat": "45.9248169213755"
+  },
+  {
+    "finess": "160017364",
+    "raison_sociale": "LDVA MARPEN MNA",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "SOUVIGNÉ",
+    "bp": "",
+    "cp": "16140",
+    "VILLE": "TUSSON ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "32062696300039",
+    "lng": "0.06565472886614",
+    "lat": "45.9374834740489"
+  }
+]

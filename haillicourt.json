@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "620011627",
+    "raison_sociale": "PHARMACIE KOJFER",
+    "numero voie": "39",
+    "type_voie": "R",
+    "libelle_voie": "LESAGE",
+    "bp": "",
+    "cp": "62940",
+    "VILLE": "HAILLICOURT ",
+    "tel": "321520166",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53954218300014",
+    "lng": "2.58438279088804",
+    "lat": "50.474702322297"
+  },
+  {
+    "finess": "620011643",
+    "raison_sociale": "PHARMACIE FOSSE 6",
+    "numero voie": "1028",
+    "type_voie": "R",
+    "libelle_voie": "EMILE ZOLA",
+    "bp": "",
+    "cp": "62940",
+    "VILLE": "HAILLICOURT ",
+    "tel": "321531514",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "47974194400025",
+    "lng": "2.5661203329985",
+    "lat": "50.467215151401"
+  },
+  {
+    "finess": "620026393",
+    "raison_sociale": "PF HABITAT INSERTION  HAILLICOURT",
+    "numero voie": "1023",
+    "type_voie": "R",
+    "libelle_voie": "EMILE ZOLA",
+    "bp": "",
+    "cp": "62940",
+    "VILLE": "HAILLICOURT ",
+    "tel": "321689086",
+    "telecopie": "321688624",
+    "categorie etablissement": "258",
+    "libelle categorie": "Maisons Relais - Pensions de Famille",
+    "siret": "38795027200089",
+    "lng": "2.56251490705192",
+    "lat": "50.4656845145103"
+  }
+]

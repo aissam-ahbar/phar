@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "190003822",
+    "raison_sociale": "EHPAD CHAMBOULIVE",
+    "numero voie": "",
+    "type_voie": "VOI",
+    "libelle_voie": "DU TACOT",
+    "bp": "",
+    "cp": "19450",
+    "VILLE": "CHAMBOULIVE ",
+    "tel": "555216284",
+    "telecopie": "555216550",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26190370200031",
+    "lng": "1.70575800400148",
+    "lat": "45.4302132414174"
+  },
+  {
+    "finess": "190005892",
+    "raison_sociale": "ESAT DU PUY GRAND ET DE LA VEZERE",
+    "numero voie": "95",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LESPINASSE",
+    "bp": "BEL ASPECT",
+    "cp": "19450",
+    "VILLE": "CHAMBOULIVE ",
+    "tel": "555179028",
+    "telecopie": "555216990",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "33087550100034",
+    "lng": "1.69186636392647",
+    "lat": "45.4310282771047"
+  },
+  {
+    "finess": "190008037",
+    "raison_sociale": "PHARMACIE BORDILLON",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LA CAMBUSE",
+    "bp": "",
+    "cp": "19450",
+    "VILLE": "CHAMBOULIVE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48277533500011",
+    "lng": "1.7088564475677",
+    "lat": "45.4280389408679"
+  }
+]

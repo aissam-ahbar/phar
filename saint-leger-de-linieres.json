@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "490007648",
+    "raison_sociale": "PHARMACIE ROCHET",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DES BRÛLONS",
+    "bp": "",
+    "cp": "49070",
+    "VILLE": "ST LEGER DE LINIERES   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44399182300016",
+    "lng": "-0.709800877361294",
+    "lat": "47.4592077069426"
+  },
+  {
+    "finess": "490018082",
+    "raison_sociale": "EMMAUS RESIDENCE SOCIALE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE SAULOUP",
+    "bp": "SAINT-JEAN-DE-LINIERES",
+    "cp": "49070",
+    "VILLE": "ST LEGER DE LINIERES   ",
+    "tel": "241397339",
+    "telecopie": "241397729",
+    "categorie etablissement": "259",
+    "libelle categorie": "Autre Résidence Sociale (hors Maison Relais",
+    "siret": "",
+    "lng": "-0.709800877361294",
+    "lat": "47.4592077069426"
+  },
+  {
+    "finess": "490022050",
+    "raison_sociale": "MSP BOIS LINIERES",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DES FERRIERES",
+    "bp": "ST LEGER DES BOIS",
+    "cp": "49070",
+    "VILLE": "ST LEGER DE LINIERES   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "-0.710608864467625",
+    "lat": "47.4610870165821"
+  }
+]

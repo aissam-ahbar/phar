@@ -1,0 +1,19 @@
+[
+  {
+    "finess": "140010307",
+    "raison_sociale": "PHARMACIE DE LA RIVIERE",
+    "numero voie": "29",
+    "type_voie": "R",
+    "libelle_voie": "DU BOURG",
+    "bp": "",
+    "cp": "14600",
+    "VILLE": "LA RIVIERE ST SAUVEUR   ",
+    "tel": "231987020",
+    "telecopie": "231988700",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49780125800029",
+    "lng": "0.268565851481409",
+    "lat": "49.4077226109303"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "710005893",
+    "raison_sociale": "PHARMACIE NOUVEAU CHOLLON",
+    "numero voie": "13",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CHALON",
+    "bp": "",
+    "cp": "71310",
+    "VILLE": "MERVANS ",
+    "tel": "385761072",
+    "telecopie": "385761615",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50324368500016",
+    "lng": "5.18566995972427",
+    "lat": "46.7999261609391"
+  },
+  {
+    "finess": "710011487",
+    "raison_sociale": "EHPAD DE MERVANS",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DE LA VARENNE",
+    "bp": "",
+    "cp": "71310",
+    "VILLE": "MERVANS ",
+    "tel": "385713210",
+    "telecopie": "385713254",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20002025300015",
+    "lng": "5.18122829988977",
+    "lat": "46.7963967719767"
+  },
+  {
+    "finess": "710977034",
+    "raison_sociale": "SSIAD MERVANS BRESSE DU NORD",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU 11 NOVEMBRE",
+    "bp": "",
+    "cp": "71310",
+    "VILLE": "MERVANS ",
+    "tel": "385761665",
+    "telecopie": "",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "77856436900255",
+    "lng": "5.18712785743567",
+    "lat": "46.800917166489"
+  }
+]

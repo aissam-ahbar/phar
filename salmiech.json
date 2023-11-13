@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "120004163",
+    "raison_sociale": "PHARMACIE FERRIEU-REBOUL",
+    "numero voie": "",
+    "type_voie": "QUA",
+    "libelle_voie": "SAINT AMANS",
+    "bp": "",
+    "cp": "12120",
+    "VILLE": "SALMIECH ",
+    "tel": "565467501",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38097539100018",
+    "lng": "2.56377541881069",
+    "lat": "44.1808975462128"
+  },
+  {
+    "finess": "120005442",
+    "raison_sociale": "SAAD AL ADMR SALMIECH-COMPS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "RES LE THERON ST AMANS",
+    "cp": "12120",
+    "VILLE": "SALMIECH ",
+    "tel": "565772222",
+    "telecopie": "565772220",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "2.56377541881069",
+    "lat": "44.1808975462128"
+  },
+  {
+    "finess": "120786611",
+    "raison_sociale": "RESIDENCE AUTONOMIE LE THERON",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "12120",
+    "VILLE": "SALMIECH ",
+    "tel": "565467731",
+    "telecopie": "565742869",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "34846095700015",
+    "lng": "2.56377541881069",
+    "lat": "44.1808975462128"
+  }
+]

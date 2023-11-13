@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "630008704",
+    "raison_sociale": "PHARMACIE DE SAYAT",
+    "numero voie": "4",
+    "type_voie": "RTE",
+    "libelle_voie": "D ARGNAT",
+    "bp": "",
+    "cp": "63530",
+    "VILLE": "SAYAT ",
+    "tel": "473628300",
+    "telecopie": "473628757",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "42415747700011",
+    "lng": "3.05331435556034",
+    "lat": "45.8326862368972"
+  },
+  {
+    "finess": "630011658",
+    "raison_sociale": "CENTRE MEDICAL \"LES MOULINS\"",
+    "numero voie": "4",
+    "type_voie": "RTE",
+    "libelle_voie": "D'ARGNAT",
+    "bp": "",
+    "cp": "63530",
+    "VILLE": "SAYAT ",
+    "tel": "473623620",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "51110640300013",
+    "lng": "3.05331435556034",
+    "lat": "45.8326862368972"
+  },
+  {
+    "finess": "630789238",
+    "raison_sociale": "SCE AIDE MENAG DOM PERS AGEES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "63530",
+    "VILLE": "SAYAT ",
+    "tel": "473628123",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26630317100026",
+    "lng": "3.05272025982999",
+    "lat": "45.8270404346003"
+  }
+]

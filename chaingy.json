@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "450000252",
+    "raison_sociale": "CLINIQUE BELLE ALLEE",
+    "numero voie": "24",
+    "type_voie": "RTE",
+    "libelle_voie": "D'ORLEANS",
+    "bp": "",
+    "cp": "45380",
+    "VILLE": "CHAINGY ",
+    "tel": "238466664",
+    "telecopie": "238888890",
+    "categorie etablissement": "161",
+    "libelle categorie": "Maison de Santé pour Maladies Mentales",
+    "siret": "8678069900012",
+    "lng": "1.79630253057859",
+    "lat": "47.872881261746"
+  },
+  {
+    "finess": "450004742",
+    "raison_sociale": "PHARMACIE DE L'ORME AUX CHATS",
+    "numero voie": "5",
+    "type_voie": "PL",
+    "libelle_voie": "LOUIS RIVIERE",
+    "bp": "",
+    "cp": "45380",
+    "VILLE": "CHAINGY ",
+    "tel": "238806440",
+    "telecopie": "238881010",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "37806770600028",
+    "lng": "1.7733545531175",
+    "lat": "47.8844410679915"
+  }
+]

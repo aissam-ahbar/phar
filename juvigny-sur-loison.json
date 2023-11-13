@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "550005755",
+    "raison_sociale": "FOYER OCCUPATIONNEL",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE L'ABBAYE",
+    "bp": "",
+    "cp": "55600",
+    "VILLE": "JUVIGNY SUR LOISON    ",
+    "tel": "329881818",
+    "telecopie": "329881146",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "78504100500055",
+    "lng": "5.34082964380481",
+    "lat": "49.4663270533248"
+  },
+  {
+    "finess": "550007041",
+    "raison_sociale": "FAM ADOSSE AU FO ( ASSOC PERCE NEIGE )",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE L'ABBAYE",
+    "bp": "",
+    "cp": "55600",
+    "VILLE": "JUVIGNY SUR LOISON    ",
+    "tel": "329881818",
+    "telecopie": "329881146",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "78504100500055",
+    "lng": "5.34082964380481",
+    "lat": "49.4663270533248"
+  }
+]

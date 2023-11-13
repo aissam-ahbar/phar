@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "430001115",
+    "raison_sociale": "ESAT LES AMIS DU PLATEAU",
+    "numero voie": "40",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LA COSTETTE",
+    "bp": "ZA LA MION",
+    "cp": "43520",
+    "VILLE": "MAZET ST VOY    ",
+    "tel": "471650768",
+    "telecopie": "471650769",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "41117856900058",
+    "lng": "4.2423398773484",
+    "lat": "45.0556659519081"
+  },
+  {
+    "finess": "430003269",
+    "raison_sociale": "SAVS \"LES AMIS DU PLATEAU\"",
+    "numero voie": "40",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LA COSTETTE",
+    "bp": "",
+    "cp": "43520",
+    "VILLE": "MAZET ST VOY    ",
+    "tel": "471650768",
+    "telecopie": "471650769",
+    "categorie etablissement": "446",
+    "libelle categorie": "Service d'Accompagnement à la Vie Sociale (S.A.V.S.)",
+    "siret": "41117856900058",
+    "lng": "4.2423398773484",
+    "lat": "45.0556659519081"
+  },
+  {
+    "finess": "430007104",
+    "raison_sociale": "PHARMACIE DU PLATEAU DE CHADRAC",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE TENCE",
+    "bp": "",
+    "cp": "43520",
+    "VILLE": "MAZET ST VOY    ",
+    "tel": "471656666",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "43318329000017",
+    "lng": "4.24651248284234",
+    "lat": "45.0495805876109"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "480780436",
+    "raison_sociale": "ESAT LE PRIEURE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LAVAL-ATGER",
+    "cp": "48600",
+    "VILLE": "ST BONNET LAVAL    ",
+    "tel": "466463409",
+    "telecopie": "466463140",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77610845800014",
+    "lng": "3.69037952763643",
+    "lat": "44.8173992742627"
+  },
+  {
+    "finess": "480782382",
+    "raison_sociale": "FOYER HEBERGEMENT LE PRIEURE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LAVAL-ATGER",
+    "cp": "48600",
+    "VILLE": "ST BONNET LAVAL    ",
+    "tel": "466463409",
+    "telecopie": "466463564",
+    "categorie etablissement": "252",
+    "libelle categorie": "Foyer Hébergement Adultes Handicapés",
+    "siret": "77610845800014",
+    "lng": "3.69037952763643",
+    "lat": "44.8173992742627"
+  }
+]

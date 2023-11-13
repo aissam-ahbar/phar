@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "650005804",
+    "raison_sociale": "EHPAD COURTAOU DE BIGORRE",
+    "numero voie": "46",
+    "type_voie": "R",
+    "libelle_voie": "DU PIC DU MIDI",
+    "bp": "",
+    "cp": "65310",
+    "VILLE": "HORGUES ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77563907300078",
+    "lng": "0.089095886992102",
+    "lat": "43.1841459382269"
+  },
+  {
+    "finess": "650006430",
+    "raison_sociale": "SAAD ADMR TARBES SUD",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DES PYRENEES",
+    "bp": "",
+    "cp": "65310",
+    "VILLE": "HORGUES ",
+    "tel": "562312538",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "84342972100023",
+    "lng": "0.087914785472095",
+    "lat": "43.1875668275517"
+  }
+]

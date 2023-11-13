@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "150001535",
+    "raison_sociale": "PHARMACIE BOUDON",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DU FOIRAIL",
+    "bp": "",
+    "cp": "15120",
+    "VILLE": "MONTSALVY ",
+    "tel": "471492012",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49850040400013",
+    "lng": "2.49798831935782",
+    "lat": "44.7073357212107"
+  },
+  {
+    "finess": "150004299",
+    "raison_sociale": "MAISON DE SANTE DE MONTSALVY",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "DU PUY LACROIX",
+    "bp": "",
+    "cp": "15120",
+    "VILLE": "MONTSALVY ",
+    "tel": "471492793",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "91951241800014",
+    "lng": "2.4953226402073",
+    "lat": "44.7052889079836"
+  },
+  {
+    "finess": "150782001",
+    "raison_sociale": "EHPAD LE CHATEAU",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "TOUR DE VILLE",
+    "bp": "",
+    "cp": "15120",
+    "VILLE": "MONTSALVY ",
+    "tel": "471492448",
+    "telecopie": "471496986",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26150048200029",
+    "lng": "2.49951605353907",
+    "lat": "44.7073201294919"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "640012225",
+    "raison_sociale": "PHARMACIE PRESANI",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE MAULEON",
+    "bp": "",
+    "cp": "64190",
+    "VILLE": "RIVEHAUTE ",
+    "tel": "559386858",
+    "telecopie": "559386951",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "42901068900017",
+    "lng": "-0.87873345357866",
+    "lat": "43.3446937979132"
+  },
+  {
+    "finess": "640780102",
+    "raison_sociale": "ITEP LES EVENTS",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DU SAISON",
+    "bp": "",
+    "cp": "64190",
+    "VILLE": "RIVEHAUTE ",
+    "tel": "559386717",
+    "telecopie": "559386934",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "32466640300013",
+    "lng": "-0.880549561256536",
+    "lat": "43.3441188351335"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "330052044",
+    "raison_sociale": "PHARMACIE DE SALLEBOEUF",
+    "numero voie": "2",
+    "type_voie": "ALL",
+    "libelle_voie": "des Commerces",
+    "bp": "",
+    "cp": "33370",
+    "VILLE": "SALLEBOEUF ",
+    "tel": "556219604",
+    "telecopie": "556683345",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34996491600036",
+    "lng": "-0.405909625511681",
+    "lat": "44.832965966935"
+  },
+  {
+    "finess": "330055161",
+    "raison_sociale": "SAAD LES COTEAUX DE BORDEAUX",
+    "numero voie": "3",
+    "type_voie": "ALL",
+    "libelle_voie": "CAPDEVIELLE",
+    "bp": "",
+    "cp": "33370",
+    "VILLE": "SALLEBOEUF ",
+    "tel": "556728994",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "30467203300053",
+    "lng": "-0.397325539965587",
+    "lat": "44.8427816043104"
+  },
+  {
+    "finess": "330786385",
+    "raison_sociale": "EHPAD CHATEAU VACQUEY",
+    "numero voie": "56",
+    "type_voie": "AV",
+    "libelle_voie": "VACQUEY",
+    "bp": "",
+    "cp": "33370",
+    "VILLE": "SALLEBOEUF ",
+    "tel": "556729145",
+    "telecopie": "556724702",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "32115293600027",
+    "lng": "-0.39692814645059",
+    "lat": "44.8603097794598"
+  }
+]

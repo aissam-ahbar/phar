@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380796110",
+    "raison_sociale": "SCE TRAVAIL.FAMIL. ST-HONORE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38350",
+    "VILLE": "ST HONORE",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "5.80718433708665",
+    "lat": "44.9541190552139"
+  },
+  {
+    "finess": "380796706",
+    "raison_sociale": "SERVICE D AIDES MENAGERES DE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "FUGIERES",
+    "cp": "38350",
+    "VILLE": "ST HONORE",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "5.80805785225262",
+    "lat": "44.9540798743632"
+  }
+]

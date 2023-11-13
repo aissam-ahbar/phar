@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "640010781",
+    "raison_sociale": "PHARMACIE BARREYAT",
+    "numero voie": "112",
+    "type_voie": "AV",
+    "libelle_voie": "d'Ossau",
+    "bp": "",
+    "cp": "64680",
+    "VILLE": "OGEU LES BAINS    ",
+    "tel": "559349265",
+    "telecopie": "559349162",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88139153600011",
+    "lng": "-0.508986785669976",
+    "lat": "43.1538395767269"
+  },
+  {
+    "finess": "640020525",
+    "raison_sociale": "SAAD ADMR DE L'AYGUETTE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE LOUREAU",
+    "bp": "",
+    "cp": "64680",
+    "VILLE": "OGEU LES BAINS    ",
+    "tel": "559349190",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "51786157100027",
+    "lng": "-0.505628146083041",
+    "lat": "43.1467028846504"
+  },
+  {
+    "finess": "640792883",
+    "raison_sociale": "EANM FOYER DE VIE PERCE NEIGE",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "BORDE DE SAUT",
+    "bp": "",
+    "cp": "64680",
+    "VILLE": "OGEU LES BAINS    ",
+    "tel": "559349534",
+    "telecopie": "559349548",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "34148127300025",
+    "lng": "-0.494574004666937",
+    "lat": "43.1538585699021"
+  }
+]

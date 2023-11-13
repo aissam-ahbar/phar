@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "170010581",
+    "raison_sociale": "PHARMACIE   DEVANNE",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "PORT PARADIS",
+    "bp": "",
+    "cp": "17430",
+    "VILLE": "BORDS ",
+    "tel": "546838344",
+    "telecopie": "546838567",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88160059700010",
+    "lng": "-0.79568114642782",
+    "lat": "45.8963730872537"
+  },
+  {
+    "finess": "170024368",
+    "raison_sociale": "MSP SIMONE VEIL",
+    "numero voie": "3",
+    "type_voie": "PL",
+    "libelle_voie": "MARC TRANQUARD",
+    "bp": "",
+    "cp": "17430",
+    "VILLE": "BORDS ",
+    "tel": "546838288",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "82045485800011",
+    "lng": "-0.796278126797989",
+    "lat": "45.8971292544471"
+  },
+  {
+    "finess": "170782353",
+    "raison_sociale": "ESAT BORD",
+    "numero voie": "24",
+    "type_voie": "R",
+    "libelle_voie": "DE CHAMPFLEURY",
+    "bp": "BP 4",
+    "cp": "17430",
+    "VILLE": "BORDS ",
+    "tel": "546838252",
+    "telecopie": "546838705",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77556469300064",
+    "lng": "-0.795521042723572",
+    "lat": "45.8992967299871"
+  }
+]

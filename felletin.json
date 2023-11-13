@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "230002347",
+    "raison_sociale": "PHARMACIE SARRET",
+    "numero voie": "1",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "23500",
+    "VILLE": "FELLETIN ",
+    "tel": "555664034",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40525253700015",
+    "lng": "2.17342071631182",
+    "lat": "45.8835565129184"
+  },
+  {
+    "finess": "230780132",
+    "raison_sociale": "IME DENIS FORESTIER",
+    "numero voie": "33",
+    "type_voie": "R",
+    "libelle_voie": "DES GRANGES",
+    "bp": "",
+    "cp": "23500",
+    "VILLE": "FELLETIN ",
+    "tel": "555664303",
+    "telecopie": "555665510",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "77562407500310",
+    "lng": "2.18647500523378",
+    "lat": "45.888719439852"
+  },
+  {
+    "finess": "230781635",
+    "raison_sociale": "EHPAD RESIDENCE JEAN MAZET",
+    "numero voie": "46",
+    "type_voie": "RTE",
+    "libelle_voie": "D'AUBUSSON",
+    "bp": "",
+    "cp": "23500",
+    "VILLE": "FELLETIN ",
+    "tel": "555665088",
+    "telecopie": "555664236",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "43997564000301",
+    "lng": "2.17959528100657",
+    "lat": "45.8901844417087"
+  }
+]

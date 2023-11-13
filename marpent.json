@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590024006",
+    "raison_sociale": "PHARMACIE DE MARPENT",
+    "numero voie": "113",
+    "type_voie": "",
+    "libelle_voie": "RUE DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "59164",
+    "VILLE": "MARPENT ",
+    "tel": "327395410",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88058144200014",
+    "lng": "4.08518371966391",
+    "lat": "50.2944682643086"
+  },
+  {
+    "finess": "590047700",
+    "raison_sociale": "EHPAD KORIAN SAMARA",
+    "numero voie": "216",
+    "type_voie": "R",
+    "libelle_voie": "DE LA FRATERNITE",
+    "bp": "",
+    "cp": "59164",
+    "VILLE": "MARPENT ",
+    "tel": "327614010",
+    "telecopie": "327534049",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "34117411801386",
+    "lng": "4.08486344035445",
+    "lat": "50.2918221441236"
+  }
+]

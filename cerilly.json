@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "30001721",
+    "raison_sociale": "PHARMACIE  NOUVELLE",
+    "numero voie": "12",
+    "type_voie": "PL",
+    "libelle_voie": "PERON",
+    "bp": "",
+    "cp": "3350",
+    "VILLE": "CERILLY ",
+    "tel": "470675008",
+    "telecopie": "470675532",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49209476800024",
+    "lng": "2.82082036722885",
+    "lat": "46.6175753712116"
+  },
+  {
+    "finess": "30009013",
+    "raison_sociale": "CMP ADULTES CÉRILLY",
+    "numero voie": "12",
+    "type_voie": "AV",
+    "libelle_voie": "DU 11 NOVEMBRE",
+    "bp": "",
+    "cp": "3350",
+    "VILLE": "CERILLY ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "292",
+    "libelle categorie": "Centre Hospitalier Spécialisé lutte Maladies Mentales",
+    "siret": "",
+    "lng": "2.81529605252536",
+    "lat": "46.6188983398049"
+  },
+  {
+    "finess": "30780936",
+    "raison_sociale": "EHPAD LA VIGNE AU BOIS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "BP 17",
+    "cp": "3350",
+    "VILLE": "CERILLY ",
+    "tel": "470675029",
+    "telecopie": "470679318",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26030012400013",
+    "lng": "2.82218145322967",
+    "lat": "46.6177512747139"
+  }
+]

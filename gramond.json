@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "120007356",
+    "raison_sociale": "EHPA SAINT DOMINIQUE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE BOURG",
+    "bp": "",
+    "cp": "12160",
+    "VILLE": "GRAMOND ",
+    "tel": "565691412",
+    "telecopie": "565691198",
+    "categorie etablissement": "502",
+    "libelle categorie": "EHPA ne percevant pas des crédits d'assurance maladie",
+    "siret": "42211745700016",
+    "lng": "2.37562847486784",
+    "lat": "44.2643571265674"
+  },
+  {
+    "finess": "120788179",
+    "raison_sociale": "EHPAD SAINT-DOMINIQUE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "12160",
+    "VILLE": "GRAMOND ",
+    "tel": "565691412",
+    "telecopie": "565691198",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "32649159400015",
+    "lng": "2.3668970758661",
+    "lat": "44.2649660732556"
+  }
+]

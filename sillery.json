@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "510021843",
+    "raison_sociale": "SELARL PHARMACIE DE SILLERY",
+    "numero voie": "25",
+    "type_voie": "R",
+    "libelle_voie": "DE TAISSY",
+    "bp": "",
+    "cp": "51500",
+    "VILLE": "SILLERY ",
+    "tel": "326491516",
+    "telecopie": "326491440",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79870761800012",
+    "lng": "4.1286708088224",
+    "lat": "49.1990023711473"
+  },
+  {
+    "finess": "510027535",
+    "raison_sociale": "ADMR DE SILLERY",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'EUROPE",
+    "bp": "",
+    "cp": "51500",
+    "VILLE": "SILLERY ",
+    "tel": "326617431",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "78043836200011",
+    "lng": "4.13264135282162",
+    "lat": "49.1976793699048"
+  }
+]

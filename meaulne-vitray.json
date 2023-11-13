@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "30003040",
+    "raison_sociale": "PHARMACIE DE MEAULNE",
+    "numero voie": "19",
+    "type_voie": "RTE",
+    "libelle_voie": "de Paris",
+    "bp": "",
+    "cp": "3360",
+    "VILLE": "MEAULNE VITRAY",
+    "tel": "470069645",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50871715400019",
+    "lng": "2.61289606895538",
+    "lat": "46.5991581330397"
+  },
+  {
+    "finess": "30784573",
+    "raison_sociale": "SCE AIDE MENAG DOM PERS AGEES",
+    "numero voie": "7",
+    "type_voie": "CHE",
+    "libelle_voie": "DE DAGOURET",
+    "bp": "",
+    "cp": "3360",
+    "VILLE": "MEAULNE VITRAY",
+    "tel": "470069521",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "2.61922151283489",
+    "lat": "46.5985814383523"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "620030080",
+    "raison_sociale": "A2MICILE AUDOMAROIS LITTORAL",
+    "numero voie": "103",
+    "type_voie": "BD",
+    "libelle_voie": "LOUIS LESAGE",
+    "bp": "",
+    "cp": "62149",
+    "VILLE": "CAMBRIN ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "51825495800029",
+    "lng": "2.74333712411879",
+    "lat": "50.5120934046367"
+  },
+  {
+    "finess": "620119289",
+    "raison_sociale": "EHPAD \"LES HELIANTINES\"",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE NOYELLES",
+    "bp": "",
+    "cp": "62149",
+    "VILLE": "CAMBRIN ",
+    "tel": "321643411",
+    "telecopie": "321669294",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "38473987600058",
+    "lng": "2.73851311791307",
+    "lat": "50.507749731024"
+  }
+]

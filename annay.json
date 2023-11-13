@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "620005231",
+    "raison_sociale": "PHARMA FB",
+    "numero voie": "70",
+    "type_voie": "R",
+    "libelle_voie": "MATTEI",
+    "bp": "",
+    "cp": "62880",
+    "VILLE": "ANNAY ",
+    "tel": "321427473",
+    "telecopie": "321675119",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83046353500013",
+    "lng": "2.88593632369064",
+    "lat": "50.4588140478709"
+  },
+  {
+    "finess": "620005264",
+    "raison_sociale": "PHARMACIE CANON",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "PASTEUR",
+    "bp": "",
+    "cp": "62880",
+    "VILLE": "ANNAY ",
+    "tel": "321783022",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48523390200017",
+    "lng": "2.87962811906734",
+    "lat": "50.4635898620425"
+  },
+  {
+    "finess": "620032896",
+    "raison_sociale": "CSP FILIERIS  D' ANNAY SOUS LENS",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU GÉNÉRAL DE GAULLE",
+    "bp": "",
+    "cp": "62880",
+    "VILLE": "ANNAY ",
+    "tel": "321424577",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "77568531602518",
+    "lng": "2.8773089322794",
+    "lat": "50.463095671809"
+  }
+]

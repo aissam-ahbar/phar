@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "60007069",
+    "raison_sociale": "FAM LA FERME DASCROS",
+    "numero voie": "3615",
+    "type_voie": "RTE",
+    "libelle_voie": "DE PUGET THENIERS",
+    "bp": "",
+    "cp": "6260",
+    "VILLE": "ASCROS ",
+    "tel": "493232880",
+    "telecopie": "",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "41051615700402",
+    "lng": "7.01489688620095",
+    "lat": "43.9206981487762"
+  },
+  {
+    "finess": "60011368",
+    "raison_sociale": "ESAT FERME ASCROS",
+    "numero voie": "3615",
+    "type_voie": "RTE",
+    "libelle_voie": "DE PUGET THENIERS",
+    "bp": "",
+    "cp": "6260",
+    "VILLE": "ASCROS ",
+    "tel": "493232880",
+    "telecopie": "",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "41051615700394",
+    "lng": "7.01489688620095",
+    "lat": "43.9206981487762"
+  },
+  {
+    "finess": "60021219",
+    "raison_sociale": "LA FERME D'ASCROS-ISATIS",
+    "numero voie": "3615",
+    "type_voie": "RTE",
+    "libelle_voie": "DE PUGET THENIERS",
+    "bp": "",
+    "cp": "6260",
+    "VILLE": "ASCROS ",
+    "tel": "493232880",
+    "telecopie": "",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "41051615700402",
+    "lng": "7.01489688620095",
+    "lat": "43.9206981487762"
+  }
+]

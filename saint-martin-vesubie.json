@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "60007374",
+    "raison_sociale": "PHARMACIE D'ANGELI",
+    "numero voie": "50",
+    "type_voie": "R",
+    "libelle_voie": "DU DR CAGNOLI",
+    "bp": "",
+    "cp": "6450",
+    "VILLE": "ST MARTIN VESUBIE    ",
+    "tel": "493032002",
+    "telecopie": "493033463",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "43914837000018",
+    "lng": "7.25676126290107",
+    "lat": "44.0696473426697"
+  },
+  {
+    "finess": "60790383",
+    "raison_sociale": "EHPAD ALFRED KERMES",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "MARQUISE DE SARAVALLE",
+    "bp": "",
+    "cp": "6450",
+    "VILLE": "ST MARTIN VESUBIE    ",
+    "tel": "493032009",
+    "telecopie": "493032969",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26060331100044",
+    "lng": "7.25896108274728",
+    "lat": "44.0722963931469"
+  }
+]

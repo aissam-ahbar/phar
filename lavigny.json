@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "390005924",
+    "raison_sociale": "SCE PORTAGE DE REPAS A DOMICILE",
+    "numero voie": "35",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "39210",
+    "VILLE": "LAVIGNY ",
+    "tel": "384253720",
+    "telecopie": "384253720",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26390288400026",
+    "lng": "5.59616075520361",
+    "lat": "46.7165461648879"
+  },
+  {
+    "finess": "390782803",
+    "raison_sociale": "MAISON D'ENFANTS LE VIEUX CHATEAU",
+    "numero voie": "52",
+    "type_voie": "R",
+    "libelle_voie": "DU QUART D'AMONT",
+    "bp": "",
+    "cp": "39210",
+    "VILLE": "LAVIGNY ",
+    "tel": "384253281",
+    "telecopie": "384253541",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "77559750300033",
+    "lng": "5.596721340804",
+    "lat": "46.7171478943708"
+  }
+]

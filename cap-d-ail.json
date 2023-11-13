@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "60004942",
+    "raison_sociale": "PHARMACIE TROISGROS",
+    "numero voie": "13",
+    "type_voie": "AV",
+    "libelle_voie": "DU 3 SEPTEMBRE",
+    "bp": "",
+    "cp": "6320",
+    "VILLE": "CAP D AIL    ",
+    "tel": "493782559",
+    "telecopie": "493781829",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "32975783500023",
+    "lng": "7.41127707151185",
+    "lat": "43.7269503712965"
+  },
+  {
+    "finess": "60005097",
+    "raison_sociale": "SELARL PHARMACIE LA BASTIDE",
+    "numero voie": "83",
+    "type_voie": "AV",
+    "libelle_voie": "DU 3 SEPTEMBRE",
+    "bp": "",
+    "cp": "6320",
+    "VILLE": "CAP D AIL    ",
+    "tel": "493780860",
+    "telecopie": "493418937",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51094237800017",
+    "lng": "7.39715990539797",
+    "lat": "43.7231446673054"
+  },
+  {
+    "finess": "60009149",
+    "raison_sociale": "RESIDENCE SOCIALE LES CISTES CAP D'AIL",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "ROMARIN",
+    "bp": "",
+    "cp": "6320",
+    "VILLE": "CAP D AIL    ",
+    "tel": "493418836",
+    "telecopie": "",
+    "categorie etablissement": "259",
+    "libelle categorie": "Autre Résidence Sociale (hors Maison Relais",
+    "siret": "",
+    "lng": "7.40583430435976",
+    "lat": "43.7220852599373"
+  }
+]

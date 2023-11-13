@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "590026100",
+    "raison_sociale": "PHARMACIE SALMI-KOBZILI",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "ROGER SALENGRO",
+    "bp": "",
+    "cp": "59121",
+    "VILLE": "PROUVY ",
+    "tel": "327321003",
+    "telecopie": "327438184",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44424295200018",
+    "lng": "3.44809702088623",
+    "lat": "50.3178620424693"
+  },
+  {
+    "finess": "590059598",
+    "raison_sociale": "SANTEO",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DES NEUF AU CHEMIN DE DOUAI",
+    "bp": "",
+    "cp": "59121",
+    "VILLE": "PROUVY ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "53443522700036",
+    "lng": "3.44985236969772",
+    "lat": "50.3186179219765"
+  },
+  {
+    "finess": "590814901",
+    "raison_sociale": "ATELIER PROTEGE CHALLENGE",
+    "numero voie": "12",
+    "type_voie": "R",
+    "libelle_voie": "DE LA FONTAINE",
+    "bp": "",
+    "cp": "59121",
+    "VILLE": "PROUVY ",
+    "tel": "327433050",
+    "telecopie": "327433377",
+    "categorie etablissement": "247",
+    "libelle categorie": "Entreprise adaptée",
+    "siret": "30356061900114",
+    "lng": "3.4488527850427",
+    "lat": "50.3159603493418"
+  }
+]

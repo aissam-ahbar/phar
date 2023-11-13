@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "160008330",
+    "raison_sociale": "EHPAD L'ABBAYE",
+    "numero voie": "1",
+    "type_voie": "ALL",
+    "libelle_voie": "DU PARC",
+    "bp": "",
+    "cp": "16330",
+    "VILLE": "ST AMANT DE BOIXE   ",
+    "tel": "545397746",
+    "telecopie": "545222551",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77555968500356",
+    "lng": "0.133528774293344",
+    "lat": "45.7969296739346"
+  },
+  {
+    "finess": "160011896",
+    "raison_sociale": "PHARMACIE DE SAINT AMANT DE BOIXE",
+    "numero voie": "14",
+    "type_voie": "R",
+    "libelle_voie": "de la Gagnerie",
+    "bp": "",
+    "cp": "16330",
+    "VILLE": "ST AMANT DE BOIXE   ",
+    "tel": "545397217",
+    "telecopie": "545222009",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88329135300018",
+    "lng": "0.139954134431668",
+    "lat": "45.8040454616823"
+  },
+  {
+    "finess": "160015780",
+    "raison_sociale": "MSP DE VARS ST AMANT DE BOIXE",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "RENE MARCHIVE",
+    "bp": "",
+    "cp": "16330",
+    "VILLE": "ST AMANT DE BOIXE   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "80471900300019",
+    "lng": "0.133528774293344",
+    "lat": "45.7969296739346"
+  }
+]

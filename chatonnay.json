@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380004101",
+    "raison_sociale": "PHARMACIE DES ETANGS",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "38440",
+    "VILLE": "CHATONNAY ",
+    "tel": "474583614",
+    "telecopie": "474583875",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79311328300022",
+    "lng": "5.20307047581012",
+    "lat": "45.487436174813"
+  },
+  {
+    "finess": "380785477",
+    "raison_sociale": "RESIDENCE AUTONOMIE LES 4 VALLEES",
+    "numero voie": "8",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "38440",
+    "VILLE": "CHATONNAY ",
+    "tel": "474583708",
+    "telecopie": "474583835",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "20005228000035",
+    "lng": "5.20262537956225",
+    "lat": "45.4879673843128"
+  }
+]

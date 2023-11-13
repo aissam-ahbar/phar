@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "170010565",
+    "raison_sociale": "PHARMACIE DU BOIS PLAGE",
+    "numero voie": "",
+    "type_voie": "IMP",
+    "libelle_voie": "DES TOURETTES",
+    "bp": "",
+    "cp": "17580",
+    "VILLE": "LE BOIS PLAGE EN RE  ",
+    "tel": "546092330",
+    "telecopie": "546019654",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49081193200022",
+    "lng": "-1.3918467650049",
+    "lat": "46.1855465001769"
+  },
+  {
+    "finess": "170026819",
+    "raison_sociale": "SAAD LES JARDINS D'ARCADIE",
+    "numero voie": "22",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA PLAGE",
+    "bp": "",
+    "cp": "17580",
+    "VILLE": "LE BOIS PLAGE EN RE  ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "42813070200619",
+    "lng": "-1.39396588237413",
+    "lat": "46.1810453171039"
+  },
+  {
+    "finess": "170785588",
+    "raison_sociale": "CONSULT. DE PROTECTION INFANTILE",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "BLANCHE",
+    "bp": "",
+    "cp": "17580",
+    "VILLE": "LE BOIS PLAGE EN RE  ",
+    "tel": "546667000",
+    "telecopie": "",
+    "categorie etablissement": "230",
+    "libelle categorie": "Etablissement Consultation Protection Infantile",
+    "siret": "22170001600688",
+    "lng": "-1.39075332399819",
+    "lat": "46.1857880944652"
+  }
+]

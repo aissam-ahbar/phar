@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "300006830",
+    "raison_sociale": "SELARL PHARMACIE DES MAGES",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "30960",
+    "VILLE": "LES MAGES",
+    "tel": "466256983",
+    "telecopie": "466256477",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80195848900016",
+    "lng": "4.16750929193867",
+    "lat": "44.2290520347498"
+  },
+  {
+    "finess": "300016839",
+    "raison_sociale": "CSP FILIERIS DE LES MAGES",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DU MOULIN",
+    "bp": "",
+    "cp": "30960",
+    "VILLE": "LES MAGES",
+    "tel": "466832356",
+    "telecopie": "466604435",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "77568531603144",
+    "lng": "4.16972311360793",
+    "lat": "44.2325941731124"
+  },
+  {
+    "finess": "300786779",
+    "raison_sociale": "CMPEA LES MAGES",
+    "numero voie": "203",
+    "type_voie": "R",
+    "libelle_voie": "DU LOT DES TRUQUAILLES",
+    "bp": "",
+    "cp": "30960",
+    "VILLE": "LES MAGES",
+    "tel": "466241867",
+    "telecopie": "",
+    "categorie etablissement": "156",
+    "libelle categorie": "Centre Médico-Psychologique (C.M.P.)",
+    "siret": "",
+    "lng": "4.16621117219564",
+    "lat": "44.2255856580553"
+  }
+]

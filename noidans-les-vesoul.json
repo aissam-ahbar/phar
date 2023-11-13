@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "700002413",
+    "raison_sociale": "PHARMACIE DE NOIDANS LES VESOUL",
+    "numero voie": "19",
+    "type_voie": "AV",
+    "libelle_voie": "MORISOT",
+    "bp": "",
+    "cp": "70000",
+    "VILLE": "NOIDANS LES VESOUL    ",
+    "tel": "384761933",
+    "telecopie": "384767971",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48875567900013",
+    "lng": "6.1263225605055",
+    "lat": "47.6184685966836"
+  },
+  {
+    "finess": "700004401",
+    "raison_sociale": "SESSAD DE NOIDANS",
+    "numero voie": "25",
+    "type_voie": "R",
+    "libelle_voie": "FRAPERTUIS",
+    "bp": "",
+    "cp": "70000",
+    "VILLE": "NOIDANS LES VESOUL    ",
+    "tel": "380660240",
+    "telecopie": "384782273",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "42416376400345",
+    "lng": "6.12179971183572",
+    "lat": "47.6084086562141"
+  },
+  {
+    "finess": "700780109",
+    "raison_sociale": "IME RENE NAUROY",
+    "numero voie": "25",
+    "type_voie": "R",
+    "libelle_voie": "DE FRAPERTUIS",
+    "bp": "",
+    "cp": "70000",
+    "VILLE": "NOIDANS LES VESOUL    ",
+    "tel": "384782311",
+    "telecopie": "384782273",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "42416376400337",
+    "lng": "6.12179971183572",
+    "lat": "47.6084086562141"
+  }
+]

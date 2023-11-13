@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "690008016",
+    "raison_sociale": "PHARMACIE DE BLACE",
+    "numero voie": "90",
+    "type_voie": "R",
+    "libelle_voie": "Adolphe Valette",
+    "bp": "",
+    "cp": "69460",
+    "VILLE": "BLACE ",
+    "tel": "474675520",
+    "telecopie": "474675520",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "89824829900015",
+    "lng": "4.6433960389201",
+    "lat": "46.0317965752869"
+  },
+  {
+    "finess": "690782933",
+    "raison_sociale": "EHPAD COURAJOD",
+    "numero voie": "469",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "LES FORTIERES",
+    "cp": "69460",
+    "VILLE": "BLACE ",
+    "tel": "474675364",
+    "telecopie": "474605194",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26690006700015",
+    "lng": "4.65079515866895",
+    "lat": "46.032995958491"
+  }
+]

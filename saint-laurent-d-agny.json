@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "690006572",
+    "raison_sociale": "SESSAD LES LISERONS",
+    "numero voie": "78",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "CIDEX 22",
+    "cp": "69440",
+    "VILLE": "ST LAURENT D AGNY   ",
+    "tel": "478483890",
+    "telecopie": "478487197",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "77639319100049",
+    "lng": "4.68633570922259",
+    "lat": "45.6423151010612"
+  },
+  {
+    "finess": "690028006",
+    "raison_sociale": "SAAD ADMR DU PAYS MORNANTAIS",
+    "numero voie": "30",
+    "type_voie": "RTE",
+    "libelle_voie": "DE MORNANT",
+    "bp": "",
+    "cp": "69440",
+    "VILLE": "ST LAURENT D AGNY   ",
+    "tel": "472305727",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32497139900039",
+    "lng": "4.68522445287044",
+    "lat": "45.639934118532"
+  },
+  {
+    "finess": "690784392",
+    "raison_sociale": "DITEP LES LISERONS",
+    "numero voie": "78",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "CEDEX 22",
+    "cp": "69440",
+    "VILLE": "ST LAURENT D AGNY   ",
+    "tel": "478483890",
+    "telecopie": "478487197",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "77639319100049",
+    "lng": "4.68633570922259",
+    "lat": "45.6423151010612"
+  }
+]

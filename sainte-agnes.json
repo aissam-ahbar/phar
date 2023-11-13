@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "60029816",
+    "raison_sociale": "MECS VILLA L'ORMEA",
+    "numero voie": "691",
+    "type_voie": "AV",
+    "libelle_voie": "DE L'ORMEA",
+    "bp": "",
+    "cp": "6500",
+    "VILLE": "STE AGNES",
+    "tel": "492290631",
+    "telecopie": "",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "45062620500071",
+    "lng": "7.45803801322182",
+    "lat": "43.8010638043895"
+  },
+  {
+    "finess": "380797076",
+    "raison_sociale": "SCE AIDE MENAGERE SAINTE-AGNES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38190",
+    "VILLE": "STE AGNES",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37862188200018",
+    "lng": "5.92186217392991",
+    "lat": "45.2377822576146"
+  }
+]

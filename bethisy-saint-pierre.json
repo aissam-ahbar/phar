@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "600003651",
+    "raison_sociale": "PHARMACIE DE LA VALLEE",
+    "numero voie": "68",
+    "type_voie": "R",
+    "libelle_voie": "DU DR CHOPINET",
+    "bp": "",
+    "cp": "60320",
+    "VILLE": "BETHISY ST PIERRE    ",
+    "tel": "344397049",
+    "telecopie": "344398749",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45062536300012",
+    "lng": "2.80148992694722",
+    "lat": "49.2987013050715"
+  },
+  {
+    "finess": "600012751",
+    "raison_sociale": "LBM BIOCOME BÉTHISY-ST-PIERRE MOTTELET",
+    "numero voie": "101",
+    "type_voie": "R",
+    "libelle_voie": "DU DOCTEUR CHOPINET",
+    "bp": "",
+    "cp": "60320",
+    "VILLE": "BETHISY ST PIERRE    ",
+    "tel": "344398006",
+    "telecopie": "344397525",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "",
+    "lng": "2.80181671905919",
+    "lat": "49.2984348573587"
+  }
+]

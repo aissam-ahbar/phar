@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "560020810",
+    "raison_sociale": "PHARMACIE  GUEHENNEUX",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "de Kerentrée",
+    "bp": "",
+    "cp": "56580",
+    "VILLE": "ROHAN ",
+    "tel": "297515007",
+    "telecopie": "297515379",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83932282300023",
+    "lng": "-2.75448691927465",
+    "lat": "48.0671335682919"
+  },
+  {
+    "finess": "560027336",
+    "raison_sociale": "APS DE ROHAN",
+    "numero voie": "13",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "56580",
+    "VILLE": "ROHAN ",
+    "tel": "297515007",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "-2.75231102301869",
+    "lat": "48.0694280131076"
+  },
+  {
+    "finess": "560029928",
+    "raison_sociale": "CDS DE ROHAN",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DU CHATEAU",
+    "bp": "",
+    "cp": "56580",
+    "VILLE": "ROHAN ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "",
+    "lng": "-2.75184228258054",
+    "lat": "48.0680407013606"
+  }
+]

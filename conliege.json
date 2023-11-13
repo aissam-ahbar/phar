@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "390002426",
+    "raison_sociale": "PHARMACIE CENTRALE",
+    "numero voie": "52",
+    "type_voie": "R",
+    "libelle_voie": "Basse",
+    "bp": "",
+    "cp": "39570",
+    "VILLE": "CONLIEGE ",
+    "tel": "967313925",
+    "telecopie": "384860484",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50304261600014",
+    "lng": "5.59461209973605",
+    "lat": "46.6567071846479"
+  },
+  {
+    "finess": "390002509",
+    "raison_sociale": "SCE DE  PORTAGE DE REPAS A DOMICILE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "HAUTE",
+    "bp": "",
+    "cp": "39570",
+    "VILLE": "CONLIEGE ",
+    "tel": "384241320",
+    "telecopie": "384241321",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26390164700028",
+    "lng": "5.59904180650051",
+    "lat": "46.6547518662454"
+  }
+]

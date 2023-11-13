@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "440003440",
+    "raison_sociale": "EHPAD LA PROVIDENCE",
+    "numero voie": "17",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CHEMERE",
+    "bp": "",
+    "cp": "44640",
+    "VILLE": "ROUANS ",
+    "tel": "240642323",
+    "telecopie": "240641748",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "78604419800020",
+    "lng": "-1.86241747187486",
+    "lat": "47.182593541062"
+  },
+  {
+    "finess": "440017424",
+    "raison_sociale": "PHARMACIE DU CANAL",
+    "numero voie": "36",
+    "type_voie": "R",
+    "libelle_voie": "Joseph Cugnot",
+    "bp": "",
+    "cp": "44640",
+    "VILLE": "ROUANS ",
+    "tel": "240642855",
+    "telecopie": "240641951",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45294641100025",
+    "lng": "-1.84578973492861",
+    "lat": "47.1944641027408"
+  }
+]

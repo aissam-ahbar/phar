@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "300004025",
+    "raison_sociale": "SELAS PHARMACIE MICHEL - MONTICELLI",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "DE LA POSTE",
+    "bp": "",
+    "cp": "30670",
+    "VILLE": "AIGUES VIVES",
+    "tel": "466352682",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49365463600015",
+    "lng": "4.18066876749013",
+    "lat": "43.7384323330611"
+  },
+  {
+    "finess": "300783503",
+    "raison_sociale": "EHPAD LE FOYER PAUL JORDANA",
+    "numero voie": "90",
+    "type_voie": "CHE",
+    "libelle_voie": "CROS DE NADAL",
+    "bp": "",
+    "cp": "30670",
+    "VILLE": "AIGUES VIVES",
+    "tel": "466359020",
+    "telecopie": "466359027",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "30938241400014",
+    "lng": "4.17795228571203",
+    "lat": "43.7383996545998"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "160002101",
+    "raison_sociale": "EHPAD - LES DEUX TOURS",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DES REMPARTS",
+    "bp": "",
+    "cp": "16420",
+    "VILLE": "BRIGUEUIL ",
+    "tel": "545710108",
+    "telecopie": "545840835",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26160212200028",
+    "lng": "0.858497241135171",
+    "lat": "45.954139447166"
+  },
+  {
+    "finess": "160010690",
+    "raison_sociale": "PHARMACIE DE BRIGUEIL",
+    "numero voie": "14",
+    "type_voie": "PL",
+    "libelle_voie": "de la Liberte",
+    "bp": "",
+    "cp": "16420",
+    "VILLE": "BRIGUEUIL ",
+    "tel": "545710117",
+    "telecopie": "970323844",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79406014500016",
+    "lng": "0.860457648431853",
+    "lat": "45.9537098968314"
+  },
+  {
+    "finess": "160016424",
+    "raison_sociale": "MAISON DE SANTE DE BRIGUEUIL",
+    "numero voie": "6",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA LIBERTE",
+    "bp": "",
+    "cp": "16420",
+    "VILLE": "BRIGUEUIL ",
+    "tel": "545710117",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "0.86001140240677",
+    "lat": "45.9530627762362"
+  }
+]

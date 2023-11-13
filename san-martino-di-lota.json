@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "2B0000939",
+    "raison_sociale": "EHPAD CASA SERENA 2B",
+    "numero voie": "3",
+    "type_voie": "CHE",
+    "libelle_voie": "DU NOVACCHIONI",
+    "bp": "PIETRANERA",
+    "cp": "20200",
+    "VILLE": "SAN MARTINO DI LOTA   ",
+    "tel": "495324195",
+    "telecopie": "495341336",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "40228439200014",
+    "lng": "9.45509273610426",
+    "lat": "42.7306033410325"
+  },
+  {
+    "finess": "2B0002497",
+    "raison_sociale": "SELARL PHARMACIE DE PIETRANERA",
+    "numero voie": "17",
+    "type_voie": "RTE",
+    "libelle_voie": "du cap corse",
+    "bp": "lieu dit PIETRANERA",
+    "cp": "20200",
+    "VILLE": "SAN MARTINO DI LOTA   ",
+    "tel": "495315184",
+    "telecopie": "495315184",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38369631700015",
+    "lng": "9.45562371370344",
+    "lat": "42.721739348401"
+  },
+  {
+    "finess": "2B0005375",
+    "raison_sociale": "LBM VIALLE - SITE DU CAP",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "PIETRANERA",
+    "cp": "20200",
+    "VILLE": "SAN MARTINO DI LOTA   ",
+    "tel": "451311703",
+    "telecopie": "",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "32860211500110",
+    "lng": "9.45532792153099",
+    "lat": "42.7222705320972"
+  }
+]

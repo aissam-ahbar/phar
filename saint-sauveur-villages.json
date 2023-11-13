@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "500011655",
+    "raison_sociale": "PHARMACIE SAINT SAUVEURAISE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DU GENERAL BRADLEY",
+    "bp": "",
+    "cp": "50490",
+    "VILLE": "ST SAUVEUR VILLAGES    ",
+    "tel": "233076039",
+    "telecopie": "233073755",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81777300500019",
+    "lng": "-1.4126911350806",
+    "lat": "49.1306664258302"
+  },
+  {
+    "finess": "500013347",
+    "raison_sociale": "FOA - VAUDRIMESNIL",
+    "numero voie": "25",
+    "type_voie": "R",
+    "libelle_voie": "DE LA REAUTE",
+    "bp": "VAUDRIMESNIL",
+    "cp": "50490",
+    "VILLE": "ST SAUVEUR VILLAGES    ",
+    "tel": "233466975",
+    "telecopie": "233473519",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "32360044500031",
+    "lng": "-1.39075900524622",
+    "lat": "49.1115138309254"
+  },
+  {
+    "finess": "500013578",
+    "raison_sociale": "EHPAD BONNES GENS ST SAUVEUR VILLAGES",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "BLANCHE DE CASTILLE",
+    "bp": "",
+    "cp": "50490",
+    "VILLE": "ST SAUVEUR VILLAGES    ",
+    "tel": "233073110",
+    "telecopie": "233074965",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26500160200027",
+    "lng": "-1.40990266068501",
+    "lat": "49.1306814112167"
+  }
+]

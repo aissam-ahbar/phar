@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "350002408",
+    "raison_sociale": "RESIDENCE DE L'ETANG",
+    "numero voie": "2",
+    "type_voie": "ALL",
+    "libelle_voie": "DE LA MAISON DE RETRAITE",
+    "bp": "BP 31",
+    "cp": "35240",
+    "VILLE": "MARCILLE ROBERT",
+    "tel": "299436721",
+    "telecopie": "299436612",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26350021700017",
+    "lng": "-1.35537714489067",
+    "lat": "47.9514461497102"
+  },
+  {
+    "finess": "350025664",
+    "raison_sociale": "PHARMACIE DE MARCILLE ROBERT",
+    "numero voie": "14",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "35240",
+    "VILLE": "MARCILLE ROBERT",
+    "tel": "299436053",
+    "telecopie": "299435920",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "89189890000016",
+    "lng": "-1.36263357975436",
+    "lat": "47.9491731503391"
+  }
+]

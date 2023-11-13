@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "270024763",
+    "raison_sociale": "FAM EUGENIE MARIE LA NEUVILLE",
+    "numero voie": "79",
+    "type_voie": "RTE",
+    "libelle_voie": "DU BEC HELLOUIN",
+    "bp": "",
+    "cp": "27890",
+    "VILLE": "LA NEUVILLE DU BOSC   ",
+    "tel": "232437840",
+    "telecopie": "232437849",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "78079425100055",
+    "lng": "0.80411005460341",
+    "lat": "49.1961793207619"
+  },
+  {
+    "finess": "270026370",
+    "raison_sociale": "FO  EUGENIE MARIE",
+    "numero voie": "79",
+    "type_voie": "R",
+    "libelle_voie": "DU BEC HELLOUIN",
+    "bp": "",
+    "cp": "27890",
+    "VILLE": "LA NEUVILLE DU BOSC   ",
+    "tel": "232437840",
+    "telecopie": "232437849",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "78079425100055",
+    "lng": "0.80411005460341",
+    "lat": "49.1961793207619"
+  }
+]

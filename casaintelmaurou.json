@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "310007794",
+    "raison_sociale": "PHARMACIE DES CEDRES",
+    "numero voie": "1",
+    "type_voie": "CHE",
+    "libelle_voie": "ROUQUET",
+    "bp": "",
+    "cp": "31180",
+    "VILLE": "CASTELMAUROU ",
+    "tel": "561091062",
+    "telecopie": "561353698",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39373960200018",
+    "lng": "1.5297010836364",
+    "lat": "43.6772691846266"
+  },
+  {
+    "finess": "310781141",
+    "raison_sociale": "CL DU VIEUX CHATEAU D'OC CASTELMAUROU",
+    "numero voie": "1",
+    "type_voie": "CHE",
+    "libelle_voie": "CASTELVIEL",
+    "bp": "",
+    "cp": "31180",
+    "VILLE": "CASTELMAUROU ",
+    "tel": "826282813",
+    "telecopie": "561823078",
+    "categorie etablissement": "161",
+    "libelle categorie": "Maison de Santé pour Maladies Mentales",
+    "siret": "31013269100034",
+    "lng": "1.51576291962791",
+    "lat": "43.6756705516127"
+  },
+  {
+    "finess": "310790621",
+    "raison_sociale": "EHPAD LA CERISAIE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "31180",
+    "VILLE": "CASTELMAUROU ",
+    "tel": "561097070",
+    "telecopie": "561350203",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "34222570300012",
+    "lng": "1.5324715286744",
+    "lat": "43.677304794593"
+  }
+]

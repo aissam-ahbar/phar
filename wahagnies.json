@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "590031886",
+    "raison_sociale": "PHARMACIE DU BOURG",
+    "numero voie": "67",
+    "type_voie": "R",
+    "libelle_voie": "ANATOLE FRANCE",
+    "bp": "",
+    "cp": "59261",
+    "VILLE": "WAHAGNIES ",
+    "tel": "320869955",
+    "telecopie": "320863934",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83031434000019",
+    "lng": "3.0379982002895",
+    "lat": "50.4861112562739"
+  },
+  {
+    "finess": "590068177",
+    "raison_sociale": "SESSAD DE LA PÉVÈLE",
+    "numero voie": "152",
+    "type_voie": "R",
+    "libelle_voie": "PASTEUR",
+    "bp": "",
+    "cp": "59261",
+    "VILLE": "WAHAGNIES ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "77562475200090",
+    "lng": "3.03612008402631",
+    "lat": "50.4843264517595"
+  },
+  {
+    "finess": "590780516",
+    "raison_sociale": "IME DE WAHAGNIES",
+    "numero voie": "152",
+    "type_voie": "R",
+    "libelle_voie": "PASTEUR",
+    "bp": "",
+    "cp": "59261",
+    "VILLE": "WAHAGNIES ",
+    "tel": "320869880",
+    "telecopie": "320869457",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "77562475200025",
+    "lng": "3.03612008402631",
+    "lat": "50.4843264517595"
+  }
+]

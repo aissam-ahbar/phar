@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "110004306",
+    "raison_sociale": "FAM LA TERRASSE DU CARDOU",
+    "numero voie": "",
+    "type_voie": "TSSE",
+    "libelle_voie": "DU CARDOU",
+    "bp": "LAS HIEROS",
+    "cp": "11190",
+    "VILLE": "RENNES LES BAINS    ",
+    "tel": "468206913",
+    "telecopie": "468206917",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "32086181800450",
+    "lng": "2.32021911065175",
+    "lat": "42.920113532656"
+  },
+  {
+    "finess": "110786753",
+    "raison_sociale": "LES THERMES DE LA HAUTE VALLEE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "GRAND'RUE DES THERMES",
+    "bp": "",
+    "cp": "11190",
+    "VILLE": "RENNES LES BAINS    ",
+    "tel": "468747100",
+    "telecopie": "468747132",
+    "categorie etablissement": "126",
+    "libelle categorie": "Etablissement Thermal",
+    "siret": "32451054400012",
+    "lng": "2.32034045158266",
+    "lat": "42.9206188167201"
+  }
+]

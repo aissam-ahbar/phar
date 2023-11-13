@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "20002150",
+    "raison_sociale": "EHPAD DERCHE ETREILLERS",
+    "numero voie": "45",
+    "type_voie": "AV",
+    "libelle_voie": "DU GÉNÉRAL DE GAULLE",
+    "bp": "",
+    "cp": "2590",
+    "VILLE": "ETREILLERS ",
+    "tel": "323687830",
+    "telecopie": "323687234",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26020016700013",
+    "lng": "3.16189173750381",
+    "lat": "49.8290101496506"
+  },
+  {
+    "finess": "20003943",
+    "raison_sociale": "EHPAD MAISON DE POMMERY",
+    "numero voie": "1",
+    "type_voie": "HAM",
+    "libelle_voie": "DE POMMERY",
+    "bp": "D 32",
+    "cp": "2590",
+    "VILLE": "ETREILLERS ",
+    "tel": "323508050",
+    "telecopie": "323687774",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "52150496900358",
+    "lng": "3.16122509720673",
+    "lat": "49.8171278132107"
+  },
+  {
+    "finess": "20004826",
+    "raison_sociale": "PHARMACIE DUBAN VANDENBOSSCHE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DES DOCTEURS",
+    "bp": "",
+    "cp": "2590",
+    "VILLE": "ETREILLERS ",
+    "tel": "323687822",
+    "telecopie": "323688319",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49275939400017",
+    "lng": "3.16027597812966",
+    "lat": "49.8292737161451"
+  }
+]

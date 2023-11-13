@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "260006945",
+    "raison_sociale": "PHARMACIE DES THERMES",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LE CHABRERIEUX",
+    "bp": "",
+    "cp": "26570",
+    "VILLE": "MONTBRUN LES BAINS    ",
+    "tel": "475288041",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81934491200012",
+    "lng": "5.441602930891",
+    "lat": "44.1751885477113"
+  },
+  {
+    "finess": "260009246",
+    "raison_sociale": "ETABLISSEMENT THERMAL",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "26570",
+    "VILLE": "MONTBRUN LES BAINS    ",
+    "tel": "475288075",
+    "telecopie": "475288597",
+    "categorie etablissement": "126",
+    "libelle categorie": "Etablissement Thermal",
+    "siret": "34789782900011",
+    "lng": "5.44341223261221",
+    "lat": "44.175247311903"
+  }
+]

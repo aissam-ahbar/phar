@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "100003276",
+    "raison_sociale": "PHARMACIE DE SAINT PARRES LES VAUDES",
+    "numero voie": "11",
+    "type_voie": "BD",
+    "libelle_voie": "FRANCOIS MOTHRE",
+    "bp": "",
+    "cp": "10260",
+    "VILLE": "ST PARRES LES VAUDES   ",
+    "tel": "325409219",
+    "telecopie": "325407293",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "94754433400016",
+    "lng": "4.21746632757674",
+    "lat": "48.1702176791316"
+  },
+  {
+    "finess": "100003581",
+    "raison_sociale": "RESIDENCE AUTONOMIE LES MESANGES",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "DES POMMIERS",
+    "bp": "",
+    "cp": "10260",
+    "VILLE": "ST PARRES LES VAUDES   ",
+    "tel": "325409155",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "25100163200040",
+    "lng": "4.22010250277319",
+    "lat": "48.171586230389"
+  },
+  {
+    "finess": "100012269",
+    "raison_sociale": "SAAD DU VAUDOIS - ADMR",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "GEORGES FURIER",
+    "bp": "",
+    "cp": "10260",
+    "VILLE": "ST PARRES LES VAUDES   ",
+    "tel": "325709176",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "78033333200010",
+    "lng": "4.21701214036134",
+    "lat": "48.1719340038328"
+  }
+]

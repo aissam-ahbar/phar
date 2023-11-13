@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "10006658",
+    "raison_sociale": "INSTITUT MÉDICO-EDUCATIF LA DECOUVERTE",
+    "numero voie": "75",
+    "type_voie": "R",
+    "libelle_voie": "DU CHATEAU",
+    "bp": "",
+    "cp": "1390",
+    "VILLE": "CIVRIEUX ",
+    "tel": "472264579",
+    "telecopie": "472264769",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "77564749800408",
+    "lng": "4.88063212519878",
+    "lat": "45.9209736561002"
+  },
+  {
+    "finess": "10780641",
+    "raison_sociale": "ITEP LES MOINEAUX",
+    "numero voie": "75",
+    "type_voie": "R",
+    "libelle_voie": "DU CHATEAU",
+    "bp": "VILLAGE",
+    "cp": "1390",
+    "VILLE": "CIVRIEUX ",
+    "tel": "472086900",
+    "telecopie": "472086908",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "77564749800077",
+    "lng": "4.88063212519878",
+    "lat": "45.9209736561002"
+  }
+]

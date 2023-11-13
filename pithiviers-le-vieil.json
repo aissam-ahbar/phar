@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "450002928",
+    "raison_sociale": "EANM LES CEDRES",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DE GUIGNESOLEIL",
+    "bp": "BP 352",
+    "cp": "45300",
+    "VILLE": "PITHIVIERS LE VIEIL    ",
+    "tel": "238340429",
+    "telecopie": "238061359",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "77553716000084",
+    "lng": "2.19967162759129",
+    "lat": "48.1579822988371"
+  },
+  {
+    "finess": "450005749",
+    "raison_sociale": "EAM GUIGNESOLEIL",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "GUIGNESOLEIL",
+    "bp": "",
+    "cp": "45300",
+    "VILLE": "PITHIVIERS LE VIEIL    ",
+    "tel": "238308033",
+    "telecopie": "238303105",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "77553716000118",
+    "lng": "2.19967162759129",
+    "lat": "48.1579822988371"
+  },
+  {
+    "finess": "450015680",
+    "raison_sociale": "SELARL PHARMACIE BA-FRAYSSE",
+    "numero voie": "3",
+    "type_voie": "",
+    "libelle_voie": "DE L ARMISTICE",
+    "bp": "",
+    "cp": "45300",
+    "VILLE": "PITHIVIERS LE VIEIL    ",
+    "tel": "238301281",
+    "telecopie": "970101082",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50423736300016",
+    "lng": "2.20968773939476",
+    "lat": "48.1631673095783"
+  }
+]

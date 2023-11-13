@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "580000990",
+    "raison_sociale": "CDJ AU FIL DE L'EAU",
+    "numero voie": "17",
+    "type_voie": "R",
+    "libelle_voie": "DES CHAUMOTTES",
+    "bp": "",
+    "cp": "58660",
+    "VILLE": "COULANGES LES NEVERS    ",
+    "tel": "386367241",
+    "telecopie": "386613104",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "77847830500205",
+    "lng": "3.17582015805693",
+    "lat": "47.0046364475775"
+  },
+  {
+    "finess": "580001675",
+    "raison_sociale": "PHARMACIE DE VOLLERON",
+    "numero voie": "36",
+    "type_voie": "R",
+    "libelle_voie": "DE VOLLERON",
+    "bp": "",
+    "cp": "58660",
+    "VILLE": "COULANGES LES NEVERS    ",
+    "tel": "386576341",
+    "telecopie": "386576341",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39180442400029",
+    "lng": "3.16288622318465",
+    "lat": "47.009796359542"
+  },
+  {
+    "finess": "580001691",
+    "raison_sociale": "PHARMACIE BEAUREGARD",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "Pierre Mendes - France",
+    "bp": "",
+    "cp": "58660",
+    "VILLE": "COULANGES LES NEVERS    ",
+    "tel": "386574384",
+    "telecopie": "386579344",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39180442400029",
+    "lng": "3.18048602353209",
+    "lat": "47.0109838409594"
+  }
+]

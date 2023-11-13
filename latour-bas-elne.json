@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "660003674",
+    "raison_sociale": "LATOUR XL LL",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "chemin de Charlemagne",
+    "bp": "",
+    "cp": "66200",
+    "VILLE": "LATOUR BAS ELNE    ",
+    "tel": "468395619",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "85062337200016",
+    "lng": "3.00668383037937",
+    "lat": "42.6061975568329"
+  },
+  {
+    "finess": "660787029",
+    "raison_sociale": "EHPAD RESIDENCE DE LA TOUR",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE ST CYPRIEN",
+    "bp": "",
+    "cp": "66200",
+    "VILLE": "LATOUR BAS ELNE    ",
+    "tel": "468376100",
+    "telecopie": "468376178",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "81779709500095",
+    "lng": "3.00223456692876",
+    "lat": "42.6096625726011"
+  }
+]

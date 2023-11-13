@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "120003694",
+    "raison_sociale": "PHARMACIE DES CAVES",
+    "numero voie": "4",
+    "type_voie": "AV",
+    "libelle_voie": "FRANÇOIS GALTIER",
+    "bp": "",
+    "cp": "12250",
+    "VILLE": "ROQUEFORT SUR SOULZON    ",
+    "tel": "565599022",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82039351000012",
+    "lng": "2.99163271918208",
+    "lat": "43.9751777545372"
+  },
+  {
+    "finess": "120009386",
+    "raison_sociale": "SAAD EOPLA ROQUEFORT",
+    "numero voie": "26",
+    "type_voie": "AV",
+    "libelle_voie": "DE LAURAIS",
+    "bp": "",
+    "cp": "12250",
+    "VILLE": "ROQUEFORT SUR SOULZON    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "42342833300102",
+    "lng": "2.98702847948153",
+    "lat": "43.9778817412154"
+  }
+]

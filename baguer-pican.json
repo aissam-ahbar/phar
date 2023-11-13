@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "350046884",
+    "raison_sociale": "CMPEA BAGUER PICAN",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DE PARIS",
+    "bp": "",
+    "cp": "35120",
+    "VILLE": "BAGUER PICAN",
+    "tel": "299212121",
+    "telecopie": "",
+    "categorie etablissement": "156",
+    "libelle categorie": "Centre Médico-Psychologique (C.M.P.)",
+    "siret": "26350005000137",
+    "lng": "-1.70214662223831",
+    "lat": "48.5528001832062"
+  },
+  {
+    "finess": "350052304",
+    "raison_sociale": "BR BRETAGNE BAGUER-PICAN",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA ROUELLE",
+    "bp": "ZA LES ROLANDIERES",
+    "cp": "35120",
+    "VILLE": "BAGUER PICAN",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "94896143800025",
+    "lng": "-1.69935052959064",
+    "lat": "48.5532100024072"
+  }
+]

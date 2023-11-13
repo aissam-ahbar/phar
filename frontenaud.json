@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "710006099",
+    "raison_sociale": "LVA LES BRUYERES",
+    "numero voie": "570",
+    "type_voie": "",
+    "libelle_voie": "RIPPE DES VERNES",
+    "bp": "SAFRE",
+    "cp": "71580",
+    "VILLE": "FRONTENAUD ",
+    "tel": "385748549",
+    "telecopie": "970622203",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "39104705700024",
+    "lng": "5.28114387858278",
+    "lat": "46.5302465219749"
+  },
+  {
+    "finess": "710012949",
+    "raison_sociale": "LIEU DE VIE \"HISTOIRES D'ENFANTS\"",
+    "numero voie": "1230",
+    "type_voie": "RTE",
+    "libelle_voie": "DES ESSARDS",
+    "bp": "",
+    "cp": "71580",
+    "VILLE": "FRONTENAUD ",
+    "tel": "380748097",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "50910586200015",
+    "lng": "5.31255266962018",
+    "lat": "46.5480440743651"
+  },
+  {
+    "finess": "710780099",
+    "raison_sociale": "EHPAD CHATEAU DES CROZES",
+    "numero voie": "495",
+    "type_voie": "RTE",
+    "libelle_voie": "DU CHATEAU DES COZES",
+    "bp": "",
+    "cp": "71580",
+    "VILLE": "FRONTENAUD ",
+    "tel": "385713010",
+    "telecopie": "385713011",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26710022000016",
+    "lng": "5.30720297956386",
+    "lat": "46.5408535733727"
+  }
+]

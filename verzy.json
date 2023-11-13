@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "510022163",
+    "raison_sociale": "PHARMACIE TONNEL-DEVRIERE",
+    "numero voie": "3",
+    "type_voie": "PL",
+    "libelle_voie": "DE L HOTEL DE VILLE",
+    "bp": "",
+    "cp": "51380",
+    "VILLE": "VERZY ",
+    "tel": "326979128",
+    "telecopie": "326970302",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40225413000014",
+    "lng": "4.16276579016625",
+    "lat": "49.147271179812"
+  },
+  {
+    "finess": "510027659",
+    "raison_sociale": "ADMR VERZY",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "51380",
+    "VILLE": "VERZY ",
+    "tel": "326026616",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "30287689100011",
+    "lng": "4.16330720501239",
+    "lat": "49.1470879122673"
+  }
+]

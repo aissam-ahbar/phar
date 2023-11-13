@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "700001530",
+    "raison_sociale": "PHARMACIE  SALOME",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "70310",
+    "VILLE": "FAUCOGNEY ET LA MER   ",
+    "tel": "384493140",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44239527300018",
+    "lng": "6.56321818783749",
+    "lat": "47.8463775696786"
+  },
+  {
+    "finess": "700784507",
+    "raison_sociale": "SAAD ADMR 70 FAUCOGNEY",
+    "numero voie": "8",
+    "type_voie": "PL",
+    "libelle_voie": "POIREY",
+    "bp": "",
+    "cp": "70310",
+    "VILLE": "FAUCOGNEY ET LA MER   ",
+    "tel": "384946161",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32329934700027",
+    "lng": "6.56415982114916",
+    "lat": "47.8429984468962"
+  }
+]

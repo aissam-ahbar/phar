@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "500011002",
+    "raison_sociale": "SELARL PHARMACIE DE GAVRAY",
+    "numero voie": "7",
+    "type_voie": "PL",
+    "libelle_voie": "DU DOCTEUR BECK",
+    "bp": "",
+    "cp": "50450",
+    "VILLE": "GAVRAY SUR SIENNE    ",
+    "tel": "233910233",
+    "telecopie": "233498208",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48126367100028",
+    "lng": "-1.35048775282392",
+    "lat": "48.9094785745791"
+  },
+  {
+    "finess": "500013925",
+    "raison_sociale": "RESIDENCE AUTONOMIE DU BOIS TANEY",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "BOIS TANEY",
+    "bp": "",
+    "cp": "50450",
+    "VILLE": "GAVRAY SUR SIENNE    ",
+    "tel": "233616240",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26500036400025",
+    "lng": "-1.35868876470199",
+    "lat": "48.9104914988787"
+  }
+]

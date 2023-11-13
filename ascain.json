@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "640007381",
+    "raison_sociale": "PHARMACIE  D'ASCAIN",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "ERNEST FOURNEAU",
+    "bp": "",
+    "cp": "64310",
+    "VILLE": "ASCAIN ",
+    "tel": "559540042",
+    "telecopie": "559544670",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "85024698400015",
+    "lng": "-1.62346147816262",
+    "lat": "43.3481075697081"
+  },
+  {
+    "finess": "640796033",
+    "raison_sociale": "EHPAD ADINA",
+    "numero voie": "145",
+    "type_voie": "IMP",
+    "libelle_voie": "ADINA",
+    "bp": "",
+    "cp": "64310",
+    "VILLE": "ASCAIN ",
+    "tel": "559516900",
+    "telecopie": "559516951",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "38848940300021",
+    "lng": "-1.61827627510847",
+    "lat": "43.3471037168163"
+  }
+]

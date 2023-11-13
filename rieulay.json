@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590026753",
+    "raison_sociale": "PHARMACIE HONVAULT",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DES SARTS",
+    "bp": "",
+    "cp": "59870",
+    "VILLE": "RIEULAY ",
+    "tel": "327860545",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53209138600013",
+    "lng": "3.25945252403424",
+    "lat": "50.3765221999672"
+  },
+  {
+    "finess": "590814141",
+    "raison_sociale": "EHPAD RESIDENCE DES ONZE VILLES",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LARENTIS",
+    "bp": "",
+    "cp": "59870",
+    "VILLE": "RIEULAY ",
+    "tel": "327944141",
+    "telecopie": "327944149",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "",
+    "lng": "3.25782648171878",
+    "lat": "50.3781029729856"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "630002475",
+    "raison_sociale": "MARPA",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA RESISTANCE & DU 8 MAI",
+    "bp": "",
+    "cp": "63800",
+    "VILLE": "PERIGNAT SUR ALLIER    ",
+    "tel": "473773858",
+    "telecopie": "473773233",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26630284300021",
+    "lng": "3.23270008291679",
+    "lat": "45.7290230751042"
+  },
+  {
+    "finess": "630007383",
+    "raison_sociale": "PHARMACIE MAILLARD",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DE L ALLIER",
+    "bp": "",
+    "cp": "63800",
+    "VILLE": "PERIGNAT SUR ALLIER    ",
+    "tel": "473695846",
+    "telecopie": "473695846",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83853758700019",
+    "lng": "3.23286366359027",
+    "lat": "45.7293964410665"
+  },
+  {
+    "finess": "630012698",
+    "raison_sociale": "FOYER DE VIE DE PERIGNAT-SUR-ALLIER",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "SOUS LA TORRE",
+    "bp": "",
+    "cp": "63800",
+    "VILLE": "PERIGNAT SUR ALLIER    ",
+    "tel": "473604520",
+    "telecopie": "",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "",
+    "lng": "3.23012539227183",
+    "lat": "45.7270355737531"
+  }
+]

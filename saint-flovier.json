@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "370007445",
+    "raison_sociale": "SELARL PHARMACIE BRUNEAU BIGOT ANNICK",
+    "numero voie": "20",
+    "type_voie": "R",
+    "libelle_voie": "DU COMMERCE",
+    "bp": "",
+    "cp": "37600",
+    "VILLE": "ST FLOVIER",
+    "tel": "247947207",
+    "telecopie": "247947598",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79408836900010",
+    "lng": "1.02728434277498",
+    "lat": "46.9693847767111"
+  },
+  {
+    "finess": "370010134",
+    "raison_sociale": "SAAD ADMR DE SAINT FLOVIER",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "PLACE DU 8 MAI",
+    "bp": "MAIRIE",
+    "cp": "37600",
+    "VILLE": "ST FLOVIER",
+    "tel": "247365353",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "33280482200010",
+    "lng": "1.02643460786942",
+    "lat": "46.9680823386472"
+  },
+  {
+    "finess": "370012742",
+    "raison_sociale": "MSP DE SAINT FLOVIER",
+    "numero voie": "19",
+    "type_voie": "R",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "LE BOURG",
+    "cp": "37600",
+    "VILLE": "ST FLOVIER",
+    "tel": "247947208",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "79120653500019",
+    "lng": "1.02732520322193",
+    "lat": "46.9676166398039"
+  }
+]

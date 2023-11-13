@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "440003135",
+    "raison_sociale": "EHPAD SAINT-LOUIS",
+    "numero voie": "49",
+    "type_voie": "R",
+    "libelle_voie": "JEAN-BAPTISTE LEGEAY",
+    "bp": "",
+    "cp": "44140",
+    "VILLE": "GENESTON ",
+    "tel": "240267033",
+    "telecopie": "240047392",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77560546200255",
+    "lng": "-1.51816843896395",
+    "lat": "47.0551768697969"
+  },
+  {
+    "finess": "440015428",
+    "raison_sociale": "PHARMACIE  COCHARD-GUENON",
+    "numero voie": "1",
+    "type_voie": "AV",
+    "libelle_voie": "DE VENDEE",
+    "bp": "",
+    "cp": "44140",
+    "VILLE": "GENESTON ",
+    "tel": "240267017",
+    "telecopie": "240047085",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83328710500013",
+    "lng": "-1.51153746946143",
+    "lat": "47.0543685412734"
+  },
+  {
+    "finess": "440037182",
+    "raison_sociale": "SAAD ADMR GENESTON MONTBERT",
+    "numero voie": "37",
+    "type_voie": "R",
+    "libelle_voie": "JEAN BAPTISTE LEGEAY",
+    "bp": "",
+    "cp": "44140",
+    "VILLE": "GENESTON ",
+    "tel": "240548445",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31610066800037",
+    "lng": "-1.51544910994302",
+    "lat": "47.0553527315693"
+  }
+]

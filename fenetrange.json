@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "570012732",
+    "raison_sociale": "EHPAD \"LE VAL FLEURI\"",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "DES REMPARTS",
+    "bp": "",
+    "cp": "57930",
+    "VILLE": "FENETRANGE ",
+    "tel": "387075166",
+    "telecopie": "387075438",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26570310800018",
+    "lng": "7.01901903850363",
+    "lat": "48.8491159129451"
+  },
+  {
+    "finess": "570016477",
+    "raison_sociale": "PHARMACIE  KUHN",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DE L HOTEL DE VILLE",
+    "bp": "",
+    "cp": "57930",
+    "VILLE": "FENETRANGE ",
+    "tel": "387076043",
+    "telecopie": "387075418",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "33190393000013",
+    "lng": "7.01931725362613",
+    "lat": "48.8462270058663"
+  }
+]

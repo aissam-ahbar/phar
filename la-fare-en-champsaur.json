@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "50001528",
+    "raison_sociale": "SSIAD BIEN CHEZ SOI",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "LES BARRAQUES",
+    "cp": "5500",
+    "VILLE": "LA FARE EN CHAMPSAUR   ",
+    "tel": "492505154",
+    "telecopie": "492500500",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "33752645300010",
+    "lng": "6.07241512145058",
+    "lat": "44.6752115536866"
+  },
+  {
+    "finess": "50002062",
+    "raison_sociale": "EHPAD RESIDENCE LE DRAC",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LES ALLARDS",
+    "bp": "",
+    "cp": "5500",
+    "VILLE": "LA FARE EN CHAMPSAUR   ",
+    "tel": "492500212",
+    "telecopie": "492500324",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "83250600000013",
+    "lng": "6.06688129056342",
+    "lat": "44.6763570848331"
+  }
+]

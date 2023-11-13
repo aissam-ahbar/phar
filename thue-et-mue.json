@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "140006115",
+    "raison_sociale": "SAD ASS LOCALE ADMR BRETTEVILLE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE BAYEUX",
+    "bp": "",
+    "cp": "14740",
+    "VILLE": "THUE ET MUE    ",
+    "tel": "231081728",
+    "telecopie": "231374062",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32028011800011",
+    "lng": "-0.516092365806943",
+    "lat": "49.2115922838371"
+  },
+  {
+    "finess": "140009291",
+    "raison_sociale": "PHARMACIE DE L'EGLISE",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "MARIN",
+    "bp": "",
+    "cp": "14740",
+    "VILLE": "THUE ET MUE    ",
+    "tel": "231807106",
+    "telecopie": "234880135",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45263239100010",
+    "lng": "-0.510870517838756",
+    "lat": "49.2098611046574"
+  },
+  {
+    "finess": "140024472",
+    "raison_sociale": "M.A.S. IKIGAÏ",
+    "numero voie": "32",
+    "type_voie": "R",
+    "libelle_voie": "DE LA PERELLE",
+    "bp": "",
+    "cp": "14740",
+    "VILLE": "THUE ET MUE    ",
+    "tel": "231061366",
+    "telecopie": "",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "77556144200242",
+    "lng": "-0.512588053611076",
+    "lat": "49.2156316097887"
+  }
+]

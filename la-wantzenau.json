@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "670012566",
+    "raison_sociale": "PHARMACIE DE LA WANTZENAU",
+    "numero voie": "20",
+    "type_voie": "RTE",
+    "libelle_voie": "de Strasbourg",
+    "bp": "",
+    "cp": "67610",
+    "VILLE": "LA WANTZENAU",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "47997110300029",
+    "lng": "7.82125287938746",
+    "lat": "48.6611555460185"
+  },
+  {
+    "finess": "670013853",
+    "raison_sociale": "EHPAD AU BORD DE LILL",
+    "numero voie": "19",
+    "type_voie": "R",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "67610",
+    "VILLE": "LA WANTZENAU",
+    "tel": "388963101",
+    "telecopie": "388963600",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77561815000343",
+    "lng": "7.82355621586905",
+    "lat": "48.6604368413908"
+  },
+  {
+    "finess": "670018340",
+    "raison_sociale": "LBM DE LA WANTZENAU",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DU GÉNÉRAL DE GAULLE",
+    "bp": "",
+    "cp": "67610",
+    "VILLE": "LA WANTZENAU",
+    "tel": "388750666",
+    "telecopie": "",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "77885200400341",
+    "lng": "7.8237881168699",
+    "lat": "48.6599282048359"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "500011424",
+    "raison_sociale": "SELARL PHARMACIE DU HAVRE",
+    "numero voie": "50",
+    "type_voie": "R",
+    "libelle_voie": "PHILIPPE LEBEL",
+    "bp": "",
+    "cp": "50580",
+    "VILLE": "PORT BAIL SUR MER   ",
+    "tel": "233876880",
+    "telecopie": "233876889",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45026262100011",
+    "lng": "-1.6971950463131",
+    "lat": "49.3349659993884"
+  },
+  {
+    "finess": "500016597",
+    "raison_sociale": "SSIAD - PORTBAIL",
+    "numero voie": "22",
+    "type_voie": "R",
+    "libelle_voie": "ANDRÉ MICLOT",
+    "bp": "",
+    "cp": "50580",
+    "VILLE": "PORT BAIL SUR MER   ",
+    "tel": "233042800",
+    "telecopie": "",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "38918654500031",
+    "lng": "-1.69385918595407",
+    "lat": "49.3369498953188"
+  },
+  {
+    "finess": "500025473",
+    "raison_sociale": "PSLA DE BARNEVILLE-CARTERET",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE GROUVILLE",
+    "bp": "",
+    "cp": "50580",
+    "VILLE": "PORT BAIL SUR MER   ",
+    "tel": "603445815",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "89111789700019",
+    "lng": "-1.69367614184949",
+    "lat": "49.3364833564678"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "490000858",
+    "raison_sociale": "EHPAD JARDIN DES MAGNOLIAS",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "COSSIN DE BELLETOUCHE",
+    "bp": "",
+    "cp": "49360",
+    "VILLE": "MAULEVRIER ",
+    "tel": "241550011",
+    "telecopie": "241550606",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26490041600019",
+    "lng": "-0.746283168491504",
+    "lat": "47.0087607757853"
+  },
+  {
+    "finess": "490533478",
+    "raison_sociale": "PHARMACIE  CHARRIER",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "JOSEPH FOYER",
+    "bp": "",
+    "cp": "49360",
+    "VILLE": "MAULEVRIER ",
+    "tel": "241555708",
+    "telecopie": "241650256",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84499917700018",
+    "lng": "-0.747626534195209",
+    "lat": "47.0076688672185"
+  },
+  {
+    "finess": "490541687",
+    "raison_sociale": "SSIAD MAULEVRIER",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "COSSIN DE BELLETOUCHE",
+    "bp": "",
+    "cp": "49360",
+    "VILLE": "MAULEVRIER ",
+    "tel": "241550011",
+    "telecopie": "241550606",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "26490041600019",
+    "lng": "-0.746283168491504",
+    "lat": "47.0087607757853"
+  }
+]

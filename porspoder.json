@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "290007012",
+    "raison_sociale": "EHPAD LE GRAND MELGORN",
+    "numero voie": "24",
+    "type_voie": "R",
+    "libelle_voie": "SPERNOC",
+    "bp": "",
+    "cp": "29840",
+    "VILLE": "PORSPODER ",
+    "tel": "298895111",
+    "telecopie": "298895594",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "32948955300076",
+    "lng": "-4.76027311423743",
+    "lat": "48.5080397263913"
+  },
+  {
+    "finess": "290012467",
+    "raison_sociale": "PHARMACIE FALC'HUN",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DE L EUROPE",
+    "bp": "",
+    "cp": "29840",
+    "VILLE": "PORSPODER ",
+    "tel": "298899001",
+    "telecopie": "298894198",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79991554100012",
+    "lng": "-4.76471032703904",
+    "lat": "48.5108775186602"
+  }
+]

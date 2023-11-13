@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "540009560",
+    "raison_sociale": "PHARMACIE JOLY",
+    "numero voie": "49",
+    "type_voie": "R",
+    "libelle_voie": "DE NANCY",
+    "bp": "",
+    "cp": "54930",
+    "VILLE": "DIARVILLE ",
+    "tel": "383253324",
+    "telecopie": "383253557",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88041328100010",
+    "lng": "6.13546943300371",
+    "lat": "48.4001835655289"
+  },
+  {
+    "finess": "540021219",
+    "raison_sociale": "FOYER EQUIPAGE",
+    "numero voie": "48",
+    "type_voie": "R",
+    "libelle_voie": "MIRECOURT",
+    "bp": "",
+    "cp": "54930",
+    "VILLE": "DIARVILLE ",
+    "tel": "383158990",
+    "telecopie": "",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "78001412200060",
+    "lng": "6.13145737617515",
+    "lat": "48.3887414576898"
+  },
+  {
+    "finess": "540027224",
+    "raison_sociale": "MSP DE DIARVILLE",
+    "numero voie": "49",
+    "type_voie": "R",
+    "libelle_voie": "DE NANCY",
+    "bp": "",
+    "cp": "54930",
+    "VILLE": "DIARVILLE ",
+    "tel": "383151606",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "95106468200010",
+    "lng": "6.13546943300371",
+    "lat": "48.4001835655289"
+  }
+]

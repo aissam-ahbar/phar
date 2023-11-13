@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "380009506",
+    "raison_sociale": "PHARMACIE DE SAINT GEORGES",
+    "numero voie": "35",
+    "type_voie": "PL",
+    "libelle_voie": "Edmond Budillon",
+    "bp": "",
+    "cp": "38790",
+    "VILLE": "ST GEORGES D ESPERANCHE   ",
+    "tel": "474590221",
+    "telecopie": "474591246",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79769448600011",
+    "lng": "5.07869063807288",
+    "lat": "45.5553045479712"
+  },
+  {
+    "finess": "380785592",
+    "raison_sociale": "RESIDENCE AUTONOMIE LES PERVENCHES",
+    "numero voie": "9",
+    "type_voie": "CHE",
+    "libelle_voie": "SAUTARET",
+    "bp": "",
+    "cp": "38790",
+    "VILLE": "ST GEORGES D ESPERANCHE   ",
+    "tel": "474590192",
+    "telecopie": "474590040",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26381108500020",
+    "lng": "5.07635002229316",
+    "lat": "45.5539867362521"
+  },
+  {
+    "finess": "380796748",
+    "raison_sociale": "SCE AIDE MENAGERE ST-GEORGES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38790",
+    "VILLE": "ST GEORGES D ESPERANCHE   ",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37843710700014",
+    "lng": "5.07952319525783",
+    "lat": "45.5556233352067"
+  }
+]

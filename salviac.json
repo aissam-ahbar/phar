@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "460004385",
+    "raison_sociale": "PHARMACIE MOREAU-PERIE",
+    "numero voie": "26",
+    "type_voie": "AV",
+    "libelle_voie": "EMILE MOMPART",
+    "bp": "",
+    "cp": "46340",
+    "VILLE": "SALVIAC ",
+    "tel": "565415154",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49914017600011",
+    "lng": "1.26763341446589",
+    "lat": "44.6817902214418"
+  },
+  {
+    "finess": "460006844",
+    "raison_sociale": "CENTRE DE SANTE DE MA REGION A SALVIAC",
+    "numero voie": "125",
+    "type_voie": "",
+    "libelle_voie": "LES CROZES HAUTES",
+    "bp": "LIEU DIT LES CROZES",
+    "cp": "46340",
+    "VILLE": "SALVIAC ",
+    "tel": "532092423",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "13003015800021",
+    "lng": "1.25966314394355",
+    "lat": "44.6792031952713"
+  },
+  {
+    "finess": "460780331",
+    "raison_sociale": "EHPAD LA MAISON DE MELANIE",
+    "numero voie": "85",
+    "type_voie": "AV",
+    "libelle_voie": "EMILE MOMPART",
+    "bp": "",
+    "cp": "46340",
+    "VILLE": "SALVIAC ",
+    "tel": "565415014",
+    "telecopie": "565411194",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26460012300014",
+    "lng": "1.26787718552883",
+    "lat": "44.6822361818264"
+  }
+]

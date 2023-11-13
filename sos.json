@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "470009259",
+    "raison_sociale": "EHPAD LES DEUX VALLEES",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DU CHÂTEAU",
+    "bp": "",
+    "cp": "47170",
+    "VILLE": "SOS ",
+    "tel": "553656565",
+    "telecopie": "553970234",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26470265500020",
+    "lng": "0.138115992320643",
+    "lat": "44.040974477428"
+  },
+  {
+    "finess": "470010786",
+    "raison_sociale": "SSIAD DE SOS EN ALBRET",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DU CHÂTEAU",
+    "bp": "",
+    "cp": "47170",
+    "VILLE": "SOS ",
+    "tel": "553656565",
+    "telecopie": "553970234",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "26470265500046",
+    "lng": "0.138115992320643",
+    "lat": "44.040974477428"
+  },
+  {
+    "finess": "470012204",
+    "raison_sociale": "PHARMACIE ALAZET",
+    "numero voie": "10",
+    "type_voie": "PL",
+    "libelle_voie": "Villeneuve Bargemont",
+    "bp": "",
+    "cp": "47170",
+    "VILLE": "SOS ",
+    "tel": "553656026",
+    "telecopie": "553659754",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40787982400016",
+    "lng": "0.141628941311881",
+    "lat": "44.042746828047"
+  }
+]

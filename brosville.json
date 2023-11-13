@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "270000870",
+    "raison_sociale": "CLINIQUE LES BRUYERES BROSVILLE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DES BRUYERES",
+    "bp": "",
+    "cp": "27930",
+    "VILLE": "BROSVILLE ",
+    "tel": "232343316",
+    "telecopie": "232343577",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "34959369900011",
+    "lng": "1.13616532118524",
+    "lat": "49.1047900476218"
+  },
+  {
+    "finess": "270011356",
+    "raison_sociale": "EHPAD RESIDENCE LES FEUILLANS",
+    "numero voie": "1",
+    "type_voie": "",
+    "libelle_voie": "SENTE DES COURTIEUX",
+    "bp": "",
+    "cp": "27930",
+    "VILLE": "BROSVILLE ",
+    "tel": "232343015",
+    "telecopie": "232346913",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "34073816000027",
+    "lng": "1.11210738563538",
+    "lat": "49.1058114452629"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "680004298",
+    "raison_sociale": "MECS LA NICHEE ALGOLSHEIM",
+    "numero voie": "40",
+    "type_voie": "",
+    "libelle_voie": "GRAND RUE",
+    "bp": "",
+    "cp": "68600",
+    "VILLE": "ALGOLSHEIM ",
+    "tel": "389723785",
+    "telecopie": "389723785",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "77888357900014",
+    "lng": "7.56418131997721",
+    "lat": "48.0051174677296"
+  },
+  {
+    "finess": "680021409",
+    "raison_sociale": "ACCUEIL FAMILIAL LA NICHEE",
+    "numero voie": "40",
+    "type_voie": "",
+    "libelle_voie": "GRAND'RUE",
+    "bp": "",
+    "cp": "68600",
+    "VILLE": "ALGOLSHEIM ",
+    "tel": "389725411",
+    "telecopie": "389723785",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "77888357900014",
+    "lng": "7.56418131997721",
+    "lat": "48.0051174677296"
+  }
+]

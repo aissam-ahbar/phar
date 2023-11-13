@@ -1,0 +1,19 @@
+[
+  {
+    "finess": "230002792",
+    "raison_sociale": "PHARMACIE DE VIEILLEVILLE",
+    "numero voie": "4",
+    "type_voie": "AV",
+    "libelle_voie": "DE L ARDOUR",
+    "bp": "VIEILLEVILLE",
+    "cp": "23210",
+    "VILLE": "MOURIOUX VIEILLEVILLE",
+    "tel": "555620123",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52924744700012",
+    "lng": "1.67469793517413",
+    "lat": "46.0918667033855"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "finess": "330045915",
+    "raison_sociale": "PHARMACIE DES PONTS EIFFEL",
+    "numero voie": "24",
+    "type_voie": "AV",
+    "libelle_voie": "DE PARIS",
+    "bp": "",
+    "cp": "33240",
+    "VILLE": "CUBZAC LES PONTS    ",
+    "tel": "557432646",
+    "telecopie": "557432977",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83347230100013",
+    "lng": "-0.453809609122344",
+    "lat": "44.9706502908703"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590031837",
+    "raison_sociale": "PHARMACIE DE LA VICTOIRE",
+    "numero voie": "8",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA VICTOIRE",
+    "bp": "",
+    "cp": "59142",
+    "VILLE": "VILLERS OUTREAUX",
+    "tel": "327820077",
+    "telecopie": "327820634",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50771467300021",
+    "lng": "3.29912560528321",
+    "lat": "50.0317694835005"
+  },
+  {
+    "finess": "590058590",
+    "raison_sociale": "MSP DE VILLERS OUTRÉAUX",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DU GÉNÉRAL DE GAULLE",
+    "bp": "",
+    "cp": "59142",
+    "VILLE": "VILLERS OUTREAUX",
+    "tel": "966866111",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "80871854800015",
+    "lng": "3.29808459085645",
+    "lat": "50.0325812767555"
+  }
+]

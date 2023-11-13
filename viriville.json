@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "380012617",
+    "raison_sociale": "PHARMACIE HOUSER",
+    "numero voie": "47",
+    "type_voie": "PL",
+    "libelle_voie": "DU 19 MARS 1962",
+    "bp": "LE BOURG",
+    "cp": "38980",
+    "VILLE": "VIRIVILLE ",
+    "tel": "474540316",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53338654600014",
+    "lng": "5.20507625246692",
+    "lat": "45.3158132560342"
+  },
+  {
+    "finess": "380796284",
+    "raison_sociale": "SCE TRAVAIL.FAMIL.VIRIVILLE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38980",
+    "VILLE": "VIRIVILLE ",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37843749500013",
+    "lng": "5.20410574413698",
+    "lat": "45.3164214961807"
+  },
+  {
+    "finess": "380796979",
+    "raison_sociale": "SCE AIDE MENAGERE VIRIVILLE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38980",
+    "VILLE": "VIRIVILLE ",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37843770100014",
+    "lng": "5.20410574413698",
+    "lat": "45.3164214961807"
+  }
+]

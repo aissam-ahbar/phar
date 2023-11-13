@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "30001416",
+    "raison_sociale": "PHARMACIE PARENT-DELBARD",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA POSTE",
+    "bp": "",
+    "cp": "3230",
+    "VILLE": "BEAULON ",
+    "tel": "470427062",
+    "telecopie": "470422707",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "42045921600016",
+    "lng": "3.67099132376624",
+    "lat": "46.6026159142571"
+  },
+  {
+    "finess": "30785950",
+    "raison_sociale": "RESIDENCE SAINT PRIVAT",
+    "numero voie": "22",
+    "type_voie": "R",
+    "libelle_voie": "SAINT PRIVAT",
+    "bp": "",
+    "cp": "3230",
+    "VILLE": "BEAULON ",
+    "tel": "470424949",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "51899326600023",
+    "lng": "3.6765676016791",
+    "lat": "46.6052674059176"
+  }
+]

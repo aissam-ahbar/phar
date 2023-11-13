@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "560003915",
+    "raison_sociale": "MAPA RESIDENCE DES FONTAINES",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "SAINT-LAURENT",
+    "bp": "",
+    "cp": "56310",
+    "VILLE": "MELRAND ",
+    "tel": "297395968",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26560140100036",
+    "lng": "-3.10926570315714",
+    "lat": "47.9793216160383"
+  },
+  {
+    "finess": "560018947",
+    "raison_sociale": "PHARMACIE DE MELRAND",
+    "numero voie": "5",
+    "type_voie": "PL",
+    "libelle_voie": "du Marché",
+    "bp": "",
+    "cp": "56310",
+    "VILLE": "MELRAND ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51226082900027",
+    "lng": "-3.11161344586123",
+    "lat": "47.9799079498245"
+  },
+  {
+    "finess": "560031551",
+    "raison_sociale": "CENTRE DE SANTÉ DE MELRAND",
+    "numero voie": "8",
+    "type_voie": "LOT",
+    "libelle_voie": "DES GENETS",
+    "bp": "",
+    "cp": "56310",
+    "VILLE": "MELRAND ",
+    "tel": "297251252",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "20009699800030",
+    "lng": "-3.10677520169074",
+    "lat": "47.9816328547185"
+  }
+]

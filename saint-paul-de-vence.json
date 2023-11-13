@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "60007747",
+    "raison_sociale": "SELARL PHARMACIE DE SAINT PAUL",
+    "numero voie": "",
+    "type_voie": "RPT",
+    "libelle_voie": "STE CLAIRE",
+    "bp": "",
+    "cp": "6570",
+    "VILLE": "ST PAUL DE VENCE   ",
+    "tel": "493328078",
+    "telecopie": "493325305",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50920738700028",
+    "lng": "7.11884246873644",
+    "lat": "43.7002425249039"
+  },
+  {
+    "finess": "60011798",
+    "raison_sociale": "SAAD CCAS ST PAUL DE VENCE",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "6570",
+    "VILLE": "ST PAUL DE VENCE   ",
+    "tel": "493324112",
+    "telecopie": "493324123",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26060182800015",
+    "lng": "7.12221893884694",
+    "lat": "43.6970122574485"
+  }
+]

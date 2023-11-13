@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "350006623",
+    "raison_sociale": "RESIDENCE DE BROCELIANDE",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DE L'ENCHANTEUR MERLIN",
+    "bp": "",
+    "cp": "35380",
+    "VILLE": "PAIMPONT ",
+    "tel": "299078122",
+    "telecopie": "299078537",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26350198300047",
+    "lng": "-2.17045132282232",
+    "lat": "48.0226836463613"
+  },
+  {
+    "finess": "350039426",
+    "raison_sociale": "FOYER DE VIE ARGOAT",
+    "numero voie": "11",
+    "type_voie": "PL",
+    "libelle_voie": "DU ROI ST JUDICAËL",
+    "bp": "",
+    "cp": "35380",
+    "VILLE": "PAIMPONT ",
+    "tel": "299078117",
+    "telecopie": "299078910",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "77559092000390",
+    "lng": "-2.17386815271028",
+    "lat": "48.018886271988"
+  }
+]

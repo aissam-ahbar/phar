@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "590029120",
+    "raison_sociale": "PHARMACIE SALOME",
+    "numero voie": "89",
+    "type_voie": "R",
+    "libelle_voie": "PASTEUR",
+    "bp": "",
+    "cp": "59496",
+    "VILLE": "SALOME ",
+    "tel": "320290519",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84234835100011",
+    "lng": "2.84033223153966",
+    "lat": "50.5331941588863"
+  },
+  {
+    "finess": "590058251",
+    "raison_sociale": "PF  JACQUES VANO SOLIHA MN",
+    "numero voie": "54",
+    "type_voie": "R",
+    "libelle_voie": "GABRIEL PERI",
+    "bp": "",
+    "cp": "59496",
+    "VILLE": "SALOME ",
+    "tel": "320525543",
+    "telecopie": "",
+    "categorie etablissement": "258",
+    "libelle categorie": "Maisons Relais - Pensions de Famille",
+    "siret": "31987092900027",
+    "lng": "2.81444986021204",
+    "lat": "50.5321205169506"
+  },
+  {
+    "finess": "590063624",
+    "raison_sociale": "SAAD GRAINES DE MÉMOIRES",
+    "numero voie": "28",
+    "type_voie": "R",
+    "libelle_voie": "SAINT MICHEL SUR LOIRE",
+    "bp": "",
+    "cp": "59496",
+    "VILLE": "SALOME ",
+    "tel": "645487103",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "84015748100010",
+    "lng": "2.83863095652433",
+    "lat": "50.5314740219895"
+  }
+]

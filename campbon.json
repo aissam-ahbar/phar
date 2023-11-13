@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "440015048",
+    "raison_sociale": "PHARMACIE GUILLARD-LIGNON",
+    "numero voie": "1",
+    "type_voie": "AV",
+    "libelle_voie": "DES SPORTS",
+    "bp": "",
+    "cp": "44750",
+    "VILLE": "CAMPBON ",
+    "tel": "240565579",
+    "telecopie": "240567185",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49294913600021",
+    "lng": "-1.969007621134",
+    "lat": "47.4121510283711"
+  },
+  {
+    "finess": "440028595",
+    "raison_sociale": "EHPAD SAINT MARTIN",
+    "numero voie": "16",
+    "type_voie": "R",
+    "libelle_voie": "ST MARTIN",
+    "bp": "",
+    "cp": "44750",
+    "VILLE": "CAMPBON ",
+    "tel": "240565656",
+    "telecopie": "240567880",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "78593568500020",
+    "lng": "-1.96867095301934",
+    "lat": "47.4156100923009"
+  },
+  {
+    "finess": "440054658",
+    "raison_sociale": "SAMNA",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LA DUCHERAIS",
+    "bp": "",
+    "cp": "44750",
+    "VILLE": "CAMPBON ",
+    "tel": "240715782",
+    "telecopie": "",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "30486500900183",
+    "lng": "-1.99837468746913",
+    "lat": "47.4117760382131"
+  }
+]

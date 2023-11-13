@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "290012897",
+    "raison_sociale": "PHARMACIE LE STRAT",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "PIERRE CORNEILLE",
+    "bp": "",
+    "cp": "29217",
+    "VILLE": "LE CONQUET",
+    "tel": "298890006",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49965792200013",
+    "lng": "-4.77382463050766",
+    "lat": "48.3595018879208"
+  },
+  {
+    "finess": "290020536",
+    "raison_sociale": "EHPAD LE STREAT HIR",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "MANIGOD",
+    "bp": "",
+    "cp": "29217",
+    "VILLE": "LE CONQUET",
+    "tel": "298891566",
+    "telecopie": "298890364",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "32948955300092",
+    "lng": "-4.7708760563103",
+    "lat": "48.3598631853195"
+  }
+]

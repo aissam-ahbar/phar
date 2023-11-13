@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "140015926",
+    "raison_sociale": "PHARMACIE VOISINE",
+    "numero voie": "18",
+    "type_voie": "R",
+    "libelle_voie": "DE LA GRACE DE DIEU",
+    "bp": "",
+    "cp": "14610",
+    "VILLE": "EPRON ",
+    "tel": "231436082",
+    "telecopie": "234881505",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "42408746800015",
+    "lng": "-0.368434047982623",
+    "lat": "49.2193095662872"
+  },
+  {
+    "finess": "140027418",
+    "raison_sociale": "EHPAD L'OREE DU GOLF - EPRON",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "OLYMPE DE GOUGES",
+    "bp": "ZAC DE L'OREE DU GOLF",
+    "cp": "14610",
+    "VILLE": "EPRON ",
+    "tel": "231539055",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "79499427702113",
+    "lng": "-0.364383464980971",
+    "lat": "49.2202658888509"
+  },
+  {
+    "finess": "140032848",
+    "raison_sociale": "CENTRE DENTAIRE CAEN EPRON",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "HUBERTINE AUCLERT",
+    "bp": "",
+    "cp": "14610",
+    "VILLE": "EPRON ",
+    "tel": "261790320",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "87828468600010",
+    "lng": "-0.370682539527986",
+    "lat": "49.2228450829566"
+  }
+]

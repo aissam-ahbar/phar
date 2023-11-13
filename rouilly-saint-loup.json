@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "100002096",
+    "raison_sociale": "CHANTEJOIE - IME",
+    "numero voie": "3",
+    "type_voie": "RTE",
+    "libelle_voie": "DE BAIRES",
+    "bp": "",
+    "cp": "10800",
+    "VILLE": "ROUILLY ST LOUP    ",
+    "tel": "325415656",
+    "telecopie": "325415657",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "30332389300022",
+    "lng": "4.1274352005864",
+    "lat": "48.2746553500001"
+  },
+  {
+    "finess": "100003391",
+    "raison_sociale": "ESAT LE MENOIS",
+    "numero voie": "1",
+    "type_voie": "RTE",
+    "libelle_voie": "DE BAIRES",
+    "bp": "",
+    "cp": "10800",
+    "VILLE": "ROUILLY ST LOUP    ",
+    "tel": "325762700",
+    "telecopie": "325809133",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77555526100087",
+    "lng": "4.12679219972713",
+    "lat": "48.2761678015985"
+  }
+]

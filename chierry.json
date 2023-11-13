@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "20003687",
+    "raison_sociale": "ESAT APEI-2V CHIERRY",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE L'ÉGLISE",
+    "bp": "",
+    "cp": "2400",
+    "VILLE": "CHIERRY ",
+    "tel": "323832479",
+    "telecopie": "323833436",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "79402103000083",
+    "lng": "3.42345589319212",
+    "lat": "49.0410440106183"
+  },
+  {
+    "finess": "20009916",
+    "raison_sociale": "CAJ APEI DES 2 VALLÉES SUD DE LAISNE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "2400",
+    "VILLE": "CHIERRY ",
+    "tel": "323695382",
+    "telecopie": "323697899",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "79402103000067",
+    "lng": "3.42345589319212",
+    "lat": "49.0410440106183"
+  }
+]

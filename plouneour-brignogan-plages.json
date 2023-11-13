@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "290013390",
+    "raison_sociale": "PHARMACIE DIDOU",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "La Gare",
+    "bp": "",
+    "cp": "29890",
+    "VILLE": "PLOUNEOUR BRIGNOGAN PLAGES    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49248229400013",
+    "lng": "-4.3324022863216",
+    "lat": "48.6458025897554"
+  },
+  {
+    "finess": "290036821",
+    "raison_sociale": "SISA DE LA BAIE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LIEU DIT LA GARE",
+    "bp": "",
+    "cp": "29890",
+    "VILLE": "PLOUNEOUR BRIGNOGAN PLAGES    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "-4.3324022863216",
+    "lat": "48.6458025897554"
+  }
+]

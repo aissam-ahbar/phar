@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "360002810",
+    "raison_sociale": "PHARMACIE BEAUJARD",
+    "numero voie": "11",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "36100",
+    "VILLE": "NEUVY PAILLOUX",
+    "tel": "254495474",
+    "telecopie": "254495712",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75061626000014",
+    "lng": "1.85963747248372",
+    "lat": "46.8856829716475"
+  },
+  {
+    "finess": "360004733",
+    "raison_sociale": "EHPAD LES EPIS D OR",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU PETIT CLOS",
+    "bp": "",
+    "cp": "36100",
+    "VILLE": "NEUVY PAILLOUX",
+    "tel": "254036130",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26360004100101",
+    "lng": "1.85693358314463",
+    "lat": "46.8867853484698"
+  },
+  {
+    "finess": "360008395",
+    "raison_sociale": "CENTRE DE SANTÉ ANNEXE CHTB",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE L'AUBEPINE",
+    "bp": "",
+    "cp": "36100",
+    "VILLE": "NEUVY PAILLOUX",
+    "tel": "254035405",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "26360009000124",
+    "lng": "1.85948584838008",
+    "lat": "46.8880172742253"
+  }
+]

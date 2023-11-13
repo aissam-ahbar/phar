@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "640012860",
+    "raison_sociale": "PHARMACIE LECUIX",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "DE FRANCE",
+    "bp": "LIEU-DIT DOU CAMINOU",
+    "cp": "64300",
+    "VILLE": "SAULT DE NAVAILLES    ",
+    "tel": "559675867",
+    "telecopie": "559675868",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "90024190200015",
+    "lng": "-0.676208594391645",
+    "lat": "43.5454988867448"
+  },
+  {
+    "finess": "640020350",
+    "raison_sociale": "SAAD AYUDE A SAULT",
+    "numero voie": "422",
+    "type_voie": "R",
+    "libelle_voie": "DE FRANCE",
+    "bp": "",
+    "cp": "64300",
+    "VILLE": "SAULT DE NAVAILLES    ",
+    "tel": "559389471",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "49864540700038",
+    "lng": "-0.673439945501109",
+    "lat": "43.5486154455149"
+  }
+]

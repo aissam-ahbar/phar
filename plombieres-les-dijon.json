@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "210003489",
+    "raison_sociale": "CADA COALLIA DE LA COMBE AUX FÉES",
+    "numero voie": "11",
+    "type_voie": "RTE",
+    "libelle_voie": "DE DIJON",
+    "bp": "",
+    "cp": "21370",
+    "VILLE": "PLOMBIERES LES DIJON    ",
+    "tel": "380287409",
+    "telecopie": "380287409",
+    "categorie etablissement": "443",
+    "libelle categorie": "Centre Accueil Demandeurs Asile (C.A.D.A.)",
+    "siret": "77568030901320",
+    "lng": "4.98126954258331",
+    "lat": "47.3367847153745"
+  },
+  {
+    "finess": "210006367",
+    "raison_sociale": "PHARMACIE VARIOT",
+    "numero voie": "2",
+    "type_voie": "AV",
+    "libelle_voie": "FRANCOIS MITTERRAND",
+    "bp": "",
+    "cp": "21370",
+    "VILLE": "PLOMBIERES LES DIJON    ",
+    "tel": "380435248",
+    "telecopie": "380438635",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49273251600017",
+    "lng": "4.97303099103217",
+    "lat": "47.3396598127227"
+  },
+  {
+    "finess": "210012571",
+    "raison_sociale": "EHPAD DOMICILE PROTEGE PLOMBIERES",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DU CHATEAU D EAU",
+    "bp": "",
+    "cp": "21370",
+    "VILLE": "PLOMBIERES LES DIJON    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "",
+    "lng": "4.96936009489327",
+    "lat": "47.3394438611572"
+  }
+]

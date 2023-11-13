@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "700005424",
+    "raison_sociale": "HABITAT AUTONOME AVEC ACCOMP. GEVIGNEY",
+    "numero voie": "7",
+    "type_voie": "RTE",
+    "libelle_voie": "DE MONTGILLARD",
+    "bp": "",
+    "cp": "70500",
+    "VILLE": "GEVIGNEY ET MERCEY    ",
+    "tel": "384680940",
+    "telecopie": "",
+    "categorie etablissement": "446",
+    "libelle categorie": "Service d'Accompagnement à la Vie Sociale (S.A.V.S.)",
+    "siret": "77812546800430",
+    "lng": "5.93219857488329",
+    "lat": "47.7993825789626"
+  },
+  {
+    "finess": "700783319",
+    "raison_sociale": "ESAT HANDY UP CLAIR JOIE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "MONTGILLARD",
+    "bp": "",
+    "cp": "70500",
+    "VILLE": "GEVIGNEY ET MERCEY    ",
+    "tel": "384680940",
+    "telecopie": "384681280",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77812546800091",
+    "lng": "5.93386486712939",
+    "lat": "47.8004621547048"
+  },
+  {
+    "finess": "700783327",
+    "raison_sociale": "EANM CLAIRE JOIE",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "MONTGILLARD",
+    "bp": "",
+    "cp": "70500",
+    "VILLE": "GEVIGNEY ET MERCEY    ",
+    "tel": "384680940",
+    "telecopie": "384681280",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "77812546800315",
+    "lng": "5.93219857488329",
+    "lat": "47.7993825789626"
+  }
+]

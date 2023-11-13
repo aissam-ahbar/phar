@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "110007119",
+    "raison_sociale": "EHPAD DOMINIQUE RIBES",
+    "numero voie": "23",
+    "type_voie": "",
+    "libelle_voie": "MAIL DAL BOSC",
+    "bp": "BP 5",
+    "cp": "11590",
+    "VILLE": "OUVEILLAN ",
+    "tel": "468440641",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "52910871400021",
+    "lng": "2.96614166402462",
+    "lat": "43.2917408830393"
+  },
+  {
+    "finess": "110790953",
+    "raison_sociale": "PHARMACIE LALAURIE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU PONANT",
+    "bp": "",
+    "cp": "11590",
+    "VILLE": "OUVEILLAN ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82017858000024",
+    "lng": "2.96883619401118",
+    "lat": "43.2916490387008"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "690007422",
+    "raison_sociale": "EHPAD LES ARCHETS",
+    "numero voie": "30",
+    "type_voie": "RTE",
+    "libelle_voie": "DU VIEUX CHÂTEAU",
+    "bp": "",
+    "cp": "69380",
+    "VILLE": "CHARNAY ",
+    "tel": "472541900",
+    "telecopie": "472541901",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26690025700145",
+    "lng": "4.6616093508866",
+    "lat": "45.8747602260399"
+  },
+  {
+    "finess": "690797527",
+    "raison_sociale": "RESIDENCE LES COLLINES DOREES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "BAYERE",
+    "cp": "69380",
+    "VILLE": "CHARNAY ",
+    "tel": "478479660",
+    "telecopie": "478479793",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "33407854000013",
+    "lng": "4.66130143611751",
+    "lat": "45.8824737719626"
+  }
+]

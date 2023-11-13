@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "710004615",
+    "raison_sociale": "PHARMACIE DU CANAL",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DU CANAL",
+    "bp": "",
+    "cp": "71210",
+    "VILLE": "ECUISSES ",
+    "tel": "385789111",
+    "telecopie": "385789720",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88223992400013",
+    "lng": "4.51055958802451",
+    "lat": "46.7574691151735"
+  },
+  {
+    "finess": "710014150",
+    "raison_sociale": "ET SIEGE GROUPE HOSPI LE CREUSOT MONC",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DE L'EUROPE",
+    "bp": "",
+    "cp": "71210",
+    "VILLE": "ECUISSES ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "696",
+    "libelle categorie": "Groupement de coopération sanitaire de moyens",
+    "siret": "",
+    "lng": "4.49821538345015",
+    "lat": "46.76172472337"
+  }
+]

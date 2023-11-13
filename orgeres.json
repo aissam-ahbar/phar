@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "350019816",
+    "raison_sociale": "SELARL PHARMACIE D'ORGERES",
+    "numero voie": "42",
+    "type_voie": "R",
+    "libelle_voie": "DE RENNES",
+    "bp": "",
+    "cp": "35230",
+    "VILLE": "ORGERES ",
+    "tel": "299576326",
+    "telecopie": "299577209",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81248756900012",
+    "lng": "-1.66721021096417",
+    "lat": "47.9999054947244"
+  },
+  {
+    "finess": "350046439",
+    "raison_sociale": "LES MAISONS DE LA PLUMELIERE",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "DES JARDINS",
+    "bp": "",
+    "cp": "35230",
+    "VILLE": "ORGERES ",
+    "tel": "223454500",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "32461183900063",
+    "lng": "-1.66364613851068",
+    "lat": "47.9988011408849"
+  },
+  {
+    "finess": "350049672",
+    "raison_sociale": "LES MAISONS DE LA PLUMELIERE",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "DES JARDINS",
+    "bp": "",
+    "cp": "35230",
+    "VILLE": "ORGERES ",
+    "tel": "299771277",
+    "telecopie": "",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "",
+    "lng": "-1.66364613851068",
+    "lat": "47.9988011408849"
+  }
+]

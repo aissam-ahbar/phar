@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "410005573",
+    "raison_sociale": "FOYER OCCUPATIONNEL DES GRANDS JARDINS",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "DES GRANDS JARDINS",
+    "bp": "",
+    "cp": "41170",
+    "VILLE": "CORMENON ",
+    "tel": "254807445",
+    "telecopie": "254807207",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "33880003000086",
+    "lng": "0.897978684099513",
+    "lat": "47.9768982509833"
+  },
+  {
+    "finess": "410005961",
+    "raison_sociale": "FH LE PAILLIS",
+    "numero voie": "6",
+    "type_voie": "IMP",
+    "libelle_voie": "DE L'ARC EN CIEL",
+    "bp": "",
+    "cp": "41170",
+    "VILLE": "CORMENON ",
+    "tel": "254807445",
+    "telecopie": "254807207",
+    "categorie etablissement": "252",
+    "libelle categorie": "Foyer Hébergement Adultes Handicapés",
+    "siret": "33880003000060",
+    "lng": "0.90166272430447",
+    "lat": "47.9771432068124"
+  },
+  {
+    "finess": "410006688",
+    "raison_sociale": "FAM L'ARC-EN-CIEL",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "DES GRANDS JARDINS",
+    "bp": "",
+    "cp": "41170",
+    "VILLE": "CORMENON ",
+    "tel": "254807445",
+    "telecopie": "254807207",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "",
+    "lng": "0.897978684099513",
+    "lat": "47.9768982509833"
+  }
+]

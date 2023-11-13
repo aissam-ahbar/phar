@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "440016160",
+    "raison_sociale": "PHARMACIE  RABREAU",
+    "numero voie": "28",
+    "type_voie": "R",
+    "libelle_voie": "DE PORNIC",
+    "bp": "",
+    "cp": "44710",
+    "VILLE": "PORT ST PERE    ",
+    "tel": "240315020",
+    "telecopie": "240315109",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34325549300029",
+    "lng": "-1.75074396425658",
+    "lat": "47.1323400166015"
+  },
+  {
+    "finess": "440060200",
+    "raison_sociale": "MSP DE L'ACHENEAU",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE BEL AIR",
+    "bp": "",
+    "cp": "44710",
+    "VILLE": "PORT ST PERE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "-1.75811258845798",
+    "lat": "47.1312684240215"
+  }
+]

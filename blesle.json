@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "430001404",
+    "raison_sociale": "PHARMACIE BRUN-ROYER",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "EDOUARD CHATILLON",
+    "bp": "",
+    "cp": "43450",
+    "VILLE": "BLESLE ",
+    "tel": "471762220",
+    "telecopie": "471762821",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48052851200019",
+    "lng": "3.17107113369977",
+    "lat": "45.3183057368815"
+  },
+  {
+    "finess": "430003947",
+    "raison_sociale": "SERVICE D'AIDE AUX FAMILLES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "43450",
+    "VILLE": "BLESLE ",
+    "tel": "471762050",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "77911882700012",
+    "lng": "3.16961566223275",
+    "lat": "45.3189832845281"
+  }
+]

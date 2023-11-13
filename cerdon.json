@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "10780922",
+    "raison_sociale": "EHPAD RESIDENCE L'ALBIZIA À CERDON",
+    "numero voie": "362",
+    "type_voie": "R",
+    "libelle_voie": "DE LA GRAND' CÔTE",
+    "bp": "",
+    "cp": "1450",
+    "VILLE": "CERDON ",
+    "tel": "474399662",
+    "telecopie": "474399317",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26010005200026",
+    "lng": "5.46520675671317",
+    "lat": "46.0843888936016"
+  },
+  {
+    "finess": "450004726",
+    "raison_sociale": "SELARL PHARMACIE DE CERDON",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DES LIMOUSINS",
+    "bp": "",
+    "cp": "45620",
+    "VILLE": "CERDON ",
+    "tel": "238360043",
+    "telecopie": "238360498",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80228196400014",
+    "lng": "2.3616311208352",
+    "lat": "47.6360389918736"
+  }
+]

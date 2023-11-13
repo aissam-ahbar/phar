@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "10005585",
+    "raison_sociale": "DUJOLS MARTIN",
+    "numero voie": "2",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LA CHANOISE",
+    "bp": "",
+    "cp": "1430",
+    "VILLE": "ST MARTIN DU FRENE   ",
+    "tel": "474757683",
+    "telecopie": "474756342",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79536802600022",
+    "lng": "5.55246926902059",
+    "lat": "46.1357786181781"
+  },
+  {
+    "finess": "10010395",
+    "raison_sociale": "MAISON DE SANTE ST-MARTIN-DU-FRENE",
+    "numero voie": "1",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CHAMOISE",
+    "bp": "",
+    "cp": "1430",
+    "VILLE": "ST MARTIN DU FRENE   ",
+    "tel": "474491024",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "80860385600010",
+    "lng": "5.55151952618985",
+    "lat": "46.1363684688084"
+  }
+]

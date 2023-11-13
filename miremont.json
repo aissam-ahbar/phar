@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "310013776",
+    "raison_sociale": "SELARL PHARMACIE LE DONNE BIGE",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DE LOUBINE",
+    "bp": "",
+    "cp": "31190",
+    "VILLE": "MIREMONT ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53744864900013",
+    "lng": "1.41974013787115",
+    "lat": "43.3720964351352"
+  },
+  {
+    "finess": "310027750",
+    "raison_sociale": "MSP JEAN DAUSSET",
+    "numero voie": "15",
+    "type_voie": "CHE",
+    "libelle_voie": "DE LOUBINE",
+    "bp": "",
+    "cp": "31190",
+    "VILLE": "MIREMONT ",
+    "tel": "561506416",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "82494348400017",
+    "lng": "1.41974013787115",
+    "lat": "43.3720964351352"
+  },
+  {
+    "finess": "310784624",
+    "raison_sociale": "M.E.C.S. SAINT JOSEPH",
+    "numero voie": "32",
+    "type_voie": "R",
+    "libelle_voie": "D'AUPAILHAC",
+    "bp": "",
+    "cp": "31190",
+    "VILLE": "MIREMONT ",
+    "tel": "561506712",
+    "telecopie": "",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "77558121800770",
+    "lng": "1.41687816344929",
+    "lat": "43.3671741207864"
+  }
+]

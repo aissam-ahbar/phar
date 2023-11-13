@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "320003122",
+    "raison_sociale": "FAM CILT ST BLANCARD",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "AU VILLAGE",
+    "cp": "32140",
+    "VILLE": "ST BLANCARD",
+    "tel": "562661919",
+    "telecopie": "",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "41329347300018",
+    "lng": "0.647238715610361",
+    "lat": "43.3443781060473"
+  },
+  {
+    "finess": "320005382",
+    "raison_sociale": "SAAD ADMR 3 VALLEES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "32140",
+    "VILLE": "ST BLANCARD",
+    "tel": "562660565",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "83531061600015",
+    "lng": "0.647238715610361",
+    "lat": "43.3443781060473"
+  }
+]

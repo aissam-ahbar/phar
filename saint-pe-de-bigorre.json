@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "650003387",
+    "raison_sociale": "PHARMACIE DES GENIES",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "65270",
+    "VILLE": "ST PE DE BIGORRE   ",
+    "tel": "562418031",
+    "telecopie": "562418651",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50525198300019",
+    "lng": "-0.160294931580997",
+    "lat": "43.1035956510157"
+  },
+  {
+    "finess": "650788433",
+    "raison_sociale": "EHPAD PYRENE PLUS A SAINT-PE DE B.",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "MARCA",
+    "bp": "",
+    "cp": "65270",
+    "VILLE": "ST PE DE BIGORRE   ",
+    "tel": "562418850",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77716926900092",
+    "lng": "-0.160210155119309",
+    "lat": "43.1027412006883"
+  }
+]

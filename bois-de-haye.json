@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "540000718",
+    "raison_sociale": "IME SAINT CAMILLE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE 4",
+    "bp": "",
+    "cp": "54840",
+    "VILLE": "BOIS DE HAYE    ",
+    "tel": "383232004",
+    "telecopie": "",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "78337259200015",
+    "lng": "6.0209527682659",
+    "lat": "48.7035806414498"
+  },
+  {
+    "finess": "540013414",
+    "raison_sociale": "DITEP SAINT CAMILLE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE 4",
+    "bp": "",
+    "cp": "54840",
+    "VILLE": "BOIS DE HAYE    ",
+    "tel": "383232004",
+    "telecopie": "",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "78337259200015",
+    "lng": "6.0209527682659",
+    "lat": "48.7035806414498"
+  }
+]

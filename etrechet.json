@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "360002463",
+    "raison_sociale": "PHARMACIE DORANGEON",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DU MARECHAL LECLERC",
+    "bp": "",
+    "cp": "36120",
+    "VILLE": "ETRECHET ",
+    "tel": "254269525",
+    "telecopie": "254269525",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39932913500020",
+    "lng": "1.78361566036978",
+    "lat": "46.7788398865948"
+  },
+  {
+    "finess": "360004725",
+    "raison_sociale": "EHPAD FREDERIC CHOPIN GIREUGNE",
+    "numero voie": "",
+    "type_voie": "ALL",
+    "libelle_voie": "FREDERIC CHOPIN",
+    "bp": "",
+    "cp": "36120",
+    "VILLE": "ETRECHET ",
+    "tel": "254264200",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26360004100119",
+    "lng": "1.77867473981405",
+    "lat": "46.7810144347234"
+  }
+]

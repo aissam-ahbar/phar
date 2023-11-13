@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "180006173",
+    "raison_sociale": "PHARMACIE DAVID",
+    "numero voie": "",
+    "type_voie": "ZA",
+    "libelle_voie": "LES PETITS CLAIS",
+    "bp": "",
+    "cp": "18110",
+    "VILLE": "ST MARTIN D AUXIGNY   ",
+    "tel": "248645007",
+    "telecopie": "248645072",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34151035200055",
+    "lng": "2.42551576841593",
+    "lat": "47.2108145621553"
+  },
+  {
+    "finess": "180007874",
+    "raison_sociale": "SERVICE PRESTATAIRE AIDE DOMICILE P.A.",
+    "numero voie": "31",
+    "type_voie": "RTE",
+    "libelle_voie": "DE QUANTILLY",
+    "bp": "",
+    "cp": "18110",
+    "VILLE": "ST MARTIN D AUXIGNY   ",
+    "tel": "248641675",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "39188011900022",
+    "lng": "2.42212134867368",
+    "lat": "47.2068984988446"
+  },
+  {
+    "finess": "180008153",
+    "raison_sociale": "SAD ADMR DE ST MARTIN D'AUXIGNY",
+    "numero voie": "3",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "HOTEL DE VILLE",
+    "cp": "18110",
+    "VILLE": "ST MARTIN D AUXIGNY   ",
+    "tel": "672534479",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "77506206000014",
+    "lng": "2.41706908866509",
+    "lat": "47.204243420048"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "10002566",
+    "raison_sociale": "PHARMACIE DE BELLIGNAT",
+    "numero voie": "3",
+    "type_voie": "PL",
+    "libelle_voie": "DES ARCADES",
+    "bp": "",
+    "cp": "1100",
+    "VILLE": "BELLIGNAT ",
+    "tel": "474737916",
+    "telecopie": "474739057",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52903293000016",
+    "lng": "5.63451229831487",
+    "lat": "46.2510642078475"
+  },
+  {
+    "finess": "10003358",
+    "raison_sociale": "RESIDENCE DALLEX ALLOMBERT",
+    "numero voie": "2",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LA FORGE",
+    "bp": "",
+    "cp": "1100",
+    "VILLE": "BELLIGNAT ",
+    "tel": "474739237",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "21010031900123",
+    "lng": "5.62801113159714",
+    "lat": "46.2435219948865"
+  },
+  {
+    "finess": "10789410",
+    "raison_sociale": "CENTRE DE SANTE MFASSAM BELLIGNAT",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "DES ARCADES",
+    "bp": "",
+    "cp": "1100",
+    "VILLE": "BELLIGNAT ",
+    "tel": "474735297",
+    "telecopie": "474730052",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "44429988700273",
+    "lng": "5.63440331151387",
+    "lat": "46.250850495896"
+  }
+]

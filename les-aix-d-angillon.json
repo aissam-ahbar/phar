@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "180001323",
+    "raison_sociale": "PHARMACIE AUGY",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DES ECOLES",
+    "bp": "",
+    "cp": "18220",
+    "VILLE": "LES AIX D ANGILLON   ",
+    "tel": "248642655",
+    "telecopie": "248641889",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48994898400013",
+    "lng": "2.569795619476",
+    "lat": "47.1979051039925"
+  },
+  {
+    "finess": "180004434",
+    "raison_sociale": "EHPAD RESIDENCE LES VALLIERES",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE BOURGES",
+    "bp": "DEPARTEMENTALE 955",
+    "cp": "18220",
+    "VILLE": "LES AIX D ANGILLON   ",
+    "tel": "248643303",
+    "telecopie": "248642126",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "44456253200291",
+    "lng": "2.56747035986953",
+    "lat": "47.1959959332014"
+  },
+  {
+    "finess": "180007890",
+    "raison_sociale": "SAD ADMR LES AIX D'ANGILLON",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DES ECOLES",
+    "bp": "",
+    "cp": "18220",
+    "VILLE": "LES AIX D ANGILLON   ",
+    "tel": "248643196",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "77500058100030",
+    "lng": "2.56977280866112",
+    "lat": "47.1977843804496"
+  }
+]

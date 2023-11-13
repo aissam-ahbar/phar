@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "170012496",
+    "raison_sociale": "PHARMACIE  DU COUDRAT",
+    "numero voie": "3",
+    "type_voie": "ESP",
+    "libelle_voie": "COUDRAT",
+    "bp": "",
+    "cp": "17600",
+    "VILLE": "PISANY ",
+    "tel": "546948662",
+    "telecopie": "546948641",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88125471800011",
+    "lng": "-0.779955848471558",
+    "lat": "45.7005287603599"
+  },
+  {
+    "finess": "170025142",
+    "raison_sociale": "HANDI PHARM CHARENTES",
+    "numero voie": "16",
+    "type_voie": "R",
+    "libelle_voie": "DES MARRONNIERS",
+    "bp": "",
+    "cp": "17600",
+    "VILLE": "PISANY ",
+    "tel": "549395025",
+    "telecopie": "549395026",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "80314385800014",
+    "lng": "-0.79099406486676",
+    "lat": "45.7019814631744"
+  },
+  {
+    "finess": "170026959",
+    "raison_sociale": "MSP LE CYCLE DE LA VIE",
+    "numero voie": "7",
+    "type_voie": "ESPA",
+    "libelle_voie": "DU COUDRAT",
+    "bp": "",
+    "cp": "17600",
+    "VILLE": "PISANY ",
+    "tel": "546948857",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "92078598700016",
+    "lng": "-0.77938199138999",
+    "lat": "45.7005281890685"
+  }
+]

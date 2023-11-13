@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "620012427",
+    "raison_sociale": "SELARL PHARMACIE DE LA LAWE",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "HENRI DURANT",
+    "bp": "",
+    "cp": "62150",
+    "VILLE": "HOUDAIN ",
+    "tel": "321658733",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79295358000018",
+    "lng": "2.53553181232058",
+    "lat": "50.4513778298951"
+  },
+  {
+    "finess": "620012443",
+    "raison_sociale": "PHARMACIE DU HAUT D'HOUDAIN",
+    "numero voie": "1130",
+    "type_voie": "RTE",
+    "libelle_voie": "DE BRUAY",
+    "bp": "",
+    "cp": "62150",
+    "VILLE": "HOUDAIN ",
+    "tel": "321620090",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34920099800012",
+    "lng": "2.54178026425578",
+    "lat": "50.4651139427672"
+  }
+]

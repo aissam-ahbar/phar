@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "270001027",
+    "raison_sociale": "EHPAD LA VERTE COLLINE À IVRY LA BATAI",
+    "numero voie": "44",
+    "type_voie": "R",
+    "libelle_voie": "DE GARENNES",
+    "bp": "",
+    "cp": "27540",
+    "VILLE": "IVRY LA BATAILLE    ",
+    "tel": "232364128",
+    "telecopie": "232361431",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "78110821200080",
+    "lng": "1.45980323308719",
+    "lat": "48.8865867862971"
+  },
+  {
+    "finess": "270020530",
+    "raison_sociale": "PHARMACIE DE LA GARE",
+    "numero voie": "11",
+    "type_voie": "BD",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "27540",
+    "VILLE": "IVRY LA BATAILLE    ",
+    "tel": "232364034",
+    "telecopie": "177746447",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "54008270800012",
+    "lng": "1.46032964987704",
+    "lat": "48.8838213951747"
+  }
+]

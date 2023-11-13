@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "170018725",
+    "raison_sociale": "SAVS - ADEI",
+    "numero voie": "46",
+    "type_voie": "RTE",
+    "libelle_voie": "DE SAINT GENIS",
+    "bp": "",
+    "cp": "17500",
+    "VILLE": "ST GERMAIN DE LUSIGNAN   ",
+    "tel": "546861575",
+    "telecopie": "546860774",
+    "categorie etablissement": "446",
+    "libelle categorie": "Service d'Accompagnement à la Vie Sociale (S.A.V.S.)",
+    "siret": "78134357900483",
+    "lng": "-0.47420441677334",
+    "lat": "45.4504399552628"
+  },
+  {
+    "finess": "170804181",
+    "raison_sociale": "ESAT DE JONZAC",
+    "numero voie": "46",
+    "type_voie": "RTE",
+    "libelle_voie": "DE SAINT GENIS",
+    "bp": "",
+    "cp": "17500",
+    "VILLE": "ST GERMAIN DE LUSIGNAN   ",
+    "tel": "546861575",
+    "telecopie": "546860774",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "78134357900483",
+    "lng": "-0.47420441677334",
+    "lat": "45.4504399552628"
+  },
+  {
+    "finess": "170804199",
+    "raison_sociale": "FOYER HEBERGEMENT - ESAT JONZAC",
+    "numero voie": "46",
+    "type_voie": "RTE",
+    "libelle_voie": "DE SAINT GENIS",
+    "bp": "",
+    "cp": "17500",
+    "VILLE": "ST GERMAIN DE LUSIGNAN   ",
+    "tel": "546861575",
+    "telecopie": "546860774",
+    "categorie etablissement": "252",
+    "libelle categorie": "Foyer Hébergement Adultes Handicapés",
+    "siret": "78134357900483",
+    "lng": "-0.47420441677334",
+    "lat": "45.4504399552628"
+  }
+]

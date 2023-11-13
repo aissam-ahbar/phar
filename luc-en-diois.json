@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "260006325",
+    "raison_sociale": "PHARMACIE DE LUC EN DIOIS",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "26310",
+    "VILLE": "LUC EN DIOIS    ",
+    "tel": "475213040",
+    "telecopie": "475213564",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83765926700012",
+    "lng": "5.45344265347757",
+    "lat": "44.6148273649944"
+  },
+  {
+    "finess": "260012810",
+    "raison_sociale": "SERENIDE LES TILLEULS",
+    "numero voie": "",
+    "type_voie": "QUA",
+    "libelle_voie": "LES TOURETTES",
+    "bp": "",
+    "cp": "26310",
+    "VILLE": "LUC EN DIOIS    ",
+    "tel": "475213540",
+    "telecopie": "475824885",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "77947198600264",
+    "lng": "5.45171912008464",
+    "lat": "44.6181387321479"
+  },
+  {
+    "finess": "260019427",
+    "raison_sociale": "MARPA DE LUC EN DIOIS RES LE LUCQUET",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "LUCUS-AUGUSTI",
+    "bp": "",
+    "cp": "26310",
+    "VILLE": "LUC EN DIOIS    ",
+    "tel": "475214781",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "",
+    "lng": "5.45344265347757",
+    "lat": "44.6148273649944"
+  }
+]

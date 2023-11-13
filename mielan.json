@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "320002322",
+    "raison_sociale": "PHARMACIE LASSABE",
+    "numero voie": "17",
+    "type_voie": "PL",
+    "libelle_voie": "JEAN SENAC",
+    "bp": "",
+    "cp": "32170",
+    "VILLE": "MIELAN ",
+    "tel": "562675033",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50923041300023",
+    "lng": "0.30741150990006",
+    "lat": "43.4295390190665"
+  },
+  {
+    "finess": "320783301",
+    "raison_sociale": "RESIDENCE AUTONOMIE LAGRANGE",
+    "numero voie": "2",
+    "type_voie": "CHE",
+    "libelle_voie": "LAGRANGE",
+    "bp": "",
+    "cp": "32170",
+    "VILLE": "MIELAN ",
+    "tel": "562676320",
+    "telecopie": "562676133",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "20008520700039",
+    "lng": "0.308325255107962",
+    "lat": "43.4276704609019"
+  },
+  {
+    "finess": "320785231",
+    "raison_sociale": "CONSULTATIONS DE PMI",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "RITOURIE",
+    "bp": "",
+    "cp": "32170",
+    "VILLE": "MIELAN ",
+    "tel": "562676095",
+    "telecopie": "",
+    "categorie etablissement": "230",
+    "libelle categorie": "Etablissement Consultation Protection Infantile",
+    "siret": "22320001500442",
+    "lng": "0.306714174736515",
+    "lat": "43.4293695499627"
+  }
+]

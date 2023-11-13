@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "210006920",
+    "raison_sociale": "PHARMACIE LE VILLAGE",
+    "numero voie": "10",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "21910",
+    "VILLE": "SAULON LA CHAPELLE    ",
+    "tel": "380398176",
+    "telecopie": "372279183",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52847236800018",
+    "lng": "5.08941460186474",
+    "lat": "47.2142632396325"
+  },
+  {
+    "finess": "210013199",
+    "raison_sociale": "SERVICE DE SOINS SNCF",
+    "numero voie": "1",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "21910",
+    "VILLE": "SAULON LA CHAPELLE    ",
+    "tel": "380791550",
+    "telecopie": "",
+    "categorie etablissement": "636",
+    "libelle categorie": "Centre de soins et de prévention",
+    "siret": "55204944756735",
+    "lng": "5.089485309246",
+    "lat": "47.2167980135166"
+  }
+]

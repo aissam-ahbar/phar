@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "420010027",
+    "raison_sociale": "PHARMACIE MURAT",
+    "numero voie": "218",
+    "type_voie": "R",
+    "libelle_voie": "DE VERDUN",
+    "bp": "",
+    "cp": "42720",
+    "VILLE": "VOUGY ",
+    "tel": "477653487",
+    "telecopie": "477653793",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44284721600029",
+    "lng": "4.11765116353992",
+    "lat": "46.1018151731289"
+  },
+  {
+    "finess": "740011564",
+    "raison_sociale": "ACCUEIL DE JOUR LE JARDIN D'HIVER",
+    "numero voie": "245",
+    "type_voie": "R",
+    "libelle_voie": "MARIE CURIE",
+    "bp": "",
+    "cp": "74130",
+    "VILLE": "VOUGY ",
+    "tel": "450210478",
+    "telecopie": "",
+    "categorie etablissement": "207",
+    "libelle categorie": "Centre de Jour pour Personnes Agées",
+    "siret": "44258896800028",
+    "lng": "6.474501463786",
+    "lat": "46.0673814289362"
+  }
+]

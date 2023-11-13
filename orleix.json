@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "650003155",
+    "raison_sociale": "PHARMACIE D'ORLEIX",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DES MESANGES",
+    "bp": "",
+    "cp": "65800",
+    "VILLE": "ORLEIX ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "90418213600013",
+    "lng": "0.114138705111067",
+    "lat": "43.2771341433999"
+  },
+  {
+    "finess": "650788763",
+    "raison_sociale": "EHPAD RESIDENCE DU LAC A ORLEIX",
+    "numero voie": "11",
+    "type_voie": "CHE",
+    "libelle_voie": "DU ROY",
+    "bp": "",
+    "cp": "65800",
+    "VILLE": "ORLEIX ",
+    "tel": "562375286",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "38449306000022",
+    "lng": "0.10846185197281",
+    "lat": "43.2706686748643"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "510019425",
+    "raison_sociale": "PHARMACIE DES TROIS HAMEAUX",
+    "numero voie": "42",
+    "type_voie": "AV",
+    "libelle_voie": "DU 8 MAI",
+    "bp": "",
+    "cp": "51700",
+    "VILLE": "MAREUIL LE PORT    ",
+    "tel": "326583129",
+    "telecopie": "326581452",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88513302500019",
+    "lng": "3.76006813591125",
+    "lat": "49.0823821425213"
+  },
+  {
+    "finess": "510027501",
+    "raison_sociale": "ADMR DE LA VALLEE DU FLAGOT",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "DES ECOLES",
+    "bp": "PORT A BINSON",
+    "cp": "51700",
+    "VILLE": "MAREUIL LE PORT    ",
+    "tel": "326578584",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "39798449300056",
+    "lng": "3.75971377457708",
+    "lat": "49.0796841644074"
+  }
+]

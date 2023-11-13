@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "20001871",
+    "raison_sociale": "SESSAD APF ATHIES-SOUS-LAON",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DES ÉCOLES",
+    "bp": "",
+    "cp": "2840",
+    "VILLE": "ATHIES SOUS LAON    ",
+    "tel": "323794878",
+    "telecopie": "323794530",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "77568873207652",
+    "lng": "3.68320059252747",
+    "lat": "49.572885400567"
+  },
+  {
+    "finess": "20002077",
+    "raison_sociale": "SELAS PHARMACIE CHARLEMAGNE",
+    "numero voie": "64",
+    "type_voie": "R",
+    "libelle_voie": "DES ÉCOLES",
+    "bp": "",
+    "cp": "2840",
+    "VILLE": "ATHIES SOUS LAON    ",
+    "tel": "323245248",
+    "telecopie": "323807037",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50302874800021",
+    "lng": "3.68335975607887",
+    "lat": "49.5726957776372"
+  }
+]

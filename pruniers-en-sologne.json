@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "410003354",
+    "raison_sociale": "PHARMACIE JEANBLANC",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU LIEUTENANT COLONEL MAILF",
+    "bp": "",
+    "cp": "41200",
+    "VILLE": "PRUNIERS EN SOLOGNE    ",
+    "tel": "254882988",
+    "telecopie": "254882977",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44165519800014",
+    "lng": "1.67070613853189",
+    "lat": "47.3221771236427"
+  },
+  {
+    "finess": "410007637",
+    "raison_sociale": "RESIDENCE AUTONOMIE LES PRUNELLES",
+    "numero voie": "63",
+    "type_voie": "PL",
+    "libelle_voie": "MENDES FRANCE",
+    "bp": "",
+    "cp": "41200",
+    "VILLE": "PRUNIERS EN SOLOGNE    ",
+    "tel": "254969029",
+    "telecopie": "254969940",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26410320100028",
+    "lng": "1.67203347022154",
+    "lat": "47.3236526929975"
+  },
+  {
+    "finess": "410011019",
+    "raison_sociale": "CPTS SOLOGNE-VALLEE DU CHER",
+    "numero voie": "94",
+    "type_voie": "PL",
+    "libelle_voie": "DES ANCIENS COMBATTANTS",
+    "bp": "",
+    "cp": "41200",
+    "VILLE": "PRUNIERS EN SOLOGNE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "604",
+    "libelle categorie": "Communautés professionnelles territoriales de santé (CPTS)",
+    "siret": "",
+    "lng": "1.6717594558522",
+    "lat": "47.3219901980473"
+  }
+]

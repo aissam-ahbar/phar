@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "580000909",
+    "raison_sociale": "EHPAD LES LOGIS DU NIVERNAIS",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DES PETITS JARDINS",
+    "bp": "",
+    "cp": "58390",
+    "VILLE": "DORNES ",
+    "tel": "386506733",
+    "telecopie": "386506849",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77555968500430",
+    "lng": "3.35464505954221",
+    "lat": "46.7162220365103"
+  },
+  {
+    "finess": "580001840",
+    "raison_sociale": "PHARMACIE TROUART",
+    "numero voie": "6",
+    "type_voie": "RTE",
+    "libelle_voie": "DE MOULINS",
+    "bp": "",
+    "cp": "58390",
+    "VILLE": "DORNES ",
+    "tel": "386506144",
+    "telecopie": "386506536",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79385017300014",
+    "lng": "3.35276576204987",
+    "lat": "46.714710619459"
+  },
+  {
+    "finess": "580006823",
+    "raison_sociale": "HOM'ELO",
+    "numero voie": "71",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "58390",
+    "VILLE": "DORNES ",
+    "tel": "973533625",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "83033435500013",
+    "lng": "3.35189845848782",
+    "lat": "46.7150122205478"
+  }
+]

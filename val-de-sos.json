@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "90001439",
+    "raison_sociale": "EHPAD SAUZEIL",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE SUC",
+    "bp": "",
+    "cp": "9220",
+    "VILLE": "VAL DE SOS    ",
+    "tel": "534092600",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20007660200016",
+    "lng": "1.4932610195074",
+    "lat": "42.7705538274863"
+  },
+  {
+    "finess": "90002122",
+    "raison_sociale": "PHARMACIE MAS",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DU GRAVIER",
+    "bp": "",
+    "cp": "9220",
+    "VILLE": "VAL DE SOS    ",
+    "tel": "561648282",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39444930000018",
+    "lng": "1.49957558619834",
+    "lat": "42.7683284682836"
+  },
+  {
+    "finess": "90003260",
+    "raison_sociale": "MSP AVICENNE",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DE L'ESTALIÉ",
+    "bp": "",
+    "cp": "9220",
+    "VILLE": "VAL DE SOS    ",
+    "tel": "561012038",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "53257456300013",
+    "lng": "1.49450696834387",
+    "lat": "42.7713222743991"
+  }
+]

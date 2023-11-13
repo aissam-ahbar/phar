@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "220024764",
+    "raison_sociale": "LA PETITE MAISON D'ATHÉOL",
+    "numero voie": "2",
+    "type_voie": "",
+    "libelle_voie": "LE CHESNAY CHEL",
+    "bp": "",
+    "cp": "22980",
+    "VILLE": "LA LANDEC",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "",
+    "lng": "-2.18405946309458",
+    "lat": "48.4182087756046"
+  },
+  {
+    "finess": "220025076",
+    "raison_sociale": "LA MAISON ATHEOL",
+    "numero voie": "2",
+    "type_voie": "",
+    "libelle_voie": "LE CHESNAY CHEL",
+    "bp": "",
+    "cp": "22980",
+    "VILLE": "LA LANDEC",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "",
+    "lng": "-2.18405946309458",
+    "lat": "48.4182087756046"
+  }
+]

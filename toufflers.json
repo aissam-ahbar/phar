@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590030151",
+    "raison_sociale": "PHARMACIE DE TOUFFLERS",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DE ROUBAIX",
+    "bp": "",
+    "cp": "59390",
+    "VILLE": "TOUFFLERS ",
+    "tel": "320752791",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "43460606700016",
+    "lng": "3.22852258734999",
+    "lat": "50.6609859804639"
+  },
+  {
+    "finess": "590062162",
+    "raison_sociale": "MSP DE TOUFFLERS",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DES DÉPORTÉS",
+    "bp": "",
+    "cp": "59390",
+    "VILLE": "TOUFFLERS ",
+    "tel": "320451712",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "33921540200019",
+    "lng": "3.22992357071489",
+    "lat": "50.6613917097079"
+  }
+]

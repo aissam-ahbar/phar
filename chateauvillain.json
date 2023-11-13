@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "520001082",
+    "raison_sociale": "SELARL PHARMACIE DU MAIL",
+    "numero voie": "20",
+    "type_voie": "R",
+    "libelle_voie": "DE PENTHIEVRE",
+    "bp": "",
+    "cp": "52120",
+    "VILLE": "CHATEAUVILLAIN ",
+    "tel": "325329006",
+    "telecopie": "325025151",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49249326700016",
+    "lng": "4.918655173506",
+    "lat": "48.0369035774634"
+  },
+  {
+    "finess": "520780420",
+    "raison_sociale": "EHPAD LE MAIL",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "SOEUR HELENE",
+    "bp": "BP 16",
+    "cp": "52120",
+    "VILLE": "CHATEAUVILLAIN ",
+    "tel": "325329511",
+    "telecopie": "325035646",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26520003000012",
+    "lng": "4.91957040725901",
+    "lat": "48.0350118307895"
+  }
+]

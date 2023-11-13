@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "390003390",
+    "raison_sociale": "PHARMACIE CHAPPEZ",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DU LAVOIR",
+    "bp": "",
+    "cp": "39360",
+    "VILLE": "CHASSAL MOLINGES",
+    "tel": "384424246",
+    "telecopie": "384424722",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "47917049000011",
+    "lng": "5.76546649893594",
+    "lat": "46.3567835177871"
+  },
+  {
+    "finess": "390004463",
+    "raison_sociale": "EHPAD CANTOU VALLEE DE BIENNE MOLINGES",
+    "numero voie": "7",
+    "type_voie": "LOT",
+    "libelle_voie": "A CROZAT",
+    "bp": "",
+    "cp": "39360",
+    "VILLE": "CHASSAL MOLINGES",
+    "tel": "384425370",
+    "telecopie": "384410923",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "25390190400040",
+    "lng": "5.76457565728576",
+    "lat": "46.353682185305"
+  }
+]

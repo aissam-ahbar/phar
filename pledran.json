@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "220011084",
+    "raison_sociale": "PHARMACIE PRINCIPALE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "22960",
+    "VILLE": "PLEDRAN ",
+    "tel": "296422068",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "41757124700028",
+    "lng": "-2.74588915950468",
+    "lat": "48.4460401598973"
+  },
+  {
+    "finess": "220011092",
+    "raison_sociale": "PHARMACIE HERVE",
+    "numero voie": "17",
+    "type_voie": "R",
+    "libelle_voie": "CHARLES DE GAULLE",
+    "bp": "",
+    "cp": "22960",
+    "VILLE": "PLEDRAN ",
+    "tel": "296643271",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "41757123900017",
+    "lng": "-2.7452589857103",
+    "lat": "48.4467481336935"
+  },
+  {
+    "finess": "220013957",
+    "raison_sociale": "EHPAD BEL ORIENT",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "BEL ORIENT",
+    "bp": "",
+    "cp": "22960",
+    "VILLE": "PLEDRAN ",
+    "tel": "296643376",
+    "telecopie": "296424593",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26220077700023",
+    "lng": "-2.7431386478294",
+    "lat": "48.4447690828975"
+  }
+]

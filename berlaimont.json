@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "590009148",
+    "raison_sociale": "CLINIQUE ROBERT SCHUMAN",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DU VERT DRAGON",
+    "bp": "",
+    "cp": "59145",
+    "VILLE": "BERLAIMONT ",
+    "tel": "327567800",
+    "telecopie": "",
+    "categorie etablissement": "430",
+    "libelle categorie": "Centre Postcure Malades Mentaux",
+    "siret": "56980080800085",
+    "lng": "3.81370155464438",
+    "lat": "50.2083458215647"
+  },
+  {
+    "finess": "590011250",
+    "raison_sociale": "PHARMACIE DE MORMAL",
+    "numero voie": "5",
+    "type_voie": "PL",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "59145",
+    "VILLE": "BERLAIMONT ",
+    "tel": "327672842",
+    "telecopie": "177352561",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49275563200014",
+    "lng": "3.81547417329041",
+    "lat": "50.2018073088099"
+  },
+  {
+    "finess": "590038568",
+    "raison_sociale": "EHPAD ORPEA BERLAIMONT",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DU PUITS",
+    "bp": "",
+    "cp": "59145",
+    "VILLE": "BERLAIMONT ",
+    "tel": "327533940",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "40125156601517",
+    "lng": "3.80831051781549",
+    "lat": "50.2030202143666"
+  }
+]

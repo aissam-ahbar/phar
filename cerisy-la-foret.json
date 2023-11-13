@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "500010699",
+    "raison_sociale": "PHARMACIE DE CERISY LA FORET",
+    "numero voie": "32",
+    "type_voie": "PL",
+    "libelle_voie": "DU MARCHE",
+    "bp": "",
+    "cp": "50680",
+    "VILLE": "CERISY LA FORET    ",
+    "tel": "233561011",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44314902600017",
+    "lng": "-0.936752845807771",
+    "lat": "49.1934701963095"
+  },
+  {
+    "finess": "500016621",
+    "raison_sociale": "EHPAD \"L'ABBAYE\"-CERISY LA FORET",
+    "numero voie": "13",
+    "type_voie": "AV",
+    "libelle_voie": "II DIVISI INFAN INDIAN HEAD",
+    "bp": "",
+    "cp": "50680",
+    "VILLE": "CERISY LA FORET    ",
+    "tel": "233561336",
+    "telecopie": "233561493",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "43997564000095",
+    "lng": "-0.936789094757504",
+    "lat": "49.1938380724738"
+  }
+]

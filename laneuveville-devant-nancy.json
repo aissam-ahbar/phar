@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "540004942",
+    "raison_sociale": "RESIDENCE LA MARRAINE",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DES AULNOIS",
+    "bp": "",
+    "cp": "54410",
+    "VILLE": "LANEUVEVILLE DEVANT NANCY    ",
+    "tel": "383518124",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26540082000022",
+    "lng": "6.22535574735737",
+    "lat": "48.6543041097238"
+  },
+  {
+    "finess": "540013067",
+    "raison_sociale": "PHARMACIE DE LA MARINE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "LUCIEN GALTIER",
+    "bp": "",
+    "cp": "54410",
+    "VILLE": "LANEUVEVILLE DEVANT NANCY    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51326411900027",
+    "lng": "6.2251257377502",
+    "lat": "48.6614131288812"
+  },
+  {
+    "finess": "540013182",
+    "raison_sociale": "PHARMACIE DU CENTRE",
+    "numero voie": "37",
+    "type_voie": "R",
+    "libelle_voie": "PATTON",
+    "bp": "",
+    "cp": "54410",
+    "VILLE": "LANEUVEVILLE DEVANT NANCY    ",
+    "tel": "383532100",
+    "telecopie": "383566369",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51350032200013",
+    "lng": "6.23158738212938",
+    "lat": "48.6560914118379"
+  }
+]

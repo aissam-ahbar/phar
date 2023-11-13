@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "590029286",
+    "raison_sociale": "PHARMACIE DEBURGE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DÉPARTEMENTALE 50",
+    "bp": "",
+    "cp": "59990",
+    "VILLE": "SEBOURG ",
+    "tel": "327265298",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82290827300029",
+    "lng": "3.63838120693282",
+    "lat": "50.3514874010792"
+  },
+  {
+    "finess": "590045340",
+    "raison_sociale": "EHPAD DE SEBOURG",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA BERGERE",
+    "bp": "",
+    "cp": "59990",
+    "VILLE": "SEBOURG ",
+    "tel": "327271062",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "",
+    "lng": "3.64225329734997",
+    "lat": "50.3424836812014"
+  },
+  {
+    "finess": "590792081",
+    "raison_sociale": "MECS SAINTE ANNE",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DES CENSES D'EN HAUT",
+    "bp": "BP 12",
+    "cp": "59990",
+    "VILLE": "SEBOURG ",
+    "tel": "327283770",
+    "telecopie": "327265171",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "78371464500380",
+    "lng": "3.64366451126026",
+    "lat": "50.3441220478491"
+  }
+]

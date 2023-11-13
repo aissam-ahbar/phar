@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "560012288",
+    "raison_sociale": "RESIDENCE KANDELYS",
+    "numero voie": "14",
+    "type_voie": "R",
+    "libelle_voie": "ST NICOLAS",
+    "bp": "",
+    "cp": "56690",
+    "VILLE": "LANDEVANT ",
+    "tel": "297569999",
+    "telecopie": "297599104",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "35266190400065",
+    "lng": "-3.12559076839167",
+    "lat": "47.7622803838816"
+  },
+  {
+    "finess": "560017527",
+    "raison_sociale": "SARL LA PHARMACIE DE LANDEVANT",
+    "numero voie": "21",
+    "type_voie": "R",
+    "libelle_voie": "DE L EGLISE",
+    "bp": "",
+    "cp": "56690",
+    "VILLE": "LANDEVANT ",
+    "tel": "297569162",
+    "telecopie": "297569867",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50106879500019",
+    "lng": "-3.12151460371926",
+    "lat": "47.7619730624069"
+  },
+  {
+    "finess": "560024986",
+    "raison_sociale": "RESIDENCE KERELYS",
+    "numero voie": "20",
+    "type_voie": "R",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "56690",
+    "VILLE": "LANDEVANT ",
+    "tel": "297591100",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "45320400000138",
+    "lng": "-3.1257406508643",
+    "lat": "47.7609093707617"
+  }
+]

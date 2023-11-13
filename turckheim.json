@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "680004249",
+    "raison_sociale": "MAS TURCKHEIM",
+    "numero voie": "7",
+    "type_voie": "RTE",
+    "libelle_voie": "D'INGERSHEIM",
+    "bp": "",
+    "cp": "68230",
+    "VILLE": "TURCKHEIM ",
+    "tel": "389279325",
+    "telecopie": "389671350",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "77564261400066",
+    "lng": "7.28761992923006",
+    "lat": "48.0872014675199"
+  },
+  {
+    "finess": "680011434",
+    "raison_sociale": "EHPAD DU BRAND",
+    "numero voie": "1",
+    "type_voie": "IMP",
+    "libelle_voie": "ROESCH",
+    "bp": "",
+    "cp": "68230",
+    "VILLE": "TURCKHEIM ",
+    "tel": "389277500",
+    "telecopie": "389809036",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26680026700020",
+    "lng": "7.27757943507087",
+    "lat": "48.0880848600232"
+  },
+  {
+    "finess": "680015666",
+    "raison_sociale": "PHARMACIE PIMBEL",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DU FLORIMONT",
+    "bp": "",
+    "cp": "68230",
+    "VILLE": "TURCKHEIM ",
+    "tel": "389270615",
+    "telecopie": "389275148",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44279850000017",
+    "lng": "7.28058583724093",
+    "lat": "48.0872735743591"
+  }
+]

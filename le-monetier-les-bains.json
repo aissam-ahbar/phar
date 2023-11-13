@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "50003177",
+    "raison_sociale": "PHARMACIE SERRE CHEVALIER 1500",
+    "numero voie": "55",
+    "type_voie": "IMP",
+    "libelle_voie": "de la Benoite",
+    "bp": "",
+    "cp": "5220",
+    "VILLE": "LE MONETIER LES BAINS   ",
+    "tel": "492244470",
+    "telecopie": "492245331",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34490946000018",
+    "lng": "6.51045587063866",
+    "lat": "44.9761580454848"
+  },
+  {
+    "finess": "50007848",
+    "raison_sociale": "CDS MEDICAL DE MONETIER LES BAINS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "PRE CHABERT",
+    "bp": "",
+    "cp": "5220",
+    "VILLE": "LE MONETIER LES BAINS   ",
+    "tel": "492244254",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "",
+    "lng": "6.50811137642551",
+    "lat": "44.9719736096353"
+  },
+  {
+    "finess": "50008275",
+    "raison_sociale": "SAAD CCAS MONETIER-LES-BAINS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "HOTEL DE VILLE",
+    "bp": "",
+    "cp": "5220",
+    "VILLE": "LE MONETIER LES BAINS   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26050089700012",
+    "lng": "6.50783321764248",
+    "lat": "44.976249839881"
+  }
+]

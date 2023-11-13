@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "630006617",
+    "raison_sociale": "PHARMACIE LEGRAND",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA FONTAINE",
+    "bp": "",
+    "cp": "63680",
+    "VILLE": "LA TOUR D AUVERGNE   ",
+    "tel": "473215102",
+    "telecopie": "473215665",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80496087000017",
+    "lng": "2.6907773876464",
+    "lat": "45.5331814483676"
+  },
+  {
+    "finess": "630784858",
+    "raison_sociale": "EHPAD \"LE GRAND MEGNAUD\"",
+    "numero voie": "18",
+    "type_voie": "R",
+    "libelle_voie": "DU MONT DORE",
+    "bp": "",
+    "cp": "63680",
+    "VILLE": "LA TOUR D AUVERGNE   ",
+    "tel": "473215217",
+    "telecopie": "473215764",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26630796600017",
+    "lng": "2.6937224206302",
+    "lat": "45.5346753033314"
+  }
+]

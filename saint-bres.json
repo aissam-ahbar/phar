@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "340023738",
+    "raison_sociale": "AMEDIS",
+    "numero voie": "510",
+    "type_voie": "AV",
+    "libelle_voie": "DE NIMES",
+    "bp": "",
+    "cp": "34670",
+    "VILLE": "ST BRES",
+    "tel": "616026235",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "50049542900010",
+    "lng": "4.0377132786307",
+    "lat": "43.6655788262697"
+  },
+  {
+    "finess": "340795277",
+    "raison_sociale": "SARL PHARMACIE DE SAINT-BRES",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "du Versant",
+    "bp": "",
+    "cp": "34670",
+    "VILLE": "ST BRES",
+    "tel": "467702655",
+    "telecopie": "467873367",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53309336500021",
+    "lng": "4.03622247371585",
+    "lat": "43.6647813465173"
+  }
+]

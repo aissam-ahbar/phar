@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "600102073",
+    "raison_sociale": "EHPAD COMPASSION DOMFRONT",
+    "numero voie": "",
+    "type_voie": "ALL",
+    "libelle_voie": "JEAN DU PUY",
+    "bp": "",
+    "cp": "60420",
+    "VILLE": "DOMFRONT ",
+    "tel": "344515253",
+    "telecopie": "344515252",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "38286437900039",
+    "lng": "2.55744064119267",
+    "lat": "49.602732204729"
+  },
+  {
+    "finess": "600102289",
+    "raison_sociale": "M E C S LOUISE D ORIGNY",
+    "numero voie": "1",
+    "type_voie": "ALL",
+    "libelle_voie": "LOUISE D ORIGNY",
+    "bp": "",
+    "cp": "60420",
+    "VILLE": "DOMFRONT ",
+    "tel": "344510698",
+    "telecopie": "344510068",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "39434217400080",
+    "lng": "2.55638720945333",
+    "lat": "49.6009499305057"
+  }
+]

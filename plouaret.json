@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "220004360",
+    "raison_sociale": "EHPAD MELCHONNEC",
+    "numero voie": "250",
+    "type_voie": "R",
+    "libelle_voie": "DU FOYER",
+    "bp": "",
+    "cp": "22420",
+    "VILLE": "PLOUARET ",
+    "tel": "296389492",
+    "telecopie": "296389601",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26220039700020",
+    "lng": "-3.47040192220695",
+    "lat": "48.6134454981315"
+  },
+  {
+    "finess": "220011746",
+    "raison_sociale": "SELARL \"\"PHARMACIE DE L'EGLISE\"\"",
+    "numero voie": "2",
+    "type_voie": "PL",
+    "libelle_voie": "DE L EGLISE",
+    "bp": "",
+    "cp": "22420",
+    "VILLE": "PLOUARET ",
+    "tel": "296389014",
+    "telecopie": "296389289",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "47961707800023",
+    "lng": "-3.47280876181895",
+    "lat": "48.6114930771769"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "440016996",
+    "raison_sociale": "PHARMACIE PRIN",
+    "numero voie": "30",
+    "type_voie": "AV",
+    "libelle_voie": "JEAN BUREL",
+    "bp": "",
+    "cp": "44460",
+    "VILLE": "ST NICOLAS DE REDON   ",
+    "tel": "299714355",
+    "telecopie": "299714889",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83082587300011",
+    "lng": "-2.07991752688366",
+    "lat": "47.646960967068"
+  },
+  {
+    "finess": "440061026",
+    "raison_sociale": "LDVA ORCAS",
+    "numero voie": "35",
+    "type_voie": "LD",
+    "libelle_voie": "LA JOSTAIS",
+    "bp": "",
+    "cp": "44460",
+    "VILLE": "ST NICOLAS DE REDON   ",
+    "tel": "299718131",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "92308792800027",
+    "lng": "-2.06827762811551",
+    "lat": "47.6442417326959"
+  }
+]

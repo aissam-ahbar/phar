@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "170015325",
+    "raison_sociale": "PHARMACIE VINCENT",
+    "numero voie": "23",
+    "type_voie": "RTE",
+    "libelle_voie": "DE ROCHEFORT",
+    "bp": "",
+    "cp": "17200",
+    "VILLE": "ST SULPICE DE ROYAN   ",
+    "tel": "546398881",
+    "telecopie": "546229860",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88263691300015",
+    "lng": "-1.01066757177781",
+    "lat": "45.6721650639108"
+  },
+  {
+    "finess": "170021653",
+    "raison_sociale": "EHPAD RESIDENCE LES ALOES",
+    "numero voie": "11",
+    "type_voie": "RTE",
+    "libelle_voie": "DE SAINT PALAIS",
+    "bp": "",
+    "cp": "17200",
+    "VILLE": "ST SULPICE DE ROYAN   ",
+    "tel": "546396700",
+    "telecopie": "546396701",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "40125156601608",
+    "lng": "-1.01341567962293",
+    "lat": "45.6723556174804"
+  }
+]

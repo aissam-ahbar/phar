@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "540010485",
+    "raison_sociale": "PHARMACIE DENRY",
+    "numero voie": "112",
+    "type_voie": "R",
+    "libelle_voie": "de la Bergerie",
+    "bp": "",
+    "cp": "54840",
+    "VILLE": "GONDREVILLE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48813199600016",
+    "lng": "5.9676550065997",
+    "lat": "48.6927319103039"
+  },
+  {
+    "finess": "540024361",
+    "raison_sociale": "LINDE HOMECARE FRANCE",
+    "numero voie": "",
+    "type_voie": "PARC",
+    "libelle_voie": "CLUB DU BOIS DU TAMBOUR",
+    "bp": "",
+    "cp": "54840",
+    "VILLE": "GONDREVILLE ",
+    "tel": "810161016",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "39790843500217",
+    "lng": "6.00445904216414",
+    "lat": "48.6917164393447"
+  }
+]

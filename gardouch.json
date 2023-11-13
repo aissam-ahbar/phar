@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "310026646",
+    "raison_sociale": "MSP DE GARDOUCH",
+    "numero voie": "1",
+    "type_voie": "ESPA",
+    "libelle_voie": "FRANCOIS MITTERRAND",
+    "bp": "",
+    "cp": "31290",
+    "VILLE": "GARDOUCH ",
+    "tel": "561178700",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "83047455700014",
+    "lng": "1.68480350203799",
+    "lat": "43.3901125718895"
+  },
+  {
+    "finess": "310032677",
+    "raison_sociale": "CPTS DU LAURAGAIS",
+    "numero voie": "1",
+    "type_voie": "ESP",
+    "libelle_voie": "FRANCOIS MITTERRAND",
+    "bp": "",
+    "cp": "31290",
+    "VILLE": "GARDOUCH ",
+    "tel": "750549739",
+    "telecopie": "",
+    "categorie etablissement": "604",
+    "libelle categorie": "Communautés professionnelles territoriales de santé (CPTS)",
+    "siret": "85169042000019",
+    "lng": "1.68480350203799",
+    "lat": "43.3901125718895"
+  },
+  {
+    "finess": "310787171",
+    "raison_sociale": "SAAD ASSOCIATION FAMILIALE RURALE",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "31290",
+    "VILLE": "GARDOUCH ",
+    "tel": "561816097",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "77680374400015",
+    "lng": "1.68315306027068",
+    "lat": "43.3920944620124"
+  }
+]

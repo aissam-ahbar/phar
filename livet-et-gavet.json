@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380007682",
+    "raison_sociale": "PHARMACIE LATURAZE",
+    "numero voie": "17",
+    "type_voie": "RTE",
+    "libelle_voie": "DES ALPES RIOUPEROUX",
+    "bp": "",
+    "cp": "38220",
+    "VILLE": "LIVET ET GAVET    ",
+    "tel": "476684025",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40391552300019",
+    "lng": "5.90271091709758",
+    "lat": "45.0928729384668"
+  },
+  {
+    "finess": "380789727",
+    "raison_sociale": "CENTRE DE SANTE LIVET-ET-GAVET",
+    "numero voie": "58",
+    "type_voie": "RTE",
+    "libelle_voie": "DES ALPES",
+    "bp": "",
+    "cp": "38220",
+    "VILLE": "LIVET ET GAVET    ",
+    "tel": "476684211",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "21380212700067",
+    "lng": "5.90299105809483",
+    "lat": "45.0913843873345"
+  }
+]

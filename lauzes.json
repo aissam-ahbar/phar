@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "460004674",
+    "raison_sociale": "MARPA DR JUBIN",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAS DEL FOUR",
+    "bp": "",
+    "cp": "46360",
+    "VILLE": "LAUZES ",
+    "tel": "565242060",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "90924291900035",
+    "lng": "1.57396072724439",
+    "lat": "44.5722938481213"
+  },
+  {
+    "finess": "460006968",
+    "raison_sociale": "LIEU DE VIE ET D'ACCUEIL ALTER EGO",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "46360",
+    "VILLE": "LAUZES ",
+    "tel": "565319921",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "49429227900010",
+    "lng": "1.57975351762427",
+    "lat": "44.5696015919545"
+  }
+]

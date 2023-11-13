@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "570021212",
+    "raison_sociale": "PHARMACIE DE VERNY",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU FORT",
+    "bp": "",
+    "cp": "57420",
+    "VILLE": "VERNY ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45176027600027",
+    "lng": "6.20448197881368",
+    "lat": "49.0119100019973"
+  },
+  {
+    "finess": "570027078",
+    "raison_sociale": "LBM BIO AVENIR VERNY",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "57420",
+    "VILLE": "VERNY ",
+    "tel": "387574769",
+    "telecopie": "",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "31065638400032",
+    "lng": "6.205420619987",
+    "lat": "49.006439418094"
+  },
+  {
+    "finess": "570030593",
+    "raison_sociale": "MSP DE VERNY",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "57420",
+    "VILLE": "VERNY ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "87798834500014",
+    "lng": "6.20585531986268",
+    "lat": "49.0072098476248"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "350020483",
+    "raison_sociale": "PHARMACIE DE PLERGUER",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DE LA LIBERATION",
+    "bp": "",
+    "cp": "35540",
+    "VILLE": "PLERGUER ",
+    "tel": "299589105",
+    "telecopie": "299581139",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79907457000018",
+    "lng": "-1.84847628921211",
+    "lat": "48.5266482703856"
+  },
+  {
+    "finess": "350043493",
+    "raison_sociale": "SAAD ADMR PLERGUER",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DE LA CROIX DU FRESNE",
+    "bp": "",
+    "cp": "35540",
+    "VILLE": "PLERGUER ",
+    "tel": "299581497",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "33131115900023",
+    "lng": "-1.84731522119454",
+    "lat": "48.521520574043"
+  }
+]

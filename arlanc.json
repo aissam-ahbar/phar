@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "630002756",
+    "raison_sociale": "PHARMACIE  BASTIDE",
+    "numero voie": "69",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "63220",
+    "VILLE": "ARLANC ",
+    "tel": "473950053",
+    "telecopie": "473950648",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "85005715900012",
+    "lng": "3.72492625429121",
+    "lat": "45.4126523656204"
+  },
+  {
+    "finess": "630014181",
+    "raison_sociale": "ADMR ABCD",
+    "numero voie": "41",
+    "type_voie": "RTE",
+    "libelle_voie": "DE BEURIÈRES",
+    "bp": "",
+    "cp": "63220",
+    "VILLE": "ARLANC ",
+    "tel": "473726923",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31622609100049",
+    "lng": "3.7264532705288",
+    "lat": "45.4110242939075"
+  },
+  {
+    "finess": "630781458",
+    "raison_sociale": "EHPAD D'ARLANC",
+    "numero voie": "13",
+    "type_voie": "PL",
+    "libelle_voie": "L'OUCHE",
+    "bp": "",
+    "cp": "63220",
+    "VILLE": "ARLANC ",
+    "tel": "473958888",
+    "telecopie": "473951691",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26630775000015",
+    "lng": "3.7252001167841",
+    "lat": "45.4193394645484"
+  }
+]

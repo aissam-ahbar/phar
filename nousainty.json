@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "640015954",
+    "raison_sociale": "LBM INOVIE BIOPYRENEES - NOUSTY BEARN",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE BEARN-BIGORRE",
+    "bp": "",
+    "cp": "64420",
+    "VILLE": "NOUSTY ",
+    "tel": "559279052",
+    "telecopie": "559279053",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "30057233600075",
+    "lng": "-0.209728333488941",
+    "lat": "43.2673588507325"
+  },
+  {
+    "finess": "640019022",
+    "raison_sociale": "AVAD",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE LA ZONE ARTISANALE",
+    "bp": "",
+    "cp": "64420",
+    "VILLE": "NOUSTY ",
+    "tel": "559160940",
+    "telecopie": "559190949",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "51909385000021",
+    "lng": "-0.213695398333812",
+    "lat": "43.2743909856623"
+  }
+]

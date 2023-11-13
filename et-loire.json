@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "370002636",
+    "raison_sociale": "CTRE NUNICIPAL DE SANTE P",
+    "numero voie": "",
+    "type_voie": "12",
+    "libelle_voie": "R",
+    "bp": "",
+    "cp": "INDRE",
+    "VILLE": "ET LOIRE",
+    "tel": "37700 ST PIERRE DES CORPS",
+    "telecopie": "247634360",
+    "categorie etablissement": "247630120",
+    "libelle categorie": "124",
+    "siret": "Centres de Santé",
+    "lng": "0.722480741078043",
+    "lat": "47.3898447960013"
+  },
+  {
+    "finess": "490019940",
+    "raison_sociale": "MAISON DE SANTE THAU EVRE ET LOIRE",
+    "numero voie": "",
+    "type_voie": "ZONE",
+    "libelle_voie": "ANJOU ACTIPARC",
+    "bp": "",
+    "cp": "MAINE",
+    "VILLE": "ET LOIRE",
+    "tel": "49410 MAUGES SUR LOIRE",
+    "telecopie": "",
+    "categorie etablissement": "",
+    "libelle categorie": "603",
+    "siret": "Autres structures d'exercice libéral",
+    "lng": "-0.997078637707271",
+    "lat": "47.3290966107014"
+  }
+]

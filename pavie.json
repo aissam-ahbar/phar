@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "320002587",
+    "raison_sociale": "PHARMACIE DES MOUSQUETAIRES",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DES CARMES",
+    "bp": "",
+    "cp": "32550",
+    "VILLE": "PAVIE ",
+    "tel": "562052052",
+    "telecopie": "562075253",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "78648739700022",
+    "lng": "0.590671782011126",
+    "lat": "43.6103618952279"
+  },
+  {
+    "finess": "320784515",
+    "raison_sociale": "AAIR UAD UDM DD PAVIE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DU JUNQUET",
+    "bp": "",
+    "cp": "32550",
+    "VILLE": "PAVIE ",
+    "tel": "561161100",
+    "telecopie": "561161111",
+    "categorie etablissement": "146",
+    "libelle categorie": "Structure d'Alternative à la dialyse en centre",
+    "siret": "77695216000484",
+    "lng": "0.582318547103411",
+    "lat": "43.6104049702201"
+  }
+]

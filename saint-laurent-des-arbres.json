@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "300009552",
+    "raison_sociale": "SELARL PHARMACIE SAINT LAURENT",
+    "numero voie": "",
+    "type_voie": "ZAC",
+    "libelle_voie": "DE TESAN",
+    "bp": "",
+    "cp": "30126",
+    "VILLE": "ST LAURENT DES ARBRES   ",
+    "tel": "466500110",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49265030400024",
+    "lng": "4.71240171301323",
+    "lat": "44.0590845735365"
+  },
+  {
+    "finess": "300784113",
+    "raison_sociale": "ESAT VERONIQUE",
+    "numero voie": "107",
+    "type_voie": "IMP",
+    "libelle_voie": "ERIC JAULMES",
+    "bp": "",
+    "cp": "30126",
+    "VILLE": "ST LAURENT DES ARBRES   ",
+    "tel": "466899246",
+    "telecopie": "466892451",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77591588700340",
+    "lng": "4.69994073316568",
+    "lat": "44.0548289363026"
+  }
+]

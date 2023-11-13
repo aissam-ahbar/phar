@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "690036942",
+    "raison_sociale": "LES JARDINS DES VERCHERES",
+    "numero voie": "11",
+    "type_voie": "ALL",
+    "libelle_voie": "DES MARAÎCHERS",
+    "bp": "",
+    "cp": "69580",
+    "VILLE": "SATHONAY VILLAGE",
+    "tel": "437647300",
+    "telecopie": "",
+    "categorie etablissement": "502",
+    "libelle categorie": "EHPA ne percevant pas des crédits d'assurance maladie",
+    "siret": "51912093500027",
+    "lng": "4.88022221012871",
+    "lat": "45.8353995437133"
+  },
+  {
+    "finess": "690782727",
+    "raison_sociale": "MAISON D'ENFANTS DES ARMEES",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "SAINT-MAURICE",
+    "bp": "BP 15",
+    "cp": "69580",
+    "VILLE": "SATHONAY VILLAGE",
+    "tel": "478221532",
+    "telecopie": "472278052",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "18009006001003",
+    "lng": "4.88016743399741",
+    "lat": "45.83053912603"
+  }
+]

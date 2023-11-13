@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "290013465",
+    "raison_sociale": "PHARMACIE DE CLOHARS",
+    "numero voie": "4",
+    "type_voie": "PL",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "29360",
+    "VILLE": "CLOHARS CARNOET",
+    "tel": "298715543",
+    "telecopie": "298716065",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44463006500019",
+    "lng": "-3.58544432560545",
+    "lat": "47.7957240823854"
+  },
+  {
+    "finess": "290018571",
+    "raison_sociale": "FOYER LOGEMENT AMZER-ZO",
+    "numero voie": "7",
+    "type_voie": "RTE",
+    "libelle_voie": "DE MOELAN",
+    "bp": "",
+    "cp": "29360",
+    "VILLE": "CLOHARS CARNOET",
+    "tel": "298715938",
+    "telecopie": "298715639",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "39144758800164",
+    "lng": "-3.58761031344524",
+    "lat": "47.7972358781923"
+  },
+  {
+    "finess": "290026616",
+    "raison_sociale": "SAAD ADMR CLOHARS-CARNOET",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "PIERRE JACOB",
+    "bp": "",
+    "cp": "29360",
+    "VILLE": "CLOHARS CARNOET",
+    "tel": "298716619",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31868473500026",
+    "lng": "-3.58490439694327",
+    "lat": "47.7958556475156"
+  }
+]

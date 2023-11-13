@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "260017116",
+    "raison_sociale": "PHARMACIE DE MONTBOUCHER",
+    "numero voie": "20",
+    "type_voie": "RTE",
+    "libelle_voie": "D'ALLAN",
+    "bp": "",
+    "cp": "26740",
+    "VILLE": "MONTBOUCHER SUR JABRON    ",
+    "tel": "475000994",
+    "telecopie": "475518563",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "42424630400010",
+    "lng": "4.80638367800645",
+    "lat": "44.5473715494242"
+  },
+  {
+    "finess": "260021449",
+    "raison_sociale": "SAAD CONFIEZ NOUS",
+    "numero voie": "45",
+    "type_voie": "R",
+    "libelle_voie": "HENRI LACROIX",
+    "bp": "ZA FONTGRAVE",
+    "cp": "26740",
+    "VILLE": "MONTBOUCHER SUR JABRON    ",
+    "tel": "475548274",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "84314430400022",
+    "lng": "4.79361265781382",
+    "lat": "44.5480786285333"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "220006688",
+    "raison_sociale": "EHPAD BELLE ISLE EN TERRE",
+    "numero voie": "5",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "22810",
+    "VILLE": "BELLE ISLE EN TERRE   ",
+    "tel": "296430016",
+    "telecopie": "296430500",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26220058700034",
+    "lng": "-3.3972141944714",
+    "lat": "48.5451510547561"
+  },
+  {
+    "finess": "220010888",
+    "raison_sociale": "PHARMACIE CORNANGUER",
+    "numero voie": "8",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "22810",
+    "VILLE": "BELLE ISLE EN TERRE   ",
+    "tel": "296433015",
+    "telecopie": "296430915",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34059323500021",
+    "lng": "-3.39571945154704",
+    "lat": "48.5450989586612"
+  },
+  {
+    "finess": "220020309",
+    "raison_sociale": "RESIDENCE ACCUEIL  BELLE-ISLE-EN-TERRE",
+    "numero voie": "17",
+    "type_voie": "RES",
+    "libelle_voie": "LE MOULIN DE LA VILLE",
+    "bp": "",
+    "cp": "22810",
+    "VILLE": "BELLE ISLE EN TERRE   ",
+    "tel": "293430617",
+    "telecopie": "",
+    "categorie etablissement": "258",
+    "libelle categorie": "Maisons Relais - Pensions de Famille",
+    "siret": "77746135100036",
+    "lng": "-3.39558790697876",
+    "lat": "48.5436782641583"
+  }
+]

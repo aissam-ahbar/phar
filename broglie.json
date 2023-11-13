@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "270010929",
+    "raison_sociale": "SAD CCAS DE BROGLIE",
+    "numero voie": "27",
+    "type_voie": "PL",
+    "libelle_voie": "DES TROIS MARECHAUX",
+    "bp": "",
+    "cp": "27270",
+    "VILLE": "BROGLIE ",
+    "tel": "232446058",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26270057800020",
+    "lng": "0.528334755258682",
+    "lat": "49.0090923861313"
+  },
+  {
+    "finess": "270019243",
+    "raison_sociale": "PHARMACIE DE BROGLIE",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "DES CANADIENS",
+    "bp": "",
+    "cp": "27270",
+    "VILLE": "BROGLIE ",
+    "tel": "232446062",
+    "telecopie": "232436665",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53045986600014",
+    "lng": "0.528875186185225",
+    "lat": "49.0085124568026"
+  }
+]

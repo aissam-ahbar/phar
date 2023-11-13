@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "700002330",
+    "raison_sociale": "PHARMACIE GROSJEAN",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "CHENEVIERES",
+    "bp": "",
+    "cp": "70230",
+    "VILLE": "MONTBOZON ",
+    "tel": "384923228",
+    "telecopie": "384923581",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44126263100019",
+    "lng": "6.25735298319804",
+    "lat": "47.4667940960191"
+  },
+  {
+    "finess": "700005788",
+    "raison_sociale": "CENTRE DE SANTE MEDICAL ADMR",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DES CHENEVIERES",
+    "bp": "",
+    "cp": "70230",
+    "VILLE": "MONTBOZON ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "31801060000068",
+    "lng": "6.25802968509273",
+    "lat": "47.4667138900265"
+  },
+  {
+    "finess": "700784556",
+    "raison_sociale": "SAAD ADMR 70 MONTBOZON",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE LOULANS",
+    "bp": "",
+    "cp": "70230",
+    "VILLE": "MONTBOZON ",
+    "tel": "384923373",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31107976800025",
+    "lng": "6.25861112296898",
+    "lat": "47.466509314774"
+  }
+]

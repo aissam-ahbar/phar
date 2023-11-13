@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "230003063",
+    "raison_sociale": "PHARMACIE DE FURSAC",
+    "numero voie": "13",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "23290",
+    "VILLE": "FURSAC ",
+    "tel": "555636036",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40770450100011",
+    "lng": "1.51296388281536",
+    "lat": "46.1471437823391"
+  },
+  {
+    "finess": "230781692",
+    "raison_sociale": "EHPAD LES NADAUDS",
+    "numero voie": "23",
+    "type_voie": "",
+    "libelle_voie": "LES NADAUDS",
+    "bp": "",
+    "cp": "23290",
+    "VILLE": "FURSAC ",
+    "tel": "555636261",
+    "telecopie": "555636914",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20006549800020",
+    "lng": "1.50574844954473",
+    "lat": "46.1367844073504"
+  }
+]

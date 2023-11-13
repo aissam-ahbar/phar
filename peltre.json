@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "570024240",
+    "raison_sociale": "RESIDENCE SOCIALE PELTRE",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "D'EMMAUS",
+    "bp": "",
+    "cp": "57245",
+    "VILLE": "PELTRE ",
+    "tel": "387749880",
+    "telecopie": "",
+    "categorie etablissement": "259",
+    "libelle categorie": "Autre Résidence Sociale (hors Maison Relais",
+    "siret": "",
+    "lng": "6.22235827250299",
+    "lat": "49.0745817690269"
+  },
+  {
+    "finess": "570027680",
+    "raison_sociale": "CTRE AUTODIALYSE PELTRE ALTIR",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU JARDIN D'ECOSSE",
+    "bp": "",
+    "cp": "57245",
+    "VILLE": "PELTRE ",
+    "tel": "387787229",
+    "telecopie": "",
+    "categorie etablissement": "146",
+    "libelle categorie": "Structure d'Alternative à la dialyse en centre",
+    "siret": "",
+    "lng": "6.23831164377564",
+    "lat": "49.0853464851479"
+  }
+]

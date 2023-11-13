@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "90001363",
+    "raison_sociale": "PHARMACIE PYRENE",
+    "numero voie": "32",
+    "type_voie": "RTE",
+    "libelle_voie": "Nationale",
+    "bp": "",
+    "cp": "9330",
+    "VILLE": "MONTGAILLARD ",
+    "tel": "561651065",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88984782800015",
+    "lng": "1.633574066912",
+    "lat": "42.9350711620347"
+  },
+  {
+    "finess": "90004847",
+    "raison_sociale": "UEEA DU SESSAD DE LERAN",
+    "numero voie": "7",
+    "type_voie": "CHE",
+    "libelle_voie": "DU STADE",
+    "bp": "",
+    "cp": "9330",
+    "VILLE": "MONTGAILLARD ",
+    "tel": "534090124",
+    "telecopie": "",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "30524289300181",
+    "lng": "1.63585133717116",
+    "lat": "42.9394767251555"
+  },
+  {
+    "finess": "650003106",
+    "raison_sociale": "SELAS PHARMACIE DE MONTGAILLARD",
+    "numero voie": "135",
+    "type_voie": "R",
+    "libelle_voie": "DU 8 MAI",
+    "bp": "",
+    "cp": "65200",
+    "VILLE": "MONTGAILLARD ",
+    "tel": "562915064",
+    "telecopie": "986000288",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83791840800019",
+    "lng": "0.107948118310665",
+    "lat": "43.1258121562206"
+  }
+]

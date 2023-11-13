@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "330046764",
+    "raison_sociale": "SARL PHARMACIE GIOLITO",
+    "numero voie": "45",
+    "type_voie": "AV",
+    "libelle_voie": "DE L'ISLE",
+    "bp": "",
+    "cp": "33230",
+    "VILLE": "GUITRES ",
+    "tel": "557691022",
+    "telecopie": "557692277",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79186190900020",
+    "lng": "-0.184834333808916",
+    "lat": "45.0413799087563"
+  },
+  {
+    "finess": "330046780",
+    "raison_sociale": "PHARMACIE ROSSIGNOL EURL",
+    "numero voie": "54",
+    "type_voie": "AV",
+    "libelle_voie": "de l'Isle",
+    "bp": "",
+    "cp": "33230",
+    "VILLE": "GUITRES ",
+    "tel": "557691030",
+    "telecopie": "557691030",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38870302700010",
+    "lng": "-0.184630014808436",
+    "lat": "45.0421670233174"
+  },
+  {
+    "finess": "330800541",
+    "raison_sociale": "SAAD CCAS DE GUITRES",
+    "numero voie": "8",
+    "type_voie": "",
+    "libelle_voie": "GRAND RUE",
+    "bp": "",
+    "cp": "33230",
+    "VILLE": "GUITRES ",
+    "tel": "557691034",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26330196200027",
+    "lng": "-0.18601463214619",
+    "lat": "45.0409027829503"
+  }
+]

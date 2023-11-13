@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "20012076",
+    "raison_sociale": "PHARMACIE DU DONJON",
+    "numero voie": "12",
+    "type_voie": "PL",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "2290",
+    "VILLE": "VIC SUR AISNE    ",
+    "tel": "323555045",
+    "telecopie": "323558786",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83096689100012",
+    "lng": "3.1154566254082",
+    "lat": "49.4049757613123"
+  },
+  {
+    "finess": "20017000",
+    "raison_sociale": "CSI AMSAM VIC SUR AISNE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "ST-CHRISTOPHE",
+    "bp": "",
+    "cp": "2290",
+    "VILLE": "VIC SUR AISNE    ",
+    "tel": "323755108",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "",
+    "lng": "3.11507594078583",
+    "lat": "49.4059738299866"
+  }
+]

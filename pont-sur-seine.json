@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "100002187",
+    "raison_sociale": "EHPAD LE PARC FLEURI",
+    "numero voie": "24",
+    "type_voie": "FG",
+    "libelle_voie": "ST MARTIN",
+    "bp": "",
+    "cp": "10400",
+    "VILLE": "PONT SUR SEINE    ",
+    "tel": "325218010",
+    "telecopie": "325218011",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26100012900013",
+    "lng": "3.59758133113175",
+    "lat": "48.5161606612492"
+  },
+  {
+    "finess": "100002765",
+    "raison_sociale": "SELARL PHARMACIE BELLENGER",
+    "numero voie": "14",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "10400",
+    "VILLE": "PONT SUR SEINE    ",
+    "tel": "325214114",
+    "telecopie": "325214006",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81175003300011",
+    "lng": "3.59680787732294",
+    "lat": "48.5181598718328"
+  }
+]

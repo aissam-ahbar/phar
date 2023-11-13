@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "10006740",
+    "raison_sociale": "SAAD ADMR CHALEINS",
+    "numero voie": "121",
+    "type_voie": "RTE",
+    "libelle_voie": "DE SAINT TRIVIER",
+    "bp": "",
+    "cp": "1480",
+    "VILLE": "CHALEINS ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "4.80579353525156",
+    "lat": "46.0304029475593"
+  },
+  {
+    "finess": "10012748",
+    "raison_sociale": "MAISON DE SANTE DE CHALEINS",
+    "numero voie": "210",
+    "type_voie": "RTE",
+    "libelle_voie": "DE FAREINS",
+    "bp": "LE BOURG",
+    "cp": "1480",
+    "VILLE": "CHALEINS ",
+    "tel": "474679551",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "91906033500016",
+    "lng": "4.80146903815731",
+    "lat": "46.0298844885468"
+  }
+]

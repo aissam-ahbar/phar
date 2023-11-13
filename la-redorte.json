@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "110002607",
+    "raison_sociale": "EHPAD ANTINEA",
+    "numero voie": "",
+    "type_voie": "ALL",
+    "libelle_voie": "DU GRAND PIN",
+    "bp": "",
+    "cp": "11700",
+    "VILLE": "LA REDORTE",
+    "tel": "468277200",
+    "telecopie": "468277204",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "37979651900013",
+    "lng": "2.65012601412431",
+    "lat": "43.2512208475302"
+  },
+  {
+    "finess": "110790490",
+    "raison_sociale": "SELARL PHARMACIE DU PARC",
+    "numero voie": "2",
+    "type_voie": "AV",
+    "libelle_voie": "DU MINERVOIS",
+    "bp": "",
+    "cp": "11700",
+    "VILLE": "LA REDORTE",
+    "tel": "468914389",
+    "telecopie": "468915754",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53188751100016",
+    "lng": "2.65211619385426",
+    "lat": "43.2517912871552"
+  }
+]

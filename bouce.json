@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "610781510",
+    "raison_sociale": "MECS BOUCE ASS MAISON D'ENFANTS",
+    "numero voie": "34",
+    "type_voie": "R",
+    "libelle_voie": "DE VERDUN",
+    "bp": "",
+    "cp": "61570",
+    "VILLE": "BOUCE ",
+    "tel": "233121585",
+    "telecopie": "233355652",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "41072969300011",
+    "lng": "-0.089645731744784",
+    "lat": "48.6424813849132"
+  },
+  {
+    "finess": "610788622",
+    "raison_sociale": "SARL PHARMACIE DAGONNEAU",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DE VERDUN",
+    "bp": "",
+    "cp": "61570",
+    "VILLE": "BOUCE ",
+    "tel": "233352747",
+    "telecopie": "233393350",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75187473600018",
+    "lng": "-0.090167324764347",
+    "lat": "48.6460676544704"
+  }
+]

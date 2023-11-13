@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "560013757",
+    "raison_sociale": "CASTEL THALASSA",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "56360",
+    "VILLE": "BANGOR ",
+    "tel": "297318015",
+    "telecopie": "",
+    "categorie etablissement": "126",
+    "libelle categorie": "Etablissement Thermal",
+    "siret": "86950034800014",
+    "lng": "-3.18720953186414",
+    "lat": "47.3147169711673"
+  },
+  {
+    "finess": "560023608",
+    "raison_sociale": "SESSAD DE BELLE ILE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "PIERRE CADRE",
+    "bp": "",
+    "cp": "56360",
+    "VILLE": "BANGOR ",
+    "tel": "297312147",
+    "telecopie": "",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "",
+    "lng": "-3.19042558166988",
+    "lat": "47.3147637259141"
+  }
+]

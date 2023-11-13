@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "600002307",
+    "raison_sociale": "PHARMACIE DE NOAILLES",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DE PARIS",
+    "bp": "",
+    "cp": "60430",
+    "VILLE": "NOAILLES ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44161501000010",
+    "lng": "2.19993527289936",
+    "lat": "49.3290871037723"
+  },
+  {
+    "finess": "600013320",
+    "raison_sociale": "PMI CD60 NOAILLES",
+    "numero voie": "82",
+    "type_voie": "R",
+    "libelle_voie": "DE PARIS",
+    "bp": "",
+    "cp": "60430",
+    "VILLE": "NOAILLES ",
+    "tel": "344107980",
+    "telecopie": "",
+    "categorie etablissement": "223",
+    "libelle categorie": "Protection Maternelle et Infantile (P.M.I.)",
+    "siret": "",
+    "lng": "2.20089177831641",
+    "lat": "49.3254077225082"
+  },
+  {
+    "finess": "600016638",
+    "raison_sociale": "SAAD M.A.D.O",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "ARNAUD BISSON",
+    "bp": "",
+    "cp": "60430",
+    "VILLE": "NOAILLES ",
+    "tel": "344081203",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "2.20126141181385",
+    "lat": "49.3291615022715"
+  }
+]

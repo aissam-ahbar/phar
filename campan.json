@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "650780208",
+    "raison_sociale": "CTRE JEAN-MARIE LARRIEU-IME JM LARRIEU",
+    "numero voie": "414",
+    "type_voie": "R",
+    "libelle_voie": "DU LAYRIS",
+    "bp": "",
+    "cp": "65710",
+    "VILLE": "CAMPAN ",
+    "tel": "562917911",
+    "telecopie": "",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "26650003200013",
+    "lng": "0.171610866951752",
+    "lat": "43.0198329979626"
+  },
+  {
+    "finess": "650787807",
+    "raison_sociale": "SAAD ADMR CAMPAN",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DU GENERAL LECLERC",
+    "bp": "",
+    "cp": "65710",
+    "VILLE": "CAMPAN ",
+    "tel": "562917437",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31440799000014",
+    "lng": "0.178058017862541",
+    "lat": "43.0157402378149"
+  },
+  {
+    "finess": "650789696",
+    "raison_sociale": "CTRE JM LARRIEU - ITEP PRO DES ADOURS",
+    "numero voie": "414",
+    "type_voie": "R",
+    "libelle_voie": "LAYRIS",
+    "bp": "",
+    "cp": "65710",
+    "VILLE": "CAMPAN ",
+    "tel": "562913250",
+    "telecopie": "",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "26650003200013",
+    "lng": "0.171610866951752",
+    "lat": "43.0198329979626"
+  }
+]

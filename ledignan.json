@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "300006731",
+    "raison_sociale": "SELARL BERTRAND CASSE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "200 Route de Montpellier",
+    "bp": "lieudit Le Pouget",
+    "cp": "30350",
+    "VILLE": "LEDIGNAN ",
+    "tel": "466834134",
+    "telecopie": "466834134",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "41279694800013",
+    "lng": "4.10529625855769",
+    "lat": "43.9837393340647"
+  },
+  {
+    "finess": "300007739",
+    "raison_sociale": "EHPAD LE MAS DES OLIVIERS",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DU MAS DES OLIVIERS",
+    "bp": "",
+    "cp": "30350",
+    "VILLE": "LEDIGNAN ",
+    "tel": "466922145",
+    "telecopie": "466922150",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77585139700023",
+    "lng": "4.11053164644063",
+    "lat": "43.9882118559579"
+  }
+]

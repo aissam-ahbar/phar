@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "290013044",
+    "raison_sociale": "SELARL PHARMACIE DU BOUT DU MONDE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "PIERRE BROSSOLETTE",
+    "bp": "LESTRIVIN",
+    "cp": "29770",
+    "VILLE": "PLOGOFF ",
+    "tel": "298706587",
+    "telecopie": "298703562",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52249619900012",
+    "lng": "-4.66828636034343",
+    "lat": "48.0373885086442"
+  },
+  {
+    "finess": "290028166",
+    "raison_sociale": "SAAD PLOGOFF",
+    "numero voie": "31",
+    "type_voie": "R",
+    "libelle_voie": "PIERRE BROSSOLETTE",
+    "bp": "",
+    "cp": "29770",
+    "VILLE": "PLOGOFF ",
+    "tel": "298703867",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "-4.66769820701921",
+    "lat": "48.0369405022623"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "570004663",
+    "raison_sociale": "EHPAD\"SAINT CHRISTOPHE\"",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "57870",
+    "VILLE": "WALSCHEID ",
+    "tel": "387255106",
+    "telecopie": "387256900",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "30238819400011",
+    "lng": "7.14992819705814",
+    "lat": "48.6545202486691"
+  },
+  {
+    "finess": "570012559",
+    "raison_sociale": "SSIAD DE LA VALLE DE LA BIEVRE",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "DIVISION LECLERC",
+    "bp": "",
+    "cp": "57870",
+    "VILLE": "WALSCHEID ",
+    "tel": "387251394",
+    "telecopie": "387251394",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "30238819400011",
+    "lng": "7.15077247410146",
+    "lat": "48.6514733949139"
+  },
+  {
+    "finess": "570022715",
+    "raison_sociale": "FAM POUR PERSONNES HAND. AGEES",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DU PLAN D'EAU",
+    "bp": "",
+    "cp": "57870",
+    "VILLE": "WALSCHEID ",
+    "tel": "387255106",
+    "telecopie": "387256900",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "30238819400011",
+    "lng": "7.15743203024985",
+    "lat": "48.6475732692425"
+  }
+]

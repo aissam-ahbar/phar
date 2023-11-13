@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "110788809",
+    "raison_sociale": "FOYER DE VIE CUXAC",
+    "numero voie": "3",
+    "type_voie": "ALL",
+    "libelle_voie": "DES SAPINETTES",
+    "bp": "BP 5",
+    "cp": "11390",
+    "VILLE": "CUXAC CABARDES",
+    "tel": "468266245",
+    "telecopie": "468266065",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "26110056400010",
+    "lng": "2.28349496308986",
+    "lat": "43.3703538523958"
+  },
+  {
+    "finess": "110789484",
+    "raison_sociale": "EHPAD RESIDENCE DE LA MONTAGNE",
+    "numero voie": "2",
+    "type_voie": "ALL",
+    "libelle_voie": "DES SAPINETTES",
+    "bp": "",
+    "cp": "11390",
+    "VILLE": "CUXAC CABARDES",
+    "tel": "468267090",
+    "telecopie": "468267099",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "83202596900029",
+    "lng": "2.28349496308986",
+    "lat": "43.3703538523958"
+  },
+  {
+    "finess": "110790375",
+    "raison_sociale": "PHARMACIE DE LA MONTAGNE NOIRE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "de l'Echauguette",
+    "bp": "",
+    "cp": "11390",
+    "VILLE": "CUXAC CABARDES",
+    "tel": "468265025",
+    "telecopie": "468266689",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "85358436500011",
+    "lng": "2.2852161858372",
+    "lat": "43.3701826036654"
+  }
+]

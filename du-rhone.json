@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "130034549",
+    "raison_sociale": "SESSAD LE CHEMIN",
+    "numero voie": " BÂTIMENT: B",
+    "type_voie": "99",
+    "libelle_voie": "AV",
+    "bp": "",
+    "cp": "BOUCHES",
+    "VILLE": "DU RHONE",
+    "tel": "13015 MARSEILLE",
+    "telecopie": "491636660",
+    "categorie etablissement": "",
+    "libelle categorie": "182",
+    "siret": "Services à Domicile ou Ambulatoires pour Handicapés",
+    "lng": "5.36662361057909",
+    "lat": "43.3384443822184"
+  },
+  {
+    "finess": "130051949",
+    "raison_sociale": "MSP LES MILLES",
+    "numero voie": " L'ENCLOS ST JOSEPH-LES MILLES",
+    "type_voie": "365",
+    "libelle_voie": "AV",
+    "bp": "",
+    "cp": "BOUCHES",
+    "VILLE": "DU RHONE",
+    "tel": "13290 AIX EN PROVENCE",
+    "telecopie": "",
+    "categorie etablissement": "",
+    "libelle categorie": "603",
+    "siret": "Autres structures d'exercice libéral",
+    "lng": "5.39135754939358",
+    "lat": "43.5080742102797"
+  }
+]

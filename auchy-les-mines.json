@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "620006213",
+    "raison_sociale": "PHARMACIE OSSET",
+    "numero voie": "137",
+    "type_voie": "R",
+    "libelle_voie": "IGNACE HUMBLOT",
+    "bp": "",
+    "cp": "62138",
+    "VILLE": "AUCHY LES MINES    ",
+    "tel": "321267375",
+    "telecopie": "321267375",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53760997600015",
+    "lng": "2.78482881624419",
+    "lat": "50.5118529092717"
+  },
+  {
+    "finess": "620006247",
+    "raison_sociale": "PHARMACIE PORTE DES FLANDRES",
+    "numero voie": "41",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "62138",
+    "VILLE": "AUCHY LES MINES    ",
+    "tel": "321664328",
+    "telecopie": "321664325",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39407663200014",
+    "lng": "2.78201231351564",
+    "lat": "50.5179838778361"
+  }
+]

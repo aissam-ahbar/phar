@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "170015192",
+    "raison_sociale": "PHARMACIE SAINT SAUVEUR D'AUNIS",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE SAINTONGE",
+    "bp": "",
+    "cp": "17540",
+    "VILLE": "ST SAUVEUR D AUNIS   ",
+    "tel": "546019810",
+    "telecopie": "546012044",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "78914640400015",
+    "lng": "-0.887385867896268",
+    "lat": "46.215655771563"
+  },
+  {
+    "finess": "170021943",
+    "raison_sociale": "EHPAD LES CHAMPS DU NOYER",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "DES BARAQUES",
+    "bp": "",
+    "cp": "17540",
+    "VILLE": "ST SAUVEUR D AUNIS   ",
+    "tel": "546666605",
+    "telecopie": "546675529",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "78134367800368",
+    "lng": "-0.884566559390825",
+    "lat": "46.2136641208277"
+  }
+]

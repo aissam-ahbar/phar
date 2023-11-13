@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "2B0002356",
+    "raison_sociale": "PHARMACIE CACHARD",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "D'ILE ROUSSE",
+    "bp": "",
+    "cp": "20226",
+    "VILLE": "BELGODERE ",
+    "tel": "495613550",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "33189304000013",
+    "lng": "9.01795538028707",
+    "lat": "42.5858563025387"
+  },
+  {
+    "finess": "2B0005680",
+    "raison_sociale": "CC DI E CINQUE PIEVE DI BALAGNA",
+    "numero voie": "",
+    "type_voie": "CHT",
+    "libelle_voie": "MALASPINA",
+    "bp": "",
+    "cp": "20226",
+    "VILLE": "BELGODERE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "20004431100013",
+    "lng": "9.01795538028707",
+    "lat": "42.5858563025387"
+  },
+  {
+    "finess": "2B0006282",
+    "raison_sociale": "SAAD ADMR BELGODERE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "CASALE VINCENTELLI",
+    "cp": "20226",
+    "VILLE": "BELGODERE ",
+    "tel": "495343086",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "35252430000014",
+    "lng": "9.01795538028707",
+    "lat": "42.5858563025387"
+  }
+]

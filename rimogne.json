@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "80008451",
+    "raison_sociale": "PHARMACIE DE RIMOGNE",
+    "numero voie": "149",
+    "type_voie": "AV",
+    "libelle_voie": "PASTEUR",
+    "bp": "",
+    "cp": "8150",
+    "VILLE": "RIMOGNE ",
+    "tel": "324351027",
+    "telecopie": "324354217",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "89009560700010",
+    "lng": "4.53729695869535",
+    "lat": "49.8420309946019"
+  },
+  {
+    "finess": "80010663",
+    "raison_sociale": "MSP DE RIMOGNE",
+    "numero voie": "733",
+    "type_voie": "R",
+    "libelle_voie": "PASTEUR",
+    "bp": "",
+    "cp": "8150",
+    "VILLE": "RIMOGNE ",
+    "tel": "324269663",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "4.52971034597902",
+    "lat": "49.8430410156575"
+  },
+  {
+    "finess": "80010911",
+    "raison_sociale": "SAAD LA MAIN TENDUE",
+    "numero voie": "235",
+    "type_voie": "R",
+    "libelle_voie": "DU VIEUX BOURG",
+    "bp": "",
+    "cp": "8150",
+    "VILLE": "RIMOGNE ",
+    "tel": "682975699",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "81498489400018",
+    "lng": "4.53613206360898",
+    "lat": "49.8354547400075"
+  }
+]

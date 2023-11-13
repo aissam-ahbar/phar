@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "340017508",
+    "raison_sociale": "EHPAD GERARD SOULATGES",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "SAUTE LA PAILLE",
+    "bp": "",
+    "cp": "34800",
+    "VILLE": "ASPIRAN ",
+    "tel": "467448000",
+    "telecopie": "467448001",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "81317979300522",
+    "lng": "3.44666491089361",
+    "lat": "43.5677752991638"
+  },
+  {
+    "finess": "340018332",
+    "raison_sociale": "SSIAD MFGS SSAM ASPIRAN",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "DU CHEMIN NEUF",
+    "bp": "",
+    "cp": "34800",
+    "VILLE": "ASPIRAN ",
+    "tel": "467448028",
+    "telecopie": "467448001",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "81317979300928",
+    "lng": "3.45148670622461",
+    "lat": "43.5680342845128"
+  },
+  {
+    "finess": "340792464",
+    "raison_sociale": "PHARMACIE DES VIGNES",
+    "numero voie": "2",
+    "type_voie": "PL",
+    "libelle_voie": "DU JEU DE BALLON",
+    "bp": "",
+    "cp": "34800",
+    "VILLE": "ASPIRAN ",
+    "tel": "467965033",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53023156200014",
+    "lng": "3.44926608000853",
+    "lat": "43.5666821602373"
+  }
+]

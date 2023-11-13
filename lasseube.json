@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "640009940",
+    "raison_sociale": "PHARMACIE LASSEUBOISE",
+    "numero voie": "2",
+    "type_voie": "RTE",
+    "libelle_voie": "de LACOMMANDE",
+    "bp": "",
+    "cp": "64290",
+    "VILLE": "LASSEUBE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "41142899800024",
+    "lng": "-0.484663903430802",
+    "lat": "43.236359641606"
+  },
+  {
+    "finess": "640796264",
+    "raison_sociale": "RA MARPA DES BAISES",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "JEAN BASCOURET",
+    "bp": "",
+    "cp": "64290",
+    "VILLE": "LASSEUBE ",
+    "tel": "559722300",
+    "telecopie": "559042569",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "24640023800027",
+    "lng": "-0.481352053794267",
+    "lat": "43.22176133161"
+  },
+  {
+    "finess": "640797221",
+    "raison_sociale": "SSIAD DE LASSEUBE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA RÉPUBLIQUE",
+    "bp": "",
+    "cp": "64290",
+    "VILLE": "LASSEUBE ",
+    "tel": "559042524",
+    "telecopie": "559042124",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "39129790000055",
+    "lng": "-0.475308224378257",
+    "lat": "43.2208216761032"
+  }
+]

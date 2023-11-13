@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "50003904",
+    "raison_sociale": "SELAS PHARMACIE DES ALPES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "5230",
+    "VILLE": "CHORGES ",
+    "tel": "492506016",
+    "telecopie": "492503994",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38892324500012",
+    "lng": "6.27641030921404",
+    "lat": "44.5453909031141"
+  },
+  {
+    "finess": "50008812",
+    "raison_sociale": "MSP DE CHORGES",
+    "numero voie": "31",
+    "type_voie": "GR",
+    "libelle_voie": "RUE",
+    "bp": "",
+    "cp": "5230",
+    "VILLE": "CHORGES ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "90931737200011",
+    "lng": "6.27641030921404",
+    "lat": "44.5453909031141"
+  },
+  {
+    "finess": "50008945",
+    "raison_sociale": "SAAD ADMR CHORGES - LA BATIE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "5230",
+    "VILLE": "CHORGES ",
+    "tel": "492523782",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "35248522100027",
+    "lng": "6.27641030921404",
+    "lat": "44.5453909031141"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "20000428",
+    "raison_sociale": "IME HOVIA BLÉRANCOURT",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "BERNARD POTIER",
+    "bp": "",
+    "cp": "2300",
+    "VILLE": "BLERANCOURT ",
+    "tel": "323391313",
+    "telecopie": "323397351",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "77567626500116",
+    "lng": "3.15209939616234",
+    "lat": "49.5151384622513"
+  },
+  {
+    "finess": "20002473",
+    "raison_sociale": "PHARMACIE BLEUSE",
+    "numero voie": "8",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'HOTEL DE VILLE",
+    "bp": "",
+    "cp": "2300",
+    "VILLE": "BLERANCOURT ",
+    "tel": "323396043",
+    "telecopie": "323396091",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "47861652700022",
+    "lng": "3.15146396854471",
+    "lat": "49.5163839937993"
+  }
+]

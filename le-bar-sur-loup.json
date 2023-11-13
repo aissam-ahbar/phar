@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "60004173",
+    "raison_sociale": "SELARL PHARMACIE DE L'ORANGERAIE",
+    "numero voie": "",
+    "type_voie": "ALL",
+    "libelle_voie": "DU DOCTEUR MAFFET",
+    "bp": "",
+    "cp": "6620",
+    "VILLE": "LE BAR SUR LOUP   ",
+    "tel": "493424102",
+    "telecopie": "493094498",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53457894300019",
+    "lng": "6.98507685468789",
+    "lat": "43.6986442262477"
+  },
+  {
+    "finess": "60780871",
+    "raison_sociale": "EHPAD LES ORANGERS",
+    "numero voie": "22",
+    "type_voie": "R",
+    "libelle_voie": "DE L'HOPITAL",
+    "bp": "",
+    "cp": "6620",
+    "VILLE": "LE BAR SUR LOUP   ",
+    "tel": "493406800",
+    "telecopie": "493406830",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26060016800017",
+    "lng": "6.98674354189001",
+    "lat": "43.6997165569298"
+  }
+]

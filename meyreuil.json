@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "130012891",
+    "raison_sociale": "SELARL PHARMACIE DE LA CROIX",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DU COTEAU ROUGE",
+    "bp": "",
+    "cp": "13590",
+    "VILLE": "MEYREUIL ",
+    "tel": "442583621",
+    "telecopie": "442582274",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "35403986900038",
+    "lng": "5.48851320757164",
+    "lat": "43.4796915397372"
+  },
+  {
+    "finess": "130046477",
+    "raison_sociale": "ESPACE MEDICAL DU PAYS D AIX",
+    "numero voie": "43",
+    "type_voie": "CHE",
+    "libelle_voie": "DE LA SARRIERE",
+    "bp": "",
+    "cp": "13590",
+    "VILLE": "MEYREUIL ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "75409788900028",
+    "lng": "5.48274241774249",
+    "lat": "43.474383474873"
+  },
+  {
+    "finess": "130792211",
+    "raison_sociale": "CENTRE MEDICO-SOCIAL MUNICIPAL",
+    "numero voie": "12",
+    "type_voie": "AV",
+    "libelle_voie": "JEAN PETIT",
+    "bp": "",
+    "cp": "13590",
+    "VILLE": "MEYREUIL ",
+    "tel": "442584450",
+    "telecopie": "",
+    "categorie etablissement": "230",
+    "libelle categorie": "Etablissement Consultation Protection Infantile",
+    "siret": "22130001500890",
+    "lng": "5.49490858293549",
+    "lat": "43.4750420582331"
+  }
+]

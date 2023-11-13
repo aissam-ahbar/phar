@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "70003421",
+    "raison_sociale": "PHARMACIE SAINT JEAN",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "7300",
+    "VILLE": "ST JEAN DE MUZOLS   ",
+    "tel": "475083146",
+    "telecopie": "475082121",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45356050000010",
+    "lng": "4.81507120193078",
+    "lat": "45.0828054735595"
+  },
+  {
+    "finess": "70006515",
+    "raison_sociale": "RÉSIDENCE AUTONOMIE DU DOUX",
+    "numero voie": "11",
+    "type_voie": "CHE",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "7300",
+    "VILLE": "ST JEAN DE MUZOLS   ",
+    "tel": "475090301",
+    "telecopie": "475061026",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "77622946000287",
+    "lng": "4.81267182027301",
+    "lat": "45.0754935784202"
+  },
+  {
+    "finess": "70008479",
+    "raison_sociale": "EN TOUTE QUIETUDE",
+    "numero voie": "20",
+    "type_voie": "R",
+    "libelle_voie": "DU COLOMBIER",
+    "bp": "",
+    "cp": "7300",
+    "VILLE": "ST JEAN DE MUZOLS   ",
+    "tel": "475077843",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "85112306700015",
+    "lng": "4.80950037275776",
+    "lat": "45.0829573137063"
+  }
+]

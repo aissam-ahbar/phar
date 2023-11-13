@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "690001524",
+    "raison_sociale": "CENTRE MEDICAL GERMAINE REVEL",
+    "numero voie": "707",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LA CONDAMINE",
+    "bp": "SAINT MAURICE SUR DARGOIRE",
+    "cp": "69440",
+    "VILLE": "CHABANIERE ",
+    "tel": "478815757",
+    "telecopie": "",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "31625137000011",
+    "lng": "4.64135920978498",
+    "lat": "45.5794915247126"
+  },
+  {
+    "finess": "690012737",
+    "raison_sociale": "PHARMACIE DU CHENE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE VERDUN",
+    "bp": "",
+    "cp": "69440",
+    "VILLE": "CHABANIERE ",
+    "tel": "478812215",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48222530700016",
+    "lng": "4.632296259846",
+    "lat": "45.5833180102592"
+  },
+  {
+    "finess": "690028832",
+    "raison_sociale": "A.D.M.R. ST MAURICE S/DARGOIRE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "69440",
+    "VILLE": "CHABANIERE ",
+    "tel": "474267878",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "4.60878924019201",
+    "lat": "45.5962390804719"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "80002074",
+    "raison_sociale": "SELARL PHARMACIE PONSINET",
+    "numero voie": "21",
+    "type_voie": "R",
+    "libelle_voie": "du Docteur Landes",
+    "bp": "",
+    "cp": "8190",
+    "VILLE": "ASFELD ",
+    "tel": "324729561",
+    "telecopie": "372271168",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49099897800020",
+    "lng": "4.1097451620118",
+    "lat": "49.4627322132589"
+  },
+  {
+    "finess": "80010978",
+    "raison_sociale": "MAISON MEDICALE DE L'ASFELDOIS",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU DOCTEUR LANDES",
+    "bp": "",
+    "cp": "8190",
+    "VILLE": "ASFELD ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "84128507500013",
+    "lng": "4.10975994258365",
+    "lat": "49.4618188292939"
+  }
+]

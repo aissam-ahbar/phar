@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "310019062",
+    "raison_sociale": "PHARMACIE LOPEZ",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "ROYE",
+    "bp": "LIEU DIT LA COSTE",
+    "cp": "31840",
+    "VILLE": "SEILH ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "43031297500013",
+    "lng": "1.35979301310243",
+    "lat": "43.6892202682283"
+  },
+  {
+    "finess": "310029624",
+    "raison_sociale": "SAAD GARONA SERVICES",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE TOULOUSE",
+    "bp": "",
+    "cp": "31840",
+    "VILLE": "SEILH ",
+    "tel": "561590849",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "52799511200028",
+    "lng": "1.36230940481886",
+    "lat": "43.6817196955821"
+  }
+]

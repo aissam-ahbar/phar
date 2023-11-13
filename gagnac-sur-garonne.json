@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "310008842",
+    "raison_sociale": "PHARMACIE DE LA GRAVETTE",
+    "numero voie": "14",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "31150",
+    "VILLE": "GAGNAC SUR GARONNE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82526563000012",
+    "lng": "1.37513289300668",
+    "lat": "43.6976612408924"
+  },
+  {
+    "finess": "310029731",
+    "raison_sociale": "SAAD JPN SERVICES A DOMICILE",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "DE LA GRAVETTE",
+    "bp": "",
+    "cp": "31150",
+    "VILLE": "GAGNAC SUR GARONNE    ",
+    "tel": "562794776",
+    "telecopie": "958288872",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "51399396400016",
+    "lng": "1.376177448412",
+    "lat": "43.6969145221314"
+  }
+]

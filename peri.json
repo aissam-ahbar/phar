@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "2A0001251",
+    "raison_sociale": "PHARMACIE CASABIANCA",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "Confina",
+    "bp": "Plaine de PERI",
+    "cp": "20167",
+    "VILLE": "PERI ",
+    "tel": "495256413",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "90379407100014",
+    "lng": "8.86774606593348",
+    "lat": "42.0104581551534"
+  },
+  {
+    "finess": "2A0004313",
+    "raison_sociale": "PER ELLI",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "L'USTARIA - MEZZAVIA",
+    "cp": "20167",
+    "VILLE": "PERI ",
+    "tel": "420043588",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "82494794900023",
+    "lng": "8.92007942966509",
+    "lat": "42.0050229857546"
+  },
+  {
+    "finess": "2A0004479",
+    "raison_sociale": "SAAD PER ELLI - BURICCIA",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "BURICCIA",
+    "bp": "LD USTARIA",
+    "cp": "20167",
+    "VILLE": "PERI ",
+    "tel": "629970600",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "82494794900049",
+    "lng": "8.86380513469358",
+    "lat": "42.0075001934928"
+  }
+]

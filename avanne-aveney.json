@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "250001252",
+    "raison_sociale": "USLD JACQUES WEINMAN AVANNE",
+    "numero voie": "16",
+    "type_voie": "R",
+    "libelle_voie": "DES CERISIERS",
+    "bp": "",
+    "cp": "25720",
+    "VILLE": "AVANNE AVENEY",
+    "tel": "381418888",
+    "telecopie": "381418880",
+    "categorie etablissement": "362",
+    "libelle categorie": "Etablissement de Soins Longue Durée",
+    "siret": "26250673600038",
+    "lng": "5.96435471649686",
+    "lat": "47.2076160156319"
+  },
+  {
+    "finess": "250002888",
+    "raison_sociale": "EHPAD JACQUES WEINMAN CSHLD AVANNE",
+    "numero voie": "16",
+    "type_voie": "R",
+    "libelle_voie": "DES CERISIERS",
+    "bp": "",
+    "cp": "25720",
+    "VILLE": "AVANNE AVENEY",
+    "tel": "381418888",
+    "telecopie": "381418880",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26250673600012",
+    "lng": "5.96435471649686",
+    "lat": "47.2076160156319"
+  },
+  {
+    "finess": "250013703",
+    "raison_sociale": "PHARMACIE CHAMBRE - LEMSI",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE L EGLISE",
+    "bp": "",
+    "cp": "25720",
+    "VILLE": "AVANNE AVENEY",
+    "tel": "381521891",
+    "telecopie": "381413194",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39363622000021",
+    "lng": "5.96693050995054",
+    "lat": "47.2058031969181"
+  }
+]

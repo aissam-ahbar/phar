@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "70004171",
+    "raison_sociale": "PHARMACIE DE VERNOUX",
+    "numero voie": "37",
+    "type_voie": "R",
+    "libelle_voie": "SIMON VIALET",
+    "bp": "",
+    "cp": "7240",
+    "VILLE": "VERNOUX EN VIVARAIS    ",
+    "tel": "475581098",
+    "telecopie": "475581971",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45346181600010",
+    "lng": "4.6446585811185",
+    "lat": "44.8962019218271"
+  },
+  {
+    "finess": "70007448",
+    "raison_sociale": "MAISON DE SANTE DE VERNOUX-EN-VIVARAIS",
+    "numero voie": "25",
+    "type_voie": "AV",
+    "libelle_voie": "VINCENT D'INDY",
+    "bp": "",
+    "cp": "7240",
+    "VILLE": "VERNOUX EN VIVARAIS    ",
+    "tel": "475780239",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "84965720000010",
+    "lng": "4.64622294933255",
+    "lat": "44.896924397365"
+  },
+  {
+    "finess": "70784624",
+    "raison_sociale": "EHPAD RESIDENCE BEAUREGARD  DE VERNOUX",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "DE L'HÔPITAL",
+    "bp": "",
+    "cp": "7240",
+    "VILLE": "VERNOUX EN VIVARAIS    ",
+    "tel": "475581143",
+    "telecopie": "475580343",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26070024000021",
+    "lng": "4.64446789702857",
+    "lat": "44.8932401609892"
+  }
+]

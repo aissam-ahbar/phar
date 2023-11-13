@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "170017958",
+    "raison_sociale": "LIEU DE VIE \"LE PARC\"",
+    "numero voie": "52",
+    "type_voie": "RTE",
+    "libelle_voie": "ROMAINE",
+    "bp": "",
+    "cp": "17120",
+    "VILLE": "BARZAN ",
+    "tel": "546904323",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "49086850200017",
+    "lng": "-0.885591795809063",
+    "lat": "45.5322684698154"
+  },
+  {
+    "finess": "170801252",
+    "raison_sociale": "EHPAD LE CLOS DES MURIERS",
+    "numero voie": "2",
+    "type_voie": "CHE",
+    "libelle_voie": "DE LA MAISON DE RETRAITE",
+    "bp": "",
+    "cp": "17120",
+    "VILLE": "BARZAN ",
+    "tel": "546979797",
+    "telecopie": "546979768",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "79920397100020",
+    "lng": "-0.872150541274085",
+    "lat": "45.5246017827182"
+  }
+]

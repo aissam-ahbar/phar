@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "160009866",
+    "raison_sociale": "EHPAD LA CHALOTINE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LA CHALOTTE",
+    "bp": "",
+    "cp": "16500",
+    "VILLE": "BRILLAC ",
+    "tel": "545894745",
+    "telecopie": "545894970",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26160211400033",
+    "lng": "0.781679653320871",
+    "lat": "46.0606759820372"
+  },
+  {
+    "finess": "160010708",
+    "raison_sociale": "PHARMACIE RALY",
+    "numero voie": "",
+    "type_voie": "LOT",
+    "libelle_voie": "LES CARTIERES",
+    "bp": "",
+    "cp": "16500",
+    "VILLE": "BRILLAC ",
+    "tel": "545894518",
+    "telecopie": "970063918",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "32885193600018",
+    "lng": "0.773157038723906",
+    "lat": "46.0585369812448"
+  }
+]

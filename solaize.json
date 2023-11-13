@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "690006168",
+    "raison_sociale": "SERVICE D'AIDE AUX PERSONNES AGEES",
+    "numero voie": "19",
+    "type_voie": "IMP",
+    "libelle_voie": "DE LA VERCHERE",
+    "bp": "",
+    "cp": "69360",
+    "VILLE": "SOLAIZE ",
+    "tel": "437659344",
+    "telecopie": "437659344",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "43902086800022",
+    "lng": "4.84134387542671",
+    "lat": "45.638877982113"
+  },
+  {
+    "finess": "690017587",
+    "raison_sociale": "PHARMACIE DE SOLAIZE",
+    "numero voie": "118",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "69360",
+    "VILLE": "SOLAIZE ",
+    "tel": "478028636",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48972435100015",
+    "lng": "4.8406560658703",
+    "lat": "45.6399340748195"
+  }
+]

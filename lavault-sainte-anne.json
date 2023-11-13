@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "30003248",
+    "raison_sociale": "SESSAD LES BOSQUETS",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DES SAUZES",
+    "bp": "",
+    "cp": "3100",
+    "VILLE": "LAVAULT STE ANNE    ",
+    "tel": "470081419",
+    "telecopie": "",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "40222671600049",
+    "lng": "2.59411502014111",
+    "lat": "46.3119989292226"
+  },
+  {
+    "finess": "30004238",
+    "raison_sociale": "EHPAD LA CHARITE",
+    "numero voie": "",
+    "type_voie": "ALL",
+    "libelle_voie": "GEORGES SAUVESTRE",
+    "bp": "",
+    "cp": "3100",
+    "VILLE": "LAVAULT STE ANNE    ",
+    "tel": "470028241",
+    "telecopie": "470024042",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "32735516000612",
+    "lng": "2.59136080805633",
+    "lat": "46.3132956903761"
+  },
+  {
+    "finess": "30781181",
+    "raison_sociale": "IME HELENE DELALANDE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DES SAUZES",
+    "bp": "",
+    "cp": "3100",
+    "VILLE": "LAVAULT STE ANNE    ",
+    "tel": "470081480",
+    "telecopie": "",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "40222671600064",
+    "lng": "2.59411502014111",
+    "lat": "46.3119989292226"
+  }
+]

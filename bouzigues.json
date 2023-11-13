@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "340009273",
+    "raison_sociale": "PHARMACIE DE LA LAGUNE",
+    "numero voie": "18",
+    "type_voie": "AV",
+    "libelle_voie": "ALFRED BOUAT",
+    "bp": "",
+    "cp": "34140",
+    "VILLE": "BOUZIGUES ",
+    "tel": "467783363",
+    "telecopie": "467783598",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82089859100012",
+    "lng": "3.65595592707652",
+    "lat": "43.4499683070279"
+  },
+  {
+    "finess": "340013358",
+    "raison_sociale": "AIDER SANTE UAD BOUZIGUES",
+    "numero voie": "28",
+    "type_voie": "AV",
+    "libelle_voie": "ALFRED BOUAT",
+    "bp": "",
+    "cp": "34140",
+    "VILLE": "BOUZIGUES ",
+    "tel": "430781868",
+    "telecopie": "411932045",
+    "categorie etablissement": "146",
+    "libelle categorie": "Structure d'Alternative à la dialyse en centre",
+    "siret": "31147185800101",
+    "lng": "3.65509945063416",
+    "lat": "43.451426501842"
+  }
+]

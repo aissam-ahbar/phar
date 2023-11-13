@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "290011212",
+    "raison_sociale": "PHARMACIE DU MOULIN D'OR",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU MOULIN D'OR",
+    "bp": "LE MOULIN D OR",
+    "cp": "29300",
+    "VILLE": "TREMEVEN ",
+    "tel": "298391100",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44140003300011",
+    "lng": "-3.52169836482537",
+    "lat": "47.9002622756568"
+  },
+  {
+    "finess": "290029701",
+    "raison_sociale": "SAAD ADMR TROIS RIVIERES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE MOULIN D'ARGENT",
+    "bp": "",
+    "cp": "29300",
+    "VILLE": "TREMEVEN ",
+    "tel": "298962591",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31868485900024",
+    "lng": "-3.52030597659898",
+    "lat": "47.9052721893534"
+  }
+]

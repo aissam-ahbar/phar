@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "470012154",
+    "raison_sociale": "PHARMACIE DE SERIGNAC",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "PASTEUR",
+    "bp": "",
+    "cp": "47310",
+    "VILLE": "SERIGNAC SUR GARONNE    ",
+    "tel": "553686243",
+    "telecopie": "553687594",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49857074600012",
+    "lng": "0.482272587746962",
+    "lat": "44.2132444826642"
+  },
+  {
+    "finess": "470013160",
+    "raison_sociale": "MARPA - RESIDENCE DU CLOCHER",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DES LILAS",
+    "bp": "",
+    "cp": "47310",
+    "VILLE": "SERIGNAC SUR GARONNE    ",
+    "tel": "553770870",
+    "telecopie": "553686045",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26470222600020",
+    "lng": "0.482566340185064",
+    "lat": "44.2143003649475"
+  }
+]

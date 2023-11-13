@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "680015054",
+    "raison_sociale": "PHARMACIE JEHL",
+    "numero voie": "47",
+    "type_voie": "RTE",
+    "libelle_voie": "DE COLMAR",
+    "bp": "",
+    "cp": "68270",
+    "VILLE": "RUELISHEIM ",
+    "tel": "389576900",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39380615300028",
+    "lng": "7.33980446381036",
+    "lat": "47.8277848839814"
+  },
+  {
+    "finess": "680022126",
+    "raison_sociale": "SAAD MAISON AGES & VIE",
+    "numero voie": "1",
+    "type_voie": "IMP",
+    "libelle_voie": "DU RUISSEAU",
+    "bp": "",
+    "cp": "68270",
+    "VILLE": "RUELISHEIM ",
+    "tel": "985806196",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "7.3584170348651",
+    "lat": "47.8217351486599"
+  }
+]

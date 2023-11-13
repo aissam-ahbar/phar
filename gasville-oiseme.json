@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "280000431",
+    "raison_sociale": "KORIAN PARC DE GASVILLE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DEPARTEMENTALE 136",
+    "bp": "",
+    "cp": "28300",
+    "VILLE": "GASVILLE OISEME",
+    "tel": "237334100",
+    "telecopie": "237334199",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "34321370800013",
+    "lng": "1.53955343603508",
+    "lat": "48.4721528283707"
+  },
+  {
+    "finess": "280005489",
+    "raison_sociale": "MAS ANAIS DE GASVILLE OISEME",
+    "numero voie": "51",
+    "type_voie": "R",
+    "libelle_voie": "DE LA CHESNAIE",
+    "bp": "",
+    "cp": "28300",
+    "VILLE": "GASVILLE OISEME",
+    "tel": "237262610",
+    "telecopie": "237319532",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "77562927201027",
+    "lng": "1.54665427304941",
+    "lat": "48.4733898529963"
+  },
+  {
+    "finess": "280504986",
+    "raison_sociale": "EHPAD LES JARDINS D ARIANE",
+    "numero voie": "28",
+    "type_voie": "R",
+    "libelle_voie": "DE LA CHESNAIE",
+    "bp": "",
+    "cp": "28300",
+    "VILLE": "GASVILLE OISEME",
+    "tel": "237336699",
+    "telecopie": "237319797",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "",
+    "lng": "1.54482286108817",
+    "lat": "48.4726296167115"
+  }
+]

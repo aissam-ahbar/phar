@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "350002424",
+    "raison_sociale": "EHPAD THOMAS BOURSIN",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "ANGELE BELAIR",
+    "bp": "",
+    "cp": "35870",
+    "VILLE": "LE MINIHIC SUR RANCE   ",
+    "tel": "299885644",
+    "telecopie": "299885096",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26350018300011",
+    "lng": "-2.00920679581272",
+    "lat": "48.5771426607128"
+  },
+  {
+    "finess": "350053088",
+    "raison_sociale": "SAAD ADMR BORDS DE RANCE",
+    "numero voie": "16",
+    "type_voie": "R",
+    "libelle_voie": "ANGELE BEL AIR",
+    "bp": "",
+    "cp": "35870",
+    "VILLE": "LE MINIHIC SUR RANCE   ",
+    "tel": "299886775",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "39030798100048",
+    "lng": "-2.01380624893463",
+    "lat": "48.5791281659093"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "630004083",
+    "raison_sociale": "PHARMACIE DU CHEIX",
+    "numero voie": "1",
+    "type_voie": "CHEM",
+    "libelle_voie": "du Pont Romain",
+    "bp": "",
+    "cp": "63200",
+    "VILLE": "LE CHEIX",
+    "tel": "473972408",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81179480900020",
+    "lng": "3.16892985553349",
+    "lat": "45.9548344279928"
+  },
+  {
+    "finess": "630016335",
+    "raison_sociale": "CENTRE DE SANTE DENTAIRE DES VOLCANS",
+    "numero voie": "12",
+    "type_voie": "R",
+    "libelle_voie": "AMABLE",
+    "bp": "",
+    "cp": "63200",
+    "VILLE": "LE CHEIX",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "92349571700012",
+    "lng": "3.17377264294829",
+    "lat": "45.9581256108851"
+  }
+]

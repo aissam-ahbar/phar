@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "480003607",
+    "raison_sociale": "SAAD ADMR CANTON DE NASBINALS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "48260",
+    "VILLE": "NASBINALS ",
+    "tel": "466457284",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "50536583300027",
+    "lng": "3.04868715967952",
+    "lat": "44.6629537354651"
+  },
+  {
+    "finess": "480782887",
+    "raison_sociale": "SELARL PHARMACIE DE L'AUBRAC",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU 19 MARS 1962",
+    "bp": "",
+    "cp": "48260",
+    "VILLE": "NASBINALS ",
+    "tel": "466324701",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "91440376100010",
+    "lng": "3.04753200730645",
+    "lat": "44.661863104771"
+  },
+  {
+    "finess": "480783372",
+    "raison_sociale": "EHPAD ANDRE ALDEBERT",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE MALBOUZON",
+    "bp": "",
+    "cp": "48260",
+    "VILLE": "NASBINALS ",
+    "tel": "466425950",
+    "telecopie": "466325710",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26480010300022",
+    "lng": "3.0760752060251",
+    "lat": "44.6801930237824"
+  }
+]

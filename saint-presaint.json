@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "280004334",
+    "raison_sociale": "PHARMACIE SIABAS",
+    "numero voie": "83",
+    "type_voie": "R",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "28300",
+    "VILLE": "ST PREST",
+    "tel": "237223733",
+    "telecopie": "237223733",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "42983721400015",
+    "lng": "1.53034424138275",
+    "lat": "48.4921551357537"
+  },
+  {
+    "finess": "280503715",
+    "raison_sociale": "CONSULT.PROTECTION INFANTILE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE REPUBLIQUE",
+    "bp": "",
+    "cp": "28300",
+    "VILLE": "ST PREST",
+    "tel": "237222227",
+    "telecopie": "",
+    "categorie etablissement": "230",
+    "libelle categorie": "Etablissement Consultation Protection Infantile",
+    "siret": "22280001300096",
+    "lng": "1.53008575468456",
+    "lat": "48.49133136224"
+  }
+]

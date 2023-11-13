@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "670006907",
+    "raison_sociale": "PHARMACIE DE DORLISHEIM",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "Mercure",
+    "bp": "",
+    "cp": "67120",
+    "VILLE": "DORLISHEIM ",
+    "tel": "388384697",
+    "telecopie": "390409774",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40969824800021",
+    "lng": "7.49428794502035",
+    "lat": "48.5271706520024"
+  },
+  {
+    "finess": "670013192",
+    "raison_sociale": "FOYER D'HEBERGEMENT SAREPTA",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "LUTHER",
+    "bp": "",
+    "cp": "67120",
+    "VILLE": "DORLISHEIM ",
+    "tel": "388479430",
+    "telecopie": "",
+    "categorie etablissement": "252",
+    "libelle categorie": "Foyer Hébergement Adultes Handicapés",
+    "siret": "77874403700038",
+    "lng": "7.48998863057636",
+    "lat": "48.5257718034872"
+  },
+  {
+    "finess": "670783216",
+    "raison_sociale": "EHPAD SAREPTA",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "LUTHER",
+    "bp": "",
+    "cp": "67120",
+    "VILLE": "DORLISHEIM ",
+    "tel": "388479430",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77874403700012",
+    "lng": "7.48998863057636",
+    "lat": "48.5257718034872"
+  }
+]

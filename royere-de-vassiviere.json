@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "230003261",
+    "raison_sociale": "PHARMACIE HEBRARD",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE BOURG",
+    "bp": "",
+    "cp": "23460",
+    "VILLE": "ROYERE DE VASSIVIERE    ",
+    "tel": "555647101",
+    "telecopie": "555647567",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83869957700014",
+    "lng": "1.9126845636333",
+    "lat": "45.8417313340818"
+  },
+  {
+    "finess": "230780322",
+    "raison_sociale": "EHPAD ROYERE DE VASSIVIERE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "EUGENE TRASSOUDAINE",
+    "bp": "",
+    "cp": "23460",
+    "VILLE": "ROYERE DE VASSIVIERE    ",
+    "tel": "555647144",
+    "telecopie": "555647607",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26231652400012",
+    "lng": "1.91546467698617",
+    "lat": "45.8426757452714"
+  }
+]

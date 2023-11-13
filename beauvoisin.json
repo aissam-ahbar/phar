@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "300005642",
+    "raison_sociale": "PHARMACIE DE BEAUVOISIN",
+    "numero voie": "13",
+    "type_voie": "PL",
+    "libelle_voie": "DU TEMPLE",
+    "bp": "",
+    "cp": "30640",
+    "VILLE": "BEAUVOISIN ",
+    "tel": "466013757",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34395960700023",
+    "lng": "4.32405193565493",
+    "lat": "43.7181153367748"
+  },
+  {
+    "finess": "300012986",
+    "raison_sociale": "EHPAD RESIDENCE PETITE CAMARGUE",
+    "numero voie": "386",
+    "type_voie": "CHE",
+    "libelle_voie": "DU STADE",
+    "bp": "",
+    "cp": "30640",
+    "VILLE": "BEAUVOISIN ",
+    "tel": "466023800",
+    "telecopie": "466023877",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20003270400013",
+    "lng": "4.32975326711125",
+    "lat": "43.7147375829162"
+  },
+  {
+    "finess": "300015997",
+    "raison_sociale": "SOLEIL NATURE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE VAUVERT",
+    "bp": "",
+    "cp": "30640",
+    "VILLE": "BEAUVOISIN ",
+    "tel": "466935226",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "44209966900115",
+    "lng": "4.30193708087635",
+    "lat": "43.7149091383553"
+  }
+]

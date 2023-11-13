@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "440026219",
+    "raison_sociale": "PHARMACIE SAINT VITAL",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "de la Jeannière - Zac du pe",
+    "bp": "",
+    "cp": "44320",
+    "VILLE": "ST VIAUD",
+    "tel": "240396090",
+    "telecopie": "240396280",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79410120400012",
+    "lng": "-2.01894337599268",
+    "lat": "47.2563168964721"
+  },
+  {
+    "finess": "440061034",
+    "raison_sociale": "FJT RESIDENCE ANDRE DESOURTEAUX",
+    "numero voie": "",
+    "type_voie": "ZAC",
+    "libelle_voie": "LE PETIT BOIS",
+    "bp": "",
+    "cp": "44320",
+    "VILLE": "ST VIAUD",
+    "tel": "272012400",
+    "telecopie": "",
+    "categorie etablissement": "257",
+    "libelle categorie": "Foyer de Jeunes Travailleurs (résidence sociale ou non)",
+    "siret": "77560510800536",
+    "lng": "-2.01795371374186",
+    "lat": "47.2527171884629"
+  }
+]

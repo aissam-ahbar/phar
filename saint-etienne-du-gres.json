@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "130032337",
+    "raison_sociale": "SELURL PHARMACIE PROVENCALE",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "de Saint-rémy",
+    "bp": "",
+    "cp": "13103",
+    "VILLE": "ST ETIENNE DU GRES   ",
+    "tel": "490491448",
+    "telecopie": "490491093",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82242704300028",
+    "lng": "4.73896177114471",
+    "lat": "43.783538037574"
+  },
+  {
+    "finess": "130039290",
+    "raison_sociale": "EHPAD RESIDENCE LES ALPILLES",
+    "numero voie": "24",
+    "type_voie": "BD",
+    "libelle_voie": "CHARLES DE GAULLE",
+    "bp": "",
+    "cp": "13103",
+    "VILLE": "ST ETIENNE DU GRES   ",
+    "tel": "490994343",
+    "telecopie": "490994350",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "48008096900227",
+    "lng": "4.72446118089422",
+    "lat": "43.782436341052"
+  },
+  {
+    "finess": "130782535",
+    "raison_sociale": "MECS LE RAYON SOLEIL POMEYROL",
+    "numero voie": "12",
+    "type_voie": "BD",
+    "libelle_voie": "DE GASPARIN",
+    "bp": "",
+    "cp": "13103",
+    "VILLE": "ST ETIENNE DU GRES   ",
+    "tel": "490491224",
+    "telecopie": "",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "78276769300016",
+    "lng": "4.72231501492035",
+    "lat": "43.7807646198101"
+  }
+]

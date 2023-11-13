@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "490002169",
+    "raison_sociale": "EHPAD LES HAUTS DE MAINE",
+    "numero voie": "10",
+    "type_voie": "RTE",
+    "libelle_voie": "DE JUIGNE",
+    "bp": "",
+    "cp": "49460",
+    "VILLE": "FENEU ",
+    "tel": "241320522",
+    "telecopie": "241321207",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20007262700025",
+    "lng": "-0.594531658211132",
+    "lat": "47.5692180660818"
+  },
+  {
+    "finess": "490533296",
+    "raison_sociale": "PHARMACIE DE FENEU",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DE GREZ",
+    "bp": "",
+    "cp": "49460",
+    "VILLE": "FENEU ",
+    "tel": "241320509",
+    "telecopie": "241956252",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "33110192300018",
+    "lng": "-0.594786223803999",
+    "lat": "47.5700527114604"
+  }
+]

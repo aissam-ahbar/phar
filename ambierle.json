@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "420002776",
+    "raison_sociale": "SELAS PHARMACIE D'AMBIERLE",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DE FAIMES",
+    "bp": "",
+    "cp": "42820",
+    "VILLE": "AMBIERLE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79341669400024",
+    "lng": "3.89526318445296",
+    "lat": "46.1047407186901"
+  },
+  {
+    "finess": "420015471",
+    "raison_sociale": "MAISON DE SANTE D'AMBIERLE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE FAIMES",
+    "bp": "",
+    "cp": "42820",
+    "VILLE": "AMBIERLE ",
+    "tel": "477874015",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "83091947800016",
+    "lng": "3.89567718569653",
+    "lat": "46.1047230440377"
+  }
+]

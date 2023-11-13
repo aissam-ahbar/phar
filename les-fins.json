@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "250005857",
+    "raison_sociale": "SERVICE AIDE A DOMICILE VAL DE MORTEAU",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "PRINCIPALE",
+    "bp": "",
+    "cp": "25500",
+    "VILLE": "LES FINS",
+    "tel": "381672789",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "79866166600056",
+    "lng": "6.62530278688814",
+    "lat": "47.0793475961885"
+  },
+  {
+    "finess": "250011095",
+    "raison_sociale": "PHARMACIE REYSER",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU CALVAIRE",
+    "bp": "",
+    "cp": "25500",
+    "VILLE": "LES FINS",
+    "tel": "381671702",
+    "telecopie": "381675844",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44994590600021",
+    "lng": "6.63538437532452",
+    "lat": "47.0827574952955"
+  }
+]

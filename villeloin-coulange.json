@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "370009474",
+    "raison_sociale": "SELARL PHARMACIE VAL DE L'INDROIS",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "DE NOUANS",
+    "bp": "",
+    "cp": "37460",
+    "VILLE": "VILLELOIN COULANGE",
+    "tel": "247926116",
+    "telecopie": "247927340",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52751523300015",
+    "lng": "1.22345354549369",
+    "lat": "47.1403304387036"
+  },
+  {
+    "finess": "370012767",
+    "raison_sociale": "MSP DE VILLELOIN COULANGE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE CHARREAU",
+    "bp": "",
+    "cp": "37460",
+    "VILLE": "VILLELOIN COULANGE",
+    "tel": "247926492",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "34916139800046",
+    "lng": "1.22241313130308",
+    "lat": "47.1391834011631"
+  },
+  {
+    "finess": "370100513",
+    "raison_sociale": "EHPAD LES BARAQUINS",
+    "numero voie": "36",
+    "type_voie": "R",
+    "libelle_voie": "DES LOGES",
+    "bp": "",
+    "cp": "37460",
+    "VILLE": "VILLELOIN COULANGE",
+    "tel": "247912929",
+    "telecopie": "247926296",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26370272200012",
+    "lng": "1.2286238184443",
+    "lat": "47.1382628612418"
+  }
+]

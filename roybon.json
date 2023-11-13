@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "380009050",
+    "raison_sociale": "SELARL MIRAMOND FABIEN",
+    "numero voie": "10",
+    "type_voie": "RTE",
+    "libelle_voie": "de la Verne",
+    "bp": "",
+    "cp": "38940",
+    "VILLE": "ROYBON ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82077141800028",
+    "lng": "5.24070441594015",
+    "lat": "45.2581956854173"
+  },
+  {
+    "finess": "380794610",
+    "raison_sociale": "EHPAD RENE MARION",
+    "numero voie": "280",
+    "type_voie": "ALL",
+    "libelle_voie": "DANIELLE MARION",
+    "bp": "",
+    "cp": "38940",
+    "VILLE": "ROYBON ",
+    "tel": "476363100",
+    "telecopie": "476362560",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26380019500053",
+    "lng": "5.24380643329812",
+    "lat": "45.2586433060539"
+  },
+  {
+    "finess": "380802371",
+    "raison_sociale": "HEBERGEMENT TEMPORAIRE 4 SAISONS",
+    "numero voie": "95",
+    "type_voie": "AV",
+    "libelle_voie": "LUZY DE PELISSAC",
+    "bp": "BP 3",
+    "cp": "38940",
+    "VILLE": "ROYBON ",
+    "tel": "476363100",
+    "telecopie": "476362560",
+    "categorie etablissement": "502",
+    "libelle categorie": "EHPA ne percevant pas des crédits d'assurance maladie",
+    "siret": "",
+    "lng": "5.24380643329812",
+    "lat": "45.2586433060539"
+  }
+]

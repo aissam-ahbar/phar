@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "570017780",
+    "raison_sociale": "PHARMACIE PRIORETTI",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "PELLERIN",
+    "bp": "",
+    "cp": "57100",
+    "VILLE": "MANOM ",
+    "tel": "382538943",
+    "telecopie": "382530577",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40347814200017",
+    "lng": "6.18348958002119",
+    "lat": "49.3668916752632"
+  },
+  {
+    "finess": "570029413",
+    "raison_sociale": "EHPAD LE PRIEURE DU THIONVILLOIS",
+    "numero voie": "10",
+    "type_voie": "",
+    "libelle_voie": "MAISON ROUGE",
+    "bp": "",
+    "cp": "57100",
+    "VILLE": "MANOM ",
+    "tel": "982812902",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "87924156000025",
+    "lng": "6.16947383222464",
+    "lat": "49.3814537871394"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "270007578",
+    "raison_sociale": "MAISON RELAIS DURAND LA HAYE MALHERBE",
+    "numero voie": "23",
+    "type_voie": "R",
+    "libelle_voie": "DU CARBONNIER",
+    "bp": "",
+    "cp": "27400",
+    "VILLE": "LA HAYE MALHERBE    ",
+    "tel": "232509060",
+    "telecopie": "232509061",
+    "categorie etablissement": "258",
+    "libelle categorie": "Maisons Relais - Pensions de Famille",
+    "siret": "43196860100804",
+    "lng": "1.05938284583494",
+    "lat": "49.2217006768418"
+  },
+  {
+    "finess": "270020431",
+    "raison_sociale": "PHARMACIE RIVETTE",
+    "numero voie": "5",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "27400",
+    "VILLE": "LA HAYE MALHERBE    ",
+    "tel": "232259406",
+    "telecopie": "232259406",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38493448500028",
+    "lng": "1.06531092580748",
+    "lat": "49.2234668329158"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "390006211",
+    "raison_sociale": "EHPAD RESIDENCE DE COURCELLES",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "JEAN FRANÇOIS THOMASSIN",
+    "bp": "",
+    "cp": "39700",
+    "VILLE": "ROCHEFORT SUR NENON    ",
+    "tel": "384800800",
+    "telecopie": "384800801",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "47904409100029",
+    "lng": "5.55641957551759",
+    "lat": "47.1246708118288"
+  },
+  {
+    "finess": "390007912",
+    "raison_sociale": "IL ETAIT UNE FOIS",
+    "numero voie": "4",
+    "type_voie": "",
+    "libelle_voie": "GRANGE VANNAND",
+    "bp": "",
+    "cp": "39700",
+    "VILLE": "ROCHEFORT SUR NENON    ",
+    "tel": "384814784",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "84883033700012",
+    "lng": "5.56988250081244",
+    "lat": "47.113189251748"
+  }
+]

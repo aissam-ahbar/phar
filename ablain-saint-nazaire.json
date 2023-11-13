@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "620004861",
+    "raison_sociale": "PHARMACIE PAULINE LIBERT",
+    "numero voie": "83",
+    "type_voie": "R",
+    "libelle_voie": "LANCINO",
+    "bp": "",
+    "cp": "62153",
+    "VILLE": "ABLAIN ST NAZAIRE    ",
+    "tel": "321453434",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38338072200017",
+    "lng": "2.71148689081939",
+    "lat": "50.3920535014867"
+  },
+  {
+    "finess": "620117226",
+    "raison_sociale": "EHPAD RESIDENCE DE LA VIEILLE EGLISE",
+    "numero voie": "105",
+    "type_voie": "R",
+    "libelle_voie": "MARCEL LANCINO",
+    "bp": "",
+    "cp": "62153",
+    "VILLE": "ABLAIN ST NAZAIRE    ",
+    "tel": "321451000",
+    "telecopie": "321452200",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "37833162300025",
+    "lng": "2.70888389670181",
+    "lat": "50.3919495398301"
+  }
+]

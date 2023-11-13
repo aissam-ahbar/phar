@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "340015015",
+    "raison_sociale": "EHPAD LA MURELLE",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "34480",
+    "VILLE": "LAURENS ",
+    "tel": "467906994",
+    "telecopie": "467906995",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26340052500022",
+    "lng": "3.20268597557377",
+    "lat": "43.520959294711"
+  },
+  {
+    "finess": "340026988",
+    "raison_sociale": "MSP DE LAURENS",
+    "numero voie": "4",
+    "type_voie": "AV",
+    "libelle_voie": "DES PLATANES",
+    "bp": "",
+    "cp": "34480",
+    "VILLE": "LAURENS ",
+    "tel": "467902728",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "85364982000018",
+    "lng": "3.19877325664013",
+    "lat": "43.5221703544073"
+  },
+  {
+    "finess": "340793603",
+    "raison_sociale": "SELARL LES DEUX RIVIERES",
+    "numero voie": "4",
+    "type_voie": "AV",
+    "libelle_voie": "des Platanes",
+    "bp": "",
+    "cp": "34480",
+    "VILLE": "LAURENS ",
+    "tel": "467902842",
+    "telecopie": "467094871",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79432581100022",
+    "lng": "3.19877325664013",
+    "lat": "43.5221703544073"
+  }
+]

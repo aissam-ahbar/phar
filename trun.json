@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "610009565",
+    "raison_sociale": "SAAD UNA SECTEUR DE TRUN",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "LOUIS GUENE",
+    "bp": "",
+    "cp": "61160",
+    "VILLE": "TRUN ",
+    "tel": "233345540",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "91952929700013",
+    "lng": "0.03417722913027",
+    "lat": "48.8434886512235"
+  },
+  {
+    "finess": "610784183",
+    "raison_sociale": "EHPAD P. WADIER DE TRUN",
+    "numero voie": "69",
+    "type_voie": "R",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "61160",
+    "VILLE": "TRUN ",
+    "tel": "233367026",
+    "telecopie": "233671971",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26610061900011",
+    "lng": "0.031238742777383",
+    "lat": "48.8441609055934"
+  },
+  {
+    "finess": "610786840",
+    "raison_sociale": "PHARMACIE DU CANADA",
+    "numero voie": "45",
+    "type_voie": "R",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "61160",
+    "VILLE": "TRUN ",
+    "tel": "233367345",
+    "telecopie": "233365291",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84897456400017",
+    "lng": "0.032524136707747",
+    "lat": "48.8435457350511"
+  }
+]

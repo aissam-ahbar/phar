@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "380020958",
+    "raison_sociale": "ACC. JOUR LA CLEF ET LA CLE DES PETITS",
+    "numero voie": "120",
+    "type_voie": "RTE",
+    "libelle_voie": "DE MARLIEU",
+    "bp": "",
+    "cp": "38110",
+    "VILLE": "ST DIDIER DE LA TOUR  ",
+    "tel": "474333718",
+    "telecopie": "",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "77554456201577",
+    "lng": "5.4696455206743",
+    "lat": "45.5493373991931"
+  },
+  {
+    "finess": "380796243",
+    "raison_sociale": "SCE TRAVAIL.FAMIL.SAINT-DIDIER",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38110",
+    "VILLE": "ST DIDIER DE LA TOUR  ",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37852553900011",
+    "lng": "5.48312155496319",
+    "lat": "45.5553729117601"
+  },
+  {
+    "finess": "380796912",
+    "raison_sociale": "SCE AIDE MENAGERE SAINT-DIDIER",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38110",
+    "VILLE": "ST DIDIER DE LA TOUR  ",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37852561200016",
+    "lng": "5.48312155496319",
+    "lat": "45.5553729117601"
+  }
+]

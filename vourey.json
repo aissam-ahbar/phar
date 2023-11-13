@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380789958",
+    "raison_sociale": "EHPAD VAL MARIE",
+    "numero voie": "210",
+    "type_voie": "RTE",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "38210",
+    "VILLE": "VOUREY ",
+    "tel": "476070507",
+    "telecopie": "476073293",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "42157582000285",
+    "lng": "5.51693523444289",
+    "lat": "45.3211616328768"
+  },
+  {
+    "finess": "380796607",
+    "raison_sociale": "SCE AIDE MENAGERE VOUREY",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38210",
+    "VILLE": "VOUREY ",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37860633900018",
+    "lng": "5.52064227966394",
+    "lat": "45.3195790841863"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "490022704",
+    "raison_sociale": "SAAD DOMALIANCE CHOLET",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "D'ANJOU",
+    "bp": "",
+    "cp": "49280",
+    "VILLE": "ST LEGER SOUS CHOLET   ",
+    "tel": "221000277",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "79148134400517",
+    "lng": "-0.910272315884566",
+    "lat": "47.092098801856"
+  },
+  {
+    "finess": "490533965",
+    "raison_sociale": "PHARMACIE SAINT LEGEOISE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE LA VENDEE",
+    "bp": "",
+    "cp": "49280",
+    "VILLE": "ST LEGER SOUS CHOLET   ",
+    "tel": "241581403",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "89917700000010",
+    "lng": "-0.910441760999127",
+    "lat": "47.0917965003633"
+  }
+]

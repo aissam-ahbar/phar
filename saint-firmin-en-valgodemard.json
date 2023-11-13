@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "50003557",
+    "raison_sociale": "SELEURL PHARMACIE DU VALGAUDEMAR",
+    "numero voie": "1",
+    "type_voie": "LOT",
+    "libelle_voie": "LA FOUGEROUSE",
+    "bp": "SAINT-FIRMIN-EN-VALGAUDEMAR",
+    "cp": "5800",
+    "VILLE": "ST FIRMIN EN VALGODEMARD   ",
+    "tel": "492552180",
+    "telecopie": "492552180",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88323535000013",
+    "lng": "6.01961457855569",
+    "lat": "44.7753723259877"
+  },
+  {
+    "finess": "50003599",
+    "raison_sociale": "EHPAD LE DRAC SITE LA SEVERAISSE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "5800",
+    "VILLE": "ST FIRMIN EN VALGODEMARD   ",
+    "tel": "492554955",
+    "telecopie": "492554959",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "83250600000021",
+    "lng": "6.02944110408403",
+    "lat": "44.7807847468813"
+  },
+  {
+    "finess": "50007830",
+    "raison_sociale": "MSP DU VALGAUDEMAR",
+    "numero voie": "",
+    "type_voie": "QUA",
+    "libelle_voie": "LA FOUGEROUSE",
+    "bp": "",
+    "cp": "5800",
+    "VILLE": "ST FIRMIN EN VALGODEMARD   ",
+    "tel": "492552492",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "6.01961457855569",
+    "lat": "44.7753723259877"
+  }
+]

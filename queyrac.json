@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "330050360",
+    "raison_sociale": "PHARMACIE BATTISTI",
+    "numero voie": "12",
+    "type_voie": "R",
+    "libelle_voie": "du 8 Mai 1945",
+    "bp": "",
+    "cp": "33340",
+    "VILLE": "QUEYRAC ",
+    "tel": "556598021",
+    "telecopie": "556598273",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81015531700011",
+    "lng": "-0.977686095298115",
+    "lat": "45.3622056882845"
+  },
+  {
+    "finess": "330063728",
+    "raison_sociale": "LV SENS&VEILLE",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "DES PLATANES",
+    "bp": "",
+    "cp": "33340",
+    "VILLE": "QUEYRAC ",
+    "tel": "611408841",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "87784322700019",
+    "lng": "-0.979395044364647",
+    "lat": "45.3620133031366"
+  }
+]

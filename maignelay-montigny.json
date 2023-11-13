@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "600004634",
+    "raison_sociale": "PHARMACIE VAN VYNCKT-DE BRACKELEIRE",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "DE SAINT JUST",
+    "bp": "",
+    "cp": "60420",
+    "VILLE": "MAIGNELAY MONTIGNY",
+    "tel": "344511412",
+    "telecopie": "344512882",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40131581700023",
+    "lng": "2.51511018473633",
+    "lat": "49.5518015110514"
+  },
+  {
+    "finess": "600106199",
+    "raison_sociale": "RESIDENCE AUTONOMIE J. GIRARDEAU",
+    "numero voie": "18",
+    "type_voie": "R",
+    "libelle_voie": "FRANÇOIS MITTERRAND",
+    "bp": "",
+    "cp": "60420",
+    "VILLE": "MAIGNELAY MONTIGNY",
+    "tel": "344512987",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "31021419200059",
+    "lng": "2.51064991080689",
+    "lat": "49.5480207192704"
+  }
+]

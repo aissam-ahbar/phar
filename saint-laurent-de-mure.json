@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "690017033",
+    "raison_sociale": "GRANDE PHARMACIE LAURENTINOISE",
+    "numero voie": "102",
+    "type_voie": "AV",
+    "libelle_voie": "Jean Moulin",
+    "bp": "",
+    "cp": "69720",
+    "VILLE": "ST LAURENT DE MURE   ",
+    "tel": "478408013",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81897641700019",
+    "lng": "5.04653624987926",
+    "lat": "45.6877700868927"
+  },
+  {
+    "finess": "690040902",
+    "raison_sociale": "LBM UNILIANS BIOGROUP ST LAURENT DE MU",
+    "numero voie": "81",
+    "type_voie": "R",
+    "libelle_voie": "JEAN MOULIN",
+    "bp": "",
+    "cp": "69720",
+    "VILLE": "ST LAURENT DE MURE   ",
+    "tel": "472489109",
+    "telecopie": "",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "51348700900294",
+    "lng": "5.04462569402595",
+    "lat": "45.688482174865"
+  },
+  {
+    "finess": "690044110",
+    "raison_sociale": "CAPNEO SAINT-LAURENT-DE-MURE",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "GEORGES POLOSSAT",
+    "bp": "",
+    "cp": "69720",
+    "VILLE": "ST LAURENT DE MURE   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "81154868400034",
+    "lng": "5.04603447774699",
+    "lat": "45.6924479809305"
+  }
+]

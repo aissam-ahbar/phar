@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "230002362",
+    "raison_sociale": "PHARMACIE DE GENOUILLAC",
+    "numero voie": "3",
+    "type_voie": "",
+    "libelle_voie": "GRDE RUE",
+    "bp": "",
+    "cp": "23350",
+    "VILLE": "GENOUILLAC ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80299271900012",
+    "lng": "1.99399269324885",
+    "lat": "46.3519707565225"
+  },
+  {
+    "finess": "230005274",
+    "raison_sociale": "MSP MULTISITE MARCHEPROSANTE",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA PERCEPTION",
+    "bp": "",
+    "cp": "23350",
+    "VILLE": "GENOUILLAC ",
+    "tel": "660366119",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "87778611100014",
+    "lng": "1.99399269324885",
+    "lat": "46.3519707565225"
+  },
+  {
+    "finess": "230781924",
+    "raison_sociale": "SERVICE DE SOINS A DOMICILE",
+    "numero voie": "7",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "23350",
+    "VILLE": "GENOUILLAC ",
+    "tel": "555808451",
+    "telecopie": "555807584",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "34060787800014",
+    "lng": "1.9931551769505",
+    "lat": "46.3530287064664"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "410008031",
+    "raison_sociale": "ASSOCIATION HOME EQUI-TABLE",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "L'INFRERIE",
+    "bp": "",
+    "cp": "41230",
+    "VILLE": "VERNOU EN SOLOGNE    ",
+    "tel": "254982751",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "50812885700010",
+    "lng": "1.69795155831872",
+    "lat": "47.5132303657357"
+  },
+  {
+    "finess": "410010268",
+    "raison_sociale": "SAAD ADMR LA SOLOGNOTE",
+    "numero voie": "40",
+    "type_voie": "R",
+    "libelle_voie": "DES MANIERES",
+    "bp": "",
+    "cp": "41230",
+    "VILLE": "VERNOU EN SOLOGNE    ",
+    "tel": "254956700",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "39456443900039",
+    "lng": "1.68270865995561",
+    "lat": "47.5004371114619"
+  }
+]

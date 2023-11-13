@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "330051194",
+    "raison_sociale": "PHARMACIE BELLARD",
+    "numero voie": "18",
+    "type_voie": "RTE",
+    "libelle_voie": "DE L OCEAN",
+    "bp": "",
+    "cp": "33480",
+    "VILLE": "STE HELENE",
+    "tel": "556585816",
+    "telecopie": "557885566",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "85128476000028",
+    "lng": "-0.886503604013633",
+    "lat": "44.9652322383743"
+  },
+  {
+    "finess": "330792078",
+    "raison_sociale": "SSIAD MUTUALITE SANTE SERVICE DU MEDOC",
+    "numero voie": "66",
+    "type_voie": "R",
+    "libelle_voie": "DES ANCIENS COMBATTANTS",
+    "bp": "",
+    "cp": "33480",
+    "VILLE": "STE HELENE",
+    "tel": "556587390",
+    "telecopie": "",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "77558497200613",
+    "lng": "-0.885012657467723",
+    "lat": "44.9646434317456"
+  },
+  {
+    "finess": "710974395",
+    "raison_sociale": "EHPAD RESIDENCE LES QUATRE SAISONS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE BOURG",
+    "bp": "",
+    "cp": "71390",
+    "VILLE": "STE HELENE",
+    "tel": "385942121",
+    "telecopie": "385942129",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "34982192600012",
+    "lng": "4.64312788518471",
+    "lat": "46.7566058865989"
+  }
+]

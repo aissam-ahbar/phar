@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "140006073",
+    "raison_sociale": "SAD ASS LOCALE ADMR RIVERAINS DROME",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DU MARCHE",
+    "bp": "",
+    "cp": "14490",
+    "VILLE": "BALLEROY SUR DROME    ",
+    "tel": "231518031",
+    "telecopie": "231518031",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32028020900018",
+    "lng": "-0.83846152976986",
+    "lat": "49.1809104982966"
+  },
+  {
+    "finess": "140009226",
+    "raison_sociale": "PHARMACIE DE LA DROME",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DES FORGES",
+    "bp": "",
+    "cp": "14490",
+    "VILLE": "BALLEROY SUR DROME    ",
+    "tel": "231216010",
+    "telecopie": "231218742",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "37831449600019",
+    "lng": "-0.839164013337981",
+    "lat": "49.1811995292596"
+  }
+]

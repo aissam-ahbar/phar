@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "470012105",
+    "raison_sociale": "PHARMACIE DE SAINT  SYLVESTRE",
+    "numero voie": "16",
+    "type_voie": "R",
+    "libelle_voie": "DU PONT",
+    "bp": "",
+    "cp": "47140",
+    "VILLE": "ST SYLVESTRE SUR LOT   ",
+    "tel": "553412452",
+    "telecopie": "553414650",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88782945500013",
+    "lng": "0.807150420797817",
+    "lat": "44.3968331833771"
+  },
+  {
+    "finess": "470017567",
+    "raison_sociale": "SAAD ADMR CANTON DE PENNE D'AGENAIS",
+    "numero voie": "16",
+    "type_voie": "AV",
+    "libelle_voie": "DE GALIANE",
+    "bp": "",
+    "cp": "47140",
+    "VILLE": "ST SYLVESTRE SUR LOT   ",
+    "tel": "553413561",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "39913154900038",
+    "lng": "0.81028636773174",
+    "lat": "44.3964516371862"
+  }
+]

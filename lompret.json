@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "590022620",
+    "raison_sociale": "PHARMACIE TERNAUX",
+    "numero voie": "22",
+    "type_voie": "R",
+    "libelle_voie": "DE L EGLISE",
+    "bp": "",
+    "cp": "59840",
+    "VILLE": "LOMPRET ",
+    "tel": "320088801",
+    "telecopie": "320086452",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82309244000010",
+    "lng": "2.99178056932395",
+    "lat": "50.668288831919"
+  },
+  {
+    "finess": "590057071",
+    "raison_sociale": "CAU AFEJI LOMPRET",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA PHALECQUE",
+    "bp": "",
+    "cp": "59840",
+    "VILLE": "LOMPRET ",
+    "tel": "320218170",
+    "telecopie": "",
+    "categorie etablissement": "219",
+    "libelle categorie": "Autre Centre d'Accueil",
+    "siret": "30457621800412",
+    "lng": "2.99818426719705",
+    "lat": "50.6644563661119"
+  },
+  {
+    "finess": "590780417",
+    "raison_sociale": "CHRS LA PHALECQUE AFEJI DUNKERQUE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE VERLINGHEM",
+    "bp": "LA PHALECQUE",
+    "cp": "59840",
+    "VILLE": "LOMPRET ",
+    "tel": "320218170",
+    "telecopie": "320422459",
+    "categorie etablissement": "214",
+    "libelle categorie": "Centre Hébergement & Réinsertion Sociale (C.H.R.S.)",
+    "siret": "30457621800297",
+    "lng": "2.99047985123721",
+    "lat": "50.6695423789119"
+  }
+]

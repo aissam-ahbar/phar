@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "420783664",
+    "raison_sociale": "M.R \"L'ETOILE DU SOIR\"",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE BOURG",
+    "bp": "",
+    "cp": "42560",
+    "VILLE": "ST JEAN SOLEYMIEUX    ",
+    "tel": "477767166",
+    "telecopie": "477765176",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26420069200012",
+    "lng": "4.03988746203211",
+    "lat": "45.5032466560429"
+  },
+  {
+    "finess": "420788473",
+    "raison_sociale": "SSIAD DU HAUT FOREZ",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE BOURG",
+    "bp": "",
+    "cp": "42560",
+    "VILLE": "ST JEAN SOLEYMIEUX    ",
+    "tel": "477767271",
+    "telecopie": "477765821",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "",
+    "lng": "4.03988746203211",
+    "lat": "45.5032466560429"
+  },
+  {
+    "finess": "420792772",
+    "raison_sociale": "SCE DE TRAVAILLEUSES FAMILIALES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "42560",
+    "VILLE": "ST JEAN SOLEYMIEUX    ",
+    "tel": "477767012",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "4.0396097766603",
+    "lat": "45.5033266742778"
+  }
+]

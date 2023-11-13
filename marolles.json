@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "600104905",
+    "raison_sociale": "ESAT APEI-2V MAROLLES",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DU CHÂTEAU",
+    "bp": "",
+    "cp": "60890",
+    "VILLE": "MAROLLES ",
+    "tel": "323967154",
+    "telecopie": "323969023",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "79402103000166",
+    "lng": "3.10574530261795",
+    "lat": "49.1696703187146"
+  },
+  {
+    "finess": "600104913",
+    "raison_sociale": "FH APEI-2V MAROLLES",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DU CHÂTEAU",
+    "bp": "",
+    "cp": "60890",
+    "VILLE": "MAROLLES ",
+    "tel": "323967154",
+    "telecopie": "323969023",
+    "categorie etablissement": "252",
+    "libelle categorie": "Foyer Hébergement Adultes Handicapés",
+    "siret": "79402103000026",
+    "lng": "3.10574530261795",
+    "lat": "49.1696703187146"
+  }
+]

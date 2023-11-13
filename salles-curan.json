@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "120004130",
+    "raison_sociale": "PHARMACIE VERMOREL",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA CONFRERIE",
+    "bp": "",
+    "cp": "12410",
+    "VILLE": "SALLES CURAN",
+    "tel": "565463410",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81536973100014",
+    "lng": "2.78690362001497",
+    "lat": "44.1821904994664"
+  },
+  {
+    "finess": "120005434",
+    "raison_sociale": "SAAD AL ADMR PARELOUP-MONTS DU LEVEZOU",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DEL PEYRAL",
+    "bp": "IMMEUBLE DU CREDIT AGRICOLE",
+    "cp": "12410",
+    "VILLE": "SALLES CURAN",
+    "tel": "565772222",
+    "telecopie": "565772220",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "2.78738509406539",
+    "lat": "44.1825460664338"
+  },
+  {
+    "finess": "120006887",
+    "raison_sociale": "MSP RURALE DE SALLES CURAN",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DU FOIRAIL",
+    "bp": "",
+    "cp": "12410",
+    "VILLE": "SALLES CURAN",
+    "tel": "565461212",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "50531950900012",
+    "lng": "2.78778473679401",
+    "lat": "44.1817052618983"
+  }
+]

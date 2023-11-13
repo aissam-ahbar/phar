@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "440040764",
+    "raison_sociale": "FAM BLANC",
+    "numero voie": "30",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA COUTANCIERE",
+    "bp": "BP 4306",
+    "cp": "44243",
+    "VILLE": "LA CHAPELLE SUR ERDRE CEDE  ",
+    "tel": "240725858",
+    "telecopie": "240728493",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "78504100500337",
+    "lng": "-1.56538609266844",
+    "lat": "47.3129316034021"
+  },
+  {
+    "finess": "440049005",
+    "raison_sociale": "SATVA_E LA CHAPELLE",
+    "numero voie": "28",
+    "type_voie": "R",
+    "libelle_voie": "CHARLES DE GAULLE",
+    "bp": "BP 4315",
+    "cp": "44243",
+    "VILLE": "LA CHAPELLE SUR ERDRE CEDE  ",
+    "tel": "140786957",
+    "telecopie": "",
+    "categorie etablissement": "390",
+    "libelle categorie": "Etablissement d'Accueil Temporaire d'Enfants Handicapés",
+    "siret": "77568873200616",
+    "lng": "-1.55892256802974",
+    "lat": "47.3050404514826"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "260004213",
+    "raison_sociale": "PHARMACIE TOMAS VACHAT",
+    "numero voie": "56",
+    "type_voie": "R",
+    "libelle_voie": "des Monts du Matin",
+    "bp": "",
+    "cp": "26300",
+    "VILLE": "CHATUZANGE LE GOUBET    ",
+    "tel": "475472444",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81040013500010",
+    "lng": "5.09037843490077",
+    "lat": "45.0072705008644"
+  },
+  {
+    "finess": "260016571",
+    "raison_sociale": "ASS ADMR CHATUZANGE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "26300",
+    "VILLE": "CHATUZANGE LE GOUBET    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "5.08978615485944",
+    "lat": "45.0063692241676"
+  },
+  {
+    "finess": "260022652",
+    "raison_sociale": "CENTRE DE SANTE OPHTALMO DU VERCORS",
+    "numero voie": "130",
+    "type_voie": "AV",
+    "libelle_voie": "CHARLES DE GAULLE",
+    "bp": "",
+    "cp": "26300",
+    "VILLE": "CHATUZANGE LE GOUBET    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "91298591800016",
+    "lng": "5.08060185697815",
+    "lat": "45.0361074529019"
+  }
+]

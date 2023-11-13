@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "100001239",
+    "raison_sociale": "EHPAD LA MAISON DU PAYS DE RAMERUPT",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DES ANCIENS COMBATTANTS",
+    "bp": "",
+    "cp": "10240",
+    "VILLE": "RAMERUPT ",
+    "tel": "325372370",
+    "telecopie": "325372399",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "42376064400025",
+    "lng": "4.2912423347412",
+    "lat": "48.5210415652578"
+  },
+  {
+    "finess": "100012210",
+    "raison_sociale": "SAAD DE LA VALLÉE DE L'AUBE - ADMR",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "CHARLES DELAUNAY",
+    "bp": "",
+    "cp": "10240",
+    "VILLE": "RAMERUPT ",
+    "tel": "325374215",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "30146917700010",
+    "lng": "4.2919431760539",
+    "lat": "48.5193632105881"
+  }
+]

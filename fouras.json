@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "170011340",
+    "raison_sociale": "PHARMACIE DE L'OCEAN",
+    "numero voie": "83",
+    "type_voie": "BD",
+    "libelle_voie": "des Deux Ports",
+    "bp": "",
+    "cp": "17450",
+    "VILLE": "FOURAS ",
+    "tel": "546842544",
+    "telecopie": "546842906",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80090717200012",
+    "lng": "-1.09336934936865",
+    "lat": "45.9884525232556"
+  },
+  {
+    "finess": "170011365",
+    "raison_sociale": "PHARMACIE  DES 3 ILES",
+    "numero voie": "56",
+    "type_voie": "R",
+    "libelle_voie": "DE LA HALLE",
+    "bp": "",
+    "cp": "17450",
+    "VILLE": "FOURAS ",
+    "tel": "546846025",
+    "telecopie": "546840891",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75094327600022",
+    "lng": "-1.09406451135635",
+    "lat": "45.9877817584588"
+  },
+  {
+    "finess": "170804413",
+    "raison_sociale": "EHPAD LA PRESQU'ILE",
+    "numero voie": "1",
+    "type_voie": "CHE",
+    "libelle_voie": "DE LA BAIE D'YVES",
+    "bp": "",
+    "cp": "17450",
+    "VILLE": "FOURAS ",
+    "tel": "546823333",
+    "telecopie": "546823300",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "82342201900021",
+    "lng": "-1.09345725259958",
+    "lat": "45.9881562902231"
+  }
+]

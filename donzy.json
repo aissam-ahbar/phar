@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "580001824",
+    "raison_sociale": "PHARMACIE SALAVERT - LANDJAS",
+    "numero voie": "46",
+    "type_voie": "R",
+    "libelle_voie": "DU GENERAL LECLERC",
+    "bp": "",
+    "cp": "58220",
+    "VILLE": "DONZY ",
+    "tel": "386393127",
+    "telecopie": "386394178",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48227908000022",
+    "lng": "3.12513214604103",
+    "lat": "47.3718211231543"
+  },
+  {
+    "finess": "580002608",
+    "raison_sociale": "SAAD CANTON DE DONZY",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DU BAS DE LA CHAUME",
+    "bp": "",
+    "cp": "58220",
+    "VILLE": "DONZY ",
+    "tel": "386393399",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "34355770800017",
+    "lng": "3.12326555757053",
+    "lat": "47.3709039995477"
+  },
+  {
+    "finess": "580971299",
+    "raison_sociale": "EHPAD LES JARDINS DES LAIGNES",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "GENERAL LECLERC",
+    "bp": "",
+    "cp": "58220",
+    "VILLE": "DONZY ",
+    "tel": "386268600",
+    "telecopie": "386268626",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26580009400012",
+    "lng": "3.12083731730667",
+    "lat": "47.3712198236876"
+  }
+]

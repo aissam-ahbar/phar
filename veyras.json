@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "70004361",
+    "raison_sociale": "MAS  DU BOIS LAVILLE",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DE LA CHAZE",
+    "bp": "BP 241",
+    "cp": "7000",
+    "VILLE": "VEYRAS ",
+    "tel": "475202503",
+    "telecopie": "475202505",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "77563330801015",
+    "lng": "4.57254002741703",
+    "lat": "44.7339186764403"
+  },
+  {
+    "finess": "70785647",
+    "raison_sociale": "ESAT SAINT JOSEPH",
+    "numero voie": "658",
+    "type_voie": "CHE",
+    "libelle_voie": "DE BEAUVERT",
+    "bp": "LA BAREZE",
+    "cp": "7000",
+    "VILLE": "VEYRAS ",
+    "tel": "475647008",
+    "telecopie": "475647008",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77563330800223",
+    "lng": "4.57086876979095",
+    "lat": "44.731658783746"
+  }
+]

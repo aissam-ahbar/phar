@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "2B0003354",
+    "raison_sociale": "SELAS PHARMACIE DE LA GIRAGLIA",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "MACINAGGIO",
+    "bp": "",
+    "cp": "20247",
+    "VILLE": "ROGLIANO ",
+    "tel": "495354233",
+    "telecopie": "495354680",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "47877349200010",
+    "lng": "9.44809901978234",
+    "lat": "42.9578158134883"
+  },
+  {
+    "finess": "2B0006316",
+    "raison_sociale": "SAAD ADMR CAP EST",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "MACINAGGIO",
+    "cp": "20247",
+    "VILLE": "ROGLIANO ",
+    "tel": "495381784",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "9.44809901978234",
+    "lat": "42.9578158134883"
+  },
+  {
+    "finess": "2B0006787",
+    "raison_sociale": "MSP CAP SANTE",
+    "numero voie": "",
+    "type_voie": "RES",
+    "libelle_voie": "ANNONCIADE",
+    "bp": "",
+    "cp": "20248",
+    "VILLE": "ROGLIANO ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "9.41684343705397",
+    "lat": "42.9556135302252"
+  }
+]

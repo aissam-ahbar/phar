@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "540011152",
+    "raison_sociale": "PHARMACIE PECRIAUX - LOSSEROY",
+    "numero voie": "24",
+    "type_voie": "R",
+    "libelle_voie": "GAMBETTA",
+    "bp": "",
+    "cp": "54590",
+    "VILLE": "HUSSIGNY GODBRANGE",
+    "tel": "382444058",
+    "telecopie": "382444761",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39242406500010",
+    "lng": "5.87234714471432",
+    "lat": "49.4919426379598"
+  },
+  {
+    "finess": "540023371",
+    "raison_sociale": "EHPAD LA MAISON DES CERISIERS",
+    "numero voie": "14",
+    "type_voie": "ALL",
+    "libelle_voie": "DE LA FRATERNITE",
+    "bp": "",
+    "cp": "54590",
+    "VILLE": "HUSSIGNY GODBRANGE",
+    "tel": "382252010",
+    "telecopie": "354560094",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "32364952500694",
+    "lng": "5.86593411878891",
+    "lat": "49.492412861153"
+  },
+  {
+    "finess": "540026259",
+    "raison_sociale": "MSP DE HUSSIGNY GODBRANGE",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DE L'HOPITAL",
+    "bp": "",
+    "cp": "54590",
+    "VILLE": "HUSSIGNY GODBRANGE",
+    "tel": "382443288",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "5.86955675791886",
+    "lat": "49.4934243182083"
+  }
+]

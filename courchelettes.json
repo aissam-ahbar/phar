@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590013637",
+    "raison_sociale": "PHARMACIE FOURCARD",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "JULES COURMONT",
+    "bp": "",
+    "cp": "59552",
+    "VILLE": "COURCHELETTES ",
+    "tel": "327886033",
+    "telecopie": "327881181",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49186884000019",
+    "lng": "3.06165335260607",
+    "lat": "50.3428325756026"
+  },
+  {
+    "finess": "590046983",
+    "raison_sociale": "EHPAD LES TERRASSES DE LA SCARPE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "GEORGES BUIRE",
+    "bp": "",
+    "cp": "59552",
+    "VILLE": "COURCHELETTES ",
+    "tel": "327997430",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "",
+    "lng": "3.05638025827062",
+    "lat": "50.3407988846672"
+  }
+]

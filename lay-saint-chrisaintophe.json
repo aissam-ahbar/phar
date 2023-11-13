@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "540002599",
+    "raison_sociale": "MR BAUD. DE COURCELLES HLI POMPEY-LAY",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "54690",
+    "VILLE": "LAY ST CHRISTOPHE    ",
+    "tel": "383228002",
+    "telecopie": "383889660",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26540006900083",
+    "lng": "6.19999913932359",
+    "lat": "48.7485484074039"
+  },
+  {
+    "finess": "540009412",
+    "raison_sociale": "CTRE DE READAPTATION LAY ST CHRISTOPHE",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DU PROFESSEUR MONTAUT",
+    "bp": "",
+    "cp": "54690",
+    "VILLE": "LAY ST CHRISTOPHE    ",
+    "tel": "383222324",
+    "telecopie": "383222320",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "42427340700108",
+    "lng": "6.18475590041067",
+    "lat": "48.7465950994963"
+  },
+  {
+    "finess": "540013976",
+    "raison_sociale": "PHARMACIE LAMBERT DES CILLEULS",
+    "numero voie": "31",
+    "type_voie": "R",
+    "libelle_voie": "DU BARON DE COURCELLES",
+    "bp": "",
+    "cp": "54690",
+    "VILLE": "LAY ST CHRISTOPHE    ",
+    "tel": "383228041",
+    "telecopie": "383229241",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40411283100031",
+    "lng": "6.20132800276996",
+    "lat": "48.7479105695509"
+  }
+]

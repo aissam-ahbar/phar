@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "370000598",
+    "raison_sociale": "EHPAD GASTON CHARGE",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "LES TERMELLES",
+    "bp": "",
+    "cp": "37160",
+    "VILLE": "ABILLY ",
+    "tel": "247913500",
+    "telecopie": "247597747",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26370007200014",
+    "lng": "0.725788303812589",
+    "lat": "46.9387163101885"
+  },
+  {
+    "finess": "370100125",
+    "raison_sociale": "SSIAD ABILLY",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "LES TERMELLES",
+    "bp": "",
+    "cp": "37160",
+    "VILLE": "ABILLY ",
+    "tel": "247913535",
+    "telecopie": "247597747",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "26370007200022",
+    "lng": "0.725788303812589",
+    "lat": "46.9387163101885"
+  }
+]

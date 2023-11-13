@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "400009452",
+    "raison_sociale": "PHARMACIE DE CHALOSSE",
+    "numero voie": "38",
+    "type_voie": "AV",
+    "libelle_voie": "DU STADE",
+    "bp": "",
+    "cp": "40360",
+    "VILLE": "POMAREZ ",
+    "tel": "558893002",
+    "telecopie": "558553238",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49125959400027",
+    "lng": "-0.827105533863587",
+    "lat": "43.627012575745"
+  },
+  {
+    "finess": "400012258",
+    "raison_sociale": "SAAD ADMR POMAREZ",
+    "numero voie": "132",
+    "type_voie": "IMP",
+    "libelle_voie": "DU BELVEDERE",
+    "bp": "",
+    "cp": "40360",
+    "VILLE": "POMAREZ ",
+    "tel": "558898121",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32331577000020",
+    "lng": "-0.828918842967974",
+    "lat": "43.6329005268825"
+  },
+  {
+    "finess": "400786455",
+    "raison_sociale": "EHPAD LE CONTE",
+    "numero voie": "875",
+    "type_voie": "RTE",
+    "libelle_voie": "DES PYRENEES",
+    "bp": "",
+    "cp": "40360",
+    "VILLE": "POMAREZ ",
+    "tel": "558553970",
+    "telecopie": "558553974",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "37892515000203",
+    "lng": "-0.82249796174268",
+    "lat": "43.6226544353944"
+  }
+]

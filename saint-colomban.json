@@ -1,0 +1,19 @@
+[
+  {
+    "finess": "440016418",
+    "raison_sociale": "PHARMACIE GIRARD",
+    "numero voie": "41",
+    "type_voie": "AV",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "44310",
+    "VILLE": "ST COLOMBAN",
+    "tel": "240058926",
+    "telecopie": "240059876",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49797936900012",
+    "lng": "-1.5774804491414",
+    "lat": "47.012372044899"
+  }
+]

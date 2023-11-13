@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590011334",
+    "raison_sociale": "SELARL PHARMACIE ENDERLE",
+    "numero voie": "19",
+    "type_voie": "R",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "59980",
+    "VILLE": "BERTRY ",
+    "tel": "327751862",
+    "telecopie": "327751348",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53790561400013",
+    "lng": "3.44123495098136",
+    "lat": "50.0878099055148"
+  },
+  {
+    "finess": "590058400",
+    "raison_sociale": "MSP DE BERTRY",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "DELORY",
+    "bp": "",
+    "cp": "59980",
+    "VILLE": "BERTRY ",
+    "tel": "327751852",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "80439311400017",
+    "lng": "3.43808505911519",
+    "lat": "50.0882127699826"
+  }
+]

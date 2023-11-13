@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "270000979",
+    "raison_sociale": "EHPAD LA MAISON D'HARCOURT",
+    "numero voie": "4",
+    "type_voie": "PL",
+    "libelle_voie": "FRANÇOISE DE BRANCAS",
+    "bp": "",
+    "cp": "27800",
+    "VILLE": "HARCOURT ",
+    "tel": "232438700",
+    "telecopie": "232456081",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26270293900014",
+    "lng": "0.787322686706216",
+    "lat": "49.1670905580824"
+  },
+  {
+    "finess": "270020415",
+    "raison_sociale": "PHARMACIE D'HARCOURT",
+    "numero voie": "16",
+    "type_voie": "R",
+    "libelle_voie": "de la Liberation Aout 1944",
+    "bp": "",
+    "cp": "27800",
+    "VILLE": "HARCOURT ",
+    "tel": "232461584",
+    "telecopie": "232449806",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80233134800010",
+    "lng": "0.785761209229191",
+    "lat": "49.1668801675062"
+  },
+  {
+    "finess": "270027931",
+    "raison_sociale": "GIP D'HARCOURT",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "27800",
+    "VILLE": "HARCOURT ",
+    "tel": "232450202",
+    "telecopie": "",
+    "categorie etablissement": "699",
+    "libelle categorie": "Entité Ayant Autorisation",
+    "siret": "13002192600014",
+    "lng": "0.795270638931049",
+    "lat": "49.1732515876058"
+  }
+]

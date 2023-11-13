@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "640008090",
+    "raison_sociale": "PHARMACIE DE BENEJACQ",
+    "numero voie": "16",
+    "type_voie": "R",
+    "libelle_voie": "DES PYRENEES",
+    "bp": "",
+    "cp": "64800",
+    "VILLE": "BENEJACQ ",
+    "tel": "559610569",
+    "telecopie": "559134669",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52260850400018",
+    "lng": "-0.211982963878115",
+    "lat": "43.1916455819253"
+  },
+  {
+    "finess": "640021762",
+    "raison_sociale": "LBM BIOPOLE - BENEJACQ PYRENEES",
+    "numero voie": "597",
+    "type_voie": "R",
+    "libelle_voie": "DES PYRENEES",
+    "bp": "",
+    "cp": "64800",
+    "VILLE": "BENEJACQ ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "38982069700198",
+    "lng": "-0.219864018448094",
+    "lat": "43.1906183929073"
+  }
+]

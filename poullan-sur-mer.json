@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "290010792",
+    "raison_sociale": "PHARMACIE DE POULLAN",
+    "numero voie": "2",
+    "type_voie": "PL",
+    "libelle_voie": "Kreiz Ker",
+    "bp": "",
+    "cp": "29100",
+    "VILLE": "POULLAN SUR MER    ",
+    "tel": "298742513",
+    "telecopie": "298745737",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39194075600011",
+    "lng": "-4.41429653477287",
+    "lat": "48.0807300521559"
+  },
+  {
+    "finess": "290014935",
+    "raison_sociale": "HOPITAL DE JOUR CMP STERHEOL",
+    "numero voie": "30",
+    "type_voie": "R",
+    "libelle_voie": "PENN AR YEUN",
+    "bp": "",
+    "cp": "29100",
+    "VILLE": "POULLAN SUR MER    ",
+    "tel": "298751562",
+    "telecopie": "298707674",
+    "categorie etablissement": "292",
+    "libelle categorie": "Centre Hospitalier Spécialisé lutte Maladies Mentales",
+    "siret": "26290002000377",
+    "lng": "-4.41358968376838",
+    "lat": "48.0776292731235"
+  }
+]

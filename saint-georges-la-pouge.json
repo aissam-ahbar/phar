@@ -1,0 +1,19 @@
+[
+  {
+    "finess": "230003030",
+    "raison_sociale": "PHARMACIE LE BRIS",
+    "numero voie": "14",
+    "type_voie": "R",
+    "libelle_voie": "DU CHATEAU",
+    "bp": "",
+    "cp": "23250",
+    "VILLE": "ST GEORGES LA POUGE   ",
+    "tel": "555666209",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34211916100020",
+    "lng": "1.97062392987973",
+    "lat": "45.9917748810716"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "420005043",
+    "raison_sociale": "PHARMACIE NOCK",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "GEORGES FOUILLAND",
+    "bp": "",
+    "cp": "42630",
+    "VILLE": "REGNY ",
+    "tel": "477630044",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34362161100015",
+    "lng": "4.21647670037442",
+    "lat": "45.9907612754438"
+  },
+  {
+    "finess": "420781924",
+    "raison_sociale": "EHPAD LE BEL AUTOMNE",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DES FOSSES",
+    "bp": "",
+    "cp": "42630",
+    "VILLE": "REGNY ",
+    "tel": "477630722",
+    "telecopie": "477630900",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26420025400011",
+    "lng": "4.21501236021066",
+    "lat": "45.9895701891374"
+  },
+  {
+    "finess": "420792699",
+    "raison_sociale": "SCE DE TRAVAILLEUSES FAMILIALES",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "FOUGERAT",
+    "bp": "",
+    "cp": "42630",
+    "VILLE": "REGNY ",
+    "tel": "477630034",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "4.21609371986913",
+    "lat": "45.989567590762"
+  }
+]

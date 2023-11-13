@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "420792608",
+    "raison_sociale": "SCE DE TRAVAILLEUSES FAMILIALES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE  BOURG",
+    "bp": "",
+    "cp": "42140",
+    "VILLE": "FONTANES ",
+    "tel": "477208708",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "4.43728917400985",
+    "lat": "45.5467702592173"
+  },
+  {
+    "finess": "460007586",
+    "raison_sociale": "ISIS MEDICAL QUERCY",
+    "numero voie": "",
+    "type_voie": "LOT",
+    "libelle_voie": "EN TESTE",
+    "bp": "ZONE INDUSTRIELLE DU SYCALA",
+    "cp": "46230",
+    "VILLE": "FONTANES ",
+    "tel": "561832377",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "91971864300019",
+    "lng": "1.47555092506183",
+    "lat": "44.3463082261664"
+  }
+]

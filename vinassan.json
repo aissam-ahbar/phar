@@ -1,0 +1,19 @@
+[
+  {
+    "finess": "110003225",
+    "raison_sociale": "PHARMACIE CAMINERO",
+    "numero voie": "32",
+    "type_voie": "AV",
+    "libelle_voie": "DE NARBONNE",
+    "bp": "",
+    "cp": "11110",
+    "VILLE": "VINASSAN ",
+    "tel": "468453269",
+    "telecopie": "468452250",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53886965200015",
+    "lng": "3.07185126484789",
+    "lat": "43.1982325879084"
+  }
+]

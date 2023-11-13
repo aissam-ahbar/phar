@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "60780939",
+    "raison_sociale": "EHPAD LE TOUZE",
+    "numero voie": "318",
+    "type_voie": "AV",
+    "libelle_voie": "DE FRANCE",
+    "bp": "",
+    "cp": "6430",
+    "VILLE": "LA BRIGUE",
+    "tel": "493049950",
+    "telecopie": "493049951",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26060012700039",
+    "lng": "7.60914450051077",
+    "lat": "44.0627492354576"
+  },
+  {
+    "finess": "60793569",
+    "raison_sociale": "MAS DES FONTAINES",
+    "numero voie": "158",
+    "type_voie": "AV",
+    "libelle_voie": "DE PROVENCE",
+    "bp": "",
+    "cp": "6430",
+    "VILLE": "LA BRIGUE",
+    "tel": "493049800",
+    "telecopie": "493047619",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "77555226800325",
+    "lng": "7.62148311237426",
+    "lat": "44.063465557571"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "660011693",
+    "raison_sociale": "SAAD ADMR PALAU DEL VIDRE",
+    "numero voie": "1",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "66690",
+    "VILLE": "PALAU DEL VIDRE    ",
+    "tel": "468211175",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "38456823400023",
+    "lng": "2.96348214645194",
+    "lat": "42.5734506275223"
+  },
+  {
+    "finess": "660788472",
+    "raison_sociale": "PHARMACIE GALAN",
+    "numero voie": "37",
+    "type_voie": "AV",
+    "libelle_voie": "JOLIOT CURIE",
+    "bp": "",
+    "cp": "66690",
+    "VILLE": "PALAU DEL VIDRE    ",
+    "tel": "468221408",
+    "telecopie": "468378994",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39758601700014",
+    "lng": "2.96191096962793",
+    "lat": "42.5729592296233"
+  }
+]

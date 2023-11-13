@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "310004718",
+    "raison_sociale": "PHARMACIE PONS",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "de l'Eole",
+    "bp": "",
+    "cp": "31600",
+    "VILLE": "LABASTIDETTE ",
+    "tel": "534481767",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44367443700019",
+    "lng": "1.24560873408466",
+    "lat": "43.4602345551742"
+  },
+  {
+    "finess": "310030564",
+    "raison_sociale": "SAAD UNE AIDE POUR CHACUN",
+    "numero voie": "73",
+    "type_voie": "RTE",
+    "libelle_voie": "PRINCIPALE",
+    "bp": "",
+    "cp": "31600",
+    "VILLE": "LABASTIDETTE ",
+    "tel": "534484220",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "52201117000035",
+    "lng": "1.24451736881495",
+    "lat": "43.4591991006381"
+  },
+  {
+    "finess": "310032255",
+    "raison_sociale": "MSP EOLE",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE L EOLE",
+    "bp": "",
+    "cp": "31600",
+    "VILLE": "LABASTIDETTE ",
+    "tel": "562116666",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "89355156400014",
+    "lng": "1.24560873408466",
+    "lat": "43.4602345551742"
+  }
+]

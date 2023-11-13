@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "270010051",
+    "raison_sociale": "EHPAD ORPEA LES RIVES D'OR LA COUTURE",
+    "numero voie": "37",
+    "type_voie": "R",
+    "libelle_voie": "DE SEREZ",
+    "bp": "",
+    "cp": "27750",
+    "VILLE": "LA COUTURE BOUSSEY    ",
+    "tel": "232261026",
+    "telecopie": "232369085",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "40125156600444",
+    "lng": "1.39593396967944",
+    "lat": "48.9006658910071"
+  },
+  {
+    "finess": "270019474",
+    "raison_sociale": "PHARMACIE BREARD",
+    "numero voie": "6",
+    "type_voie": "RTE",
+    "libelle_voie": "DE SAINT ANDRE",
+    "bp": "",
+    "cp": "27750",
+    "VILLE": "LA COUTURE BOUSSEY    ",
+    "tel": "232367656",
+    "telecopie": "232366052",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79398977300015",
+    "lng": "1.40609998401689",
+    "lat": "48.8982444388461"
+  }
+]

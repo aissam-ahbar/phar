@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "30001267",
+    "raison_sociale": "EHPAD VILLA PAUL THOMAS",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DES DOYATES",
+    "bp": "",
+    "cp": "3200",
+    "VILLE": "LE VERNET",
+    "tel": "470965800",
+    "telecopie": "470965801",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "40125156600626",
+    "lng": "3.45899426692351",
+    "lat": "46.1126541986857"
+  },
+  {
+    "finess": "30005565",
+    "raison_sociale": "PHARMACIE  CREMIEUX",
+    "numero voie": "6",
+    "type_voie": "PL",
+    "libelle_voie": "MARCEL GUILLAUMIN",
+    "bp": "",
+    "cp": "3200",
+    "VILLE": "LE VERNET",
+    "tel": "470980819",
+    "telecopie": "470599337",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52912678100010",
+    "lng": "3.46273349094171",
+    "lat": "46.1081860270073"
+  }
+]

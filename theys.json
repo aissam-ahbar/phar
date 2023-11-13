@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380011007",
+    "raison_sociale": "PHARMACIE DUMAS",
+    "numero voie": "",
+    "type_voie": "CLOS",
+    "libelle_voie": "DES GENTONS",
+    "bp": "",
+    "cp": "38570",
+    "VILLE": "THEYS ",
+    "tel": "476710957",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52762390400010",
+    "lng": "5.99531226987635",
+    "lat": "45.2995640573088"
+  },
+  {
+    "finess": "380780957",
+    "raison_sociale": "IME LE BARIOZ",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "GALIMAND",
+    "bp": "",
+    "cp": "38570",
+    "VILLE": "THEYS ",
+    "tel": "476710511",
+    "telecopie": "476710663",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "77559588700024",
+    "lng": "5.99582809706897",
+    "lat": "45.301392061067"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "160002242",
+    "raison_sociale": "EHPAD RABY-BARBOTEAU",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "CHEZ MATHE",
+    "bp": "",
+    "cp": "16130",
+    "VILLE": "SEGONZAC ",
+    "tel": "545834177",
+    "telecopie": "545834886",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "78125336400017",
+    "lng": "-0.177927502679718",
+    "lat": "45.6280315362117"
+  },
+  {
+    "finess": "160011490",
+    "raison_sociale": "PHARMACIE AUDEBERT",
+    "numero voie": "8",
+    "type_voie": "PL",
+    "libelle_voie": "PIERRE FRAPIN",
+    "bp": "",
+    "cp": "16130",
+    "VILLE": "SEGONZAC ",
+    "tel": "545834052",
+    "telecopie": "545833372",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53030723000017",
+    "lng": "-0.218551872518799",
+    "lat": "45.6174234552823"
+  },
+  {
+    "finess": "160015442",
+    "raison_sociale": "MSP DE GRANDE CHAMPAGNE",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "PAUL VOLLAUD",
+    "bp": "",
+    "cp": "16130",
+    "VILLE": "SEGONZAC ",
+    "tel": "545830659",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "79800828000017",
+    "lng": "-0.222271537890081",
+    "lat": "45.6175638749182"
+  }
+]

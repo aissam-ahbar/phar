@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "680009636",
+    "raison_sociale": "PHARMACIE KLEIDER",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DE LA 1ERE ARMEE FRANCAISE",
+    "bp": "",
+    "cp": "68790",
+    "VILLE": "MORSCHWILLER LE BAS    ",
+    "tel": "389420316",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "41526021500025",
+    "lng": "7.26979566054377",
+    "lat": "47.7360606527605"
+  },
+  {
+    "finess": "680023165",
+    "raison_sociale": "DAR ADAPEI PAPILLONS BLANCS D'ALSACE",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "ALFRED GIESS",
+    "bp": "",
+    "cp": "68790",
+    "VILLE": "MORSCHWILLER LE BAS    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "",
+    "lng": "7.27167795328887",
+    "lat": "47.7377540848295"
+  },
+  {
+    "finess": "680023181",
+    "raison_sociale": "ESEIS SITE DE MULHOUSE",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DANIEL SCHOEN",
+    "bp": "",
+    "cp": "68790",
+    "VILLE": "MORSCHWILLER LE BAS    ",
+    "tel": "367766950",
+    "telecopie": "",
+    "categorie etablissement": "330",
+    "libelle categorie": "Ecoles Formant aux Professions Sociales",
+    "siret": "83833964600047",
+    "lng": "7.28525583657776",
+    "lat": "47.7312081597413"
+  }
+]

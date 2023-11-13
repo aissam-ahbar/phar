@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "220004071",
+    "raison_sociale": "EHPAD DU GAVEL",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "ABBE LE LUYER",
+    "bp": "",
+    "cp": "22560",
+    "VILLE": "TREBEURDEN ",
+    "tel": "296154227",
+    "telecopie": "296235669",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20004408900023",
+    "lng": "-3.56952100364781",
+    "lat": "48.7671146634671"
+  },
+  {
+    "finess": "220010425",
+    "raison_sociale": "PHARMACIE DE TREBEURDEN",
+    "numero voie": "3",
+    "type_voie": "CHEM",
+    "libelle_voie": "du Gavel",
+    "bp": "",
+    "cp": "22560",
+    "VILLE": "TREBEURDEN ",
+    "tel": "296235788",
+    "telecopie": "296236616",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80539452500010",
+    "lng": "-3.56996015646968",
+    "lat": "48.769199628472"
+  }
+]

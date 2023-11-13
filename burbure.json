@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "620008797",
+    "raison_sociale": "PHARMACIE BETTI",
+    "numero voie": "64",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LILLERS",
+    "bp": "",
+    "cp": "62151",
+    "VILLE": "BURBURE ",
+    "tel": "321022194",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44944909900018",
+    "lng": "2.46895694723468",
+    "lat": "50.5409533244648"
+  },
+  {
+    "finess": "620036004",
+    "raison_sociale": "MSP DE BURBURE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU VAUDIEU",
+    "bp": "",
+    "cp": "62151",
+    "VILLE": "BURBURE ",
+    "tel": "648845394",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "90788596600016",
+    "lng": "2.4649724966415",
+    "lat": "50.5357715524314"
+  },
+  {
+    "finess": "620036962",
+    "raison_sociale": "CPTS VAL DE LYS ROMANE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE VAUDIEU",
+    "bp": "",
+    "cp": "62151",
+    "VILLE": "BURBURE ",
+    "tel": "321020476",
+    "telecopie": "",
+    "categorie etablissement": "604",
+    "libelle categorie": "Communautés professionnelles territoriales de santé (CPTS)",
+    "siret": "90792255300017",
+    "lng": "2.4649724966415",
+    "lat": "50.5357715524314"
+  }
+]

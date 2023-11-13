@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "560003055",
+    "raison_sociale": "CENTRE DE SOINS DE SUITE KORN-ER-HOUET",
+    "numero voie": "",
+    "type_voie": "DOM",
+    "libelle_voie": "DE KORN-ER-HOUET",
+    "bp": "",
+    "cp": "56390",
+    "VILLE": "COLPO ",
+    "tel": "297663200",
+    "telecopie": "297663201",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "42869200800124",
+    "lng": "-2.81097596405875",
+    "lat": "47.8179674684653"
+  },
+  {
+    "finess": "560016297",
+    "raison_sociale": "PHARMACIE CAUQUIL",
+    "numero voie": "8",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA PRINCESSE",
+    "bp": "",
+    "cp": "56390",
+    "VILLE": "COLPO ",
+    "tel": "297668095",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "33407466300017",
+    "lng": "-2.80977049271664",
+    "lat": "47.8190732611919"
+  }
+]

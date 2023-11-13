@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "490002128",
+    "raison_sociale": "EHPAD VALLEE GELUSSEAU",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE LA TIGEOLE",
+    "bp": "BP 40077",
+    "cp": "49690",
+    "VILLE": "CORON ",
+    "tel": "241558181",
+    "telecopie": "241551947",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26490054900017",
+    "lng": "-0.647176178956341",
+    "lat": "47.1282666658955"
+  },
+  {
+    "finess": "490019569",
+    "raison_sociale": "CENTRE MUNICIPAL DE SANTE CORONNAIS",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DES NOISETIERS",
+    "bp": "",
+    "cp": "49690",
+    "VILLE": "CORON ",
+    "tel": "241558172",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "21490109200145",
+    "lng": "-0.651388291791948",
+    "lat": "47.1269350357378"
+  },
+  {
+    "finess": "490533221",
+    "raison_sociale": "PHARMACIE DU LYS",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "Chantelevent",
+    "bp": "",
+    "cp": "49690",
+    "VILLE": "CORON ",
+    "tel": "241558179",
+    "telecopie": "241558993",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53973694200027",
+    "lng": "-0.637016434825182",
+    "lat": "47.1286281689235"
+  }
+]

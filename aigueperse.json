@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "630002566",
+    "raison_sociale": "PHARMACIE D'AIGUEPERSE",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA HALLE",
+    "bp": "",
+    "cp": "63260",
+    "VILLE": "AIGUEPERSE ",
+    "tel": "473636022",
+    "telecopie": "473632670",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81302237300019",
+    "lng": "3.20060174231586",
+    "lat": "46.0207134001293"
+  },
+  {
+    "finess": "630781037",
+    "raison_sociale": "EHPAD \"SERGE BAYLE\"",
+    "numero voie": "1",
+    "type_voie": "BD",
+    "libelle_voie": "DE L'HOPITAL",
+    "bp": "",
+    "cp": "63260",
+    "VILLE": "AIGUEPERSE ",
+    "tel": "473644000",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26630805500026",
+    "lng": "3.20130567314221",
+    "lat": "46.0233929249174"
+  },
+  {
+    "finess": "630788255",
+    "raison_sociale": "SCE AIDE MENAG DOM PERS AGEES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "63260",
+    "VILLE": "AIGUEPERSE ",
+    "tel": "473636034",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26630504400023",
+    "lng": "3.20304346323369",
+    "lat": "46.0231656021599"
+  }
+]

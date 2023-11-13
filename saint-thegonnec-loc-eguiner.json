@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "290002740",
+    "raison_sociale": "EHPAD SAINTE BERNADETTE",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "LIVIDIC",
+    "bp": "BP 9",
+    "cp": "29410",
+    "VILLE": "ST THEGONNEC LOC EGUINER   ",
+    "tel": "298794244",
+    "telecopie": "298794808",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77763681200011",
+    "lng": "-3.9421039184038",
+    "lat": "48.5208981625103"
+  },
+  {
+    "finess": "290011279",
+    "raison_sociale": "PHARMACIE DE SAINT THEGONNEC",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DE BEL AIR",
+    "bp": "",
+    "cp": "29410",
+    "VILLE": "ST THEGONNEC LOC EGUINER   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79004134700028",
+    "lng": "-3.94083286864163",
+    "lat": "48.5241567779738"
+  },
+  {
+    "finess": "290036912",
+    "raison_sociale": "CDS ST-THEGONNEC",
+    "numero voie": "3",
+    "type_voie": "",
+    "libelle_voie": "PARK AN ILIZ",
+    "bp": "",
+    "cp": "29410",
+    "VILLE": "ST THEGONNEC LOC EGUINER   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "",
+    "lng": "-3.9459916153945",
+    "lat": "48.5217360770031"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "230002081",
+    "raison_sociale": "PHARMACIE DE L'EGLISE",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE L EGLISE",
+    "bp": "",
+    "cp": "23270",
+    "VILLE": "CLUGNAT ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79830488700010",
+    "lng": "2.11836751220042",
+    "lat": "46.3077063420463"
+  },
+  {
+    "finess": "230004012",
+    "raison_sociale": "MAS LES CHAUMES",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DU DOCTEUR TURQUET",
+    "bp": "LES CHAUMES",
+    "cp": "23270",
+    "VILLE": "CLUGNAT ",
+    "tel": "555656465",
+    "telecopie": "555658096",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "38379245400159",
+    "lng": "2.12070392506915",
+    "lat": "46.3030164247425"
+  }
+]

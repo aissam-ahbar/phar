@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "580002160",
+    "raison_sociale": "SELARL ARMANDINE GUERRIER",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "THEODORE DE BANVILLE",
+    "bp": "",
+    "cp": "58380",
+    "VILLE": "LUCENAY LES AIX    ",
+    "tel": "386305477",
+    "telecopie": "962143552",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84967549100013",
+    "lng": "3.48330382887587",
+    "lat": "46.7028988850258"
+  },
+  {
+    "finess": "580004075",
+    "raison_sociale": "SAAD UNA SUD NIVERNAIS",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DES DEUX PONTS",
+    "bp": "",
+    "cp": "58380",
+    "VILLE": "LUCENAY LES AIX    ",
+    "tel": "386305233",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "34355778100014",
+    "lng": "3.48502785396489",
+    "lat": "46.703368840526"
+  }
+]

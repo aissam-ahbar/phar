@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "570005512",
+    "raison_sociale": "ESAT \"MOULIN DU PONT DE PIERRE\"",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "MOULIN DU PONT DE PIERRE",
+    "bp": "",
+    "cp": "57220",
+    "VILLE": "VARIZE ",
+    "tel": "387793535",
+    "telecopie": "387574546",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77561888700050",
+    "lng": "6.44460090785705",
+    "lat": "49.1425927351783"
+  },
+  {
+    "finess": "570005520",
+    "raison_sociale": "FOYER \"MOULIN DU PONT DE PIERRE\"",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "MOULIN DU PONT DE PIERRE",
+    "bp": "",
+    "cp": "57220",
+    "VILLE": "VARIZE ",
+    "tel": "387793535",
+    "telecopie": "",
+    "categorie etablissement": "252",
+    "libelle categorie": "Foyer Hébergement Adultes Handicapés",
+    "siret": "77561888700084",
+    "lng": "6.44460090785705",
+    "lat": "49.1425927351783"
+  }
+]

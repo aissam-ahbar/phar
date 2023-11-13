@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "680007309",
+    "raison_sociale": "PHARMACIE DES MINES",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "MARIE LOUISE",
+    "bp": "",
+    "cp": "68850",
+    "VILLE": "STAFFELFELDEN ",
+    "tel": "389577638",
+    "telecopie": "389551081",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44965693300016",
+    "lng": "7.26607879466915",
+    "lat": "47.827650169073"
+  },
+  {
+    "finess": "680021284",
+    "raison_sociale": "SOS OXYGENE SUD ALSACE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "MINE MARIE LOUISE",
+    "bp": "",
+    "cp": "68850",
+    "VILLE": "STAFFELFELDEN ",
+    "tel": "389511094",
+    "telecopie": "388813267",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "80372949000018",
+    "lng": "7.26793357449789",
+    "lat": "47.8286623904438"
+  }
+]

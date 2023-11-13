@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "430001883",
+    "raison_sociale": "PHARMACIE ENJOLRAS",
+    "numero voie": "5",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "43000",
+    "VILLE": "ESPALY ST MARCEL    ",
+    "tel": "471094156",
+    "telecopie": "471094412",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48425786000011",
+    "lng": "3.86515670145014",
+    "lat": "45.0467131261746"
+  },
+  {
+    "finess": "430006254",
+    "raison_sociale": "APPARTEMENT FOYER LES CEVENNES",
+    "numero voie": "5",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "43000",
+    "VILLE": "ESPALY ST MARCEL    ",
+    "tel": "471026466",
+    "telecopie": "",
+    "categorie etablissement": "396",
+    "libelle categorie": "Foyer Hébergement Enfants et Adolescents Handicapés",
+    "siret": "77560377200085",
+    "lng": "3.86515670145014",
+    "lat": "45.0467131261746"
+  },
+  {
+    "finess": "430006866",
+    "raison_sociale": "EHPAD PARADIS",
+    "numero voie": "1",
+    "type_voie": "CHE",
+    "libelle_voie": "DE LA DROIT",
+    "bp": "",
+    "cp": "43000",
+    "VILLE": "ESPALY ST MARCEL    ",
+    "tel": "471090529",
+    "telecopie": "471099960",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "80873503900055",
+    "lng": "3.86552130767723",
+    "lat": "45.0504138056334"
+  }
+]

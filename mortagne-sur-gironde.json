@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "170012231",
+    "raison_sociale": "PHARMACIE DES MINOTIERS",
+    "numero voie": "20",
+    "type_voie": "CRS",
+    "libelle_voie": "BELLEVUE",
+    "bp": "",
+    "cp": "17120",
+    "VILLE": "MORTAGNE SUR GIRONDE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "89868789200015",
+    "lng": "-0.78902993985492",
+    "lat": "45.4824216656068"
+  },
+  {
+    "finess": "170017339",
+    "raison_sociale": "FOYER DE VIE LES CHARMILLES",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DU TEMPLE",
+    "bp": "",
+    "cp": "17120",
+    "VILLE": "MORTAGNE SUR GIRONDE    ",
+    "tel": "546976740",
+    "telecopie": "546976749",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "40118169800044",
+    "lng": "-0.788234184758567",
+    "lat": "45.4819346881218"
+  },
+  {
+    "finess": "170024426",
+    "raison_sociale": "MSP DE MORTAGNE/GIRONDE",
+    "numero voie": "21",
+    "type_voie": "R",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "17120",
+    "VILLE": "MORTAGNE SUR GIRONDE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "-0.787464260225218",
+    "lat": "45.4813377515727"
+  }
+]

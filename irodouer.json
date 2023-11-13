@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "350021481",
+    "raison_sociale": "SELARL PHARMACIE DU BIEN-ETRE",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DE RENNES",
+    "bp": "",
+    "cp": "35850",
+    "VILLE": "IRODOUER ",
+    "tel": "299398374",
+    "telecopie": "299398086",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39279127300015",
+    "lng": "-1.95035875541424",
+    "lat": "48.2495100510757"
+  },
+  {
+    "finess": "350043543",
+    "raison_sociale": "SAAD ADMR PAYS DE BECHEREL",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DES CAILLEULS",
+    "bp": "",
+    "cp": "35850",
+    "VILLE": "IRODOUER ",
+    "tel": "299398951",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "77775332800031",
+    "lng": "-1.94948383963543",
+    "lat": "48.2500966631014"
+  }
+]

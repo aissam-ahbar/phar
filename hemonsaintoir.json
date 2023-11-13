@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "220000350",
+    "raison_sociale": "FOYER BEL ORIENT",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "PIERRE LEMAITRE",
+    "bp": "BP 334",
+    "cp": "22600",
+    "VILLE": "HEMONSTOIR ",
+    "tel": "296250318",
+    "telecopie": "",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "77556888400487",
+    "lng": "-2.83309652978697",
+    "lat": "48.1564164342373"
+  },
+  {
+    "finess": "220020770",
+    "raison_sociale": "FAM BEL ORIENT",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "PIERRE LE MAITRE",
+    "bp": "",
+    "cp": "22600",
+    "VILLE": "HEMONSTOIR ",
+    "tel": "296250318",
+    "telecopie": "",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "",
+    "lng": "-2.83309652978697",
+    "lat": "48.1564164342373"
+  }
+]

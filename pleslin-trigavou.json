@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "220004949",
+    "raison_sociale": "SAAD ADS PLESLIN TRIGAVOU",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "LEON PEPIN",
+    "bp": "",
+    "cp": "22490",
+    "VILLE": "PLESLIN TRIGAVOU",
+    "tel": "296278677",
+    "telecopie": "296823511",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32728356000081",
+    "lng": "-2.0571214257539",
+    "lat": "48.5329880894362"
+  },
+  {
+    "finess": "220007603",
+    "raison_sociale": "RESIDENCE DE L'ORME",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LAURIAIS",
+    "bp": "",
+    "cp": "22490",
+    "VILLE": "PLESLIN TRIGAVOU",
+    "tel": "296271949",
+    "telecopie": "296278979",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26220305200028",
+    "lng": "-2.06277123467876",
+    "lat": "48.5358193477757"
+  },
+  {
+    "finess": "220011308",
+    "raison_sociale": "SARL DELAHAYE TREBOIT",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "22490",
+    "VILLE": "PLESLIN TRIGAVOU",
+    "tel": "296278025",
+    "telecopie": "296271421",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "78928295100019",
+    "lng": "-2.05589134539615",
+    "lat": "48.5322246950484"
+  }
+]

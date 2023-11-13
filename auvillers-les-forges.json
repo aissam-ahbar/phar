@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "80002165",
+    "raison_sociale": "PHAMACIE DES FORGES",
+    "numero voie": "15",
+    "type_voie": "RTE",
+    "libelle_voie": "DE ROCROI",
+    "bp": "",
+    "cp": "8260",
+    "VILLE": "AUVILLERS LES FORGES    ",
+    "tel": "324543288",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83298603800012",
+    "lng": "4.37650993285131",
+    "lat": "49.8739623476988"
+  },
+  {
+    "finess": "80006414",
+    "raison_sociale": "MAS LES CAMPANULES",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DES CAMPANULES",
+    "bp": "",
+    "cp": "8260",
+    "VILLE": "AUVILLERS LES FORGES    ",
+    "tel": "324543311",
+    "telecopie": "",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "34234252400010",
+    "lng": "4.37726366979504",
+    "lat": "49.8702619684523"
+  },
+  {
+    "finess": "80011752",
+    "raison_sociale": "PLATEFORME SERVICES PERS ADULTE HANDI",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DES CAMPANULES",
+    "bp": "",
+    "cp": "8260",
+    "VILLE": "AUVILLERS LES FORGES    ",
+    "tel": "324543311",
+    "telecopie": "324546231",
+    "categorie etablissement": "370",
+    "libelle categorie": "Etablissement Expérimental pour personnes handicapées",
+    "siret": "34234252400010",
+    "lng": "4.37726366979504",
+    "lat": "49.8702619684523"
+  }
+]

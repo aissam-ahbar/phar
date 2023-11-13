@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "150001667",
+    "raison_sociale": "PHARMACIE DE LA TRUYERE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "33 du Docteur Mallet",
+    "bp": "",
+    "cp": "15260",
+    "VILLE": "NEUVEGLISE SUR TRUYERE    ",
+    "tel": "471238124",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "42906657400014",
+    "lng": "2.98241953677511",
+    "lat": "44.9405331047534"
+  },
+  {
+    "finess": "150003226",
+    "raison_sociale": "MSP DU PAYS DE PIERREFORT-NEUVEGLISE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LE BOURG",
+    "cp": "15260",
+    "VILLE": "NEUVEGLISE SUR TRUYERE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "80393862000017",
+    "lng": "2.98425249920278",
+    "lat": "44.9274583887889"
+  }
+]

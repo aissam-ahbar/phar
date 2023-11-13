@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "490020476",
+    "raison_sociale": "EHPAD LES MONCELLIERES",
+    "numero voie": "5",
+    "type_voie": "CHE",
+    "libelle_voie": "DES MONCELLIERES",
+    "bp": "",
+    "cp": "49123",
+    "VILLE": "INGRANDES LE FRESNE SUR LO  ",
+    "tel": "241392113",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "47975657900013",
+    "lng": "-0.92094038193877",
+    "lat": "47.4041083562405"
+  },
+  {
+    "finess": "490533346",
+    "raison_sociale": "PHARMACIE DES BATELIERS",
+    "numero voie": "1",
+    "type_voie": "AV",
+    "libelle_voie": "DE L'ETANG",
+    "bp": "INGRANDES",
+    "cp": "49123",
+    "VILLE": "INGRANDES LE FRESNE SUR LO  ",
+    "tel": "241392012",
+    "telecopie": "241392969",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50285839200025",
+    "lng": "-0.922230074613771",
+    "lat": "47.4054402357209"
+  }
+]

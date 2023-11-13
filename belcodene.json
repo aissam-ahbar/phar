@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "130786874",
+    "raison_sociale": "EEAP GERMAINE POINSO CHAPUIS",
+    "numero voie": "",
+    "type_voie": "PLN",
+    "libelle_voie": "DE BEAUMONT",
+    "bp": "",
+    "cp": "13720",
+    "VILLE": "BELCODENE ",
+    "tel": "442706565",
+    "telecopie": "",
+    "categorie etablissement": "188",
+    "libelle categorie": "Etablissement pour Enfants ou Adolescents Polyhandicapés",
+    "siret": "33435347100108",
+    "lng": "5.60924780327203",
+    "lat": "43.4187158254574"
+  },
+  {
+    "finess": "130793169",
+    "raison_sociale": "RESIDENCE GERMAINE POINSO CHAPUIS",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DE LA SABLIERE",
+    "bp": "PLAINE DE BEAUMONT",
+    "cp": "13720",
+    "VILLE": "BELCODENE ",
+    "tel": "442706042",
+    "telecopie": "442706023",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "",
+    "lng": "5.59520378966335",
+    "lat": "43.418417819887"
+  }
+]

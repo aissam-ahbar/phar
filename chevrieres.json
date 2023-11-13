@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "380792853",
+    "raison_sociale": "MECS VIVRE ENSEMBLE 1 NOUVELLE ENFANCE",
+    "numero voie": "590",
+    "type_voie": "CHE",
+    "libelle_voie": "DE BLAGNEUX",
+    "bp": "",
+    "cp": "38160",
+    "VILLE": "CHEVRIERES ",
+    "tel": "476386283",
+    "telecopie": "476649156",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "33180117500018",
+    "lng": "5.30546386708921",
+    "lat": "45.1853365370854"
+  },
+  {
+    "finess": "600007157",
+    "raison_sociale": "PHARMACIE  LEMAITRE",
+    "numero voie": "36",
+    "type_voie": "PL",
+    "libelle_voie": "SAINT-GEORGES",
+    "bp": "",
+    "cp": "60710",
+    "VILLE": "CHEVRIERES ",
+    "tel": "344416917",
+    "telecopie": "344412152",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79895521700012",
+    "lng": "2.68123275197414",
+    "lat": "49.3465475990012"
+  },
+  {
+    "finess": "600100945",
+    "raison_sociale": "IMPRO CHAMPIONNET CHEVRIÈRES",
+    "numero voie": "231",
+    "type_voie": "R",
+    "libelle_voie": "DE COMPIÈGNE",
+    "bp": "",
+    "cp": "60710",
+    "VILLE": "CHEVRIERES ",
+    "tel": "344414422",
+    "telecopie": "344416784",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "77569336900081",
+    "lng": "2.68477745153191",
+    "lat": "49.3471339879597"
+  }
+]

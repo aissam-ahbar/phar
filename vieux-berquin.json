@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "590031720",
+    "raison_sociale": "SELARL PHARMACIE DE VIEUX BERQUIN",
+    "numero voie": "67",
+    "type_voie": "R",
+    "libelle_voie": "D ESTAIRES",
+    "bp": "",
+    "cp": "59232",
+    "VILLE": "VIEUX BERQUIN",
+    "tel": "328427001",
+    "telecopie": "328435875",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84492023100017",
+    "lng": "2.64651351027882",
+    "lat": "50.6917946176084"
+  },
+  {
+    "finess": "590063707",
+    "raison_sociale": "SAD AU COEUR DE CHEZ VOUS",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU BOIS",
+    "bp": "",
+    "cp": "59232",
+    "VILLE": "VIEUX BERQUIN",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "2.61400353882577",
+    "lat": "50.6933589326103"
+  },
+  {
+    "finess": "590782868",
+    "raison_sociale": "EHPAD RESIDENCE DU PLESSY",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE L'ABBE LEMIRE",
+    "bp": "",
+    "cp": "59232",
+    "VILLE": "VIEUX BERQUIN",
+    "tel": "328427084",
+    "telecopie": "328427024",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20002288700018",
+    "lng": "2.64148451315156",
+    "lat": "50.6943305037781"
+  }
+]

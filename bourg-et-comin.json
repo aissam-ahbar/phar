@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "20002663",
+    "raison_sociale": "PHARMACIE CENTRALE DE BOURG ET COMIN",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "DU MARCHÉ",
+    "bp": "",
+    "cp": "2160",
+    "VILLE": "BOURG ET COMIN    ",
+    "tel": "323244014",
+    "telecopie": "323248168",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83017724200013",
+    "lng": "3.65552235861274",
+    "lat": "49.3960318615497"
+  },
+  {
+    "finess": "20010476",
+    "raison_sociale": "LES BOUTONS D'OR",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU CHÂTEAU D'EAU",
+    "bp": "",
+    "cp": "2160",
+    "VILLE": "BOURG ET COMIN    ",
+    "tel": "323246969",
+    "telecopie": "323246900",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "39834357400016",
+    "lng": "3.65107060601629",
+    "lat": "49.3983776874925"
+  }
+]

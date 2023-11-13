@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "670006972",
+    "raison_sociale": "PHARMACIE COUSANDIER",
+    "numero voie": "19",
+    "type_voie": "R",
+    "libelle_voie": "DU GAL DE GAULLE",
+    "bp": "",
+    "cp": "67410",
+    "VILLE": "DRUSENHEIM ",
+    "tel": "388533040",
+    "telecopie": "388534615",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39771141700014",
+    "lng": "7.94949326637004",
+    "lat": "48.7577174059193"
+  },
+  {
+    "finess": "670018498",
+    "raison_sociale": "LBM DE DRUSENHEIM",
+    "numero voie": "31",
+    "type_voie": "R",
+    "libelle_voie": "DU GÉNÉRAL DE GAULLE",
+    "bp": "",
+    "cp": "67410",
+    "VILLE": "DRUSENHEIM ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "77885200400473",
+    "lng": "7.95138788562667",
+    "lat": "48.758722875992"
+  },
+  {
+    "finess": "670795624",
+    "raison_sociale": "EHPAD BEL AUTOMNE",
+    "numero voie": "21",
+    "type_voie": "R",
+    "libelle_voie": "DE SOUFFLENHEIM",
+    "bp": "BP 24",
+    "cp": "67410",
+    "VILLE": "DRUSENHEIM ",
+    "tel": "388534949",
+    "telecopie": "388531032",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26670081400020",
+    "lng": "7.95157062592972",
+    "lat": "48.7679522457664"
+  }
+]

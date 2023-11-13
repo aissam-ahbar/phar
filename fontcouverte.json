@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "170009542",
+    "raison_sociale": "EHPAD LE LOGIS DE MONTIGNAC",
+    "numero voie": "20",
+    "type_voie": "RTE",
+    "libelle_voie": "DE MONTIGNAC",
+    "bp": "",
+    "cp": "17100",
+    "VILLE": "FONTCOUVERTE ",
+    "tel": "546920119",
+    "telecopie": "546972632",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "41107867800017",
+    "lng": "-0.587420265180142",
+    "lat": "45.7714745697818"
+  },
+  {
+    "finess": "170011324",
+    "raison_sociale": "HONEY",
+    "numero voie": "11",
+    "type_voie": "RTE",
+    "libelle_voie": "DU CHEMIN VIEUX",
+    "bp": "",
+    "cp": "17100",
+    "VILLE": "FONTCOUVERTE ",
+    "tel": "546936641",
+    "telecopie": "546922436",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81100459700019",
+    "lng": "-0.586039689623782",
+    "lat": "45.7635048765567"
+  },
+  {
+    "finess": "170026389",
+    "raison_sociale": "MSP DE FONTCOUVERTE",
+    "numero voie": "55",
+    "type_voie": "RTE",
+    "libelle_voie": "DU BOURG",
+    "bp": "",
+    "cp": "17100",
+    "VILLE": "FONTCOUVERTE ",
+    "tel": "546746150",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "88896894800016",
+    "lng": "-0.587026079810239",
+    "lat": "45.7669728045879"
+  }
+]

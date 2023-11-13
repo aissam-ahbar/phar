@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "2A0001673",
+    "raison_sociale": "SELARL PHARMACIE DU PRUNELLI",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "COMMUNU",
+    "bp": "",
+    "cp": "20129",
+    "VILLE": "BASTELICACCIA ",
+    "tel": "495200214",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39244510200016",
+    "lng": "8.82365693151752",
+    "lat": "41.9242910225748"
+  },
+  {
+    "finess": "2A0003547",
+    "raison_sociale": "CASA DI RICCI",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE BOTTACINA",
+    "bp": "",
+    "cp": "20129",
+    "VILLE": "BASTELICACCIA ",
+    "tel": "495200073",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "50400993700021",
+    "lng": "8.8366163058638",
+    "lat": "41.9342625687052"
+  },
+  {
+    "finess": "2A0004917",
+    "raison_sociale": "MSP BASTELICACCIA-PRUNELLI",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "PELA CURACCHIA",
+    "bp": "",
+    "cp": "20129",
+    "VILLE": "BASTELICACCIA ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "8.82517704931296",
+    "lat": "41.9250007509611"
+  }
+]

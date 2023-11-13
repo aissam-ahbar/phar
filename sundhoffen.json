@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "680015567",
+    "raison_sociale": "PHARMACIE PETITDEMANGE-MEYER",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "DU NEULAND",
+    "bp": "",
+    "cp": "68280",
+    "VILLE": "SUNDHOFFEN ",
+    "tel": "389715353",
+    "telecopie": "389719627",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50796758600029",
+    "lng": "7.40952327083835",
+    "lat": "48.0432478974394"
+  },
+  {
+    "finess": "680023215",
+    "raison_sociale": "CPTS COLMAR AGGLO",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "DU NEULAND",
+    "bp": "",
+    "cp": "68280",
+    "VILLE": "SUNDHOFFEN ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "604",
+    "libelle categorie": "Communautés professionnelles territoriales de santé (CPTS)",
+    "siret": "91166216100015",
+    "lng": "7.40952327083835",
+    "lat": "48.0432478974394"
+  }
+]

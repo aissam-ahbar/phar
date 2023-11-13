@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "640010062",
+    "raison_sociale": "PHARMACIE DE L'ISARCE",
+    "numero voie": "9",
+    "type_voie": "PL",
+    "libelle_voie": "SAINT JEAN",
+    "bp": "",
+    "cp": "64800",
+    "VILLE": "LESTELLE BETHARRAM",
+    "tel": "559719384",
+    "telecopie": "559719384",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52193368900015",
+    "lng": "-0.209353063616707",
+    "lat": "43.1295418652333"
+  },
+  {
+    "finess": "640785739",
+    "raison_sociale": "EHPAD DE BETHARRAM",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "SAINT MICHEL GARICOITS",
+    "bp": "",
+    "cp": "64800",
+    "VILLE": "LESTELLE BETHARRAM",
+    "tel": "559719341",
+    "telecopie": "559719020",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "78232557500051",
+    "lng": "-0.207209522191925",
+    "lat": "43.122850712361"
+  }
+]

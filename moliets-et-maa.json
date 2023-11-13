@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "400008686",
+    "raison_sociale": "PHARMACIE DU GOLFE",
+    "numero voie": "1800",
+    "type_voie": "AV",
+    "libelle_voie": "DES LACS",
+    "bp": "",
+    "cp": "40660",
+    "VILLE": "MOLIETS ET MAA    ",
+    "tel": "558485544",
+    "telecopie": "558485597",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34989960900029",
+    "lng": "-1.35653781152415",
+    "lat": "43.8501940678845"
+  },
+  {
+    "finess": "400015822",
+    "raison_sociale": "MSP DE MOLIETS ET MAA",
+    "numero voie": "205",
+    "type_voie": "R",
+    "libelle_voie": "DE MAGENTA",
+    "bp": "",
+    "cp": "40660",
+    "VILLE": "MOLIETS ET MAA    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "91475696000011",
+    "lng": "-1.35894673055412",
+    "lat": "43.8508665572677"
+  }
+]

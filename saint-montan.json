@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "70004841",
+    "raison_sociale": "PHARMACIE MIGNOT-LIAUTIER",
+    "numero voie": "",
+    "type_voie": "QUA",
+    "libelle_voie": "BAUVACHE",
+    "bp": "",
+    "cp": "7220",
+    "VILLE": "ST MONTAN",
+    "tel": "475525942",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "41174971600014",
+    "lng": "4.62453485967654",
+    "lat": "44.4345421006202"
+  },
+  {
+    "finess": "70007745",
+    "raison_sociale": "MSP DE SAINT-MONTAN BOURG-SAINT-ANDEOL",
+    "numero voie": "",
+    "type_voie": "QUA",
+    "libelle_voie": "BAUVACHE",
+    "bp": "",
+    "cp": "7220",
+    "VILLE": "ST MONTAN",
+    "tel": "475525973",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "41236634600044",
+    "lng": "4.62453485967654",
+    "lat": "44.4345421006202"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "550002174",
+    "raison_sociale": "PHARMACIE KARRICH-SORO",
+    "numero voie": "47",
+    "type_voie": "VOI",
+    "libelle_voie": "SACREE",
+    "bp": "",
+    "cp": "55220",
+    "VILLE": "SOUILLY ",
+    "tel": "329805172",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "95046049300014",
+    "lng": "5.28635806109225",
+    "lat": "49.0286811319579"
+  },
+  {
+    "finess": "550006365",
+    "raison_sociale": "EHPAD LES EAUX VIVES DE SOUILLY",
+    "numero voie": "10",
+    "type_voie": "",
+    "libelle_voie": "CHEMIN DERRIÈRE LES JARDINS",
+    "bp": "",
+    "cp": "55220",
+    "VILLE": "SOUILLY ",
+    "tel": "329834320",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "39915556300063",
+    "lng": "5.28924612494914",
+    "lat": "49.0303622327574"
+  }
+]

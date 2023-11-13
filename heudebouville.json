@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "270020464",
+    "raison_sociale": "PHARMACIE CLIN",
+    "numero voie": "22",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "27400",
+    "VILLE": "HEUDEBOUVILLE ",
+    "tel": "232259511",
+    "telecopie": "970626826",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45072137800013",
+    "lng": "1.23841770474566",
+    "lat": "49.1926404532005"
+  },
+  {
+    "finess": "270028343",
+    "raison_sociale": "LINDE HOMECARE - HEUDEBOUVILLE",
+    "numero voie": "",
+    "type_voie": "ALL",
+    "libelle_voie": "DE BRELOND",
+    "bp": "",
+    "cp": "27400",
+    "VILLE": "HEUDEBOUVILLE ",
+    "tel": "232633980",
+    "telecopie": "232095974",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "39790843500464",
+    "lng": "1.23979921303015",
+    "lat": "49.1937748257503"
+  },
+  {
+    "finess": "270029994",
+    "raison_sociale": "CENTRE COMMUNAL DE SANTÉ",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "DE LA CROIX ROGER",
+    "bp": "",
+    "cp": "27400",
+    "VILLE": "HEUDEBOUVILLE ",
+    "tel": "277645691",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "21270332600034",
+    "lng": "1.23979921303015",
+    "lat": "49.1937748257503"
+  }
+]

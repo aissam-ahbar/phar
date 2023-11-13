@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "630003002",
+    "raison_sociale": "PHARMACIE HUGUET",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE BOURG",
+    "bp": "",
+    "cp": "63810",
+    "VILLE": "BAGNOLS ",
+    "tel": "473222056",
+    "telecopie": "473222056",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "33387707400018",
+    "lng": "2.63260427455061",
+    "lat": "45.4988079049343"
+  },
+  {
+    "finess": "690043328",
+    "raison_sociale": "SAVS EXPERIMENTAL LA ROCHE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LES VAVRES",
+    "cp": "69620",
+    "VILLE": "BAGNOLS ",
+    "tel": "474891717",
+    "telecopie": "",
+    "categorie etablissement": "446",
+    "libelle categorie": "Service d'Accompagnement à la Vie Sociale (S.A.V.S.)",
+    "siret": "",
+    "lng": "4.60569389309479",
+    "lat": "45.9124998173995"
+  }
+]

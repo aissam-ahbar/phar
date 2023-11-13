@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "250012994",
+    "raison_sociale": "PHARMACIE SAGUIN",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DE MONTBELIARD",
+    "bp": "",
+    "cp": "25190",
+    "VILLE": "ST HIPPOLYTE",
+    "tel": "381965554",
+    "telecopie": "381965758",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50890345700010",
+    "lng": "6.81373035785785",
+    "lat": "47.3198520307622"
+  },
+  {
+    "finess": "660788324",
+    "raison_sociale": "SELAS PHARMACIE EPILOBE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "de la Mairie",
+    "bp": "",
+    "cp": "66510",
+    "VILLE": "ST HIPPOLYTE",
+    "tel": "468922992",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49960564000022",
+    "lng": "2.96697858221962",
+    "lat": "42.7850474054509"
+  }
+]

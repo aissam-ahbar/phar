@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "640006268",
+    "raison_sociale": "SSIAD DU PIEMONT",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "JEAN JAURES",
+    "bp": "",
+    "cp": "64800",
+    "VILLE": "COARRAZE ",
+    "tel": "559134882",
+    "telecopie": "559134863",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "44831775000025",
+    "lng": "-0.229775182847128",
+    "lat": "43.1693376163438"
+  },
+  {
+    "finess": "640009213",
+    "raison_sociale": "PHARMACIE DU GAVE",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DES PYRENEES",
+    "bp": "",
+    "cp": "64800",
+    "VILLE": "COARRAZE ",
+    "tel": "559610781",
+    "telecopie": "559612948",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81224312900010",
+    "lng": "-0.231542365468881",
+    "lat": "43.1688066449261"
+  }
+]

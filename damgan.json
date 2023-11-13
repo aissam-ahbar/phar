@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "560011835",
+    "raison_sociale": "RESIDENCE DE KER PEHEFF",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE LA PLAGE",
+    "bp": "",
+    "cp": "56750",
+    "VILLE": "DAMGAN ",
+    "tel": "297411840",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "44139367500133",
+    "lng": "-2.57832600539219",
+    "lat": "47.5197908837516"
+  },
+  {
+    "finess": "560012650",
+    "raison_sociale": "SAAD CCAS DAMGAN",
+    "numero voie": "40",
+    "type_voie": "R",
+    "libelle_voie": "FIDELE HABERT",
+    "bp": "",
+    "cp": "56750",
+    "VILLE": "DAMGAN ",
+    "tel": "297412746",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26560115300025",
+    "lng": "-2.57816812979339",
+    "lat": "47.5200393928217"
+  },
+  {
+    "finess": "560016362",
+    "raison_sociale": "SELARL PHARMACIE DE L'ESTRAN",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "ALEXANDRE TIFFOCHE",
+    "bp": "",
+    "cp": "56750",
+    "VILLE": "DAMGAN ",
+    "tel": "297411254",
+    "telecopie": "297412476",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82811986700012",
+    "lng": "-2.57763492147539",
+    "lat": "47.5197554267493"
+  }
+]

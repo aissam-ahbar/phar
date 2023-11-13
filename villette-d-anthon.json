@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "380012484",
+    "raison_sociale": "SELARL GD2T",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DES TILLEULS",
+    "bp": "",
+    "cp": "38280",
+    "VILLE": "VILLETTE D ANTHON    ",
+    "tel": "478312674",
+    "telecopie": "472022823",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44490448600016",
+    "lng": "5.113672291066",
+    "lat": "45.7948679935032"
+  },
+  {
+    "finess": "380023341",
+    "raison_sociale": "SAAD ADMR VILLETTE D'ANTHON",
+    "numero voie": "12",
+    "type_voie": "R",
+    "libelle_voie": "DES TILLEULS",
+    "bp": "",
+    "cp": "38280",
+    "VILLE": "VILLETTE D ANTHON    ",
+    "tel": "472024610",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "5.113390085172",
+    "lat": "45.794122901686"
+  },
+  {
+    "finess": "380781609",
+    "raison_sociale": "EHPAD CHATEAU DE LA SERRA",
+    "numero voie": "51",
+    "type_voie": "R",
+    "libelle_voie": "DES PRUNUS",
+    "bp": "",
+    "cp": "38280",
+    "VILLE": "VILLETTE D ANTHON    ",
+    "tel": "478312512",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26380034400016",
+    "lng": "5.11933356453137",
+    "lat": "45.7962832964698"
+  }
+]

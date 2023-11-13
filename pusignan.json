@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "690016670",
+    "raison_sociale": "PHARMACIE DE PUSIGNAN",
+    "numero voie": "15",
+    "type_voie": "RTE",
+    "libelle_voie": "de Jons",
+    "bp": "",
+    "cp": "69330",
+    "VILLE": "PUSIGNAN ",
+    "tel": "478313184",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53064141400020",
+    "lng": "5.07578123070141",
+    "lat": "45.764481957491"
+  },
+  {
+    "finess": "690051743",
+    "raison_sociale": "ELIA RHONE ALPES PUSIGNAN",
+    "numero voie": "63",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "69330",
+    "VILLE": "PUSIGNAN ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "52800230600025",
+    "lng": "5.06102419839366",
+    "lat": "45.7600017736369"
+  }
+]

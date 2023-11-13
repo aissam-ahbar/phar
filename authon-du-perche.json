@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "280001561",
+    "raison_sociale": "SELARL PHARMACIE DU PERCHE",
+    "numero voie": "23",
+    "type_voie": "PL",
+    "libelle_voie": "DU MARCHE",
+    "bp": "",
+    "cp": "28330",
+    "VILLE": "AUTHON DU PERCHE    ",
+    "tel": "237490306",
+    "telecopie": "237490002",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51109893100013",
+    "lng": "0.893974113362962",
+    "lat": "48.1949061211451"
+  },
+  {
+    "finess": "280005273",
+    "raison_sociale": "SAAD ADMR AUTHON DU PERCHE",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "28330",
+    "VILLE": "AUTHON DU PERCHE    ",
+    "tel": "237351714",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "77508225800010",
+    "lng": "0.89683467234228",
+    "lat": "48.195217241659"
+  },
+  {
+    "finess": "280500471",
+    "raison_sociale": "EHPAD TEXIER GALLAS AUTHON DU P",
+    "numero voie": "3",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "28330",
+    "VILLE": "AUTHON DU PERCHE    ",
+    "tel": "237490387",
+    "telecopie": "237490553",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77557533500085",
+    "lng": "0.89754971073568",
+    "lat": "48.1953145865215"
+  }
+]

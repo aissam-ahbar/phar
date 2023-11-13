@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "260012489",
+    "raison_sociale": "RESIDENCE LES GENETS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "26150",
+    "VILLE": "MARIGNAC EN DIOIS    ",
+    "tel": "475222160",
+    "telecopie": "475220924",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "47795460600018",
+    "lng": "5.33397192111236",
+    "lat": "44.8019326007479"
+  },
+  {
+    "finess": "260018015",
+    "raison_sociale": "LIEU DE VIE PLAIN CHAMP",
+    "numero voie": "292",
+    "type_voie": "RTE",
+    "libelle_voie": "L'HERMITE",
+    "bp": "",
+    "cp": "26150",
+    "VILLE": "MARIGNAC EN DIOIS    ",
+    "tel": "475215093",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "50383339400045",
+    "lng": "5.34958875027466",
+    "lat": "44.8120412054896"
+  }
+]

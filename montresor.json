@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "370006447",
+    "raison_sociale": "S.E.L.A.R.L. PHARMACIE DU MARCHÉ",
+    "numero voie": "31",
+    "type_voie": "R",
+    "libelle_voie": "DU MARCHE",
+    "bp": "",
+    "cp": "37460",
+    "VILLE": "MONTRESOR ",
+    "tel": "247926010",
+    "telecopie": "247927646",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79280957600012",
+    "lng": "1.200019936884",
+    "lat": "47.1562705081284"
+  },
+  {
+    "finess": "370010316",
+    "raison_sociale": "SAAD ADMR DE MONTRESOR",
+    "numero voie": "23",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "37460",
+    "VILLE": "MONTRESOR ",
+    "tel": "247926031",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "34208137900014",
+    "lng": "1.19986406415314",
+    "lat": "47.1556413187631"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "600003750",
+    "raison_sociale": "SELARL PHARMACIE DE COYE LA FORET",
+    "numero voie": "37",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "60580",
+    "VILLE": "COYE LA FORET    ",
+    "tel": "344586091",
+    "telecopie": "344586091",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83364216800011",
+    "lng": "2.46923025446516",
+    "lat": "49.143238664528"
+  },
+  {
+    "finess": "600109367",
+    "raison_sociale": "LF RÉSID'OISE COYE-LA-FORÊT",
+    "numero voie": "61",
+    "type_voie": "R",
+    "libelle_voie": "BLANCHE",
+    "bp": "",
+    "cp": "60580",
+    "VILLE": "COYE LA FORET    ",
+    "tel": "344587439",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "31021419200117",
+    "lng": "2.4677278176217",
+    "lat": "49.141945420191"
+  }
+]

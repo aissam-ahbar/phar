@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "340018134",
+    "raison_sociale": "EHPAD LES ROMARINS",
+    "numero voie": "40",
+    "type_voie": "R",
+    "libelle_voie": "DES OLIVIERS",
+    "bp": "",
+    "cp": "34560",
+    "VILLE": "VILLEVEYRAC ",
+    "tel": "499022740",
+    "telecopie": "499022755",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "47819718900028",
+    "lng": "3.59758683892772",
+    "lat": "43.5008524918355"
+  },
+  {
+    "finess": "340028695",
+    "raison_sociale": "SAAD ADAPT VILLEVEYRAC",
+    "numero voie": "30",
+    "type_voie": "R",
+    "libelle_voie": "TURENNE",
+    "bp": "",
+    "cp": "34560",
+    "VILLE": "VILLEVEYRAC ",
+    "tel": "467763212",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "43018109900069",
+    "lng": "3.60704048641625",
+    "lat": "43.5005714677886"
+  },
+  {
+    "finess": "340795897",
+    "raison_sociale": "SELAS PHARMACIE DAVID - TOMAS",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DES HORTS DE VIEILS",
+    "bp": "",
+    "cp": "34560",
+    "VILLE": "VILLEVEYRAC ",
+    "tel": "467780660",
+    "telecopie": "467531466",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52351217600018",
+    "lng": "3.60605729806073",
+    "lat": "43.4995791681883"
+  }
+]

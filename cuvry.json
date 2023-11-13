@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "570022905",
+    "raison_sociale": "EHPAD HYGIE",
+    "numero voie": "1",
+    "type_voie": "ALL",
+    "libelle_voie": "DU HAUT ROZIN",
+    "bp": "HAUT ROZIN",
+    "cp": "57420",
+    "VILLE": "CUVRY ",
+    "tel": "387381130",
+    "telecopie": "387570336",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "78001412200052",
+    "lng": "6.15342859805358",
+    "lat": "49.0423851589284"
+  },
+  {
+    "finess": "570023770",
+    "raison_sociale": "MAS DE CUVRY",
+    "numero voie": "1",
+    "type_voie": "ALL",
+    "libelle_voie": "DU HAUT ROZIN",
+    "bp": "",
+    "cp": "57420",
+    "VILLE": "CUVRY ",
+    "tel": "387381130",
+    "telecopie": "",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "78001412200052",
+    "lng": "6.15342859805358",
+    "lat": "49.0423851589284"
+  },
+  {
+    "finess": "570028068",
+    "raison_sociale": "MSP DU CLOS SAINT VINCENT DE PAUL",
+    "numero voie": "1",
+    "type_voie": "CLOS",
+    "libelle_voie": "DE SAINT VINCENT DE PAUL",
+    "bp": "",
+    "cp": "57420",
+    "VILLE": "CUVRY ",
+    "tel": "372510410",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "84089863900017",
+    "lng": "6.15735980534555",
+    "lat": "49.0432375079088"
+  }
+]

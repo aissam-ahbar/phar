@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "620010710",
+    "raison_sociale": "SELARL PHARMACIE KOZAK",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "GABRIEL PERI",
+    "bp": "",
+    "cp": "62300",
+    "VILLE": "ELEU DIT LEAUWETTE    ",
+    "tel": "321282330",
+    "telecopie": "321281365",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80941981500018",
+    "lng": "2.81726352461186",
+    "lat": "50.4161302914351"
+  },
+  {
+    "finess": "620018077",
+    "raison_sociale": "PHARMACIE LAHAILLE-BARDOEL",
+    "numero voie": "120",
+    "type_voie": "R",
+    "libelle_voie": "ROGER SALENGRO",
+    "bp": "",
+    "cp": "62300",
+    "VILLE": "ELEU DIT LEAUWETTE    ",
+    "tel": "321436366",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "33966185200014",
+    "lng": "2.80968270560138",
+    "lat": "50.4234647779336"
+  },
+  {
+    "finess": "620032953",
+    "raison_sociale": "SOS OXYGENE NORD JOLY MEDICAL",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "BLERIOT",
+    "bp": "",
+    "cp": "62300",
+    "VILLE": "ELEU DIT LEAUWETTE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "39537437400027",
+    "lng": "2.80380324638118",
+    "lat": "50.4198988824514"
+  }
+]

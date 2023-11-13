@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590036349",
+    "raison_sociale": "FH PBL CAMPHIN-EN-PÉVÈLE",
+    "numero voie": "126",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "59780",
+    "VILLE": "CAMPHIN EN PEVELE    ",
+    "tel": "320439573",
+    "telecopie": "320046042",
+    "categorie etablissement": "252",
+    "libelle categorie": "Foyer Hébergement Adultes Handicapés",
+    "siret": "77562042000460",
+    "lng": "3.27059912552739",
+    "lat": "50.5873423986651"
+  },
+  {
+    "finess": "590066122",
+    "raison_sociale": "UNITÉ DE VIE CAMPHIN-EN-PÉVÈLE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "59780",
+    "VILLE": "CAMPHIN EN PEVELE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "",
+    "lng": "3.26006106975427",
+    "lat": "50.5955051524706"
+  }
+]

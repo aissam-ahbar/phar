@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "130033087",
+    "raison_sociale": "SELARL PHARMACIE GILLY-MASCARAU",
+    "numero voie": "6",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA VIERGE",
+    "bp": "",
+    "cp": "13820",
+    "VILLE": "ENSUES LA REDONNE    ",
+    "tel": "442459870",
+    "telecopie": "442459466",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "43411544000027",
+    "lng": "5.20696993076495",
+    "lat": "43.3562669895123"
+  },
+  {
+    "finess": "130036627",
+    "raison_sociale": "PHARMACIE DES PALMIERS",
+    "numero voie": "65",
+    "type_voie": "AV",
+    "libelle_voie": "FREDERIC MISTRAL",
+    "bp": "LIEU-DIT LES SAOUQUES",
+    "cp": "13820",
+    "VILLE": "ENSUES LA REDONNE    ",
+    "tel": "442457954",
+    "telecopie": "442457953",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79238131100010",
+    "lng": "5.19718951820547",
+    "lat": "43.3553285249411"
+  },
+  {
+    "finess": "130039688",
+    "raison_sociale": "LBM SYNLAB PROVENCE SITE ENSUES",
+    "numero voie": "11",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA VIERGE",
+    "bp": "",
+    "cp": "13820",
+    "VILLE": "ENSUES LA REDONNE    ",
+    "tel": "442457098",
+    "telecopie": "442457065",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "",
+    "lng": "5.20709462529745",
+    "lat": "43.3557874687762"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "580003176",
+    "raison_sociale": "PHARMACIE  LAROCHE",
+    "numero voie": "49",
+    "type_voie": "AV",
+    "libelle_voie": "DU GENERAL D ESPEUILLES",
+    "bp": "",
+    "cp": "58360",
+    "VILLE": "ST HONORE LES BAINS   ",
+    "tel": "386307598",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82815493000014",
+    "lng": "3.83992241361609",
+    "lat": "46.9071927595075"
+  },
+  {
+    "finess": "580780021",
+    "raison_sociale": "ETABLISSEMENT THERMAL",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "58360",
+    "VILLE": "ST HONORE LES BAINS   ",
+    "tel": "386307327",
+    "telecopie": "386306244",
+    "categorie etablissement": "126",
+    "libelle categorie": "Etablissement Thermal",
+    "siret": "93575077800075",
+    "lng": "3.84162255470658",
+    "lat": "46.9053363000856"
+  }
+]

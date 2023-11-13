@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "290014000",
+    "raison_sociale": "SELARL PHARMACIE DEBARD",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU CHAP",
+    "bp": "",
+    "cp": "29150",
+    "VILLE": "DINEAULT ",
+    "tel": "298260257",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49988602600016",
+    "lng": "-4.16493280656313",
+    "lat": "48.2197108004222"
+  },
+  {
+    "finess": "290014695",
+    "raison_sociale": "EANM MENEZ BIHAN",
+    "numero voie": "1",
+    "type_voie": "",
+    "libelle_voie": "MENEZ BIHAN",
+    "bp": "",
+    "cp": "29150",
+    "VILLE": "DINEAULT ",
+    "tel": "298861793",
+    "telecopie": "298865196",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "77757176100090",
+    "lng": "-4.1690571359562",
+    "lat": "48.2157564950971"
+  },
+  {
+    "finess": "290030824",
+    "raison_sociale": "EAM TY ANGLAIS",
+    "numero voie": "1",
+    "type_voie": "",
+    "libelle_voie": "MENEZ BIHAN",
+    "bp": "",
+    "cp": "29150",
+    "VILLE": "DINEAULT ",
+    "tel": "298861793",
+    "telecopie": "",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "77757176100090",
+    "lng": "-4.1690571359562",
+    "lat": "48.2157564950971"
+  }
+]

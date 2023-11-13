@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590018073",
+    "raison_sociale": "SELARL PHARMACIE MALAQUIN",
+    "numero voie": "3",
+    "type_voie": "PL",
+    "libelle_voie": "PERI",
+    "bp": "",
+    "cp": "59198",
+    "VILLE": "HASPRES ",
+    "tel": "327256523",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53359348900016",
+    "lng": "3.41754444509932",
+    "lat": "50.2585925096446"
+  },
+  {
+    "finess": "590046801",
+    "raison_sociale": "EHPAD RESIDENCE LES MULQUINIERS",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "FAIDHERBE",
+    "bp": "",
+    "cp": "59198",
+    "VILLE": "HASPRES ",
+    "tel": "327191870",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "41986768400112",
+    "lng": "3.41498583327754",
+    "lat": "50.2606816238921"
+  }
+]

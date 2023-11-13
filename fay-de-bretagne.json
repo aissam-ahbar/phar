@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "440003549",
+    "raison_sociale": "EHPAD HAMEAU SAINT-JOSEPH",
+    "numero voie": "1",
+    "type_voie": "ALL",
+    "libelle_voie": "RENE BERNARD",
+    "bp": "",
+    "cp": "44130",
+    "VILLE": "FAY DE BRETAGNE    ",
+    "tel": "240874632",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77560546200800",
+    "lng": "-1.74005738519315",
+    "lat": "47.4037237519387"
+  },
+  {
+    "finess": "440015394",
+    "raison_sociale": "PHARMACIE  LAMBERT - BREMENT",
+    "numero voie": "17",
+    "type_voie": "R",
+    "libelle_voie": "DE MALACQUET",
+    "bp": "",
+    "cp": "44130",
+    "VILLE": "FAY DE BRETAGNE    ",
+    "tel": "240874141",
+    "telecopie": "240874694",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53292596300011",
+    "lng": "-1.79385420945682",
+    "lat": "47.4125647805407"
+  },
+  {
+    "finess": "440056364",
+    "raison_sociale": "RESIDENCE LE HAMEAU ST JOSEPH",
+    "numero voie": "1",
+    "type_voie": "ALL",
+    "libelle_voie": "RENE BERNARD",
+    "bp": "",
+    "cp": "44130",
+    "VILLE": "FAY DE BRETAGNE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "77560546200800",
+    "lng": "-1.74005738519315",
+    "lat": "47.4037237519387"
+  }
+]

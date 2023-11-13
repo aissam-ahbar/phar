@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "490003795",
+    "raison_sociale": "EHPAD LE PRIEURE",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'ABBAYE",
+    "bp": "",
+    "cp": "49310",
+    "VILLE": "MONTILLIERS ",
+    "tel": "241758139",
+    "telecopie": "241754329",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "82069262200021",
+    "lng": "-0.502459484378438",
+    "lat": "47.1824849664301"
+  },
+  {
+    "finess": "490016797",
+    "raison_sociale": "SSIAD ENTRE LOIRE ET COTEAUX",
+    "numero voie": "2",
+    "type_voie": "IMP",
+    "libelle_voie": "DES VALLONS",
+    "bp": "",
+    "cp": "49310",
+    "VILLE": "MONTILLIERS ",
+    "tel": "241631757",
+    "telecopie": "241631878",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "77560546200768",
+    "lng": "-0.506645986153985",
+    "lat": "47.1819436645912"
+  }
+]

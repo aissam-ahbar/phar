@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "70002985",
+    "raison_sociale": "PHARMACIE MARTINENT",
+    "numero voie": "4",
+    "type_voie": "PL",
+    "libelle_voie": "du Temple",
+    "bp": "",
+    "cp": "7360",
+    "VILLE": "LES OLLIERES SUR EYRIEUX   ",
+    "tel": "475662021",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "37863780500011",
+    "lng": "4.6139234593324",
+    "lat": "44.8040970975885"
+  },
+  {
+    "finess": "70786561",
+    "raison_sociale": "LF \"LES TERRASSES DE L'EYRIEUX\"",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "7360",
+    "VILLE": "LES OLLIERES SUR EYRIEUX   ",
+    "tel": "475663162",
+    "telecopie": "475660359",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "77622946000279",
+    "lng": "4.62399360532764",
+    "lat": "44.8068677430973"
+  }
+]

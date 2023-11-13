@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "690016217",
+    "raison_sociale": "PHARMACIE COMBES",
+    "numero voie": "9",
+    "type_voie": "PL",
+    "libelle_voie": "DE VERDUN",
+    "bp": "",
+    "cp": "69730",
+    "VILLE": "GENAY ",
+    "tel": "478913749",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "42223087000012",
+    "lng": "4.84132366426933",
+    "lat": "45.8980642473907"
+  },
+  {
+    "finess": "690016233",
+    "raison_sociale": "PHARMACIE DES CHARMES",
+    "numero voie": "92",
+    "type_voie": "R",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "69730",
+    "VILLE": "GENAY ",
+    "tel": "472089232",
+    "telecopie": "472089231",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50324262000014",
+    "lng": "4.83998155281916",
+    "lat": "45.8985148458386"
+  }
+]

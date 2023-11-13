@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "470009242",
+    "raison_sociale": "PHARMACIE DE COLAYRAC SAINT CIRQ",
+    "numero voie": "1006",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA LIBERATION",
+    "bp": "",
+    "cp": "47450",
+    "VILLE": "COLAYRAC ST CIRQ    ",
+    "tel": "553875041",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49164120500027",
+    "lng": "0.54811037849097",
+    "lat": "44.219176474213"
+  },
+  {
+    "finess": "470017328",
+    "raison_sociale": "SAAD ADMR DE COLAYRAC SAINT CIRQ",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DES ECOLES",
+    "bp": "",
+    "cp": "47450",
+    "VILLE": "COLAYRAC ST CIRQ    ",
+    "tel": "553775754",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31190289400014",
+    "lng": "0.553969153214685",
+    "lat": "44.2216530718527"
+  }
+]

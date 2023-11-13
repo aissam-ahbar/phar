@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380009308",
+    "raison_sociale": "CENTRE EDUC RENFORCE LE SEXTANT",
+    "numero voie": "271",
+    "type_voie": "RTE",
+    "libelle_voie": "DU BOIS",
+    "bp": "MARQUIS-HAUT",
+    "cp": "38150",
+    "VILLE": "VERNIOZ ",
+    "tel": "474543867",
+    "telecopie": "",
+    "categorie etablissement": "241",
+    "libelle categorie": "Foyer d'Action Educative (F.A.E.)",
+    "siret": "43043466200119",
+    "lng": "4.92762127857993",
+    "lat": "45.4306200840016"
+  },
+  {
+    "finess": "380010868",
+    "raison_sociale": "SSIAD DES 3 RIVIERES LA VAREZE",
+    "numero voie": "38",
+    "type_voie": "ALL",
+    "libelle_voie": "LONGCHAMP",
+    "bp": "",
+    "cp": "38150",
+    "VILLE": "VERNIOZ ",
+    "tel": "474150297",
+    "telecopie": "",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "49947195100016",
+    "lng": "4.90398721991012",
+    "lat": "45.4201288034834"
+  }
+]

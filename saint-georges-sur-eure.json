@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "280004235",
+    "raison_sociale": "PHARMACIE DE SAINT-GEORGES-SUR-EURE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "de la Plaine",
+    "bp": "",
+    "cp": "28190",
+    "VILLE": "ST GEORGES SUR EURE   ",
+    "tel": "237267207",
+    "telecopie": "237285967",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52906612800016",
+    "lng": "1.36187861373046",
+    "lat": "48.4250160810002"
+  },
+  {
+    "finess": "280005596",
+    "raison_sociale": "SAAD ADMR SAINT GEORGES SUR EURE",
+    "numero voie": "4",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "28190",
+    "VILLE": "ST GEORGES SUR EURE   ",
+    "tel": "237351714",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31194459900035",
+    "lng": "1.35397594026383",
+    "lat": "48.4179913995433"
+  },
+  {
+    "finess": "280009051",
+    "raison_sociale": "SAAD ADMR COURVILLE",
+    "numero voie": "4",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "28190",
+    "VILLE": "ST GEORGES SUR EURE   ",
+    "tel": "237351714",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "90858307300014",
+    "lng": "1.35397594026383",
+    "lat": "48.4179913995433"
+  }
+]

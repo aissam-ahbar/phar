@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "310780010",
+    "raison_sociale": "ETAB THERMAL BARBAZAN",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "31510",
+    "VILLE": "BARBAZAN ",
+    "tel": "561883272",
+    "telecopie": "",
+    "categorie etablissement": "126",
+    "libelle categorie": "Etablissement Thermal",
+    "siret": "26310027300014",
+    "lng": "0.624410239566664",
+    "lat": "43.0334267756039"
+  },
+  {
+    "finess": "310784350",
+    "raison_sociale": "EHPAD RESIDENCE GENERAL PAUL ODDO",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LUSCAN",
+    "bp": "",
+    "cp": "31510",
+    "VILLE": "BARBAZAN ",
+    "tel": "561948787",
+    "telecopie": "561955046",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20007673500014",
+    "lng": "0.619966459857075",
+    "lat": "43.026592847845"
+  }
+]

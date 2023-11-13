@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "510018526",
+    "raison_sociale": "SELARL PHARMACIE VERGEOISE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "du 8 Mai 1945",
+    "bp": "",
+    "cp": "51230",
+    "VILLE": "CONNANTRE ",
+    "tel": "326810550",
+    "telecopie": "326810659",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "32815882900015",
+    "lng": "3.92352130370317",
+    "lat": "48.7268472010878"
+  },
+  {
+    "finess": "510027410",
+    "raison_sociale": "ADMR CONNANTRE ET SES ENVIRONS",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU 8 MAI 1945",
+    "bp": "",
+    "cp": "51230",
+    "VILLE": "CONNANTRE ",
+    "tel": "326802607",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31581468100021",
+    "lng": "3.92352130370317",
+    "lat": "48.7268472010878"
+  },
+  {
+    "finess": "510027766",
+    "raison_sociale": "SAAD AGES ET VIE DE CONNANTRE",
+    "numero voie": "210",
+    "type_voie": "R",
+    "libelle_voie": "DES BRUNES",
+    "bp": "",
+    "cp": "51230",
+    "VILLE": "CONNANTRE ",
+    "tel": "381250823",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "3.92195729234853",
+    "lat": "48.7247401048759"
+  }
+]

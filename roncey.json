@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "500011473",
+    "raison_sociale": "PHARMACIE PHARMANATURA",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "DE LA LIBERTE",
+    "bp": "",
+    "cp": "50210",
+    "VILLE": "RONCEY ",
+    "tel": "233469277",
+    "telecopie": "233461925",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "42507882100013",
+    "lng": "-1.33273053743365",
+    "lat": "48.989227862986"
+  },
+  {
+    "finess": "500025366",
+    "raison_sociale": "SAAD SOCIETE AGES ET VIE",
+    "numero voie": "23",
+    "type_voie": "RTE",
+    "libelle_voie": "DE COUTANCES",
+    "bp": "",
+    "cp": "50210",
+    "VILLE": "RONCEY ",
+    "tel": "381250823",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "75051007500013",
+    "lng": "-1.33795892805166",
+    "lat": "48.9923186277396"
+  }
+]

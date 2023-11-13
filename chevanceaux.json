@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "170010946",
+    "raison_sociale": "PHARMACIE FESTAL",
+    "numero voie": "37",
+    "type_voie": "AV",
+    "libelle_voie": "DE PARIS",
+    "bp": "",
+    "cp": "17210",
+    "VILLE": "CHEVANCEAUX ",
+    "tel": "546490523",
+    "telecopie": "546046431",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50024094000014",
+    "lng": "-0.232736313229538",
+    "lat": "45.3046361403625"
+  },
+  {
+    "finess": "170024343",
+    "raison_sociale": "MSP DE CHEVANCEAUX",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LE PAVE",
+    "bp": "",
+    "cp": "17210",
+    "VILLE": "CHEVANCEAUX ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "-0.237929969447756",
+    "lat": "45.297846777479"
+  },
+  {
+    "finess": "170026090",
+    "raison_sociale": "SAAD AGES ET VIE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LARY",
+    "bp": "",
+    "cp": "17210",
+    "VILLE": "CHEVANCEAUX ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "75051007500013",
+    "lng": "-0.228513444266296",
+    "lat": "45.3033423579556"
+  }
+]

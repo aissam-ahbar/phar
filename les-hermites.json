@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "370003972",
+    "raison_sociale": "PHARMACIE DROUET-MOUVIER",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE L ERMITAGE",
+    "bp": "",
+    "cp": "37110",
+    "VILLE": "LES HERMITES",
+    "tel": "247563116",
+    "telecopie": "247563035",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "32861425000012",
+    "lng": "0.752783376206996",
+    "lat": "47.664792503087"
+  },
+  {
+    "finess": "370012551",
+    "raison_sociale": "FAM LA VALLEE GERMAIN",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LA VALLEE GERMAIN",
+    "bp": "",
+    "cp": "37110",
+    "VILLE": "LES HERMITES",
+    "tel": "247298290",
+    "telecopie": "247563679",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "77535425100131",
+    "lng": "0.752689368319779",
+    "lat": "47.6592105983932"
+  },
+  {
+    "finess": "370104929",
+    "raison_sociale": "FOYER DE VIE LA VALLEE GERMAIN",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LA VALLEE GERMAIN",
+    "cp": "37110",
+    "VILLE": "LES HERMITES",
+    "tel": "247298290",
+    "telecopie": "247563679",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "77535425100057",
+    "lng": "0.752689368319779",
+    "lat": "47.6592105983932"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "440002772",
+    "raison_sociale": "EHPAD LES FONTENELLES",
+    "numero voie": "4",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LA BARRE",
+    "bp": "",
+    "cp": "44590",
+    "VILLE": "ST VINCENT DES LANDES   ",
+    "tel": "240553038",
+    "telecopie": "240553463",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "78835103900011",
+    "lng": "-1.49233636796005",
+    "lat": "47.6543463955539"
+  },
+  {
+    "finess": "440017119",
+    "raison_sociale": "PHARMACIE GODART-POLLET",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "44590",
+    "VILLE": "ST VINCENT DES LANDES   ",
+    "tel": "240553814",
+    "telecopie": "897385177",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83927428900017",
+    "lng": "-1.4954880794333",
+    "lat": "47.6560236642874"
+  },
+  {
+    "finess": "440056653",
+    "raison_sociale": "CPTS ANL",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "D'ISSE",
+    "bp": "",
+    "cp": "44590",
+    "VILLE": "ST VINCENT DES LANDES   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "604",
+    "libelle categorie": "Communautés professionnelles territoriales de santé (CPTS)",
+    "siret": "",
+    "lng": "-1.49393804560452",
+    "lat": "47.6551592531662"
+  }
+]

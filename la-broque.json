@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "670006683",
+    "raison_sociale": "PHARMACIE DES VOSGES",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "67130",
+    "VILLE": "LA BROQUE",
+    "tel": "388970517",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79822725200011",
+    "lng": "7.2055208862195",
+    "lat": "48.4595581839261"
+  },
+  {
+    "finess": "670021369",
+    "raison_sociale": "MECS ETABLISSEMENT OBERLIN",
+    "numero voie": "102",
+    "type_voie": "R",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "67130",
+    "VILLE": "LA BROQUE",
+    "tel": "388496420",
+    "telecopie": "",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "77873812000014",
+    "lng": "7.21486863301723",
+    "lat": "48.471904719331"
+  }
+]

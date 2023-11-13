@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "440015667",
+    "raison_sociale": "PHARMACIE DE MALVILLE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA CROIX BLANCHE",
+    "bp": "",
+    "cp": "44260",
+    "VILLE": "MALVILLE ",
+    "tel": "240564458",
+    "telecopie": "240560092",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50764512500018",
+    "lng": "-1.86438603763255",
+    "lat": "47.3533875147058"
+  },
+  {
+    "finess": "440054807",
+    "raison_sociale": "ATOUT MEDICAL",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "JEAN MONNET",
+    "bp": "",
+    "cp": "44260",
+    "VILLE": "MALVILLE ",
+    "tel": "240957102",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "45204220300045",
+    "lng": "-1.81064392576293",
+    "lat": "47.3339226758424"
+  }
+]

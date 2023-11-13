@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "350019154",
+    "raison_sociale": "PHARMACIE DU BOURG JOLY",
+    "numero voie": "26",
+    "type_voie": "R",
+    "libelle_voie": "des Frères Amyot d'Inville",
+    "bp": "",
+    "cp": "35680",
+    "VILLE": "LOUVIGNE DE BAIS    ",
+    "tel": "299490021",
+    "telecopie": "299490923",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79263330700022",
+    "lng": "-1.33283017396013",
+    "lat": "48.0488401987432"
+  },
+  {
+    "finess": "350052346",
+    "raison_sociale": "APSLLB",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DU BOURG JOLY",
+    "bp": "",
+    "cp": "35680",
+    "VILLE": "LOUVIGNE DE BAIS    ",
+    "tel": "299765784",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "-1.33200398751681",
+    "lat": "48.0488291666588"
+  },
+  {
+    "finess": "350056347",
+    "raison_sociale": "CDEF 35 HESTIA",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LIEU-DIT L'AUBENAIS",
+    "cp": "35680",
+    "VILLE": "LOUVIGNE DE BAIS    ",
+    "tel": "223556130",
+    "telecopie": "",
+    "categorie etablissement": "175",
+    "libelle categorie": "Foyer de l'Enfance",
+    "siret": "",
+    "lng": "-1.32824870050268",
+    "lat": "48.0472541334484"
+  }
+]

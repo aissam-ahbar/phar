@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "660011032",
+    "raison_sociale": "SAAD ASSOCIATION AMAPA/GROUPE AVEC",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "THEOPHILE SANAC",
+    "bp": "",
+    "cp": "66180",
+    "VILLE": "VILLENEUVE DE LA RAHO   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "2.9154451505229",
+    "lat": "42.6359169476402"
+  },
+  {
+    "finess": "660789520",
+    "raison_sociale": "SELARL PHARMACIE GERAUD",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DU MUSCAT",
+    "bp": "",
+    "cp": "66180",
+    "VILLE": "VILLENEUVE DE LA RAHO   ",
+    "tel": "468559073",
+    "telecopie": "468559073",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50197139400017",
+    "lng": "2.91483791579073",
+    "lat": "42.6390019988855"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "290004944",
+    "raison_sociale": "EHPAD DU PAYS GLAZIK",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "DE LEUHAN",
+    "bp": "",
+    "cp": "29370",
+    "VILLE": "CORAY ",
+    "tel": "298591944",
+    "telecopie": "298591974",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26290359400022",
+    "lng": "-3.82901082495345",
+    "lat": "48.0617348861675"
+  },
+  {
+    "finess": "290013440",
+    "raison_sociale": "PHARMACIE BOEDEC-RANNOU",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DE PEN PAVE",
+    "bp": "",
+    "cp": "29370",
+    "VILLE": "CORAY ",
+    "tel": "298591216",
+    "telecopie": "298593571",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50122113900014",
+    "lng": "-3.82859576379149",
+    "lat": "48.058911056735"
+  },
+  {
+    "finess": "290035187",
+    "raison_sociale": "MSP DE CORAY",
+    "numero voie": "40",
+    "type_voie": "",
+    "libelle_voie": "PEN PAVÉ",
+    "bp": "",
+    "cp": "29370",
+    "VILLE": "CORAY ",
+    "tel": "298591122",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "81852445600014",
+    "lng": "-3.8271703756921",
+    "lat": "48.0565361422836"
+  }
+]

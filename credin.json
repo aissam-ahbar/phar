@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "560002255",
+    "raison_sociale": "EHPAD TY MEM BRO",
+    "numero voie": "20",
+    "type_voie": "R",
+    "libelle_voie": "DE LA JOUANNE",
+    "bp": "",
+    "cp": "56580",
+    "VILLE": "CREDIN ",
+    "tel": "297515189",
+    "telecopie": "297515377",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26560031200028",
+    "lng": "-2.7737870736465",
+    "lat": "48.0338195899675"
+  },
+  {
+    "finess": "560007189",
+    "raison_sociale": "IME KERDREINEG",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LA BECHETTE",
+    "bp": "",
+    "cp": "56580",
+    "VILLE": "CREDIN ",
+    "tel": "297389999",
+    "telecopie": "297389440",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "77780125900022",
+    "lng": "-2.77470185822293",
+    "lat": "48.0352111089497"
+  }
+]

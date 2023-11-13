@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "430003350",
+    "raison_sociale": "PHARMACIE DE LA LEUGE",
+    "numero voie": "47",
+    "type_voie": "RTE",
+    "libelle_voie": "DE BRASSAC",
+    "bp": "",
+    "cp": "43360",
+    "VILLE": "VERGONGHEON ",
+    "tel": "471760177",
+    "telecopie": "970612939",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "85315114000011",
+    "lng": "3.31797269810203",
+    "lat": "45.3738218761547"
+  },
+  {
+    "finess": "430004028",
+    "raison_sociale": "IME DE BERGOIDE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "BERGOIDE",
+    "bp": "",
+    "cp": "43360",
+    "VILLE": "VERGONGHEON ",
+    "tel": "471760048",
+    "telecopie": "471760313",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "77560376400173",
+    "lng": "3.34352943454764",
+    "lat": "45.3769268455654"
+  },
+  {
+    "finess": "430006130",
+    "raison_sociale": "ATELIER SPECIALISE \"ETAPE 43\"",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "CHAUMONT",
+    "cp": "43360",
+    "VILLE": "VERGONGHEON ",
+    "tel": "471769900",
+    "telecopie": "",
+    "categorie etablissement": "247",
+    "libelle categorie": "Entreprise adaptée",
+    "siret": "",
+    "lng": "3.3143275186536",
+    "lat": "45.3837317962299"
+  }
+]

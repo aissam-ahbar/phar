@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "490002961",
+    "raison_sociale": "EHPAD LES COULEURS DU TEMPS",
+    "numero voie": "14",
+    "type_voie": "CHE",
+    "libelle_voie": "DES VIGNES D'OULE",
+    "bp": "VILLEVEQUE",
+    "cp": "49140",
+    "VILLE": "RIVES DU LOIR EN ANJOU  ",
+    "tel": "241411213",
+    "telecopie": "241411233",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77560546200677",
+    "lng": "-0.420104679101975",
+    "lat": "47.5577668172677"
+  },
+  {
+    "finess": "490531092",
+    "raison_sociale": "CSI VILLEVEQUE",
+    "numero voie": "4",
+    "type_voie": "CHE",
+    "libelle_voie": "DES VIGNES D'OULES",
+    "bp": "",
+    "cp": "49140",
+    "VILLE": "RIVES DU LOIR EN ANJOU  ",
+    "tel": "241695521",
+    "telecopie": "241181871",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "77560955500195",
+    "lng": "-0.422249002645497",
+    "lat": "47.5580588742403"
+  },
+  {
+    "finess": "490536273",
+    "raison_sociale": "PHARMACIE DES RIVES DU LOIR",
+    "numero voie": "11",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "49140",
+    "VILLE": "RIVES DU LOIR EN ANJOU  ",
+    "tel": "241322304",
+    "telecopie": "241323202",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "87753127700011",
+    "lng": "-0.42263309784804",
+    "lat": "47.5607505381639"
+  }
+]

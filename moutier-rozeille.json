@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "230004657",
+    "raison_sociale": "SITE CROIX BLANCHE",
+    "numero voie": "3",
+    "type_voie": "",
+    "libelle_voie": "COTE RIBIERE",
+    "bp": "",
+    "cp": "23200",
+    "VILLE": "MOUTIER ROZEILLE",
+    "tel": "555835050",
+    "telecopie": "555661137",
+    "categorie etablissement": "355",
+    "libelle categorie": "Centre Hospitalier (C.H.)",
+    "siret": "26230080900080",
+    "lng": "2.1721278511641",
+    "lat": "45.9398705610577"
+  },
+  {
+    "finess": "230004889",
+    "raison_sociale": "CH GUERET - SITE CROIX BLANCHE",
+    "numero voie": "3",
+    "type_voie": "COTE",
+    "libelle_voie": "RIBIERE",
+    "bp": "",
+    "cp": "23200",
+    "VILLE": "MOUTIER ROZEILLE",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "355",
+    "libelle categorie": "Centre Hospitalier (C.H.)",
+    "siret": "",
+    "lng": "2.1721278511641",
+    "lat": "45.9398705610577"
+  }
+]

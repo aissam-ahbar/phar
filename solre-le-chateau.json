@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590029732",
+    "raison_sociale": "LA  PHARMACIE DU SOLREZIS",
+    "numero voie": "1",
+    "type_voie": "",
+    "libelle_voie": "GRAND  RUE",
+    "bp": "",
+    "cp": "59740",
+    "VILLE": "SOLRE LE CHATEAU    ",
+    "tel": "327616207",
+    "telecopie": "327616100",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48788810900013",
+    "lng": "4.09341359244125",
+    "lat": "50.1749699262031"
+  },
+  {
+    "finess": "590038998",
+    "raison_sociale": "CLIC DES TROIS VALLEES",
+    "numero voie": "6",
+    "type_voie": "PL",
+    "libelle_voie": "FERMAUWEZ",
+    "bp": "",
+    "cp": "59740",
+    "VILLE": "SOLRE LE CHATEAU    ",
+    "tel": "327561611",
+    "telecopie": "327590963",
+    "categorie etablissement": "463",
+    "libelle categorie": "Centres Locaux Information Coordination P.A .(C.L.I.C.)",
+    "siret": "39434217400379",
+    "lng": "4.09233993570206",
+    "lat": "50.1748555337137"
+  }
+]

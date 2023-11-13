@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "620030437",
+    "raison_sociale": "3S SCARPE SENSÉE SERVICES",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "62128",
+    "VILLE": "ECOUST ST MEIN    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "41285967000025",
+    "lng": "2.909781614716",
+    "lat": "50.1824449563364"
+  },
+  {
+    "finess": "620115121",
+    "raison_sociale": "SPASAD 3S D'ECOUST ST MEIN",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "PLACE DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "62128",
+    "VILLE": "ECOUST ST MEIN    ",
+    "tel": "321489496",
+    "telecopie": "321558943",
+    "categorie etablissement": "209",
+    "libelle categorie": "Service Polyvalent Aide et Soins A Domicile (S.P.A.S.A.D.)",
+    "siret": "34231437400022",
+    "lng": "2.909781614716",
+    "lat": "50.1824449563364"
+  }
+]

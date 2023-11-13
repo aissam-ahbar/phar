@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "330050147",
+    "raison_sociale": "PHARMACIE D'ALIENOR",
+    "numero voie": "12",
+    "type_voie": "PL",
+    "libelle_voie": "SAINT SEURIN",
+    "bp": "",
+    "cp": "33680",
+    "VILLE": "LE PORGE",
+    "tel": "556265144",
+    "telecopie": "970625982",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38912929700039",
+    "lng": "-1.09260616931771",
+    "lat": "44.8731210786552"
+  },
+  {
+    "finess": "330063751",
+    "raison_sociale": "LVA LA MAISON DES PINS",
+    "numero voie": "13",
+    "type_voie": "LOT",
+    "libelle_voie": "VILLENEUVE",
+    "bp": "",
+    "cp": "33680",
+    "VILLE": "LE PORGE",
+    "tel": "628761377",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "87886075800019",
+    "lng": "-1.0832578545475",
+    "lat": "44.8735529699425"
+  }
+]

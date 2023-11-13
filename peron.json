@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "10011674",
+    "raison_sociale": "GRANDE PHARMACIE DE PERON",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "Du Pré Munny",
+    "bp": "Lieu dit \"\"LES BOURBES\"\"",
+    "cp": "1630",
+    "VILLE": "PERON ",
+    "tel": "450401034",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83752946000029",
+    "lng": "5.92736953966068",
+    "lat": "46.1834940088691"
+  },
+  {
+    "finess": "10011724",
+    "raison_sociale": "SAPHIR IME DE PERON",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LE BANNU",
+    "cp": "1630",
+    "VILLE": "PERON ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "",
+    "lng": "5.92763746872111",
+    "lat": "46.1887297273431"
+  }
+]

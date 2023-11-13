@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "500012836",
+    "raison_sociale": "PHARMACIE LETARD",
+    "numero voie": "7",
+    "type_voie": "PL",
+    "libelle_voie": "de la Mairie",
+    "bp": "",
+    "cp": "50320",
+    "VILLE": "ST JEAN DES CHAMPS   ",
+    "tel": "233513416",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "33503837800014",
+    "lng": "-1.46496711793504",
+    "lat": "48.8280825990425"
+  },
+  {
+    "finess": "500025937",
+    "raison_sociale": "PSLA DE SAINT-JEAN-DES-CHAMPS",
+    "numero voie": "3",
+    "type_voie": "SQ",
+    "libelle_voie": "ANDRE NEEL",
+    "bp": "",
+    "cp": "50320",
+    "VILLE": "ST JEAN DES CHAMPS   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "90880636700011",
+    "lng": "-1.4649453555397",
+    "lat": "48.8269376151039"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "110005980",
+    "raison_sociale": "EHPAD LE CLOS DES VIGNES",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "NEUVE",
+    "bp": "",
+    "cp": "11350",
+    "VILLE": "TUCHAN ",
+    "tel": "468746411",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "32086181800609",
+    "lng": "2.71817801564377",
+    "lat": "42.8899359321017"
+  },
+  {
+    "finess": "110006020",
+    "raison_sociale": "MSP CORBIERE ROUSSILLON",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DU CAMP DE L'IERA",
+    "bp": "",
+    "cp": "11350",
+    "VILLE": "TUCHAN ",
+    "tel": "468454115",
+    "telecopie": "468450411",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "84387808300016",
+    "lng": "2.71999868828864",
+    "lat": "42.8897500508273"
+  },
+  {
+    "finess": "110791241",
+    "raison_sociale": "PHARMACIE DES HAUTES CORBIERES",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DU CAMP DE L'IERA",
+    "bp": "",
+    "cp": "11350",
+    "VILLE": "TUCHAN ",
+    "tel": "468454016",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82828924900017",
+    "lng": "2.71999868828864",
+    "lat": "42.8897500508273"
+  }
+]

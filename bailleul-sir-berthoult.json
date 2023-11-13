@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "620006627",
+    "raison_sociale": "PHARMACIE DU SIRE",
+    "numero voie": "63",
+    "type_voie": "R",
+    "libelle_voie": "d'Arras",
+    "bp": "",
+    "cp": "62580",
+    "VILLE": "BAILLEUL SIR BERTHOULT    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80501751400011",
+    "lng": "2.84133726944252",
+    "lat": "50.3354234619865"
+  },
+  {
+    "finess": "620021683",
+    "raison_sociale": "ASSOCIATION ADMR VIMY ET STE CATHERINE",
+    "numero voie": "76",
+    "type_voie": "R",
+    "libelle_voie": "D'HÉNIN BEAUMONT",
+    "bp": "",
+    "cp": "62580",
+    "VILLE": "BAILLEUL SIR BERTHOULT    ",
+    "tel": "321601599",
+    "telecopie": "321601598",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31543312800040",
+    "lng": "2.85158512510663",
+    "lat": "50.3379815039077"
+  },
+  {
+    "finess": "620118182",
+    "raison_sociale": "SSIAD VIMY ET ENVIRONS",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "D'HENIN",
+    "bp": "",
+    "cp": "62580",
+    "VILLE": "BAILLEUL SIR BERTHOULT    ",
+    "tel": "321601599",
+    "telecopie": "321481582",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "39119209300022",
+    "lng": "2.85158512510663",
+    "lat": "50.3379815039077"
+  }
+]

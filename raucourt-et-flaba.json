@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "80007925",
+    "raison_sociale": "SELARL PHARMACIE DU PAVE",
+    "numero voie": "2",
+    "type_voie": "PL",
+    "libelle_voie": "DU PAVE",
+    "bp": "",
+    "cp": "8450",
+    "VILLE": "RAUCOURT ET FLABA    ",
+    "tel": "324267042",
+    "telecopie": "324262859",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50254874600010",
+    "lng": "4.95705408798597",
+    "lat": "49.6018097879572"
+  },
+  {
+    "finess": "80011513",
+    "raison_sociale": "MAISON DE SANTE DE RAUCOURT ET FLABA",
+    "numero voie": "3",
+    "type_voie": "PL",
+    "libelle_voie": "DU PAVE",
+    "bp": "",
+    "cp": "8450",
+    "VILLE": "RAUCOURT ET FLABA    ",
+    "tel": "310901100",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "90139866900019",
+    "lng": "4.95713959171038",
+    "lat": "49.6020933660191"
+  }
+]

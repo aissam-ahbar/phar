@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "680002136",
+    "raison_sociale": "EHPAD JEAN MONNET",
+    "numero voie": "53",
+    "type_voie": "R",
+    "libelle_voie": "DU GÉNÉRAL DE GAULLE",
+    "bp": "",
+    "cp": "68128",
+    "VILLE": "VILLAGE NEUF",
+    "tel": "389697744",
+    "telecopie": "389694471",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26680034100015",
+    "lng": "7.56729990014727",
+    "lat": "47.6050748961946"
+  },
+  {
+    "finess": "680015716",
+    "raison_sociale": "PHARMACIE TRENDEL",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "DU MAL FOCH",
+    "bp": "",
+    "cp": "68128",
+    "VILLE": "VILLAGE NEUF",
+    "tel": "389671158",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40784559300018",
+    "lng": "7.57036478509129",
+    "lat": "47.6067391399798"
+  },
+  {
+    "finess": "680023413",
+    "raison_sociale": "MAISON DE SANTE V9",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "LINA RITTER",
+    "bp": "",
+    "cp": "68128",
+    "VILLE": "VILLAGE NEUF",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "91852890200011",
+    "lng": "7.57101092517458",
+    "lat": "47.6065470176431"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "270002249",
+    "raison_sociale": "KORIAN VAL AUX FLEURS",
+    "numero voie": "67",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "27730",
+    "VILLE": "BUEIL ",
+    "tel": "232365819",
+    "telecopie": "232365138",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "49366819800010",
+    "lng": "1.43930323837884",
+    "lat": "48.934729832891"
+  },
+  {
+    "finess": "270019276",
+    "raison_sociale": "PHARMACIE THERIAQUE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "GRANDE",
+    "bp": "",
+    "cp": "27730",
+    "VILLE": "BUEIL ",
+    "tel": "232365087",
+    "telecopie": "232269088",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "85135479500011",
+    "lng": "1.44067472154254",
+    "lat": "48.9301938521549"
+  }
+]

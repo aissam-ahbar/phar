@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "390003630",
+    "raison_sociale": "PHARMACIE DE LA BERNARDINE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "de la Libération",
+    "bp": "",
+    "cp": "39700",
+    "VILLE": "ORCHAMPS ",
+    "tel": "384713113",
+    "telecopie": "384705982",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "47949158100027",
+    "lng": "5.65888451356718",
+    "lat": "47.1481892549432"
+  },
+  {
+    "finess": "390782282",
+    "raison_sociale": "FOYER DU GEVOT ETAPES ORCHAMPS",
+    "numero voie": "37",
+    "type_voie": "R",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "39700",
+    "VILLE": "ORCHAMPS ",
+    "tel": "384794019",
+    "telecopie": "384794016",
+    "categorie etablissement": "252",
+    "libelle categorie": "Foyer Hébergement Adultes Handicapés",
+    "siret": "26390024300068",
+    "lng": "5.65590068344738",
+    "lat": "47.1472038486711"
+  },
+  {
+    "finess": "390786564",
+    "raison_sociale": "FOYER DE L ANCIEN HOTEL ETAPES",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DE L EGLISE",
+    "bp": "",
+    "cp": "39700",
+    "VILLE": "ORCHAMPS ",
+    "tel": "384812099",
+    "telecopie": "384794016",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "26390024300167",
+    "lng": "5.65645391406986",
+    "lat": "47.148515328008"
+  }
+]

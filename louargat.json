@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "220014799",
+    "raison_sociale": "EHPAD MUTUALISTE TI MA ZUD",
+    "numero voie": "4",
+    "type_voie": "ALL",
+    "libelle_voie": "FAO",
+    "bp": "",
+    "cp": "22540",
+    "VILLE": "LOUARGAT ",
+    "tel": "296435057",
+    "telecopie": "296435814",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "39760780500041",
+    "lng": "-3.33633878509725",
+    "lat": "48.5675780459249"
+  },
+  {
+    "finess": "220015820",
+    "raison_sociale": "SELARL PHARMACIE DU MENEZ BRE",
+    "numero voie": "28",
+    "type_voie": "AV",
+    "libelle_voie": "DES PRUNUS",
+    "bp": "",
+    "cp": "22540",
+    "VILLE": "LOUARGAT ",
+    "tel": "296431382",
+    "telecopie": "296435314",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81359801800014",
+    "lng": "-3.33801201973277",
+    "lat": "48.5662379350879"
+  },
+  {
+    "finess": "220022271",
+    "raison_sociale": "MSP DE LOUARGAT",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "ROGER MADIGOU",
+    "bp": "MAIRIE",
+    "cp": "22540",
+    "VILLE": "LOUARGAT ",
+    "tel": "296433991",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "-3.33981104252727",
+    "lat": "48.5661716561802"
+  }
+]

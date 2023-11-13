@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "440002814",
+    "raison_sociale": "EHPAD SAINTE ANNE",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "STE ANNE DU VIGNEAU",
+    "bp": "",
+    "cp": "44680",
+    "VILLE": "ST MARS DE COUTAIS   ",
+    "tel": "240315019",
+    "telecopie": "240315992",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "78606094700011",
+    "lng": "-1.73869978560609",
+    "lat": "47.1052743298284"
+  },
+  {
+    "finess": "440030039",
+    "raison_sociale": "PHARMACIE PACAUD",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "DE LA COLOMBE",
+    "bp": "",
+    "cp": "44680",
+    "VILLE": "ST MARS DE COUTAIS   ",
+    "tel": "240056938",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44751910900014",
+    "lng": "-1.73507363283148",
+    "lat": "47.1104260242283"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590061107",
+    "raison_sociale": "ASSOCIATION ACCES",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "VICTOR HUGO",
+    "bp": "",
+    "cp": "59680",
+    "VILLE": "COLLERET ",
+    "tel": "327691800",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "4.07998986809762",
+    "lat": "50.2566322755198"
+  },
+  {
+    "finess": "590809570",
+    "raison_sociale": "EHPAD RESIDENCE LE VERLAINE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "VICTOR HUGO",
+    "bp": "",
+    "cp": "59680",
+    "VILLE": "COLLERET ",
+    "tel": "327691800",
+    "telecopie": "327677850",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "",
+    "lng": "4.07998986809762",
+    "lat": "50.2566322755198"
+  }
+]

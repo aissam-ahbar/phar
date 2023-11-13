@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "560002263",
+    "raison_sociale": "EHPAD MEN GLAZ",
+    "numero voie": "33",
+    "type_voie": "R",
+    "libelle_voie": "BRIZEUX",
+    "bp": "",
+    "cp": "56410",
+    "VILLE": "ETEL ",
+    "tel": "297553080",
+    "telecopie": "297552881",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26560038700012",
+    "lng": "-3.1946726326402",
+    "lat": "47.6605906089443"
+  },
+  {
+    "finess": "560016461",
+    "raison_sociale": "PHARMACIE D'ETEL",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "de la Libération",
+    "bp": "",
+    "cp": "56410",
+    "VILLE": "ETEL ",
+    "tel": "297553031",
+    "telecopie": "297552360",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80835038300010",
+    "lng": "-3.20206663603056",
+    "lat": "47.6571450755528"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590028205",
+    "raison_sociale": "PHARMACIE DHERIS",
+    "numero voie": "122",
+    "type_voie": "R",
+    "libelle_voie": "DE L  EGLISE",
+    "bp": "",
+    "cp": "59226",
+    "VILLE": "RUMEGIES ",
+    "tel": "327267052",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34464355600014",
+    "lng": "3.34994175224688",
+    "lat": "50.4890423183745"
+  },
+  {
+    "finess": "590062832",
+    "raison_sociale": "MSP DU LYS D'OR",
+    "numero voie": "291",
+    "type_voie": "R",
+    "libelle_voie": "DE L'ÉGLISE",
+    "bp": "",
+    "cp": "59226",
+    "VILLE": "RUMEGIES ",
+    "tel": "674963218",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "3.3476441598298",
+    "lat": "50.4888486228463"
+  }
+]

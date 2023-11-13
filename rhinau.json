@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "670009455",
+    "raison_sociale": "SELARL PHARMACIE DE RHINAU",
+    "numero voie": "16",
+    "type_voie": "R",
+    "libelle_voie": "LONGUE",
+    "bp": "",
+    "cp": "67860",
+    "VILLE": "RHINAU ",
+    "tel": "388748333",
+    "telecopie": "388748444",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53988250600014",
+    "lng": "7.70268317020832",
+    "lat": "48.3198119134756"
+  },
+  {
+    "finess": "670780667",
+    "raison_sociale": "EHPAD L'ORCHIDÉE",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DE L'HOPITAL",
+    "bp": "",
+    "cp": "67860",
+    "VILLE": "RHINAU ",
+    "tel": "388746048",
+    "telecopie": "388746788",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26670018600015",
+    "lng": "7.70398817314772",
+    "lat": "48.3173589071194"
+  }
+]

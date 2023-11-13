@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "20004503",
+    "raison_sociale": "EHPAD ORPEA BRASLES",
+    "numero voie": "30",
+    "type_voie": "RTE",
+    "libelle_voie": "DE VERDILLY",
+    "bp": "",
+    "cp": "2400",
+    "VILLE": "BRASLES ",
+    "tel": "323853600",
+    "telecopie": "323853601",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "40125156601293",
+    "lng": "3.41756222052183",
+    "lat": "49.0529400369922"
+  },
+  {
+    "finess": "20014569",
+    "raison_sociale": "EHPAD ORPEA BRASLES",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DES GARATS",
+    "bp": "",
+    "cp": "2400",
+    "VILLE": "BRASLES ",
+    "tel": "323849220",
+    "telecopie": "323849221",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "40125156601640",
+    "lng": "3.41076509443855",
+    "lat": "49.0469866789464"
+  }
+]

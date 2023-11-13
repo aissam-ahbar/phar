@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "400008454",
+    "raison_sociale": "SELARL PHARMACIE LANIC",
+    "numero voie": "89",
+    "type_voie": "RTE",
+    "libelle_voie": "DE MT DE MARSAN",
+    "bp": "",
+    "cp": "40420",
+    "VILLE": "LABRIT ",
+    "tel": "558510179",
+    "telecopie": "558510597",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49132198000022",
+    "lng": "-0.545148657583468",
+    "lat": "44.1037875844036"
+  },
+  {
+    "finess": "400012860",
+    "raison_sociale": "MAISON DE SANTE DU PAYS D'ALBRET",
+    "numero voie": "355",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "40420",
+    "VILLE": "LABRIT ",
+    "tel": "558510065",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "50335129800016",
+    "lng": "-0.54425820657155",
+    "lat": "44.1040848907215"
+  },
+  {
+    "finess": "400781209",
+    "raison_sociale": "EHPAD DU PAYS D'ALBRET",
+    "numero voie": "83",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LUXEY",
+    "bp": "",
+    "cp": "40420",
+    "VILLE": "LABRIT ",
+    "tel": "558510180",
+    "telecopie": "558510461",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20007485400031",
+    "lng": "-0.544771994670249",
+    "lat": "44.1054872587762"
+  }
+]

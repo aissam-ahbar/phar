@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "90002510",
+    "raison_sociale": "CADA DE CARLA BAYLE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "BP 2",
+    "cp": "9130",
+    "VILLE": "CARLA BAYLE",
+    "tel": "561689173",
+    "telecopie": "561685066",
+    "categorie etablissement": "443",
+    "libelle categorie": "Centre Accueil Demandeurs Asile (C.A.D.A.)",
+    "siret": "78805803005767",
+    "lng": "1.39826606385476",
+    "lat": "43.1457760328403"
+  },
+  {
+    "finess": "90783481",
+    "raison_sociale": "FAM DU CARLA BAYLE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LE PEYRAT",
+    "cp": "9130",
+    "VILLE": "CARLA BAYLE",
+    "tel": "561690200",
+    "telecopie": "561685632",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "32912211300049",
+    "lng": "1.39826606385476",
+    "lat": "43.1457760328403"
+  }
+]

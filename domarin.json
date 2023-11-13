@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "380004622",
+    "raison_sociale": "PHARMACIE DES ALPES",
+    "numero voie": "14",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LYON",
+    "bp": "",
+    "cp": "38300",
+    "VILLE": "DOMARIN ",
+    "tel": "474280924",
+    "telecopie": "474939818",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "47891318900013",
+    "lng": "5.26611737199533",
+    "lat": "45.5855211820228"
+  },
+  {
+    "finess": "380021832",
+    "raison_sociale": "MAISON DE SANTE LA BERJALIENNE",
+    "numero voie": "48",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LYON",
+    "bp": "",
+    "cp": "38300",
+    "VILLE": "DOMARIN ",
+    "tel": "474280280",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "88483392200013",
+    "lng": "5.2627739484409",
+    "lat": "45.5853957426482"
+  },
+  {
+    "finess": "380023135",
+    "raison_sociale": "SAAD A2MICILE BOURGOIN-JALLIEU",
+    "numero voie": "48",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LYON",
+    "bp": "LE CRISTAL",
+    "cp": "38300",
+    "VILLE": "DOMARIN ",
+    "tel": "474433807",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "5.2627739484409",
+    "lat": "45.5853957426482"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "660011511",
+    "raison_sociale": "SAAD ADMR DE MAUREILLAS",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DES JARDINS",
+    "bp": "",
+    "cp": "66480",
+    "VILLE": "MAUREILLAS LAS ILLAS    ",
+    "tel": "468054101",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "35137319600036",
+    "lng": "2.80804421919124",
+    "lat": "42.4904284460978"
+  },
+  {
+    "finess": "660788415",
+    "raison_sociale": "PHARMACIE DES 3 VALLEES",
+    "numero voie": "24",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "66480",
+    "VILLE": "MAUREILLAS LAS ILLAS    ",
+    "tel": "468830644",
+    "telecopie": "468832528",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50101670300024",
+    "lng": "2.80841967230374",
+    "lat": "42.4911266829809"
+  }
+]

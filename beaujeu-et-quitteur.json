@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "700000045",
+    "raison_sociale": "CLINIQUE MEDICALE BRUGNON AGACHE",
+    "numero voie": "14",
+    "type_voie": "R",
+    "libelle_voie": "DES ECOLES",
+    "bp": "",
+    "cp": "70100",
+    "VILLE": "BEAUJEU ET QUITTEUR    ",
+    "tel": "384677700",
+    "telecopie": "384673538",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "32730845800212",
+    "lng": "5.67523035429489",
+    "lat": "47.5056010470272"
+  },
+  {
+    "finess": "700001274",
+    "raison_sociale": "SELARL LOREAUX SOPHIE",
+    "numero voie": "45",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "BEAUJEU-ET-QUITTEUR",
+    "cp": "70100",
+    "VILLE": "BEAUJEU ET QUITTEUR    ",
+    "tel": "384673736",
+    "telecopie": "384673846",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "89212625100016",
+    "lng": "5.67951661687088",
+    "lat": "47.5051404598151"
+  }
+]

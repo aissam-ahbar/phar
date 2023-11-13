@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "710003492",
+    "raison_sociale": "PHARMACIE DE CHAMPFORGEUIL",
+    "numero voie": "82",
+    "type_voie": "RTE",
+    "libelle_voie": "DE PARIS",
+    "bp": "",
+    "cp": "71530",
+    "VILLE": "CHAMPFORGEUIL ",
+    "tel": "385465479",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75238993200019",
+    "lng": "4.83760044826413",
+    "lat": "46.8196214032657"
+  },
+  {
+    "finess": "710008806",
+    "raison_sociale": "SERVICE D'AIDE AUX PERSONNES AGEES",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "CHARLES LEMAUX",
+    "bp": "",
+    "cp": "71530",
+    "VILLE": "CHAMPFORGEUIL ",
+    "tel": "385971924",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "4.83651290556336",
+    "lat": "46.8200503630288"
+  },
+  {
+    "finess": "710016056",
+    "raison_sociale": "CENTRE DENTAIRE DU CHALONNAIS",
+    "numero voie": "3",
+    "type_voie": "PL",
+    "libelle_voie": "FRANCOIS MITTERAND",
+    "bp": "",
+    "cp": "71530",
+    "VILLE": "CHAMPFORGEUIL ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "",
+    "lng": "4.83723063868809",
+    "lat": "46.8198200464702"
+  }
+]

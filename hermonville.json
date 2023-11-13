@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "510011596",
+    "raison_sociale": "EHPAD \"FOYER DE L'ARDRE\"",
+    "numero voie": "2",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "51220",
+    "VILLE": "HERMONVILLE ",
+    "tel": "326615610",
+    "telecopie": "326615464",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "31613590400027",
+    "lng": "3.90940930714122",
+    "lat": "49.3351635855011"
+  },
+  {
+    "finess": "510027469",
+    "raison_sociale": "ADMR HERMONVILLE",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "TRUCHON",
+    "bp": "",
+    "cp": "51220",
+    "VILLE": "HERMONVILLE ",
+    "tel": "326500689",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "30204840000048",
+    "lng": "3.90876632827331",
+    "lat": "49.3349751468232"
+  }
+]

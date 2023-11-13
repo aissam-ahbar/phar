@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "620111476",
+    "raison_sociale": "ESAT LA FERME DE THUBEAUVILLE",
+    "numero voie": "33",
+    "type_voie": "R",
+    "libelle_voie": "CHASSE MAREE",
+    "bp": "",
+    "cp": "62650",
+    "VILLE": "PARENTY ",
+    "tel": "321907388",
+    "telecopie": "321900748",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77562993400347",
+    "lng": "1.78351077897875",
+    "lat": "50.5887983749837"
+  },
+  {
+    "finess": "620118562",
+    "raison_sociale": "FOYER POUR ADULTES HANDICAPES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "62650",
+    "VILLE": "PARENTY ",
+    "tel": "321907388",
+    "telecopie": "321726678",
+    "categorie etablissement": "252",
+    "libelle categorie": "Foyer Hébergement Adultes Handicapés",
+    "siret": "77562993400610",
+    "lng": "1.78684348304417",
+    "lat": "50.591270668686"
+  }
+]

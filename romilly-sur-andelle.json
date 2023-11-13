@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "270004294",
+    "raison_sociale": "RESIDENCE CCAS ROMILLY S/ANDELLE",
+    "numero voie": "1529",
+    "type_voie": "R",
+    "libelle_voie": "BLINGUE",
+    "bp": "",
+    "cp": "27610",
+    "VILLE": "ROMILLY SUR ANDELLE    ",
+    "tel": "232487300",
+    "telecopie": "232492800",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26270019800027",
+    "lng": "1.25534418167926",
+    "lat": "49.3275926456255"
+  },
+  {
+    "finess": "270021496",
+    "raison_sociale": "SELARL MB",
+    "numero voie": "834",
+    "type_voie": "R",
+    "libelle_voie": "BLINGUE",
+    "bp": "",
+    "cp": "27610",
+    "VILLE": "ROMILLY SUR ANDELLE    ",
+    "tel": "232497664",
+    "telecopie": "232497411",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "89175350100016",
+    "lng": "1.26294831797105",
+    "lat": "49.3296910989345"
+  },
+  {
+    "finess": "270026958",
+    "raison_sociale": "MAISON MEDICALE HENRY DUNANT",
+    "numero voie": "168",
+    "type_voie": "R",
+    "libelle_voie": "DE LA LIBERATION",
+    "bp": "",
+    "cp": "27610",
+    "VILLE": "ROMILLY SUR ANDELLE    ",
+    "tel": "232497729",
+    "telecopie": "232490892",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "80794722100022",
+    "lng": "1.25700356122758",
+    "lat": "49.334587505728"
+  }
+]

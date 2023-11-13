@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "340790187",
+    "raison_sociale": "EHPAD DR RAOUL BOUBAL",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "DES AMANDIERS",
+    "bp": "",
+    "cp": "34230",
+    "VILLE": "LE POUGET",
+    "tel": "467887688",
+    "telecopie": "467968847",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26340084800028",
+    "lng": "3.52710950585921",
+    "lat": "43.593606076758"
+  },
+  {
+    "finess": "340795160",
+    "raison_sociale": "SARL PHARMACIE RAYMOND",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "SAINTE CATHERINE",
+    "bp": "",
+    "cp": "34230",
+    "VILLE": "LE POUGET",
+    "tel": "467967122",
+    "telecopie": "467968642",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "35185903800025",
+    "lng": "3.52533559669308",
+    "lat": "43.5919968658852"
+  }
+]

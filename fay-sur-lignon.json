@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "430001917",
+    "raison_sociale": "PHARMACIE CASTEL",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA CROIX DE MISSION",
+    "bp": "",
+    "cp": "43430",
+    "VILLE": "FAY SUR LIGNON    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38125539700014",
+    "lng": "4.22709504767813",
+    "lat": "44.9852429422315"
+  },
+  {
+    "finess": "430007914",
+    "raison_sociale": "LIEU DE VIE LE VALLON D'ABRIES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "ABRIES",
+    "cp": "43430",
+    "VILLE": "FAY SUR LIGNON    ",
+    "tel": "471595666",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "51161104800014",
+    "lng": "4.22661744026705",
+    "lat": "44.9954209405024"
+  }
+]

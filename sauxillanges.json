@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "630008670",
+    "raison_sociale": "PHARMACIE LACHAUX",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU MONASTERE",
+    "bp": "",
+    "cp": "63490",
+    "VILLE": "SAUXILLANGES ",
+    "tel": "473968144",
+    "telecopie": "473968770",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50896039000013",
+    "lng": "3.37182136463526",
+    "lat": "45.5508779866559"
+  },
+  {
+    "finess": "630014488",
+    "raison_sociale": "SAAD ADMR DE SAUXILLANGES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "63490",
+    "VILLE": "SAUXILLANGES ",
+    "tel": "473968796",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32387406500010",
+    "lng": "3.37181679935511",
+    "lat": "45.5509617466416"
+  },
+  {
+    "finess": "630781599",
+    "raison_sociale": "EHPAD CHARLES ANDRAUD",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DE L HOSPICE",
+    "bp": "",
+    "cp": "63490",
+    "VILLE": "SAUXILLANGES ",
+    "tel": "473968224",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26630767700010",
+    "lng": "3.37200719248862",
+    "lat": "45.5504937661261"
+  }
+]

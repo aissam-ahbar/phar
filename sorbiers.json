@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "420009540",
+    "raison_sociale": "SELARL PHARMACIE DU MOULIN GILLIER",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU MOULIN GILLIER",
+    "bp": "",
+    "cp": "42290",
+    "VILLE": "SORBIERS ",
+    "tel": "477536425",
+    "telecopie": "477530449",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75205666300012",
+    "lng": "4.44416433123183",
+    "lat": "45.4812260085903"
+  },
+  {
+    "finess": "420009565",
+    "raison_sociale": "PHARMACIE DES PLATANES",
+    "numero voie": "41",
+    "type_voie": "AV",
+    "libelle_voie": "ANTHONY BARRALON",
+    "bp": "",
+    "cp": "42290",
+    "VILLE": "SORBIERS ",
+    "tel": "477536362",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49479118900017",
+    "lng": "4.44898126672772",
+    "lat": "45.4841449648659"
+  }
+]

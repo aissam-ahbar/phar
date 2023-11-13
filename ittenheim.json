@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "670008101",
+    "raison_sociale": "SELARL PHARMACIE DU RELAIS",
+    "numero voie": "27",
+    "type_voie": "RTE",
+    "libelle_voie": "DE PARIS",
+    "bp": "",
+    "cp": "67117",
+    "VILLE": "ITTENHEIM ",
+    "tel": "388690014",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51134749400011",
+    "lng": "7.59279685030816",
+    "lat": "48.6026730104821"
+  },
+  {
+    "finess": "670022078",
+    "raison_sociale": "MSP ITTENHEIM",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "ALBERT SCHWEITZER",
+    "bp": "",
+    "cp": "67117",
+    "VILLE": "ITTENHEIM ",
+    "tel": "388690320",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "91938879300011",
+    "lng": "7.59302486030634",
+    "lat": "48.6043878953342"
+  }
+]

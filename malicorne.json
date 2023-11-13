@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "30002943",
+    "raison_sociale": "PHARMACIE DE LA BRANDE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "3600",
+    "VILLE": "MALICORNE ",
+    "tel": "470646570",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82428037400011",
+    "lng": "2.78099572196713",
+    "lat": "46.3015075046277"
+  },
+  {
+    "finess": "30007744",
+    "raison_sociale": "ELIVIE MALICORNE",
+    "numero voie": "",
+    "type_voie": "IMP",
+    "libelle_voie": "DE LA ROUTE NOIRE",
+    "bp": "",
+    "cp": "3600",
+    "VILLE": "MALICORNE ",
+    "tel": "470093830",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "33395438601036",
+    "lng": "2.73022040609842",
+    "lat": "46.3052031122067"
+  }
+]

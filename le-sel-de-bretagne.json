@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "350049664",
+    "raison_sociale": "EHPAD STV LA FLEUR DE SEL",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DE CHATEAUBRIAND",
+    "bp": "",
+    "cp": "35320",
+    "VILLE": "LE SEL DE BRETAGNE   ",
+    "tel": "299430643",
+    "telecopie": "299430652",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77738078300129",
+    "lng": "-1.60923836446163",
+    "lat": "47.8943816103861"
+  },
+  {
+    "finess": "350053146",
+    "raison_sociale": "SAAD ADMR LE SEL ET ENVIRONS",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "LAMARTINE",
+    "bp": "",
+    "cp": "35320",
+    "VILLE": "LE SEL DE BRETAGNE   ",
+    "tel": "299447067",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "44094270400022",
+    "lng": "-1.6129502352141",
+    "lat": "47.8949532669766"
+  }
+]

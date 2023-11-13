@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "680007614",
+    "raison_sociale": "PHARMACIE DU CHATEAU",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "DE LA 1ERE ARMEE",
+    "bp": "",
+    "cp": "68480",
+    "VILLE": "FERRETTE ",
+    "tel": "389404057",
+    "telecopie": "389082231",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80844127300014",
+    "lng": "7.31021895156818",
+    "lat": "47.497779321609"
+  },
+  {
+    "finess": "680021060",
+    "raison_sociale": "MAISON RELAIS FERRETTE",
+    "numero voie": "14",
+    "type_voie": "R",
+    "libelle_voie": "DU ROSSBERG",
+    "bp": "",
+    "cp": "68480",
+    "VILLE": "FERRETTE ",
+    "tel": "389321362",
+    "telecopie": "",
+    "categorie etablissement": "258",
+    "libelle categorie": "Maisons Relais - Pensions de Famille",
+    "siret": "40011572100021",
+    "lng": "7.30914634694381",
+    "lat": "47.4968003361981"
+  }
+]

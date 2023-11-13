@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "250003134",
+    "raison_sociale": "PHARMACIE DES AUXONS",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DES ERABLES",
+    "bp": "",
+    "cp": "25870",
+    "VILLE": "LES AUXONS",
+    "tel": "381818460",
+    "telecopie": "381588753",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44769965300013",
+    "lng": "5.94925653130824",
+    "lat": "47.295288282441"
+  },
+  {
+    "finess": "250010576",
+    "raison_sociale": "EHPAD MARCEL GUEY AUXON",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE L EGLISE",
+    "bp": "AUXON-DESSOUS",
+    "cp": "25870",
+    "VILLE": "LES AUXONS",
+    "tel": "381482200",
+    "telecopie": "381588544",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77557127600416",
+    "lng": "5.94776013817753",
+    "lat": "47.2983262065769"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "640010344",
+    "raison_sociale": "PHARMACIE BETH CEÜ",
+    "numero voie": "33",
+    "type_voie": "AV",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "64110",
+    "VILLE": "MAZERES LEZONS",
+    "tel": "559065405",
+    "telecopie": "559068198",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53958709700012",
+    "lng": "-0.354555255925744",
+    "lat": "43.2786683027469"
+  },
+  {
+    "finess": "640015384",
+    "raison_sociale": "SESSAD DU CMP LE CHATEAU",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "PASTEUR",
+    "bp": "",
+    "cp": "64110",
+    "VILLE": "MAZERES LEZONS",
+    "tel": "559066125",
+    "telecopie": "559064503",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "34351287700030",
+    "lng": "-0.352620238792307",
+    "lat": "43.2743400223261"
+  },
+  {
+    "finess": "640781589",
+    "raison_sociale": "IME DU CMP LE CHATEAU",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "PASTEUR",
+    "bp": "",
+    "cp": "64110",
+    "VILLE": "MAZERES LEZONS",
+    "tel": "559066125",
+    "telecopie": "559064503",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "34351287700030",
+    "lng": "-0.352620238792307",
+    "lat": "43.2743400223261"
+  }
+]

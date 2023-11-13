@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "620004309",
+    "raison_sociale": "PHARMACIE TAHON",
+    "numero voie": "58",
+    "type_voie": "AV",
+    "libelle_voie": "CHARLES DE GAULLE",
+    "bp": "",
+    "cp": "62217",
+    "VILLE": "TILLOY LES MOFFLAINES    ",
+    "tel": "321711364",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44299216000014",
+    "lng": "2.81727937095913",
+    "lat": "50.2755728409955"
+  },
+  {
+    "finess": "620036020",
+    "raison_sociale": "EA LES ATELIERS DE L'ARTOIS",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "D'IMMERCOURT",
+    "bp": "",
+    "cp": "62217",
+    "VILLE": "TILLOY LES MOFFLAINES    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "247",
+    "libelle categorie": "Entreprise adaptée",
+    "siret": "40340360300331",
+    "lng": "2.812199029439",
+    "lat": "50.284269247188"
+  },
+  {
+    "finess": "620106906",
+    "raison_sociale": "ATELIER PROTEGE REGION D'ARRAS",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "D'IMMERCOURT",
+    "bp": "",
+    "cp": "62217",
+    "VILLE": "TILLOY LES MOFFLAINES    ",
+    "tel": "321732222",
+    "telecopie": "321558420",
+    "categorie etablissement": "247",
+    "libelle categorie": "Entreprise adaptée",
+    "siret": "31626479500022",
+    "lng": "2.812199029439",
+    "lat": "50.284269247188"
+  }
+]

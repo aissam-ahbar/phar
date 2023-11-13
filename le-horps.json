@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "530004076",
+    "raison_sociale": "SAAD ADMR LE HORPS",
+    "numero voie": "22",
+    "type_voie": "R",
+    "libelle_voie": "DES FORGES",
+    "bp": "",
+    "cp": "53640",
+    "VILLE": "LE HORPS",
+    "tel": "243003020",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "30966146000027",
+    "lng": "-0.461498407968323",
+    "lat": "48.3975977428409"
+  },
+  {
+    "finess": "530033273",
+    "raison_sociale": "RESIDENSE LES HORTENSIAS",
+    "numero voie": "2",
+    "type_voie": "IMP",
+    "libelle_voie": "DE LA CLAIE",
+    "bp": "",
+    "cp": "53640",
+    "VILLE": "LE HORPS",
+    "tel": "243039703",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26530084800024",
+    "lng": "-0.464392144039078",
+    "lat": "48.394292880719"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "10005866",
+    "raison_sociale": "PHARMACIE BARBI-LOUIS",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "CENTRALE",
+    "bp": "",
+    "cp": "1230",
+    "VILLE": "TENAY ",
+    "tel": "474364024",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39868210400011",
+    "lng": "5.51005960524597",
+    "lat": "45.9184581044377"
+  },
+  {
+    "finess": "10781029",
+    "raison_sociale": "EHPAD LA MAISON À SOIE TENAY",
+    "numero voie": "2",
+    "type_voie": "CHE",
+    "libelle_voie": "DE LA SOIE",
+    "bp": "",
+    "cp": "1230",
+    "VILLE": "TENAY ",
+    "tel": "474365900",
+    "telecopie": "474364058",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26010026800036",
+    "lng": "5.51049334047118",
+    "lat": "45.9206395829526"
+  }
+]

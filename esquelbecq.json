@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590016051",
+    "raison_sociale": "PHARMACIE VALOIS",
+    "numero voie": "23",
+    "type_voie": "PL",
+    "libelle_voie": "ALPHONSE BERGEROT",
+    "bp": "",
+    "cp": "59470",
+    "VILLE": "ESQUELBECQ ",
+    "tel": "328656110",
+    "telecopie": "328629882",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79160199000017",
+    "lng": "2.43136599119834",
+    "lat": "50.8864614136319"
+  },
+  {
+    "finess": "590783395",
+    "raison_sociale": "EHPAD RESIDENCE DU VAL D'YSER",
+    "numero voie": "65",
+    "type_voie": "R",
+    "libelle_voie": "DE BERGUES",
+    "bp": "",
+    "cp": "59470",
+    "VILLE": "ESQUELBECQ ",
+    "tel": "328656124",
+    "telecopie": "328657784",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26590724600010",
+    "lng": "2.43438559593339",
+    "lat": "50.8894508245041"
+  }
+]

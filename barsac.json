@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "330021619",
+    "raison_sociale": "CSAPA CTE THERAPEUTIQUE DU FLEUVE",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "FRANCK CHASSAIGNE",
+    "bp": "",
+    "cp": "33720",
+    "VILLE": "BARSAC ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "197",
+    "libelle categorie": "Centre soins accompagnement prévention addictologie (CSAPA)",
+    "siret": "31241056600052",
+    "lng": "-0.318037066602993",
+    "lat": "44.6079028680467"
+  },
+  {
+    "finess": "330039363",
+    "raison_sociale": "PHARMACIE DU CIRON",
+    "numero voie": "59",
+    "type_voie": "AV",
+    "libelle_voie": "ARISTIDE BRIAND",
+    "bp": "",
+    "cp": "33720",
+    "VILLE": "BARSAC ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52893919200027",
+    "lng": "-0.314771139812341",
+    "lat": "44.6094633168531"
+  }
+]

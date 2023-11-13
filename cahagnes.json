@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "140015249",
+    "raison_sociale": "SELARL PHARMACIE LE MORVAN",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE LA PETITE GRIVE",
+    "bp": "",
+    "cp": "14240",
+    "VILLE": "CAHAGNES ",
+    "tel": "231774402",
+    "telecopie": "231774402",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49513338100014",
+    "lng": "-0.768019198817695",
+    "lat": "49.0655602281276"
+  },
+  {
+    "finess": "140023516",
+    "raison_sociale": "SAD ASS LOCALE ADMR PIERRE DIALAN",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CAUMONT",
+    "bp": "",
+    "cp": "14240",
+    "VILLE": "CAHAGNES ",
+    "tel": "231971069",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32455856800014",
+    "lng": "-0.768180468925854",
+    "lat": "49.0651779960313"
+  }
+]

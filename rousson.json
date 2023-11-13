@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "300008844",
+    "raison_sociale": "PHARMACIE LAURES",
+    "numero voie": "",
+    "type_voie": "HAM",
+    "libelle_voie": "LE SAUT DU LOUP",
+    "bp": "",
+    "cp": "30340",
+    "VILLE": "ROUSSON ",
+    "tel": "466858129",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53879268000018",
+    "lng": "4.15502194718348",
+    "lat": "44.1778968621821"
+  },
+  {
+    "finess": "300012622",
+    "raison_sociale": "EHPAD LE CASTELLAS",
+    "numero voie": "44",
+    "type_voie": "CHE",
+    "libelle_voie": "DE LA VERRIERE",
+    "bp": "",
+    "cp": "30340",
+    "VILLE": "ROUSSON ",
+    "tel": "466783333",
+    "telecopie": "466783300",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26300017600150",
+    "lng": "4.14722800408517",
+    "lat": "44.1900364977536"
+  },
+  {
+    "finess": "300018082",
+    "raison_sociale": "LVA RENAISSANCE",
+    "numero voie": "45",
+    "type_voie": "IMP",
+    "libelle_voie": "DES RELLETTES",
+    "bp": "",
+    "cp": "30340",
+    "VILLE": "ROUSSON ",
+    "tel": "466857806",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "79923268100012",
+    "lng": "4.14510431497177",
+    "lat": "44.1858485479341"
+  }
+]

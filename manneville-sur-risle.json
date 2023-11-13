@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "270011968",
+    "raison_sociale": "LIEU DE VIE GARCONS LES OIES SAUVAGES",
+    "numero voie": "9",
+    "type_voie": "RTE",
+    "libelle_voie": "LE HUDAR",
+    "bp": "",
+    "cp": "27500",
+    "VILLE": "MANNEVILLE SUR RISLE    ",
+    "tel": "232410387",
+    "telecopie": "232410387",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "43750712200012",
+    "lng": "0.556494646103394",
+    "lat": "49.3599151110392"
+  },
+  {
+    "finess": "270012008",
+    "raison_sociale": "LIEU DE VIE FILLES LES PETITES CABANES",
+    "numero voie": "2",
+    "type_voie": "IMP",
+    "libelle_voie": "LE HUDAR",
+    "bp": "",
+    "cp": "27500",
+    "VILLE": "MANNEVILLE SUR RISLE    ",
+    "tel": "232573945",
+    "telecopie": "232573945",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "79100381700016",
+    "lng": "0.564108181766754",
+    "lat": "49.3601272622875"
+  }
+]

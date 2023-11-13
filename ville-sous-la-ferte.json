@@ -1,0 +1,19 @@
+[
+  {
+    "finess": "100008192",
+    "raison_sociale": "SELARL PHARMACIE DE LA VALLEE",
+    "numero voie": "39",
+    "type_voie": "RTE",
+    "libelle_voie": "DE DIJON",
+    "bp": "",
+    "cp": "10310",
+    "VILLE": "VILLE SOUS LA FERTE   ",
+    "tel": "325278109",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49822607500014",
+    "lng": "4.78986815064371",
+    "lat": "48.1235942124972"
+  }
+]

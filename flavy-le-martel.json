@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "20002028",
+    "raison_sociale": "EHPAD LEFÈVRE FLAVY-LE-MARTEL",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "DU GÉNÉRAL DE GAULLE",
+    "bp": "",
+    "cp": "2520",
+    "VILLE": "FLAVY LE MARTEL    ",
+    "tel": "323525128",
+    "telecopie": "323529259",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26020024100016",
+    "lng": "3.19114385309134",
+    "lat": "49.713416544051"
+  },
+  {
+    "finess": "20003984",
+    "raison_sociale": "EHPAD CASTEL FLAVY-LE-MARTEL",
+    "numero voie": "20",
+    "type_voie": "R",
+    "libelle_voie": "ROOSEVELT",
+    "bp": "BP 5",
+    "cp": "2520",
+    "VILLE": "FLAVY LE MARTEL    ",
+    "tel": "323525133",
+    "telecopie": "323525716",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "58718048000010",
+    "lng": "3.19390654079559",
+    "lat": "49.7144167261006"
+  },
+  {
+    "finess": "20005732",
+    "raison_sociale": "SELARL PHARMACIE DE FLAVY",
+    "numero voie": "43",
+    "type_voie": "R",
+    "libelle_voie": "ANDRE BRULE",
+    "bp": "",
+    "cp": "2520",
+    "VILLE": "FLAVY LE MARTEL    ",
+    "tel": "323525044",
+    "telecopie": "323370865",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44218912200025",
+    "lng": "3.19508822473564",
+    "lat": "49.7128756665404"
+  }
+]

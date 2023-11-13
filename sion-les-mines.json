@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "440017176",
+    "raison_sociale": "PHARMACIE DE SION",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "DE ST SULPICE",
+    "bp": "",
+    "cp": "44590",
+    "VILLE": "SION LES MINES    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82821577200017",
+    "lng": "-1.59171564604198",
+    "lat": "47.7362204500872"
+  },
+  {
+    "finess": "440025898",
+    "raison_sociale": "SSIAD GUEMENE PENFAO SION LES MINES",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DU GRAND FOUGERAY",
+    "bp": "ZA DES GRIETTES",
+    "cp": "44590",
+    "VILLE": "SION LES MINES    ",
+    "tel": "240289437",
+    "telecopie": "240289437",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "44409861000041",
+    "lng": "-1.59603899875443",
+    "lat": "47.7350894993082"
+  },
+  {
+    "finess": "440052470",
+    "raison_sociale": "CDS OPASS DERVAL-SION LES MINES",
+    "numero voie": "3",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "44590",
+    "VILLE": "SION LES MINES    ",
+    "tel": "240070124",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "30185459200013",
+    "lng": "-1.59227740800168",
+    "lat": "47.7349713429312"
+  }
+]

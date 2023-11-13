@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "220012488",
+    "raison_sociale": "PHARMACIE MAILLOT",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE MORLAIX",
+    "bp": "",
+    "cp": "22810",
+    "VILLE": "PLOUNEVEZ MOEDEC",
+    "tel": "296386393",
+    "telecopie": "296386350",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40377881400018",
+    "lng": "-3.44324460267648",
+    "lat": "48.5553910687753"
+  },
+  {
+    "finess": "220022016",
+    "raison_sociale": "FOYER DE VIE AVALENN",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "MELANIE COTTEL",
+    "bp": "",
+    "cp": "22810",
+    "VILLE": "PLOUNEVEZ MOEDEC",
+    "tel": "296219350",
+    "telecopie": "",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "81108425000042",
+    "lng": "-3.44671058550049",
+    "lat": "48.5559790496453"
+  }
+]

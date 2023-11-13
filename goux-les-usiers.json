@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "250009701",
+    "raison_sociale": "PHARMACIE MOINGEON",
+    "numero voie": "28",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "25520",
+    "VILLE": "GOUX LES USIERS    ",
+    "tel": "381382263",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38875261000013",
+    "lng": "6.27600620700905",
+    "lat": "46.9726322384954"
+  },
+  {
+    "finess": "250010295",
+    "raison_sociale": "SERVICE D'AIDES MENAGERES",
+    "numero voie": "47",
+    "type_voie": "GR",
+    "libelle_voie": "RUE",
+    "bp": "",
+    "cp": "25520",
+    "VILLE": "GOUX LES USIERS    ",
+    "tel": "381382452",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "77831410400028",
+    "lng": "6.27504425315705",
+    "lat": "46.9719657038679"
+  },
+  {
+    "finess": "250020781",
+    "raison_sociale": "MSVU",
+    "numero voie": "12",
+    "type_voie": "R",
+    "libelle_voie": "DE LA CORVEE",
+    "bp": "",
+    "cp": "25520",
+    "VILLE": "GOUX LES USIERS    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "6.27760642093271",
+    "lat": "46.9718406279988"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590056040",
+    "raison_sociale": "SAD SENIOR COMPAGNIE",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "ALEXANDRE GRATTE",
+    "bp": "",
+    "cp": "59139",
+    "VILLE": "NOYELLES LES SECLIN    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "79447052600011",
+    "lng": "3.01809301006663",
+    "lat": "50.5761213963857"
+  },
+  {
+    "finess": "590070561",
+    "raison_sociale": "SAAD ATOUTAGE SERVICES",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "ALEXANDRE GRATTE",
+    "bp": "",
+    "cp": "59139",
+    "VILLE": "NOYELLES LES SECLIN    ",
+    "tel": "972808206",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "3.01810148675216",
+    "lat": "50.576177040309"
+  }
+]

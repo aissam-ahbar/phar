@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "120009436",
+    "raison_sociale": "SAAD EOPLA SAINT -BEAUZELY",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "12620",
+    "VILLE": "ST BEAUZELY",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "42342833300144",
+    "lng": "2.9575823104565",
+    "lat": "44.1685712320063"
+  },
+  {
+    "finess": "120783907",
+    "raison_sociale": "SSIAD UDSMA SAINT BEAUZELY",
+    "numero voie": "11",
+    "type_voie": "RES",
+    "libelle_voie": "LES GARDIES",
+    "bp": "",
+    "cp": "12620",
+    "VILLE": "ST BEAUZELY",
+    "tel": "565620223",
+    "telecopie": "565620087",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "44249119700202",
+    "lng": "2.9575823104565",
+    "lat": "44.1685712320063"
+  },
+  {
+    "finess": "120786785",
+    "raison_sociale": "CTRE SOINS INFIRM ST BEAUZELY UDSMA",
+    "numero voie": "11",
+    "type_voie": "RES",
+    "libelle_voie": "\"LES GARDIES\"",
+    "bp": "",
+    "cp": "12620",
+    "VILLE": "ST BEAUZELY",
+    "tel": "565620223",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "44249119700202",
+    "lng": "2.9575823104565",
+    "lat": "44.1685712320063"
+  }
+]

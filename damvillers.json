@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "550001523",
+    "raison_sociale": "PHARMACIE DES BALLASTIERES",
+    "numero voie": "35",
+    "type_voie": "R",
+    "libelle_voie": "CARNOT",
+    "bp": "",
+    "cp": "55150",
+    "VILLE": "DAMVILLERS ",
+    "tel": "329856029",
+    "telecopie": "329855803",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "41812372500016",
+    "lng": "5.40151456180651",
+    "lat": "49.3440954755192"
+  },
+  {
+    "finess": "550003750",
+    "raison_sociale": "SAAD ADMR PAYS DE DAMVILLERS",
+    "numero voie": "15",
+    "type_voie": "GR",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "55150",
+    "VILLE": "DAMVILLERS ",
+    "tel": "329856890",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "30384581200047",
+    "lng": "5.39889848645118",
+    "lat": "49.3419153656229"
+  },
+  {
+    "finess": "550007025",
+    "raison_sociale": "MAISON DE SANTE DE DAMVILLERS",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE L'ABBE MANDRE",
+    "bp": "",
+    "cp": "55150",
+    "VILLE": "DAMVILLERS ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "5.3982143301012",
+    "lat": "49.3422976654201"
+  }
+]

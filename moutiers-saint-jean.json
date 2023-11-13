@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "210011250",
+    "raison_sociale": "EHPA RESIDENCE MAISON AGE",
+    "numero voie": "8",
+    "type_voie": "PL",
+    "libelle_voie": "DE L HOPITAL",
+    "bp": "",
+    "cp": "21500",
+    "VILLE": "MOUTIERS ST JEAN    ",
+    "tel": "380892300",
+    "telecopie": "380892301",
+    "categorie etablissement": "502",
+    "libelle categorie": "EHPA ne percevant pas des crédits d'assurance maladie",
+    "siret": "26210012600032",
+    "lng": "4.22105631826154",
+    "lat": "47.5600595237415"
+  },
+  {
+    "finess": "210780920",
+    "raison_sociale": "EHPAD SAINT SAUVEUR",
+    "numero voie": "8",
+    "type_voie": "PL",
+    "libelle_voie": "DE L HOPITAL",
+    "bp": "",
+    "cp": "21500",
+    "VILLE": "MOUTIERS ST JEAN    ",
+    "tel": "380892300",
+    "telecopie": "380892301",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26210012600016",
+    "lng": "4.22105631826154",
+    "lat": "47.5600595237415"
+  }
+]

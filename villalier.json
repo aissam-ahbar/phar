@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "110003571",
+    "raison_sociale": "SELARL PHARMACIE RIVES ESTELLE",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DES GRENACHES",
+    "bp": "",
+    "cp": "11600",
+    "VILLE": "VILLALIER ",
+    "tel": "468775637",
+    "telecopie": "468777938",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88144069700012",
+    "lng": "2.41576372436941",
+    "lat": "43.2587119766359"
+  },
+  {
+    "finess": "110005238",
+    "raison_sociale": "EHPAD VIA MINERVA",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "ALPHONSE DAUDET",
+    "bp": "",
+    "cp": "11600",
+    "VILLE": "VILLALIER ",
+    "tel": "468105700",
+    "telecopie": "468720647",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "44999244500030",
+    "lng": "2.41280070427393",
+    "lat": "43.2553702360776"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "300009537",
+    "raison_sociale": "PHARMACIE DE SAINT LAURENT D'AIGOUZE",
+    "numero voie": "20",
+    "type_voie": "R",
+    "libelle_voie": "PIERRE BABINOT",
+    "bp": "",
+    "cp": "30220",
+    "VILLE": "ST LAURENT D AIGOUZE   ",
+    "tel": "466881252",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "71010077700022",
+    "lng": "4.1945978799368",
+    "lat": "43.6342245709091"
+  },
+  {
+    "finess": "300017506",
+    "raison_sociale": "CADA PETITE CAMARGUE",
+    "numero voie": "353",
+    "type_voie": "BD",
+    "libelle_voie": "GAMBETTA",
+    "bp": "",
+    "cp": "30220",
+    "VILLE": "ST LAURENT D AIGOUZE   ",
+    "tel": "892976301",
+    "telecopie": "",
+    "categorie etablissement": "443",
+    "libelle categorie": "Centre Accueil Demandeurs Asile (C.A.D.A.)",
+    "siret": "77567227234404",
+    "lng": "4.19595219337426",
+    "lat": "43.6328634479364"
+  },
+  {
+    "finess": "300019692",
+    "raison_sociale": "MSP TERRE DE CAMARGUE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "D AOU FARE",
+    "bp": "",
+    "cp": "30220",
+    "VILLE": "ST LAURENT D AIGOUZE   ",
+    "tel": "466881112",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "90880998100016",
+    "lng": "4.19339944027118",
+    "lat": "43.6317072520698"
+  }
+]

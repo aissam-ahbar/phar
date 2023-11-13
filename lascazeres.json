@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "650004872",
+    "raison_sociale": "SESSAD DU CENTRE \"ROLAND CHAVANCE\"",
+    "numero voie": "1",
+    "type_voie": "RTE",
+    "libelle_voie": "DE MADIRAN",
+    "bp": "",
+    "cp": "65700",
+    "VILLE": "LASCAZERES ",
+    "tel": "562963551",
+    "telecopie": "562969265",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "77558122601342",
+    "lng": "-0.025618950107836",
+    "lat": "43.5073659830247"
+  },
+  {
+    "finess": "650780505",
+    "raison_sociale": "CENTRE \"ROLAND CHAVANCE\"",
+    "numero voie": "1",
+    "type_voie": "RTE",
+    "libelle_voie": "DE MADIRAN",
+    "bp": "",
+    "cp": "65700",
+    "VILLE": "LASCAZERES ",
+    "tel": "562963551",
+    "telecopie": "562969265",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "77558122600450",
+    "lng": "-0.025618950107836",
+    "lat": "43.5073659830247"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "310029111",
+    "raison_sociale": "SAAD BCM",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LE VILLAGE",
+    "cp": "31220",
+    "VILLE": "LAVELANET DE COMMINGES    ",
+    "tel": "637913270",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "52989445300016",
+    "lng": "1.1204197116837",
+    "lat": "43.2565679592877"
+  },
+  {
+    "finess": "310032651",
+    "raison_sociale": "SAU 31 INTER-VALS",
+    "numero voie": "2170",
+    "type_voie": "R",
+    "libelle_voie": "DU COLONEL JULES GLEIZES",
+    "bp": "",
+    "cp": "31220",
+    "VILLE": "LAVELANET DE COMMINGES    ",
+    "tel": "561875550",
+    "telecopie": "",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "30587411700651",
+    "lng": "1.11670796781176",
+    "lat": "43.2538156323097"
+  }
+]

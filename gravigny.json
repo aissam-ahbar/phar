@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "270002421",
+    "raison_sociale": "UEHC EVREUX EPE EVREUX PJJ NORMANDIE",
+    "numero voie": "116",
+    "type_voie": "AV",
+    "libelle_voie": "ARISTIDE BRIAND",
+    "bp": "",
+    "cp": "27930",
+    "VILLE": "GRAVIGNY ",
+    "tel": "232380251",
+    "telecopie": "232380341",
+    "categorie etablissement": "241",
+    "libelle categorie": "Foyer d'Action Educative (F.A.E.)",
+    "siret": "17760131700254",
+    "lng": "1.16546404866076",
+    "lat": "49.0516377583756"
+  },
+  {
+    "finess": "270011141",
+    "raison_sociale": "SAD CCAS GRAVIGNY",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "JEAN CHAMPION",
+    "bp": "",
+    "cp": "27930",
+    "VILLE": "GRAVIGNY ",
+    "tel": "232338524",
+    "telecopie": "232398521",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26270302800023",
+    "lng": "1.16137994374926",
+    "lat": "49.0476844937083"
+  },
+  {
+    "finess": "270020365",
+    "raison_sociale": "SELARL PHARMACIE DE L'ITON",
+    "numero voie": "76",
+    "type_voie": "AV",
+    "libelle_voie": "ARISTIDE BRIAND",
+    "bp": "",
+    "cp": "27930",
+    "VILLE": "GRAVIGNY ",
+    "tel": "232332831",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40928645700042",
+    "lng": "1.16329048026128",
+    "lat": "49.047827050836"
+  }
+]

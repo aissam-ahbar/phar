@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "520001454",
+    "raison_sociale": "PHARMACIE CHEVAILLIER-LEGOUET",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "BLAISERIVES",
+    "bp": "",
+    "cp": "52110",
+    "VILLE": "DOULEVANT LE CHATEAU    ",
+    "tel": "325554340",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38364004200016",
+    "lng": "4.92298585324831",
+    "lat": "48.377725098587"
+  },
+  {
+    "finess": "520004144",
+    "raison_sociale": "CENTRE DE SANTÉ DOULEVANT LE CHATEAU",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "52110",
+    "VILLE": "DOULEVANT LE CHATEAU    ",
+    "tel": "325556360",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "20004425300025",
+    "lng": "4.92345714108267",
+    "lat": "48.3757258742854"
+  }
+]

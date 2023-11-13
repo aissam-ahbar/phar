@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "160011078",
+    "raison_sociale": "PHARMACIE DE LINARS",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DES BOISDONS",
+    "bp": "",
+    "cp": "16730",
+    "VILLE": "LINARS ",
+    "tel": "545959053",
+    "telecopie": "545912543",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81436012900013",
+    "lng": "0.084261179166586",
+    "lat": "45.6559119914397"
+  },
+  {
+    "finess": "160017745",
+    "raison_sociale": "CPTS OUEST ANGOUMOIS",
+    "numero voie": "",
+    "type_voie": "ALL",
+    "libelle_voie": "SIMONE VEIL",
+    "bp": "",
+    "cp": "16730",
+    "VILLE": "LINARS ",
+    "tel": "782503823",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "92067325800017",
+    "lng": "0.07530442218757",
+    "lat": "45.6500143810195"
+  }
+]

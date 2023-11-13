@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "300006046",
+    "raison_sociale": "SELARL PHARMACIE DONINI - LAVABRE",
+    "numero voie": "80",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LANGLADE",
+    "bp": "",
+    "cp": "30870",
+    "VILLE": "CLARENSAC ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52404991300022",
+    "lng": "4.22434892063021",
+    "lat": "43.8269922801583"
+  },
+  {
+    "finess": "300018280",
+    "raison_sociale": "MSP MÉTROPOLE OUEST NÎMES - CLARENSAC",
+    "numero voie": "80",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LANGLADE",
+    "bp": "",
+    "cp": "30870",
+    "VILLE": "CLARENSAC ",
+    "tel": "466814032",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "88198444700014",
+    "lng": "4.22434892063021",
+    "lat": "43.8269922801583"
+  }
+]

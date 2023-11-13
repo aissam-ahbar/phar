@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "90001926",
+    "raison_sociale": "SELARL PHARMACIE DU HAUT SALAT",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "Ille Moula",
+    "bp": "",
+    "cp": "9140",
+    "VILLE": "OUST ",
+    "tel": "561668046",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53223469700029",
+    "lng": "1.20742088099567",
+    "lat": "42.8673060933642"
+  },
+  {
+    "finess": "90781634",
+    "raison_sociale": "EHPAD SAINT JOSEPH",
+    "numero voie": "",
+    "type_voie": "IMP",
+    "libelle_voie": "DE L'HOSPICE",
+    "bp": "",
+    "cp": "9140",
+    "VILLE": "OUST ",
+    "tel": "561040090",
+    "telecopie": "561040099",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "30587411700800",
+    "lng": "1.21555829276268",
+    "lat": "42.8744791707039"
+  }
+]

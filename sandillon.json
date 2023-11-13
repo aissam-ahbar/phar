@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "450016464",
+    "raison_sociale": "PHARMACIE DE SANDILLON",
+    "numero voie": "2",
+    "type_voie": "MAIL",
+    "libelle_voie": "DE LOIRE",
+    "bp": "",
+    "cp": "45640",
+    "VILLE": "SANDILLON ",
+    "tel": "238410436",
+    "telecopie": "238410905",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83404470300017",
+    "lng": "2.03388689296344",
+    "lat": "47.8462812659526"
+  },
+  {
+    "finess": "450019427",
+    "raison_sociale": "LBM BIO MEDI QUAL CENTRE SANDILLON",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DES STERNES",
+    "bp": "",
+    "cp": "45640",
+    "VILLE": "SANDILLON ",
+    "tel": "238410391",
+    "telecopie": "238780957",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "40018121000073",
+    "lng": "2.03331253325782",
+    "lat": "47.8457346962884"
+  },
+  {
+    "finess": "450020375",
+    "raison_sociale": "PS COMMUNAUTE DE COMMUNE DES LOGES -ET",
+    "numero voie": "27",
+    "type_voie": "R",
+    "libelle_voie": "DES STERNES",
+    "bp": "",
+    "cp": "45640",
+    "VILLE": "SANDILLON ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "50335104100010",
+    "lng": "2.03371871365645",
+    "lat": "47.8456768389025"
+  }
+]

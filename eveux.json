@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "690029020",
+    "raison_sociale": "FOYER DE VIE DES TROIS VALLEES",
+    "numero voie": "830",
+    "type_voie": "CHE",
+    "libelle_voie": "DE LA RIVIERE",
+    "bp": "",
+    "cp": "69210",
+    "VILLE": "EVEUX ",
+    "tel": "472380044",
+    "telecopie": "",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "38495922700016",
+    "lng": "4.61170373391944",
+    "lat": "45.8263589011292"
+  },
+  {
+    "finess": "690039060",
+    "raison_sociale": "CADA DU RHÔNE - FORUM REFUGIES COSI",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "ROUTE DE LA TOURETTE",
+    "bp": "",
+    "cp": "69210",
+    "VILLE": "EVEUX ",
+    "tel": "437496480",
+    "telecopie": "472382180",
+    "categorie etablissement": "443",
+    "libelle categorie": "Centre Accueil Demandeurs Asile (C.A.D.A.)",
+    "siret": "32692287900084",
+    "lng": "4.62517530515131",
+    "lat": "45.8252102122165"
+  },
+  {
+    "finess": "690794938",
+    "raison_sociale": "SSIAD DE L'ARBRESLE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LA TOURETTE",
+    "bp": "",
+    "cp": "69210",
+    "VILLE": "EVEUX ",
+    "tel": "474013256",
+    "telecopie": "474012026",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "32887642000055",
+    "lng": "4.62517530515131",
+    "lat": "45.8252102122165"
+  }
+]

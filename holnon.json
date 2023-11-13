@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "20000188",
+    "raison_sociale": "IME APEI SAINT-QUENTIN HOLNON",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "HENRI DEFRANCE",
+    "bp": "",
+    "cp": "2760",
+    "VILLE": "HOLNON ",
+    "tel": "323096149",
+    "telecopie": "323090003",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "77554689800021",
+    "lng": "3.21175306316636",
+    "lat": "49.857455782863"
+  },
+  {
+    "finess": "20006987",
+    "raison_sociale": "PHARMACIE COTTRET-SENEZ",
+    "numero voie": "40",
+    "type_voie": "R",
+    "libelle_voie": "WALLON SATIZELLE",
+    "bp": "",
+    "cp": "2760",
+    "VILLE": "HOLNON ",
+    "tel": "323096009",
+    "telecopie": "323096552",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34449507200011",
+    "lng": "3.21794082399115",
+    "lat": "49.8623122535171"
+  },
+  {
+    "finess": "20010153",
+    "raison_sociale": "CAFS APEI-SAINT-QUENTIN HOLNON",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "HENRI DEFRANCE",
+    "bp": "",
+    "cp": "2760",
+    "VILLE": "HOLNON ",
+    "tel": "323092110",
+    "telecopie": "323090003",
+    "categorie etablissement": "238",
+    "libelle categorie": "Centre d'Accueil Familial Spécialisé",
+    "siret": "77554689800054",
+    "lng": "3.21175306316636",
+    "lat": "49.857455782863"
+  }
+]

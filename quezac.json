@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "150002681",
+    "raison_sociale": "CER LA CHATAIGNERAIE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DES CÈDRES",
+    "bp": "LES CABANES",
+    "cp": "15600",
+    "VILLE": "QUEZAC ",
+    "tel": "471497680",
+    "telecopie": "",
+    "categorie etablissement": "241",
+    "libelle categorie": "Foyer d'Action Educative (F.A.E.)",
+    "siret": "41475047100024",
+    "lng": "2.18687242940982",
+    "lat": "44.7476781352238"
+  },
+  {
+    "finess": "150780559",
+    "raison_sociale": "MAISON D'ENFANTS DE QUEZAC",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "PAUL DOUMER",
+    "bp": "",
+    "cp": "15600",
+    "VILLE": "QUEZAC ",
+    "tel": "471490120",
+    "telecopie": "",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "41475047100016",
+    "lng": "2.18588394101276",
+    "lat": "44.7464896169756"
+  }
+]

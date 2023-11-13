@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "630007052",
+    "raison_sociale": "SELARL PHARMACIE FOURNIER",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "du Dauphin",
+    "bp": "",
+    "cp": "63700",
+    "VILLE": "MONTAIGUT EN COMBRAILLE    ",
+    "tel": "473850937",
+    "telecopie": "473859479",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49414109600011",
+    "lng": "2.80735496099305",
+    "lat": "46.1799458200364"
+  },
+  {
+    "finess": "630781516",
+    "raison_sociale": "EHPAD \"DOCTEUR JEAN-PAUL TOUCAS\"",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "ST ROCH",
+    "bp": "",
+    "cp": "63700",
+    "VILLE": "MONTAIGUT EN COMBRAILLE    ",
+    "tel": "473850078",
+    "telecopie": "473859443",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26630773500016",
+    "lng": "2.80558330597614",
+    "lat": "46.1809144298269"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "610005241",
+    "raison_sociale": "SAD ASS LOCALE ADMR LONGNY AU PERCHE",
+    "numero voie": "30",
+    "type_voie": "R",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "61290",
+    "VILLE": "LONGNY LES VILLAGES    ",
+    "tel": "233835720",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32135522400023",
+    "lng": "0.7046380914742",
+    "lat": "48.4839316540066"
+  },
+  {
+    "finess": "610780629",
+    "raison_sociale": "EHPAD \"LA PROVIDENCE\"-LONGNY AU PERCHE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU DOCTEUR JEAN VIVARES",
+    "bp": "",
+    "cp": "61290",
+    "VILLE": "LONGNY LES VILLAGES    ",
+    "tel": "233736302",
+    "telecopie": "233835220",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "53089035900033",
+    "lng": "0.75115301203218",
+    "lat": "48.5287726227219"
+  },
+  {
+    "finess": "610786568",
+    "raison_sociale": "SELARL PHARMACIE DU PERCHE",
+    "numero voie": "8",
+    "type_voie": "PL",
+    "libelle_voie": "DE L HOTEL DE VILLE",
+    "bp": "",
+    "cp": "61290",
+    "VILLE": "LONGNY LES VILLAGES    ",
+    "tel": "233736329",
+    "telecopie": "233837327",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44895058400012",
+    "lng": "0.752226798940769",
+    "lat": "48.5312848551034"
+  }
+]

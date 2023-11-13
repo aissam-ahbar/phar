@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "170012926",
+    "raison_sociale": "PHARMACIE GRAND V",
+    "numero voie": "1",
+    "type_voie": "BD",
+    "libelle_voie": "DE LA PLAGE",
+    "bp": "",
+    "cp": "17370",
+    "VILLE": "LE GRAND VILLAGE PLAGE   ",
+    "tel": "546475349",
+    "telecopie": "546474209",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79965451200018",
+    "lng": "-1.23985601763081",
+    "lat": "45.860469545433"
+  },
+  {
+    "finess": "170016307",
+    "raison_sociale": "EHPAD L'OCEANE D'OLERON",
+    "numero voie": "1",
+    "type_voie": "ALL",
+    "libelle_voie": "DES PINS",
+    "bp": "",
+    "cp": "17370",
+    "VILLE": "LE GRAND VILLAGE PLAGE   ",
+    "tel": "546758888",
+    "telecopie": "546758889",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77558666200329",
+    "lng": "-1.24028512360194",
+    "lat": "45.862020745332"
+  }
+]

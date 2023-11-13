@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "470003468",
+    "raison_sociale": "LIEU DE VIE  LA MAISON D'ARTHUR",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "BORDENEUVE",
+    "cp": "47110",
+    "VILLE": "ALLEZ ET CAZENEUVE    ",
+    "tel": "553013863",
+    "telecopie": "553014139",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "48881246200015",
+    "lng": "0.615945818920859",
+    "lat": "44.3692016183156"
+  },
+  {
+    "finess": "470011578",
+    "raison_sociale": "LA CERISAIE",
+    "numero voie": "258",
+    "type_voie": "COTE",
+    "libelle_voie": "D'ALLEZ",
+    "bp": "ARMAND",
+    "cp": "47110",
+    "VILLE": "ALLEZ ET CAZENEUVE    ",
+    "tel": "553402677",
+    "telecopie": "553363790",
+    "categorie etablissement": "188",
+    "libelle categorie": "Etablissement pour Enfants ou Adolescents Polyhandicapés",
+    "siret": "77560887000140",
+    "lng": "0.630830275766762",
+    "lat": "44.3923796182627"
+  }
+]

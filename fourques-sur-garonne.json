@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "470009440",
+    "raison_sociale": "PHARMACIE DU PONT DES SABLES",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "PONT DES SABLES",
+    "bp": "",
+    "cp": "47200",
+    "VILLE": "FOURQUES SUR GARONNE    ",
+    "tel": "553936555",
+    "telecopie": "553937771",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48057325200016",
+    "lng": "0.138578368162777",
+    "lat": "44.4600918096294"
+  },
+  {
+    "finess": "470018284",
+    "raison_sociale": "SAAD ASSAD FOURQUES SUR GARONNE",
+    "numero voie": "",
+    "type_voie": "BRG",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "47200",
+    "VILLE": "FOURQUES SUR GARONNE    ",
+    "tel": "553933271",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "48794863000016",
+    "lng": "0.15954665058605",
+    "lat": "44.4482962471653"
+  }
+]

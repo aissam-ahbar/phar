@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "330050915",
+    "raison_sociale": "PHARMACIE DE SAINT-EMILION",
+    "numero voie": "24",
+    "type_voie": "R",
+    "libelle_voie": "GUADET",
+    "bp": "",
+    "cp": "33330",
+    "VILLE": "ST EMILION",
+    "tel": "557247074",
+    "telecopie": "557744603",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40059529400010",
+    "lng": "-0.155028678703557",
+    "lat": "44.8938920002909"
+  },
+  {
+    "finess": "330057704",
+    "raison_sociale": "SESSAD DU LIBOURNAIS",
+    "numero voie": "22",
+    "type_voie": "LD",
+    "libelle_voie": "BERTHONNEAU",
+    "bp": "",
+    "cp": "33330",
+    "VILLE": "ST EMILION",
+    "tel": "557252903",
+    "telecopie": "",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "78193151400132",
+    "lng": "-0.202235534117749",
+    "lat": "44.9015306488266"
+  },
+  {
+    "finess": "330783093",
+    "raison_sociale": "IME JAUGUEBLANC SAINT EMILION",
+    "numero voie": "1",
+    "type_voie": "",
+    "libelle_voie": "JAUGUEBLANC",
+    "bp": "",
+    "cp": "33330",
+    "VILLE": "ST EMILION",
+    "tel": "557514720",
+    "telecopie": "557250730",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "78193151400215",
+    "lng": "-0.198103043121842",
+    "lat": "44.8998980312628"
+  }
+]

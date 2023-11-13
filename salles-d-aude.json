@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "110004298",
+    "raison_sociale": "EHPAD JULES SEGUELA",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DES ORMEAUX",
+    "bp": "",
+    "cp": "11110",
+    "VILLE": "SALLES D AUDE    ",
+    "tel": "468466501",
+    "telecopie": "468466500",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "43997564000392",
+    "lng": "3.11768078384514",
+    "lat": "43.2358178874443"
+  },
+  {
+    "finess": "110791167",
+    "raison_sociale": "SELARL QUILLE",
+    "numero voie": "33",
+    "type_voie": "AV",
+    "libelle_voie": "DE COURSAN",
+    "bp": "",
+    "cp": "11110",
+    "VILLE": "SALLES D AUDE    ",
+    "tel": "468336462",
+    "telecopie": "468336462",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83021384900011",
+    "lng": "3.11657395978713",
+    "lat": "43.2378619037816"
+  }
+]

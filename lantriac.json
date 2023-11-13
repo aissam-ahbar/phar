@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "430002030",
+    "raison_sociale": "PHARMACIE JAMON-FARJAUD",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "IMPASSE DES OLLIERES",
+    "bp": "",
+    "cp": "43260",
+    "VILLE": "LANTRIAC ",
+    "tel": "471051893",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "43893037200026",
+    "lng": "4.00929597277474",
+    "lat": "45.0000183180635"
+  },
+  {
+    "finess": "430004341",
+    "raison_sociale": "SERVICE D'AIDE AUX PERSONNES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "43260",
+    "VILLE": "LANTRIAC ",
+    "tel": "471051094",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "32378040300016",
+    "lng": "4.00480969630713",
+    "lat": "45.0007351505473"
+  },
+  {
+    "finess": "430007021",
+    "raison_sociale": "EHPAD \"LE GRAND PRE\"",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DU GRAND PRÉ",
+    "bp": "",
+    "cp": "43260",
+    "VILLE": "LANTRIAC ",
+    "tel": "471051101",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26430135900024",
+    "lng": "4.00588072368772",
+    "lat": "45.0026353257429"
+  }
+]

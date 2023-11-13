@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "140017708",
+    "raison_sociale": "PHARMACIE D'ARDENNES",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DE LA BERGERIE",
+    "bp": "",
+    "cp": "14280",
+    "VILLE": "ST GERMAIN LA BLANCHE HERB  ",
+    "tel": "231734848",
+    "telecopie": "231738899",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44747082400015",
+    "lng": "-0.404963235335713",
+    "lat": "49.2016191606196"
+  },
+  {
+    "finess": "140020264",
+    "raison_sociale": "CONSULTAT. PROTECTION INFANTILE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "ROLAND VICO",
+    "bp": "",
+    "cp": "14280",
+    "VILLE": "ST GERMAIN LA BLANCHE HERB  ",
+    "tel": "231747249",
+    "telecopie": "",
+    "categorie etablissement": "230",
+    "libelle categorie": "Etablissement Consultation Protection Infantile",
+    "siret": "",
+    "lng": "-0.412112932641513",
+    "lat": "49.1890156844029"
+  },
+  {
+    "finess": "140027608",
+    "raison_sociale": "CENTRE MEDICO SOCIAL - ST GERMAIN",
+    "numero voie": "21",
+    "type_voie": "R",
+    "libelle_voie": "ALBERT CAMUS",
+    "bp": "",
+    "cp": "14280",
+    "VILLE": "ST GERMAIN LA BLANCHE HERB  ",
+    "tel": "231352120",
+    "telecopie": "",
+    "categorie etablissement": "230",
+    "libelle categorie": "Etablissement Consultation Protection Infantile",
+    "siret": "",
+    "lng": "-0.412432121318655",
+    "lat": "49.1901287827988"
+  }
+]

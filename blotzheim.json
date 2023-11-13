@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "680006715",
+    "raison_sociale": "SEL SAINT JOSEPH",
+    "numero voie": "16",
+    "type_voie": "R",
+    "libelle_voie": "MAL DE LATTRE DE TASSIGNY",
+    "bp": "",
+    "cp": "68730",
+    "VILLE": "BLOTZHEIM ",
+    "tel": "389684014",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50357160600022",
+    "lng": "7.49702287605398",
+    "lat": "47.6001901840944"
+  },
+  {
+    "finess": "680022605",
+    "raison_sociale": "LBM CAB BLOTZHEIM",
+    "numero voie": "16",
+    "type_voie": "R",
+    "libelle_voie": "DE L'ARTISANAT",
+    "bp": "",
+    "cp": "68730",
+    "VILLE": "BLOTZHEIM ",
+    "tel": "367350840",
+    "telecopie": "367350841",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "44354264200725",
+    "lng": "7.50536557350959",
+    "lat": "47.6057573048232"
+  }
+]

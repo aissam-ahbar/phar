@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "290006444",
+    "raison_sociale": "EHPAD TI AR GARANTEZ",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU DR VOURCH",
+    "bp": "",
+    "cp": "29570",
+    "VILLE": "CAMARET SUR MER    ",
+    "tel": "298278379",
+    "telecopie": "298278906",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26290084800025",
+    "lng": "-4.59349467662675",
+    "lat": "48.2704371833882"
+  },
+  {
+    "finess": "290011444",
+    "raison_sociale": "SELARL PHARMACIE LE ROUX",
+    "numero voie": "1",
+    "type_voie": "QU",
+    "libelle_voie": "TOUDOUZE",
+    "bp": "",
+    "cp": "29570",
+    "VILLE": "CAMARET SUR MER    ",
+    "tel": "298279078",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51096663300016",
+    "lng": "-4.59558145917807",
+    "lat": "48.2764160137905"
+  }
+]

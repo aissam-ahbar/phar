@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "520002023",
+    "raison_sociale": "PHARMACIE DE PRAUTHOY",
+    "numero voie": "30",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "52190",
+    "VILLE": "LE MONTSAUGEONNAIS",
+    "tel": "325883215",
+    "telecopie": "325842606",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44326555800017",
+    "lng": "5.29398386036678",
+    "lat": "47.6790430697345"
+  },
+  {
+    "finess": "520783903",
+    "raison_sociale": "SAAD ADMR DE LA VINGEANNE",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "DE VERDUN",
+    "bp": "",
+    "cp": "52190",
+    "VILLE": "LE MONTSAUGEONNAIS",
+    "tel": "325885794",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "34030162100058",
+    "lng": "5.29329066394788",
+    "lat": "47.6802551814012"
+  }
+]

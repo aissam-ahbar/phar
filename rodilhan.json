@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "300008794",
+    "raison_sociale": "PHARMACIE LA VISTRENQUE",
+    "numero voie": "8",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "30230",
+    "VILLE": "RODILHAN ",
+    "tel": "466200875",
+    "telecopie": "466200875",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48304748600012",
+    "lng": "4.43139790686205",
+    "lat": "43.8261777416657"
+  },
+  {
+    "finess": "300016011",
+    "raison_sociale": "PHOENIX ACCUEIL",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MARINE",
+    "bp": "",
+    "cp": "30230",
+    "VILLE": "RODILHAN ",
+    "tel": "668132019",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "47985469700022",
+    "lng": "4.43818245928537",
+    "lat": "43.8276761638492"
+  }
+]

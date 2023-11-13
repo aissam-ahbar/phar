@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "510019094",
+    "raison_sociale": "SELARL PHARMACIE DU GRAND MORIN",
+    "numero voie": "4",
+    "type_voie": "PL",
+    "libelle_voie": "du Général de Gaulle",
+    "bp": "",
+    "cp": "51310",
+    "VILLE": "ESTERNAY ",
+    "tel": "326815097",
+    "telecopie": "326428913",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82134313400010",
+    "lng": "3.55860654665883",
+    "lat": "48.7321512864077"
+  },
+  {
+    "finess": "510027436",
+    "raison_sociale": "ADMR ESTERNAY",
+    "numero voie": "13",
+    "type_voie": "PL",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "51310",
+    "VILLE": "ESTERNAY ",
+    "tel": "326815363",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31581440000018",
+    "lng": "3.55821929884344",
+    "lat": "48.7319210419893"
+  }
+]

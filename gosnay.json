@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "620018911",
+    "raison_sociale": "FH LE NID DU MOULIN GOSNAY",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DU MOULIN",
+    "bp": "",
+    "cp": "62199",
+    "VILLE": "GOSNAY ",
+    "tel": "321538028",
+    "telecopie": "321537046",
+    "categorie etablissement": "252",
+    "libelle categorie": "Foyer Hébergement Adultes Handicapés",
+    "siret": "33914580700014",
+    "lng": "2.58492023324443",
+    "lat": "50.5055959364544"
+  },
+  {
+    "finess": "620032359",
+    "raison_sociale": "FV LE NID DU MOULIN GOSNAY",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DU MOULIN",
+    "bp": "",
+    "cp": "62199",
+    "VILLE": "GOSNAY ",
+    "tel": "321538028",
+    "telecopie": "321537046",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "33914580700014",
+    "lng": "2.58492023324443",
+    "lat": "50.5055959364544"
+  },
+  {
+    "finess": "620034553",
+    "raison_sociale": "EHPA-H LE NID DU MOULIN",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DU MOULIN",
+    "bp": "",
+    "cp": "62199",
+    "VILLE": "GOSNAY ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "",
+    "lng": "2.58492023324443",
+    "lat": "50.5055959364544"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "240000307",
+    "raison_sociale": "CENTRE MEDICAL CHATEAU DE BASSY",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DU BOSQUET",
+    "bp": "BP 85",
+    "cp": "24400",
+    "VILLE": "ST MEDARD DE MUSSIDAN   ",
+    "tel": "553808800",
+    "telecopie": "553808886",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "42349433500080",
+    "lng": "0.335967705315919",
+    "lat": "45.0204082689399"
+  },
+  {
+    "finess": "240008391",
+    "raison_sociale": "EHPAD LA DRYADE",
+    "numero voie": "28",
+    "type_voie": "R",
+    "libelle_voie": "DE LA LIBERTE",
+    "bp": "",
+    "cp": "24400",
+    "VILLE": "ST MEDARD DE MUSSIDAN   ",
+    "tel": "553820926",
+    "telecopie": "553811076",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "40067179800017",
+    "lng": "0.349367481213637",
+    "lat": "45.0358577462321"
+  },
+  {
+    "finess": "240018051",
+    "raison_sociale": "CDS DPTAL ST MEDARD DE MUSSIDAN",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "HENRI FEYTOU",
+    "bp": "",
+    "cp": "24400",
+    "VILLE": "ST MEDARD DE MUSSIDAN   ",
+    "tel": "553020620",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "22240001200787",
+    "lng": "0.3426071073492",
+    "lat": "45.0440920104871"
+  }
+]

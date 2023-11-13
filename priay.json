@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "10005221",
+    "raison_sociale": "PHARMACIE DE PRIAY",
+    "numero voie": "332",
+    "type_voie": "GR",
+    "libelle_voie": "DE LA COTIERE",
+    "bp": "",
+    "cp": "1160",
+    "VILLE": "PRIAY ",
+    "tel": "474356019",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52261871900010",
+    "lng": "5.28807000526807",
+    "lat": "46.002208230549"
+  },
+  {
+    "finess": "10012763",
+    "raison_sociale": "SAAD LES JARDINS DE MONAL PRIAY",
+    "numero voie": "55",
+    "type_voie": "ALL",
+    "libelle_voie": "DES PEUPLIERS",
+    "bp": "",
+    "cp": "1160",
+    "VILLE": "PRIAY ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "5.28938672637788",
+    "lat": "46.0014807486722"
+  }
+]

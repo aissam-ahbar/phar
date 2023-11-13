@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "290012608",
+    "raison_sociale": "PHARMACIE SPEICHER-JONCOUR",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE CROEZIOU",
+    "bp": "",
+    "cp": "29300",
+    "VILLE": "REDENE ",
+    "tel": "298967354",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45394193200015",
+    "lng": "-3.46236796482435",
+    "lat": "47.8576918813439"
+  },
+  {
+    "finess": "290036516",
+    "raison_sociale": "MSP DE REDENE",
+    "numero voie": "17",
+    "type_voie": "LD",
+    "libelle_voie": "LE CROEZIOU",
+    "bp": "",
+    "cp": "29300",
+    "VILLE": "REDENE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "95070966700014",
+    "lng": "-3.46278307670548",
+    "lat": "47.8567713713853"
+  }
+]

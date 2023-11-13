@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "460003569",
+    "raison_sociale": "RESIDENCE AUTONOMIE \"LA CERISAIE\"",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DES ECOLES",
+    "bp": "",
+    "cp": "46110",
+    "VILLE": "LE VIGNON EN QUERCY   ",
+    "tel": "565270202",
+    "telecopie": "565410078",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "49056403600021",
+    "lng": "1.64432131214466",
+    "lat": "44.9973174145133"
+  },
+  {
+    "finess": "460004237",
+    "raison_sociale": "PHARMACIE LAVILLE",
+    "numero voie": "1",
+    "type_voie": "AV",
+    "libelle_voie": "du Docteur Monmont",
+    "bp": "",
+    "cp": "46110",
+    "VILLE": "LE VIGNON EN QUERCY   ",
+    "tel": "565321004",
+    "telecopie": "565320093",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79265379200012",
+    "lng": "1.64591377942722",
+    "lat": "44.9971215827321"
+  },
+  {
+    "finess": "460784853",
+    "raison_sociale": "SSIAD SANTE AVENIR",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU 8 MAI 1945",
+    "bp": "",
+    "cp": "46110",
+    "VILLE": "LE VIGNON EN QUERCY   ",
+    "tel": "565321901",
+    "telecopie": "565320182",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "34034398700020",
+    "lng": "1.64579855975004",
+    "lat": "44.9964276913494"
+  }
+]

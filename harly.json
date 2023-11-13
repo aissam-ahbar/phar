@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "20006532",
+    "raison_sociale": "MECS LES P'TITOURS AJP HARLY",
+    "numero voie": "1551",
+    "type_voie": "R",
+    "libelle_voie": "DE GUISE",
+    "bp": "",
+    "cp": "2100",
+    "VILLE": "HARLY ",
+    "tel": "323625552",
+    "telecopie": "",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "77554714400383",
+    "lng": "3.32164225937647",
+    "lat": "49.8413099573202"
+  },
+  {
+    "finess": "20006623",
+    "raison_sociale": "SELARL DU CONTOY",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU MILLENAIRE",
+    "bp": "",
+    "cp": "2100",
+    "VILLE": "HARLY ",
+    "tel": "323684424",
+    "telecopie": "323085800",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50802719000018",
+    "lng": "3.32527131842512",
+    "lat": "49.8444518966454"
+  },
+  {
+    "finess": "20007159",
+    "raison_sociale": "MECS LES P'TITADOS AJP HARLY",
+    "numero voie": "1565",
+    "type_voie": "R",
+    "libelle_voie": "DE GUISE",
+    "bp": "",
+    "cp": "2100",
+    "VILLE": "HARLY ",
+    "tel": "323604067",
+    "telecopie": "",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "77554714400383",
+    "lng": "3.32197187639136",
+    "lat": "49.8413710776001"
+  }
+]

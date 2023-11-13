@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "170011563",
+    "raison_sociale": "PHARMACIE  LA JARRIE",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "de la Providence",
+    "bp": "",
+    "cp": "17220",
+    "VILLE": "LA JARRIE",
+    "tel": "546358012",
+    "telecopie": "546661930",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39149004200036",
+    "lng": "-1.00382964065322",
+    "lat": "46.1272138807922"
+  },
+  {
+    "finess": "170020507",
+    "raison_sociale": "SAAD CCAS DE LA JARRIE",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "BP 7",
+    "cp": "17220",
+    "VILLE": "LA JARRIE",
+    "tel": "546359696",
+    "telecopie": "546359909",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26170045400026",
+    "lng": "-1.0102062175798",
+    "lat": "46.1285846186838"
+  },
+  {
+    "finess": "170785307",
+    "raison_sociale": "CONSULT. DE PROTECTION INFANTILE",
+    "numero voie": "17",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "17220",
+    "VILLE": "LA JARRIE",
+    "tel": "546664539",
+    "telecopie": "",
+    "categorie etablissement": "230",
+    "libelle categorie": "Etablissement Consultation Protection Infantile",
+    "siret": "22170001600258",
+    "lng": "-1.01010286909",
+    "lat": "46.1286964691459"
+  }
+]

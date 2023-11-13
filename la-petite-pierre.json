@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "670009323",
+    "raison_sociale": "PHARMACIE DE L'ETOILE",
+    "numero voie": "26",
+    "type_voie": "R",
+    "libelle_voie": "PRINCIPALE",
+    "bp": "",
+    "cp": "67290",
+    "VILLE": "LA PETITE PIERRE    ",
+    "tel": "388704685",
+    "telecopie": "388704540",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45333097900015",
+    "lng": "7.32081209147957",
+    "lat": "48.8578766916718"
+  },
+  {
+    "finess": "670796341",
+    "raison_sociale": "EHPAD DU KIRCHBERG",
+    "numero voie": "39",
+    "type_voie": "R",
+    "libelle_voie": "DU KIRCHBERG",
+    "bp": "",
+    "cp": "67290",
+    "VILLE": "LA PETITE PIERRE    ",
+    "tel": "388704647",
+    "telecopie": "388704084",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77888579800034",
+    "lng": "7.32888231912558",
+    "lat": "48.8601318376516"
+  }
+]

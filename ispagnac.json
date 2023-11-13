@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "480780527",
+    "raison_sociale": "EHPAD LE REJAL",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE SALANSON",
+    "bp": "",
+    "cp": "48320",
+    "VILLE": "ISPAGNAC ",
+    "tel": "466442140",
+    "telecopie": "466442404",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "49329278300021",
+    "lng": "3.54001254116332",
+    "lat": "44.380513018371"
+  },
+  {
+    "finess": "480782895",
+    "raison_sociale": "PHARMACIE D'ISPAGNAC",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "ROYAL",
+    "bp": "",
+    "cp": "48320",
+    "VILLE": "ISPAGNAC ",
+    "tel": "466442068",
+    "telecopie": "466442068",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "87965726000011",
+    "lng": "3.53767214789527",
+    "lat": "44.3702587435202"
+  }
+]

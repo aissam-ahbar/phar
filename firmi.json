@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "120002241",
+    "raison_sociale": "PHARMACIE ANDRE",
+    "numero voie": "2",
+    "type_voie": "ALL",
+    "libelle_voie": "PIECELONGUE",
+    "bp": "",
+    "cp": "12300",
+    "VILLE": "FIRMI ",
+    "tel": "565634307",
+    "telecopie": "565634307",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48525253000020",
+    "lng": "2.30861174631491",
+    "lat": "44.5429114815125"
+  },
+  {
+    "finess": "120009113",
+    "raison_sociale": "DAR - ECOLE FIRMI",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DE CRANSAC",
+    "bp": "",
+    "cp": "12300",
+    "VILLE": "FIRMI ",
+    "tel": "565733820",
+    "telecopie": "",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "",
+    "lng": "2.31077977526581",
+    "lat": "44.5391709293256"
+  },
+  {
+    "finess": "120786843",
+    "raison_sociale": "EHPAD PAUL MOUYSSET",
+    "numero voie": "2",
+    "type_voie": "AV",
+    "libelle_voie": "DE DECAZEVILLE",
+    "bp": "",
+    "cp": "12300",
+    "VILLE": "FIRMI ",
+    "tel": "565436900",
+    "telecopie": "565436956",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26120215400025",
+    "lng": "2.30573355377353",
+    "lat": "44.5419301353065"
+  }
+]

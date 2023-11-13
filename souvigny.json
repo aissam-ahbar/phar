@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "30004774",
+    "raison_sociale": "PHARMACIE LEPEE",
+    "numero voie": "",
+    "type_voie": "CRS",
+    "libelle_voie": "GENEVIEVE HUILIER",
+    "bp": "",
+    "cp": "3210",
+    "VILLE": "SOUVIGNY ",
+    "tel": "470436007",
+    "telecopie": "470413122",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "33491649100023",
+    "lng": "3.19124585724394",
+    "lat": "46.5337690207541"
+  },
+  {
+    "finess": "30006191",
+    "raison_sociale": "SERVICE D'AIDE AUX PERSONNES AGÉES",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE MONTLUCON",
+    "bp": "",
+    "cp": "3210",
+    "VILLE": "SOUVIGNY ",
+    "tel": "470431067",
+    "telecopie": "470436469",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "35278056300024",
+    "lng": "3.19198493158423",
+    "lat": "46.5339325648645"
+  },
+  {
+    "finess": "30783351",
+    "raison_sociale": "EHPAD LA SOURCE SOUVIGNY",
+    "numero voie": "21",
+    "type_voie": "RTE",
+    "libelle_voie": "DE MOULINS",
+    "bp": "",
+    "cp": "3210",
+    "VILLE": "SOUVIGNY ",
+    "tel": "470436455",
+    "telecopie": "470436268",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "43951788900127",
+    "lng": "3.19867106135761",
+    "lat": "46.5351385554169"
+  }
+]

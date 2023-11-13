@@ -1,0 +1,19 @@
+[
+  {
+    "finess": "380005504",
+    "raison_sociale": "PHARMACIE DE LA FRETTE",
+    "numero voie": "100",
+    "type_voie": "RTE",
+    "libelle_voie": "de Grenoble",
+    "bp": "",
+    "cp": "38260",
+    "VILLE": "LA FRETTE",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81792463200018",
+    "lng": "5.36336551344208",
+    "lat": "45.3895601176374"
+  }
+]

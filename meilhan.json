@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "400008587",
+    "raison_sociale": "PHARMACIE  DUMARTIN",
+    "numero voie": "448",
+    "type_voie": "R",
+    "libelle_voie": "FELIX ROBERT",
+    "bp": "",
+    "cp": "40400",
+    "VILLE": "MEILHAN ",
+    "tel": "558441006",
+    "telecopie": "532001178",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84847108200018",
+    "lng": "-0.703243488393045",
+    "lat": "43.863646644895"
+  },
+  {
+    "finess": "400015053",
+    "raison_sociale": "MSP MEILHAN",
+    "numero voie": "170",
+    "type_voie": "R",
+    "libelle_voie": "FELIX ROBERT",
+    "bp": "",
+    "cp": "40400",
+    "VILLE": "MEILHAN ",
+    "tel": "558069119",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "91030831100018",
+    "lng": "-0.706605691589975",
+    "lat": "43.8635540445428"
+  }
+]

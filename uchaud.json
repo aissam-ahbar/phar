@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "300009834",
+    "raison_sociale": "PHARMACIE DU CENTRE",
+    "numero voie": "122",
+    "type_voie": "AV",
+    "libelle_voie": "ROBERT DE JOLY",
+    "bp": "",
+    "cp": "30620",
+    "VILLE": "UCHAUD ",
+    "tel": "466710140",
+    "telecopie": "466710140",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81192739100011",
+    "lng": "4.26736760730612",
+    "lat": "43.755957567108"
+  },
+  {
+    "finess": "300009867",
+    "raison_sociale": "PHARMACIE MESANGE",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE L EGLISE",
+    "bp": "",
+    "cp": "30620",
+    "VILLE": "UCHAUD ",
+    "tel": "466711049",
+    "telecopie": "466711866",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44523353900011",
+    "lng": "4.26968133849956",
+    "lat": "43.7576063746731"
+  },
+  {
+    "finess": "300019163",
+    "raison_sociale": "UEM SESSAD ESCALIERES \"PASSERELLES\"",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DES PINS",
+    "bp": "",
+    "cp": "30620",
+    "VILLE": "UCHAUD ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "",
+    "lng": "4.26526635875292",
+    "lat": "43.7592524990495"
+  }
+]

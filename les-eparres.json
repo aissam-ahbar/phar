@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380796003",
+    "raison_sociale": "SERVICE DE TRAVAILLEUSES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38300",
+    "VILLE": "LES EPARRES",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37924470000017",
+    "lng": "5.29226897631644",
+    "lat": "45.5327334337629"
+  },
+  {
+    "finess": "380796532",
+    "raison_sociale": "SCE AIDE MENAGERES LES EPARRES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38300",
+    "VILLE": "LES EPARRES",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37924274600012",
+    "lng": "5.29226897631644",
+    "lat": "45.5327334337629"
+  }
+]

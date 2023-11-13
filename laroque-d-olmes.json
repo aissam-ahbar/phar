@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "90000399",
+    "raison_sociale": "EHPAD DU CHIVA SITE LAROQUE D'OLMES",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "SALVADOR ALLENDE",
+    "bp": "",
+    "cp": "9600",
+    "VILLE": "LAROQUE D OLMES    ",
+    "tel": "534093129",
+    "telecopie": "561031896",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26090023800288",
+    "lng": "1.86552741529075",
+    "lat": "42.9738040083662"
+  },
+  {
+    "finess": "90001074",
+    "raison_sociale": "PHARMACIE CASTILLANES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "9600",
+    "VILLE": "LAROQUE D OLMES    ",
+    "tel": "561010464",
+    "telecopie": "561017851",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "47755163400017",
+    "lng": "1.87143848955712",
+    "lat": "42.9690255599898"
+  },
+  {
+    "finess": "90004532",
+    "raison_sociale": "MSP LAROQUE D'OLMES-PAYS D'OLMES",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "PIERRE SEMARD",
+    "bp": "",
+    "cp": "9600",
+    "VILLE": "LAROQUE D OLMES    ",
+    "tel": "809541919",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "88991807400010",
+    "lng": "1.87201582604755",
+    "lat": "42.9674900255543"
+  }
+]

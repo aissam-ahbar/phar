@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "80009236",
+    "raison_sociale": "PROPHARMACIE DUMONT ALAIN",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "GUILLAUME DE MACHAULT",
+    "bp": "",
+    "cp": "8310",
+    "VILLE": "MACHAULT ",
+    "tel": "324303188",
+    "telecopie": "324716575",
+    "categorie etablissement": "627",
+    "libelle categorie": "Propharmacie",
+    "siret": "38811993500020",
+    "lng": "4.50126339446862",
+    "lat": "49.3555831086602"
+  },
+  {
+    "finess": "80009251",
+    "raison_sociale": "PROPHARMACIE DUMONT ANNE-SOPHIE",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "GUILLAUME DE MACHAULT",
+    "bp": "",
+    "cp": "8310",
+    "VILLE": "MACHAULT ",
+    "tel": "324303188",
+    "telecopie": "324716575",
+    "categorie etablissement": "627",
+    "libelle categorie": "Propharmacie",
+    "siret": "38811536200021",
+    "lng": "4.50126339446862",
+    "lat": "49.3555831086602"
+  },
+  {
+    "finess": "80010853",
+    "raison_sociale": "MSP DE MACHAULT",
+    "numero voie": "2",
+    "type_voie": "PROM",
+    "libelle_voie": "DES TILLEULS",
+    "bp": "",
+    "cp": "8310",
+    "VILLE": "MACHAULT ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "4.50211468788419",
+    "lat": "49.354710348394"
+  }
+]

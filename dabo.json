@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "570016071",
+    "raison_sociale": "PARMENTIER - PHARMACIE DU ROCHER",
+    "numero voie": "22",
+    "type_voie": "PL",
+    "libelle_voie": "DE L EGLISE",
+    "bp": "",
+    "cp": "57850",
+    "VILLE": "DABO ",
+    "tel": "387074016",
+    "telecopie": "387074556",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "35184601900013",
+    "lng": "7.23661104855229",
+    "lat": "48.6537166788038"
+  },
+  {
+    "finess": "570028647",
+    "raison_sociale": "RESIDENCE AUTONOMIE MARPA LA HOUBE",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "BELLEVUE",
+    "bp": "LA HOUBE",
+    "cp": "57850",
+    "VILLE": "DABO ",
+    "tel": "387241414",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "",
+    "lng": "7.27494643017251",
+    "lat": "48.6498538977107"
+  }
+]

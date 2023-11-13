@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "640007142",
+    "raison_sociale": "PHARMACIE DU BARETOUS",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DU GUIRAIL",
+    "bp": "",
+    "cp": "64570",
+    "VILLE": "ARAMITS ",
+    "tel": "559346015",
+    "telecopie": "559341113",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84137218800018",
+    "lng": "-0.726516912373036",
+    "lat": "43.1243555731537"
+  },
+  {
+    "finess": "640012969",
+    "raison_sociale": "SSIAD BARETOUS SOLIDARITE",
+    "numero voie": "",
+    "type_voie": "QUA",
+    "libelle_voie": "RIPAUDE",
+    "bp": "",
+    "cp": "64570",
+    "VILLE": "ARAMITS ",
+    "tel": "559346608",
+    "telecopie": "559346081",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "51227338400036",
+    "lng": "-0.728536544311155",
+    "lat": "43.1228107605471"
+  },
+  {
+    "finess": "640794426",
+    "raison_sociale": "EHPAD RESIDENCE DU BARETOUS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "QUARTIER RIPAUDE",
+    "bp": "",
+    "cp": "64570",
+    "VILLE": "ARAMITS ",
+    "tel": "559346608",
+    "telecopie": "559346081",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "51227338400028",
+    "lng": "-0.728536544311155",
+    "lat": "43.1228107605471"
+  }
+]

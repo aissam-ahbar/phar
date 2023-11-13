@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "590010088",
+    "raison_sociale": "LE CLOS FLEURI",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "JOSEPH DOLLET",
+    "bp": "",
+    "cp": "59277",
+    "VILLE": "RIEUX EN CAMBRESIS    ",
+    "tel": "327721910",
+    "telecopie": "361670101",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "41158378400078",
+    "lng": "3.34841227174516",
+    "lat": "50.2058018583195"
+  },
+  {
+    "finess": "590026787",
+    "raison_sociale": "SARL PHARMACIE RIEUXOISE",
+    "numero voie": "24",
+    "type_voie": "R",
+    "libelle_voie": "ALEXANDRE COUSIN",
+    "bp": "",
+    "cp": "59277",
+    "VILLE": "RIEUX EN CAMBRESIS    ",
+    "tel": "327793410",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75019975400029",
+    "lng": "3.3510317419423",
+    "lat": "50.202606592185"
+  },
+  {
+    "finess": "590812095",
+    "raison_sociale": "EHPAD LES JARDINS BRUNEHAUT",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "J DOLLET",
+    "bp": "",
+    "cp": "59277",
+    "VILLE": "RIEUX EN CAMBRESIS    ",
+    "tel": "327721920",
+    "telecopie": "327721900",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "41158378400029",
+    "lng": "3.34841227174516",
+    "lat": "50.2058018583195"
+  }
+]

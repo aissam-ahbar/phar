@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "70008917",
+    "raison_sociale": "ADMR ARDÈCHE CÉVENOLE",
+    "numero voie": "84",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA RÉPUBLIQUE",
+    "bp": "",
+    "cp": "7230",
+    "VILLE": "LABLACHERE ",
+    "tel": "475379734",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "51355665400038",
+    "lng": "4.2140522981632",
+    "lat": "44.4631962720105"
+  },
+  {
+    "finess": "70780663",
+    "raison_sociale": "EHPAD LES PERVENCHES",
+    "numero voie": "",
+    "type_voie": "QUA",
+    "libelle_voie": "NOTRE DAME",
+    "bp": "",
+    "cp": "7230",
+    "VILLE": "LABLACHERE ",
+    "tel": "",
+    "telecopie": "475365091",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "43997564000020",
+    "lng": "4.22013263656354",
+    "lat": "44.44726846353"
+  }
+]

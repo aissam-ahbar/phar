@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "660011495",
+    "raison_sociale": "SAAD HESTIA",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DES LILAS",
+    "bp": "",
+    "cp": "66410",
+    "VILLE": "VILLELONGUE DE LA SALANQUE   ",
+    "tel": "620740325",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "81074516600035",
+    "lng": "2.97958019976449",
+    "lat": "42.7266076914366"
+  },
+  {
+    "finess": "660787086",
+    "raison_sociale": "FOYER DE VIE LA SALANQUE",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA SALANQUE",
+    "bp": "",
+    "cp": "66410",
+    "VILLE": "VILLELONGUE DE LA SALANQUE   ",
+    "tel": "468735377",
+    "telecopie": "",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "77619095100082",
+    "lng": "2.98745268375891",
+    "lat": "42.7303097036604"
+  },
+  {
+    "finess": "660789512",
+    "raison_sociale": "PHARMACIE GALIAY-HOF",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "PABLO PICASSO",
+    "bp": "",
+    "cp": "66410",
+    "VILLE": "VILLELONGUE DE LA SALANQUE   ",
+    "tel": "468739001",
+    "telecopie": "468739440",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "35342808900026",
+    "lng": "2.98245540099106",
+    "lat": "42.7280980504656"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "650005192",
+    "raison_sociale": "EHPAD LES BALCONS DU HAUTACAM AYZAC-O",
+    "numero voie": "2",
+    "type_voie": "PL",
+    "libelle_voie": "DU 19 MARS 1962",
+    "bp": "",
+    "cp": "65400",
+    "VILLE": "AYZAC OST",
+    "tel": "562977272",
+    "telecopie": "562979960",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26650002400010",
+    "lng": "-0.096692016113236",
+    "lat": "43.0220383703715"
+  },
+  {
+    "finess": "650006760",
+    "raison_sociale": "MSP VALLEE DES GAVES",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "65400",
+    "VILLE": "AYZAC OST",
+    "tel": "562920466",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "89069892100016",
+    "lng": "-0.095161872790906",
+    "lat": "43.022465834417"
+  }
+]

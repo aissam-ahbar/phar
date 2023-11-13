@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "590019071",
+    "raison_sociale": "PHARMACIE LEBEAU",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "NEUVE",
+    "bp": "",
+    "cp": "59266",
+    "VILLE": "HONNECOURT SUR ESCAUT    ",
+    "tel": "327785492",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "85137555000015",
+    "lng": "3.19578203829923",
+    "lat": "50.037407537772"
+  },
+  {
+    "finess": "590796587",
+    "raison_sociale": "FOYER DE VIE \"LA JONQUIERE\"",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DES JUIFS",
+    "bp": "",
+    "cp": "59266",
+    "VILLE": "HONNECOURT SUR ESCAUT    ",
+    "tel": "327788600",
+    "telecopie": "361670101",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "",
+    "lng": "3.19543709875946",
+    "lat": "50.0383673301904"
+  },
+  {
+    "finess": "590809166",
+    "raison_sociale": "EHPAD LA JONQUIERE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE GOUZEAUCOURT",
+    "bp": "",
+    "cp": "59266",
+    "VILLE": "HONNECOURT SUR ESCAUT    ",
+    "tel": "327785506",
+    "telecopie": "327743291",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "41158378400045",
+    "lng": "3.19802582048556",
+    "lat": "50.0399179004209"
+  }
+]

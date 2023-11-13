@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "340021252",
+    "raison_sociale": "EHPAD LE GRAND CHAI",
+    "numero voie": "1315",
+    "type_voie": "AV",
+    "libelle_voie": "DES BAINS",
+    "bp": "",
+    "cp": "34540",
+    "VILLE": "BALARUC LE VIEUX    ",
+    "tel": "499022110",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "48972547300032",
+    "lng": "3.68593646705512",
+    "lat": "43.4593366727648"
+  },
+  {
+    "finess": "340023308",
+    "raison_sociale": "SELAS PHARMAPRIX",
+    "numero voie": "2",
+    "type_voie": "CHE",
+    "libelle_voie": "DES CHARBONNIERES RN 300",
+    "bp": "",
+    "cp": "34540",
+    "VILLE": "BALARUC LE VIEUX    ",
+    "tel": "467787389",
+    "telecopie": "499023033",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82081271700024",
+    "lng": "3.68543349775922",
+    "lat": "43.4600389276809"
+  }
+]

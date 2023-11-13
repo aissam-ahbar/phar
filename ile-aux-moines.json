@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "560010084",
+    "raison_sociale": "RESIDENCE LEON VINET",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "56780",
+    "VILLE": "ILE AUX MOINES    ",
+    "tel": "297263726",
+    "telecopie": "297263947",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26560125200041",
+    "lng": "-2.84301016941474",
+    "lat": "47.5979337924621"
+  },
+  {
+    "finess": "560017295",
+    "raison_sociale": "EURL PHARMACIE BARON",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "56780",
+    "VILLE": "ILE AUX MOINES    ",
+    "tel": "297263149",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52835167900014",
+    "lng": "-2.84453681356852",
+    "lat": "47.5980684373588"
+  }
+]

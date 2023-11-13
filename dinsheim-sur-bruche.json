@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "670006873",
+    "raison_sociale": "PHARMACIE DES 3 VALLEES",
+    "numero voie": "172",
+    "type_voie": "R",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "67190",
+    "VILLE": "DINSHEIM SUR BRUCHE    ",
+    "tel": "388500216",
+    "telecopie": "388501144",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50190036900031",
+    "lng": "7.41789756439745",
+    "lat": "48.5414875415451"
+  },
+  {
+    "finess": "670014596",
+    "raison_sociale": "ESAT SAINT ANDRE",
+    "numero voie": "181",
+    "type_voie": "R",
+    "libelle_voie": "DU GAL DE GAULLE",
+    "bp": "",
+    "cp": "67190",
+    "VILLE": "DINSHEIM SUR BRUCHE    ",
+    "tel": "388041020",
+    "telecopie": "",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "38449328400291",
+    "lng": "7.40741103524603",
+    "lat": "48.5402652540902"
+  }
+]

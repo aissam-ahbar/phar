@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "470014226",
+    "raison_sociale": "ACCUEIL DE JOUR LES JARDINS D'ALOÏS",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "DUFFOUR",
+    "bp": "",
+    "cp": "47220",
+    "VILLE": "ST NICOLAS DE LA BALERME  ",
+    "tel": "553671130",
+    "telecopie": "",
+    "categorie etablissement": "207",
+    "libelle categorie": "Centre de Jour pour Personnes Agées",
+    "siret": "",
+    "lng": "0.75499266411876",
+    "lat": "44.134250733681"
+  },
+  {
+    "finess": "470017955",
+    "raison_sociale": "SAAD UNA SAINT NICOLAS LA MAIN TENDUE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE BOURG",
+    "bp": "",
+    "cp": "47220",
+    "VILLE": "ST NICOLAS DE LA BALERME  ",
+    "tel": "553770473",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "45271359700022",
+    "lng": "0.763439251057909",
+    "lat": "44.1367293834113"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "370003667",
+    "raison_sociale": "PHARMACIE DES PINS",
+    "numero voie": "4",
+    "type_voie": "PL",
+    "libelle_voie": "DE L EGLISE",
+    "bp": "",
+    "cp": "37340",
+    "VILLE": "CLERE LES PINS    ",
+    "tel": "247249425",
+    "telecopie": "247438258",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34124627000019",
+    "lng": "0.38720346654415",
+    "lat": "47.4254726284458"
+  },
+  {
+    "finess": "370015695",
+    "raison_sociale": "SAAD AGE & VIE SERVICES CLERE LES PINS",
+    "numero voie": "32",
+    "type_voie": "R",
+    "libelle_voie": "PRINCIPALE",
+    "bp": "",
+    "cp": "37340",
+    "VILLE": "CLERE LES PINS    ",
+    "tel": "381250823",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "75051007500039",
+    "lng": "0.385154707498182",
+    "lat": "47.4263065565318"
+  }
+]

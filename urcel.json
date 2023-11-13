@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "20011912",
+    "raison_sociale": "SELARL PHARMACIE D'URCEL",
+    "numero voie": "6",
+    "type_voie": "RTE",
+    "libelle_voie": "DES ROIS",
+    "bp": "",
+    "cp": "2000",
+    "VILLE": "URCEL ",
+    "tel": "323216873",
+    "telecopie": "323216720",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52205506000019",
+    "lng": "3.55765883746791",
+    "lat": "49.4901543019343"
+  },
+  {
+    "finess": "20016440",
+    "raison_sociale": "MSP MÉDICALE URCEL",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE L'ÉGLISE",
+    "bp": "",
+    "cp": "2000",
+    "VILLE": "URCEL ",
+    "tel": "323216004",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "81538869900010",
+    "lng": "3.55826822385313",
+    "lat": "49.4898593955966"
+  }
+]

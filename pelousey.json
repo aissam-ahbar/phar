@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "250006970",
+    "raison_sociale": "ESAT DE BESANCON PELOUSEY ADAPEI",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU SEMINAIRE",
+    "bp": "",
+    "cp": "25170",
+    "VILLE": "PELOUSEY ",
+    "tel": "381527749",
+    "telecopie": "381525906",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "79174781900377",
+    "lng": "5.91564505195855",
+    "lat": "47.2780945736991"
+  },
+  {
+    "finess": "250009149",
+    "raison_sociale": "EANM PELOUSEY - ADAPEI",
+    "numero voie": "31",
+    "type_voie": "R",
+    "libelle_voie": "DU SEMINAIRE",
+    "bp": "",
+    "cp": "25170",
+    "VILLE": "PELOUSEY ",
+    "tel": "381554604",
+    "telecopie": "",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "79174781900484",
+    "lng": "5.91081947906511",
+    "lat": "47.2791589889465"
+  }
+]

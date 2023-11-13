@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "450005533",
+    "raison_sociale": "SELARL DELANCE PHARMA",
+    "numero voie": "94",
+    "type_voie": "PL",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "45680",
+    "VILLE": "DORDIVES ",
+    "tel": "238927220",
+    "telecopie": "238927519",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "85306868200014",
+    "lng": "2.76863581437689",
+    "lat": "48.1453314598995"
+  },
+  {
+    "finess": "450015276",
+    "raison_sociale": "EHPAD LES HIRONDELLES",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "CURIE",
+    "bp": "",
+    "cp": "45680",
+    "VILLE": "DORDIVES ",
+    "tel": "238927700",
+    "telecopie": "238927500",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26450201400014",
+    "lng": "2.77112721504391",
+    "lat": "48.1465816818835"
+  }
+]

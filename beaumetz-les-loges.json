@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "620006775",
+    "raison_sociale": "PHARMACIE PARIS-DESLANDES",
+    "numero voie": "29",
+    "type_voie": "R",
+    "libelle_voie": "Nationale",
+    "bp": "",
+    "cp": "62123",
+    "VILLE": "BEAUMETZ LES LOGES    ",
+    "tel": "321555684",
+    "telecopie": "321581725",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "89284360800019",
+    "lng": "2.66005879827597",
+    "lat": "50.2420058889908"
+  },
+  {
+    "finess": "620032656",
+    "raison_sociale": "AMAPA",
+    "numero voie": "53",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "62123",
+    "VILLE": "BEAUMETZ LES LOGES    ",
+    "tel": "387317292",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "79107985800225",
+    "lng": "2.66260642804922",
+    "lat": "50.2433642818333"
+  }
+]

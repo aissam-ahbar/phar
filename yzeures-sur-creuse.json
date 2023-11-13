@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "370009524",
+    "raison_sociale": "SELARL PHARMACIE DU DOLMEN",
+    "numero voie": "59",
+    "type_voie": "R",
+    "libelle_voie": "PASTEUR",
+    "bp": "",
+    "cp": "37290",
+    "VILLE": "YZEURES SUR CREUSE    ",
+    "tel": "247945508",
+    "telecopie": "247945508",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53124462200019",
+    "lng": "0.881399186991908",
+    "lat": "46.7850498997705"
+  },
+  {
+    "finess": "370010001",
+    "raison_sociale": "SAAD ADMR YZEURES-SUR-CREUSE",
+    "numero voie": "8",
+    "type_voie": "PL",
+    "libelle_voie": "MADO ROBIN",
+    "bp": "",
+    "cp": "37290",
+    "VILLE": "YZEURES SUR CREUSE    ",
+    "tel": "247910602",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31236556200015",
+    "lng": "0.869619539667542",
+    "lat": "46.7850600286375"
+  }
+]

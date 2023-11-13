@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "430001933",
+    "raison_sociale": "PHARMACIE BARDOT",
+    "numero voie": "6",
+    "type_voie": "PL",
+    "libelle_voie": "DU MARCHE",
+    "bp": "",
+    "cp": "43340",
+    "VILLE": "LANDOS ",
+    "tel": "471082020",
+    "telecopie": "471082598",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51242866500016",
+    "lng": "3.8307046240483",
+    "lat": "44.8436349543415"
+  },
+  {
+    "finess": "430004291",
+    "raison_sociale": "SERVICE D'AIDE AUX PERSONNES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "43340",
+    "VILLE": "LANDOS ",
+    "tel": "471082068",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "38952373900016",
+    "lng": "3.83012090484998",
+    "lat": "44.8431017939262"
+  },
+  {
+    "finess": "430009860",
+    "raison_sociale": "ADMR LANDOS",
+    "numero voie": "6",
+    "type_voie": "RTE",
+    "libelle_voie": "DU HAUT ALLIER",
+    "bp": "",
+    "cp": "43340",
+    "VILLE": "LANDOS ",
+    "tel": "471010926",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "38952373900024",
+    "lng": "3.82941218873258",
+    "lat": "44.8429306177774"
+  }
+]

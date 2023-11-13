@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "380018960",
+    "raison_sociale": "MADAME CECILE BUFFEREAU",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "38930",
+    "VILLE": "CLELLES EN TRIEVES    ",
+    "tel": "476341832",
+    "telecopie": "",
+    "categorie etablissement": "627",
+    "libelle categorie": "Propharmacie",
+    "siret": "53938937900048",
+    "lng": "5.62390236318603",
+    "lat": "44.8278397376985"
+  },
+  {
+    "finess": "380795989",
+    "raison_sociale": "SCE TRAVAIL.FAMILIALE CLELLES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38930",
+    "VILLE": "CLELLES EN TRIEVES    ",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37863952000014",
+    "lng": "5.62259884526317",
+    "lat": "44.8272228736182"
+  },
+  {
+    "finess": "380796714",
+    "raison_sociale": "SCE AIDES MENAGERES DE CLELLES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38930",
+    "VILLE": "CLELLES EN TRIEVES    ",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "38048255400017",
+    "lng": "5.62259884526317",
+    "lat": "44.8272228736182"
+  }
+]

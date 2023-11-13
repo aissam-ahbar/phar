@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "330044512",
+    "raison_sociale": "SNC PHARMACIE DULIN - GUIMARD",
+    "numero voie": "83",
+    "type_voie": "R",
+    "libelle_voie": "EMMANUEL ROY",
+    "bp": "",
+    "cp": "33420",
+    "VILLE": "BRANNE ",
+    "tel": "557845132",
+    "telecopie": "970621882",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38098458300019",
+    "lng": "-0.187847722585997",
+    "lat": "44.8292073519072"
+  },
+  {
+    "finess": "330782806",
+    "raison_sociale": "EHPAD  FONDATION DUBOIS",
+    "numero voie": "2",
+    "type_voie": "AV",
+    "libelle_voie": "DU 8 MAI 1945",
+    "bp": "",
+    "cp": "33420",
+    "VILLE": "BRANNE ",
+    "tel": "557846398",
+    "telecopie": "557846586",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "78185790900019",
+    "lng": "-0.186856287528763",
+    "lat": "44.8301224906819"
+  }
+]

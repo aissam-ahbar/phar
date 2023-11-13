@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "70003686",
+    "raison_sociale": "SELARL PHARMACIE DURET - SABATIER",
+    "numero voie": "53",
+    "type_voie": "AV",
+    "libelle_voie": "DU 8 MAI 1945",
+    "bp": "",
+    "cp": "7370",
+    "VILLE": "SARRAS ",
+    "tel": "475230070",
+    "telecopie": "475230714",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53981248700020",
+    "lng": "4.79893996009644",
+    "lat": "45.1869081045543"
+  },
+  {
+    "finess": "70009071",
+    "raison_sociale": "MAISON DE SANTE DE SARRAS",
+    "numero voie": "53",
+    "type_voie": "AV",
+    "libelle_voie": "DU 8 MAI 1945",
+    "bp": "",
+    "cp": "7370",
+    "VILLE": "SARRAS ",
+    "tel": "475230070",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "92368555600014",
+    "lng": "4.79893996009644",
+    "lat": "45.1869081045543"
+  }
+]

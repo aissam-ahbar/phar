@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "300011004",
+    "raison_sociale": "LES JARDINS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "30122",
+    "VILLE": "LES PLANTIERS",
+    "tel": "466839471",
+    "telecopie": "466839471",
+    "categorie etablissement": "501",
+    "libelle categorie": "EHPA percevant des crédits d'assurance maladie",
+    "siret": "26300053100032",
+    "lng": "3.72308097569676",
+    "lat": "44.1160383585358"
+  },
+  {
+    "finess": "300785524",
+    "raison_sociale": "RES AUTONOMIE LES JARDINS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "RESIDENCE LES JARDINS",
+    "bp": "",
+    "cp": "30122",
+    "VILLE": "LES PLANTIERS",
+    "tel": "466839471",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26300053100016",
+    "lng": "3.72304318552724",
+    "lat": "44.1170953098229"
+  }
+]

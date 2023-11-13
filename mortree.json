@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "610004921",
+    "raison_sociale": "SAAD UNA SECTEUR DE MORTREE",
+    "numero voie": "5",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "61570",
+    "VILLE": "MORTREE ",
+    "tel": "233345540",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "91089593700019",
+    "lng": "0.077824197288192",
+    "lat": "48.6399906062861"
+  },
+  {
+    "finess": "610006975",
+    "raison_sociale": "MARPA DU PAYS DE MORTREE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE L'ORGUEIL",
+    "bp": "",
+    "cp": "61570",
+    "VILLE": "MORTREE ",
+    "tel": "233129754",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "79203705300016",
+    "lng": "0.076369865290871",
+    "lat": "48.6414679906023"
+  },
+  {
+    "finess": "610786634",
+    "raison_sociale": "PHARMACIE DU PAYS D'O",
+    "numero voie": "37",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "61570",
+    "VILLE": "MORTREE ",
+    "tel": "233353093",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "90958264500018",
+    "lng": "0.077400471792623",
+    "lat": "48.6397227781734"
+  }
+]

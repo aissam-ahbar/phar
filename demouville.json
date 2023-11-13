@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "140000522",
+    "raison_sociale": "INSTITUT MEDICO-EDUCATIF - DEMOUVILLE",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "DU CHATEAU",
+    "bp": "",
+    "cp": "14840",
+    "VILLE": "DEMOUVILLE ",
+    "tel": "231723717",
+    "telecopie": "231728165",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "77556139200058",
+    "lng": "-0.272431806803174",
+    "lat": "49.1764930890476"
+  },
+  {
+    "finess": "140009960",
+    "raison_sociale": "PHARMACIE TREICH",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "DU CENTRE",
+    "bp": "",
+    "cp": "14840",
+    "VILLE": "DEMOUVILLE ",
+    "tel": "231723626",
+    "telecopie": "231724790",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48810760800017",
+    "lng": "-0.270671411573175",
+    "lat": "49.178585320986"
+  },
+  {
+    "finess": "140019688",
+    "raison_sociale": "ITEP - DEMOUVILLE",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "DU CHATEAU",
+    "bp": "",
+    "cp": "14840",
+    "VILLE": "DEMOUVILLE ",
+    "tel": "231723717",
+    "telecopie": "231728165",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "77556139200058",
+    "lng": "-0.272431806803174",
+    "lat": "49.1764930890476"
+  }
+]

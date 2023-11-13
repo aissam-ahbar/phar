@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "150002061",
+    "raison_sociale": "PHARMACIE GAUTHIER",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE MAURIAC",
+    "bp": "",
+    "cp": "15140",
+    "VILLE": "ST MARTIN VALMEROUX    ",
+    "tel": "471692075",
+    "telecopie": "471692950",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "85139066600010",
+    "lng": "2.40762569440014",
+    "lat": "45.1198858884381"
+  },
+  {
+    "finess": "150003283",
+    "raison_sociale": "MAISON DE SANTE DU VAL MARONNE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DES HETRES",
+    "bp": "",
+    "cp": "15140",
+    "VILLE": "ST MARTIN VALMEROUX    ",
+    "tel": "471692338",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "2.42494781131453",
+    "lat": "45.1177669020422"
+  },
+  {
+    "finess": "150783801",
+    "raison_sociale": "MAIS. ACCUEIL RURALE PERS.AGEES",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE FONTANGES",
+    "bp": "",
+    "cp": "15140",
+    "VILLE": "ST MARTIN VALMEROUX    ",
+    "tel": "471694900",
+    "telecopie": "",
+    "categorie etablissement": "502",
+    "libelle categorie": "EHPA ne percevant pas des crédits d'assurance maladie",
+    "siret": "26150412000021",
+    "lng": "2.45198876241058",
+    "lat": "45.1271378149667"
+  }
+]

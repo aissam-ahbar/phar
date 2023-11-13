@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "70003470",
+    "raison_sociale": "PHARMACIE AMPHOUX - BOURGUE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE CREU DE BOULE",
+    "bp": "SAINT-JUSAINT-#",
+    "cp": "7700",
+    "VILLE": "ST JUST D ARDECHE   ",
+    "tel": "475046559",
+    "telecopie": "475046559",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "78908143700020",
+    "lng": "4.61046622221702",
+    "lat": "44.3068240510116"
+  },
+  {
+    "finess": "70006648",
+    "raison_sociale": "LIEU DE VIE L'ILE BLEUE",
+    "numero voie": "1105",
+    "type_voie": "CHE",
+    "libelle_voie": "MÉLINAS",
+    "bp": "LA MÉLINAS",
+    "cp": "7700",
+    "VILLE": "ST JUST D ARDECHE   ",
+    "tel": "475515623",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "52344850400010",
+    "lng": "4.62969278597708",
+    "lat": "44.2966902798907"
+  }
+]

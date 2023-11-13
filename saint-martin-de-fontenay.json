@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "140010778",
+    "raison_sociale": "PHARMACIE DE SAINT MARTIN",
+    "numero voie": "6",
+    "type_voie": "RTE",
+    "libelle_voie": "D HARCOURT",
+    "bp": "",
+    "cp": "14320",
+    "VILLE": "ST MARTIN DE FONTENAY   ",
+    "tel": "231798367",
+    "telecopie": "231854378",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44280160100018",
+    "lng": "-0.374446567717906",
+    "lat": "49.1148851314888"
+  },
+  {
+    "finess": "140014721",
+    "raison_sociale": "FOYER DE VIE APAJH",
+    "numero voie": "47",
+    "type_voie": "RTE",
+    "libelle_voie": "D'HARCOURT",
+    "bp": "",
+    "cp": "14320",
+    "VILLE": "ST MARTIN DE FONTENAY   ",
+    "tel": "231790204",
+    "telecopie": "231794723",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "34086600300080",
+    "lng": "-0.37424295780795",
+    "lat": "49.1140323189923"
+  }
+]

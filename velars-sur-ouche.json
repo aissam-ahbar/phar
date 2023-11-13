@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "210013702",
+    "raison_sociale": "CPTS CENTRE 21",
+    "numero voie": "32",
+    "type_voie": "ALL",
+    "libelle_voie": "DE LA CUDE",
+    "bp": "",
+    "cp": "21370",
+    "VILLE": "VELARS SUR OUCHE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "604",
+    "libelle categorie": "Communautés professionnelles territoriales de santé (CPTS)",
+    "siret": "50375771800039",
+    "lng": "4.91944334431426",
+    "lat": "47.3180283244165"
+  },
+  {
+    "finess": "210986246",
+    "raison_sociale": "EHPAD LES JARDINS D'ALICE",
+    "numero voie": "21",
+    "type_voie": "R",
+    "libelle_voie": "LA COMBE DE FAIN",
+    "bp": "",
+    "cp": "21370",
+    "VILLE": "VELARS SUR OUCHE    ",
+    "tel": "380490442",
+    "telecopie": "380490477",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "34157474700026",
+    "lng": "4.89853392091777",
+    "lat": "47.3195193753604"
+  }
+]

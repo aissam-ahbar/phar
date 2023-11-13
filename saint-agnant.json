@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "170014443",
+    "raison_sociale": "PHARMACIE  SAINT AGNANT",
+    "numero voie": "43",
+    "type_voie": "R",
+    "libelle_voie": "de la Poste",
+    "bp": "",
+    "cp": "17620",
+    "VILLE": "ST AGNANT",
+    "tel": "546833653",
+    "telecopie": "546833678",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79003696600030",
+    "lng": "-0.96326227631669",
+    "lat": "45.8744468787497"
+  },
+  {
+    "finess": "170022115",
+    "raison_sociale": "EHPAD LES JARDINS DU MARAIS",
+    "numero voie": "48",
+    "type_voie": "AV",
+    "libelle_voie": "CHARLES DE GAULLE",
+    "bp": "",
+    "cp": "17620",
+    "VILLE": "ST AGNANT",
+    "tel": "546835170",
+    "telecopie": "546846834",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "50062758300049",
+    "lng": "-0.963498970988199",
+    "lat": "45.8681001299393"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "250010865",
+    "raison_sociale": "PHARMACIE BIXEL",
+    "numero voie": "1",
+    "type_voie": "",
+    "libelle_voie": "LA TUILERIE",
+    "bp": "LE FRAMBOURG",
+    "cp": "25300",
+    "VILLE": "LA CLUSE ET MIJOUX   ",
+    "tel": "381694699",
+    "telecopie": "381694699",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50014415900018",
+    "lng": "6.37361950848626",
+    "lat": "46.8678580963095"
+  },
+  {
+    "finess": "250020583",
+    "raison_sociale": "MAISON DE SANTE DE JOUX",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DES TUILERIES",
+    "bp": "",
+    "cp": "25300",
+    "VILLE": "LA CLUSE ET MIJOUX   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "53297269200018",
+    "lng": "6.37381680859657",
+    "lat": "46.8677558832001"
+  }
+]

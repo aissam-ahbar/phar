@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "140015629",
+    "raison_sociale": "PHARMACIE DE SAINT GATIEN DES BOIS",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "du Marché",
+    "bp": "",
+    "cp": "14130",
+    "VILLE": "ST GATIEN DES BOIS   ",
+    "tel": "231652949",
+    "telecopie": "231652172",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80219123900028",
+    "lng": "0.185469013467717",
+    "lat": "49.3486497167576"
+  },
+  {
+    "finess": "140016387",
+    "raison_sociale": "EHPAD RESIDENCE SAINT GATIEN",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DES BRIOLEURS",
+    "bp": "",
+    "cp": "14130",
+    "VILLE": "ST GATIEN DES BOIS   ",
+    "tel": "231646401",
+    "telecopie": "231643687",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "",
+    "lng": "0.190302244675158",
+    "lat": "49.3472196479346"
+  },
+  {
+    "finess": "140018946",
+    "raison_sociale": "SSIAD VALLEE D'AUGE - ST GATIEN",
+    "numero voie": "14",
+    "type_voie": "R",
+    "libelle_voie": "DES BRIOLEURS",
+    "bp": "",
+    "cp": "14130",
+    "VILLE": "ST GATIEN DES BOIS   ",
+    "tel": "231987767",
+    "telecopie": "231987986",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "78979232200016",
+    "lng": "0.186048255066955",
+    "lat": "49.3483537958613"
+  }
+]

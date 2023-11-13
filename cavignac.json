@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "330038118",
+    "raison_sociale": "LBM CERBALLIANCE AQUITAINE NORD - CAVI",
+    "numero voie": "93",
+    "type_voie": "AV",
+    "libelle_voie": "DE PARIS",
+    "bp": "",
+    "cp": "33620",
+    "VILLE": "CAVIGNAC ",
+    "tel": "557681009",
+    "telecopie": "557681803",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "32319110600224",
+    "lng": "-0.38933799916482",
+    "lat": "45.1014973281522"
+  },
+  {
+    "finess": "330045261",
+    "raison_sociale": "PHARMACIE GAFSI DECOUT",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "RILLAC",
+    "bp": "",
+    "cp": "33620",
+    "VILLE": "CAVIGNAC ",
+    "tel": "557686329",
+    "telecopie": "557686574",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "43226872000021",
+    "lng": "-0.386177811878808",
+    "lat": "45.0955029203358"
+  },
+  {
+    "finess": "330045295",
+    "raison_sociale": "SELURL PHARMACIE MEYNARD",
+    "numero voie": "89",
+    "type_voie": "AV",
+    "libelle_voie": "DE PARIS",
+    "bp": "",
+    "cp": "33620",
+    "VILLE": "CAVIGNAC ",
+    "tel": "557686004",
+    "telecopie": "557685684",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79288401700023",
+    "lng": "-0.389424922617347",
+    "lat": "45.1012729817788"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "620015644",
+    "raison_sociale": "PHARMACIE PATINIER",
+    "numero voie": "62",
+    "type_voie": "RTE",
+    "libelle_voie": "Departementale 943",
+    "bp": "",
+    "cp": "62120",
+    "VILLE": "RACQUINGHEM ",
+    "tel": "321933531",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75201428200012",
+    "lng": "2.35722087397964",
+    "lat": "50.6929918575594"
+  },
+  {
+    "finess": "620036145",
+    "raison_sociale": "MSP LES BRUYÈRES",
+    "numero voie": "84",
+    "type_voie": "RTE",
+    "libelle_voie": "DÉPARTEMENTALE 943",
+    "bp": "",
+    "cp": "62120",
+    "VILLE": "RACQUINGHEM ",
+    "tel": "321934343",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "2.35661058078715",
+    "lat": "50.6935405873536"
+  }
+]

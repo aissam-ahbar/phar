@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "360002992",
+    "raison_sociale": "PHARMACIE  ROUSSEL",
+    "numero voie": "79",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA FORET",
+    "bp": "",
+    "cp": "36330",
+    "VILLE": "LE POINCONNET",
+    "tel": "254354198",
+    "telecopie": "254358015",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38538793100020",
+    "lng": "1.71704896584584",
+    "lat": "46.7657835124475"
+  },
+  {
+    "finess": "360009138",
+    "raison_sociale": "DAR ECOLE ELEMENTAIRE JACQUES PREVERT",
+    "numero voie": "6",
+    "type_voie": "ALL",
+    "libelle_voie": "ROLLINAT",
+    "bp": "",
+    "cp": "36330",
+    "VILLE": "LE POINCONNET",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "",
+    "lng": "1.72004337693979",
+    "lat": "46.7647885159643"
+  }
+]

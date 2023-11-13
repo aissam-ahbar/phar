@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "80009186",
+    "raison_sociale": "PHARMACIE BARBAISE",
+    "numero voie": "22",
+    "type_voie": "BD",
+    "libelle_voie": "PIERQUIN",
+    "bp": "",
+    "cp": "8000",
+    "VILLE": "WARCQ ",
+    "tel": "324560692",
+    "telecopie": "324591182",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80298948300010",
+    "lng": "4.69751865630031",
+    "lat": "49.7773736599783"
+  },
+  {
+    "finess": "80011430",
+    "raison_sociale": "ALCURA FRANCE",
+    "numero voie": "25",
+    "type_voie": "R",
+    "libelle_voie": "DES CHAMPS FLEURIS",
+    "bp": "",
+    "cp": "8000",
+    "VILLE": "WARCQ ",
+    "tel": "674343900",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "30494047101372",
+    "lng": "4.69297923307517",
+    "lat": "49.7806800386963"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "540014099",
+    "raison_sociale": "CSP FILIERIS DE TUCQUEGNIEUX",
+    "numero voie": "54",
+    "type_voie": "R",
+    "libelle_voie": "DU CASTEL",
+    "bp": "",
+    "cp": "54640",
+    "VILLE": "TUCQUEGNIEUX ",
+    "tel": "382205555",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "77568531603656",
+    "lng": "5.88211863690716",
+    "lat": "49.2999794102888"
+  },
+  {
+    "finess": "540017910",
+    "raison_sociale": "SELARL SCLAPARI-SERRANELLI -",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "Jean Jaurès",
+    "bp": "",
+    "cp": "54640",
+    "VILLE": "TUCQUEGNIEUX ",
+    "tel": "382213261",
+    "telecopie": "382212662",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "89943052400012",
+    "lng": "5.89047760281331",
+    "lat": "49.3064153633753"
+  },
+  {
+    "finess": "540026457",
+    "raison_sociale": "CPTS DU TERRITOIRE DE BRIEY",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "JEAN JAURES",
+    "bp": "",
+    "cp": "54640",
+    "VILLE": "TUCQUEGNIEUX ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "604",
+    "libelle categorie": "Communautés professionnelles territoriales de santé (CPTS)",
+    "siret": "89922105500010",
+    "lng": "5.8941977236976",
+    "lat": "49.3090697905351"
+  }
+]

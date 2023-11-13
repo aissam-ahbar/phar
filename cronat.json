@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "710004375",
+    "raison_sociale": "PHARMACIE BLOND",
+    "numero voie": "36",
+    "type_voie": "RTE",
+    "libelle_voie": "de Decize",
+    "bp": "",
+    "cp": "71140",
+    "VILLE": "CRONAT ",
+    "tel": "385847025",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84217366800018",
+    "lng": "3.68563992637176",
+    "lat": "46.7240915092014"
+  },
+  {
+    "finess": "710013780",
+    "raison_sociale": "MAISON MEDICALE DE CRONAT",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA POSTE",
+    "bp": "",
+    "cp": "71140",
+    "VILLE": "CRONAT ",
+    "tel": "385848800",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "53752422500019",
+    "lng": "3.68348082492786",
+    "lat": "46.7208726924617"
+  },
+  {
+    "finess": "710015603",
+    "raison_sociale": "PETITE UNITÉ DE VIE DE CRONAT",
+    "numero voie": "81",
+    "type_voie": "R",
+    "libelle_voie": "DU SAUZIN",
+    "bp": "",
+    "cp": "71140",
+    "VILLE": "CRONAT ",
+    "tel": "358210053",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "",
+    "lng": "3.6856697205953",
+    "lat": "46.71888136668"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "510022080",
+    "raison_sociale": "PHARMACIE KREIT",
+    "numero voie": "27",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "51340",
+    "VILLE": "VANAULT LES DAMES    ",
+    "tel": "326733690",
+    "telecopie": "326738806",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "35178482200014",
+    "lng": "4.76727802046394",
+    "lat": "48.8407576548447"
+  },
+  {
+    "finess": "510022700",
+    "raison_sociale": "MARPA BEAUREGARD",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DES FOSSES",
+    "bp": "",
+    "cp": "51340",
+    "VILLE": "VANAULT LES DAMES    ",
+    "tel": "326410452",
+    "telecopie": "326732295",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "42170048500020",
+    "lng": "4.7675196561269",
+    "lat": "48.8428995305345"
+  },
+  {
+    "finess": "510024680",
+    "raison_sociale": "MAISON DE SANTE DE VANAULT LES DAMES",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU GUE RAVIGUET",
+    "bp": "",
+    "cp": "51340",
+    "VILLE": "VANAULT LES DAMES    ",
+    "tel": "326733525",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "83158189700012",
+    "lng": "4.77327240993812",
+    "lat": "48.8460258032405"
+  }
+]

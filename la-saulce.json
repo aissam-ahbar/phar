@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "50000058",
+    "raison_sociale": "CENTRE MEDICAL SSR RIO VERT",
+    "numero voie": "650",
+    "type_voie": "AV",
+    "libelle_voie": "DE MARSEILLE",
+    "bp": "",
+    "cp": "5110",
+    "VILLE": "LA SAULCE",
+    "tel": "492547676",
+    "telecopie": "492542565",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "32013003200024",
+    "lng": "6.00470062074099",
+    "lat": "44.4239704193683"
+  },
+  {
+    "finess": "50003573",
+    "raison_sociale": "PHARMACIE DE LA SAULCE",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA LIBERTE",
+    "bp": "",
+    "cp": "5110",
+    "VILLE": "LA SAULCE",
+    "tel": "492542515",
+    "telecopie": "492542544",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83293353500011",
+    "lng": "6.01005837402872",
+    "lat": "44.4265969021565"
+  },
+  {
+    "finess": "50006410",
+    "raison_sociale": "EHPAD  L'EDELWEISS",
+    "numero voie": "650",
+    "type_voie": "AV",
+    "libelle_voie": "DE MARSEILLE",
+    "bp": "",
+    "cp": "5110",
+    "VILLE": "LA SAULCE",
+    "tel": "492555800",
+    "telecopie": "492555808",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "32013003200024",
+    "lng": "6.00470062074099",
+    "lat": "44.4239704193683"
+  }
+]

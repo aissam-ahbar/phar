@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "670009521",
+    "raison_sociale": "PHARMACIE DE LA HAUTE VALLEE",
+    "numero voie": "4",
+    "type_voie": "ALL",
+    "libelle_voie": "DES JARDINS",
+    "bp": "",
+    "cp": "67570",
+    "VILLE": "ROTHAU ",
+    "tel": "388970216",
+    "telecopie": "388978088",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52275873900018",
+    "lng": "7.20911808708076",
+    "lat": "48.4588783302722"
+  },
+  {
+    "finess": "670022102",
+    "raison_sociale": "LIEU DE VIE JEAN GEORGES STUBER",
+    "numero voie": "19",
+    "type_voie": "R",
+    "libelle_voie": "DE LA FORÊT",
+    "bp": "",
+    "cp": "67570",
+    "VILLE": "ROTHAU ",
+    "tel": "388496420",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "",
+    "lng": "7.21546801462372",
+    "lat": "48.4639708385484"
+  },
+  {
+    "finess": "670799287",
+    "raison_sociale": "ESAT DE ROTHAU",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA RENARDIERE",
+    "bp": "",
+    "cp": "67570",
+    "VILLE": "ROTHAU ",
+    "tel": "388484466",
+    "telecopie": "388484469",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77564261400348",
+    "lng": "7.20973173574244",
+    "lat": "48.4554520436551"
+  }
+]

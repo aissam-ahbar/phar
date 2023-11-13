@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "360002448",
+    "raison_sociale": "EHPAD LES RIVES DE TREGONCE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "LOUISE MICHEL",
+    "bp": "",
+    "cp": "36320",
+    "VILLE": "VILLEDIEU SUR INDRE    ",
+    "tel": "254082470",
+    "telecopie": "254537772",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26360004100143",
+    "lng": "1.53797631128829",
+    "lat": "46.8451653969097"
+  },
+  {
+    "finess": "360003842",
+    "raison_sociale": "PHARMACIE LE GARGASSON",
+    "numero voie": "21",
+    "type_voie": "R",
+    "libelle_voie": "du Général de Gaulle",
+    "bp": "",
+    "cp": "36320",
+    "VILLE": "VILLEDIEU SUR INDRE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81356605600012",
+    "lng": "1.53663797028294",
+    "lat": "46.8478716031072"
+  },
+  {
+    "finess": "360007710",
+    "raison_sociale": "MSP DE VILLEDIEU SUR INDRE",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DES JARDINS",
+    "bp": "",
+    "cp": "36320",
+    "VILLE": "VILLEDIEU SUR INDRE    ",
+    "tel": "254081935",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "1.53586366217169",
+    "lat": "46.8465082498228"
+  }
+]

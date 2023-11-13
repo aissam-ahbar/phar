@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "540016730",
+    "raison_sociale": "SELARL PHARMACIE DE LA LIBERTE",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DE LA LIBERTE",
+    "bp": "",
+    "cp": "54490",
+    "VILLE": "PIENNES ",
+    "tel": "382219232",
+    "telecopie": "382210660",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81258531300016",
+    "lng": "5.78114516092366",
+    "lat": "49.3116913078282"
+  },
+  {
+    "finess": "540018835",
+    "raison_sociale": "ESAT BRIEY-PIENNES SITE PIENNES (AEIM)",
+    "numero voie": "",
+    "type_voie": "ZI",
+    "libelle_voie": "LA MOURIERE",
+    "bp": "BP 8",
+    "cp": "54490",
+    "VILLE": "PIENNES ",
+    "tel": "382218322",
+    "telecopie": "382217976",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77561559400485",
+    "lng": "5.77007934690196",
+    "lat": "49.3073215111104"
+  },
+  {
+    "finess": "540021177",
+    "raison_sociale": "LBM ESPACEBIO PIENNES",
+    "numero voie": "21",
+    "type_voie": "R",
+    "libelle_voie": "DE LA LIBERTE",
+    "bp": "",
+    "cp": "54490",
+    "VILLE": "PIENNES ",
+    "tel": "382221103",
+    "telecopie": "382217450",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "77999875600117",
+    "lng": "5.78346532050145",
+    "lat": "49.3123664146639"
+  }
+]

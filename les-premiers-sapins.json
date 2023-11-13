@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "250012374",
+    "raison_sociale": "PHARMACIE MARQUET BRINGOUT",
+    "numero voie": "12",
+    "type_voie": "R",
+    "libelle_voie": "DE LA FORGÉ",
+    "bp": "",
+    "cp": "25580",
+    "VILLE": "LES PREMIERS SAPINS    ",
+    "tel": "381600414",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52845727800034",
+    "lng": "6.34094604896892",
+    "lat": "47.0960914021417"
+  },
+  {
+    "finess": "250019684",
+    "raison_sociale": "MAISON SANTE PLURIDISCIPLINAIRE NODS",
+    "numero voie": "12",
+    "type_voie": "R",
+    "libelle_voie": "DE LA FORGE",
+    "bp": "",
+    "cp": "25580",
+    "VILLE": "LES PREMIERS SAPINS    ",
+    "tel": "381600222",
+    "telecopie": "381607500",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "79349424600010",
+    "lng": "6.34094604896892",
+    "lat": "47.0960914021417"
+  }
+]

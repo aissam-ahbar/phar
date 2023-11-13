@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "300008562",
+    "raison_sociale": "PHARMACIE FERRAND",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU PUITS VIEUX",
+    "bp": "",
+    "cp": "30320",
+    "VILLE": "POULX ",
+    "tel": "466750665",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "39823152200010",
+    "lng": "4.41889113228938",
+    "lat": "43.9074559528224"
+  },
+  {
+    "finess": "300019007",
+    "raison_sociale": "SAAD LANGUEDOC AIDE A LA PERSONNE",
+    "numero voie": "111",
+    "type_voie": "R",
+    "libelle_voie": "BASSE",
+    "bp": "",
+    "cp": "30320",
+    "VILLE": "POULX ",
+    "tel": "681827338",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "52875819600026",
+    "lng": "4.42511573590442",
+    "lat": "43.9108375447572"
+  },
+  {
+    "finess": "300786837",
+    "raison_sociale": "EHPAD LES PORTES DE NIMES",
+    "numero voie": "145",
+    "type_voie": "R",
+    "libelle_voie": "DES SALADELLES",
+    "bp": "",
+    "cp": "30320",
+    "VILLE": "POULX ",
+    "tel": "466750202",
+    "telecopie": "466753874",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "42358205500012",
+    "lng": "4.42461270408528",
+    "lat": "43.9011087589582"
+  }
+]

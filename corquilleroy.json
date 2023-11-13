@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "450005400",
+    "raison_sociale": "PHARMACIE QUEIRUGA",
+    "numero voie": "18",
+    "type_voie": "R",
+    "libelle_voie": "PRUDENT HARRY",
+    "bp": "",
+    "cp": "45120",
+    "VILLE": "CORQUILLEROY ",
+    "tel": "238878972",
+    "telecopie": "238878972",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44180080200015",
+    "lng": "2.69964256596769",
+    "lat": "48.0449025875448"
+  },
+  {
+    "finess": "450023080",
+    "raison_sociale": "SAAD AGES & VIE MAISON CORQUILLEROY",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DES NOYERS",
+    "bp": "",
+    "cp": "45120",
+    "VILLE": "CORQUILLEROY ",
+    "tel": "756027880",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "2.71162440071486",
+    "lat": "48.0401298146491"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "finess": "140010505",
+    "raison_sociale": "PHARMACIE DE MATHIEU",
+    "numero voie": "23",
+    "type_voie": "R",
+    "libelle_voie": "de la Chaussée",
+    "bp": "",
+    "cp": "14920",
+    "VILLE": "MATHIEU ",
+    "tel": "231441779",
+    "telecopie": "231445797",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75231895600014",
+    "lng": "-0.373816991027555",
+    "lat": "49.2570590328734"
+  }
+]

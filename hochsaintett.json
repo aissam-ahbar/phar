@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "670006048",
+    "raison_sociale": "ACCUEIL DE JOUR PERSONNES AGÉES",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "DU VILLAGE",
+    "bp": "",
+    "cp": "67170",
+    "VILLE": "HOCHSTETT ",
+    "tel": "388516898",
+    "telecopie": "388516718",
+    "categorie etablissement": "207",
+    "libelle categorie": "Centre de Jour pour Personnes Agées",
+    "siret": "47756239100037",
+    "lng": "7.67759951181777",
+    "lat": "48.7784865628775"
+  },
+  {
+    "finess": "670020007",
+    "raison_sociale": "SAAD LES FOURMIS DE L'AJPA",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "DU VILLAGE",
+    "bp": "",
+    "cp": "67170",
+    "VILLE": "HOCHSTETT ",
+    "tel": "388516898",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "47756239100029",
+    "lng": "7.67759951181777",
+    "lat": "48.7784865628775"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "410000285",
+    "raison_sociale": "CLINIQUE MEDICALE DU CENTRE",
+    "numero voie": "37",
+    "type_voie": "R",
+    "libelle_voie": "DE SAUMERY",
+    "bp": "CHATEAU DE SAUMERY",
+    "cp": "41350",
+    "VILLE": "HUISSEAU SUR COSSON    ",
+    "tel": "254512828",
+    "telecopie": "254512829",
+    "categorie etablissement": "161",
+    "libelle categorie": "Maison de Santé pour Maladies Mentales",
+    "siret": "59562020400015",
+    "lng": "1.4720629214711",
+    "lat": "47.6049059453013"
+  },
+  {
+    "finess": "410002604",
+    "raison_sociale": "SELARL PHARMACIE DU COSSON",
+    "numero voie": "249",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CHAMBORD",
+    "bp": "",
+    "cp": "41350",
+    "VILLE": "HUISSEAU SUR COSSON    ",
+    "tel": "254203136",
+    "telecopie": "254333043",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49015807800017",
+    "lng": "1.45335873168896",
+    "lat": "47.5924895365884"
+  }
+]

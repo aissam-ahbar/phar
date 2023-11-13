@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "530002435",
+    "raison_sociale": "EHPAD LA COLMONT",
+    "numero voie": "177",
+    "type_voie": "R",
+    "libelle_voie": "AMBROISE DE LORE",
+    "bp": "",
+    "cp": "53300",
+    "VILLE": "OISSEAU ",
+    "tel": "243001260",
+    "telecopie": "243006569",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26530028500011",
+    "lng": "-0.673248839403184",
+    "lat": "48.3564787964345"
+  },
+  {
+    "finess": "530030931",
+    "raison_sociale": "PHARMACIE LEMETAYER",
+    "numero voie": "5",
+    "type_voie": "PL",
+    "libelle_voie": "DE L EGLISE",
+    "bp": "",
+    "cp": "53300",
+    "VILLE": "OISSEAU ",
+    "tel": "243001074",
+    "telecopie": "243001604",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51842099700018",
+    "lng": "-0.670310240010977",
+    "lat": "48.3575534563976"
+  }
+]

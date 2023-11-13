@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "560012148",
+    "raison_sociale": "RESIDENCE DE L'ARGOAT",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DE L'ARGOAT",
+    "bp": "",
+    "cp": "56160",
+    "VILLE": "PLOERDUT ",
+    "tel": "297394208",
+    "telecopie": "297394728",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "39144758800024",
+    "lng": "-3.28829744121395",
+    "lat": "48.0859799743268"
+  },
+  {
+    "finess": "560019663",
+    "raison_sociale": "SARL PHARMACIE AMIAUD-LEJEUNE",
+    "numero voie": "17",
+    "type_voie": "",
+    "libelle_voie": "GRAND RUE",
+    "bp": "",
+    "cp": "56160",
+    "VILLE": "PLOERDUT ",
+    "tel": "297394358",
+    "telecopie": "297394968",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75002253500017",
+    "lng": "-3.28740700693899",
+    "lat": "48.0873952054788"
+  },
+  {
+    "finess": "560026254",
+    "raison_sociale": "MSP DU PAYS POURLETH",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "COËT NOZ",
+    "bp": "",
+    "cp": "56160",
+    "VILLE": "PLOERDUT ",
+    "tel": "297397700",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "-3.28802286376462",
+    "lat": "48.0882559720125"
+  }
+]

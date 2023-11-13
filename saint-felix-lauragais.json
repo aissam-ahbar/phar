@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "310010830",
+    "raison_sociale": "PHARMACIE DE SAINT FELIX",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "31540",
+    "VILLE": "ST FELIX LAURAGAIS    ",
+    "tel": "561830075",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "89784281100019",
+    "lng": "1.88772172156926",
+    "lat": "43.4488540221071"
+  },
+  {
+    "finess": "310029772",
+    "raison_sociale": "SAAD LAURAG'AIDE",
+    "numero voie": "49",
+    "type_voie": "R",
+    "libelle_voie": "DEODAT DE SEVERAC",
+    "bp": "",
+    "cp": "31540",
+    "VILLE": "ST FELIX LAURAGAIS    ",
+    "tel": "562570719",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "51407779100010",
+    "lng": "1.88717138126067",
+    "lat": "43.449022025371"
+  }
+]

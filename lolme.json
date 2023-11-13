@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "240000661",
+    "raison_sociale": "CENTRE MEDICALISE DE LOLME",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LA COMBE DE BIRON",
+    "bp": "",
+    "cp": "24540",
+    "VILLE": "LOLME ",
+    "tel": "553744747",
+    "telecopie": "",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "78167379300019",
+    "lng": "0.83847941994028",
+    "lat": "44.7009918093093"
+  },
+  {
+    "finess": "240014001",
+    "raison_sociale": "EHPAD DE LOLME",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LA COMBE DE BIRON",
+    "bp": "",
+    "cp": "24540",
+    "VILLE": "LOLME ",
+    "tel": "553744747",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "78167379300019",
+    "lng": "0.83847941994028",
+    "lat": "44.7009918093093"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "690015573",
+    "raison_sociale": "PHARMACIE DE VILLIÉ-MORGON",
+    "numero voie": "81",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA POMPE",
+    "bp": "",
+    "cp": "69910",
+    "VILLE": "VILLIE MORGON",
+    "tel": "474042010",
+    "telecopie": "474691467",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81010364800012",
+    "lng": "4.67986693354267",
+    "lat": "46.1618516136867"
+  },
+  {
+    "finess": "690025143",
+    "raison_sociale": "EHPAD L'ALOUETTE",
+    "numero voie": "21",
+    "type_voie": "R",
+    "libelle_voie": "CHAPTAL",
+    "bp": "",
+    "cp": "69910",
+    "VILLE": "VILLIE MORGON",
+    "tel": "474691828",
+    "telecopie": "474691836",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "35294454000017",
+    "lng": "4.67913231235637",
+    "lat": "46.1597026188192"
+  },
+  {
+    "finess": "690043567",
+    "raison_sociale": "SAAD SP2MB LES CHAPTALINES",
+    "numero voie": "21",
+    "type_voie": "R",
+    "libelle_voie": "CHAPTAL",
+    "bp": "",
+    "cp": "69910",
+    "VILLE": "VILLIE MORGON",
+    "tel": "481150006",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "81243197100017",
+    "lng": "4.67913231235637",
+    "lat": "46.1597026188192"
+  }
+]

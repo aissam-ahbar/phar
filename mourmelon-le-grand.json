@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "510019524",
+    "raison_sociale": "PHARMACIE CLEMENCEAU",
+    "numero voie": "12",
+    "type_voie": "PL",
+    "libelle_voie": "GEORGES CLEMENCEAU",
+    "bp": "",
+    "cp": "51400",
+    "VILLE": "MOURMELON LE GRAND    ",
+    "tel": "326660276",
+    "telecopie": "326689003",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49795303400012",
+    "lng": "4.36575731066096",
+    "lat": "49.1393929198368"
+  },
+  {
+    "finess": "510019540",
+    "raison_sociale": "PHARMACIE FROMENT",
+    "numero voie": "24",
+    "type_voie": "R",
+    "libelle_voie": "DU MARECHAL  FOCH",
+    "bp": "",
+    "cp": "51400",
+    "VILLE": "MOURMELON LE GRAND    ",
+    "tel": "326661241",
+    "telecopie": "326680271",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75185170000011",
+    "lng": "4.36331290831134",
+    "lat": "49.1402497127961"
+  }
+]

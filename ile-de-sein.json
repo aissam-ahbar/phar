@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "290034420",
+    "raison_sociale": "PROPHARMACIE MONSIEUR MENOU AMBROISE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "29990",
+    "VILLE": "ILE DE SEIN    ",
+    "tel": "298709020",
+    "telecopie": "",
+    "categorie etablissement": "627",
+    "libelle categorie": "Propharmacie",
+    "siret": "",
+    "lng": "-4.85172124453631",
+    "lat": "48.0372235995102"
+  },
+  {
+    "finess": "290035559",
+    "raison_sociale": "PROPHARMACIE DR MASTHIAS PROCUREUR",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "29990",
+    "VILLE": "ILE DE SEIN    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "627",
+    "libelle categorie": "Propharmacie",
+    "siret": "",
+    "lng": "-4.85172124453631",
+    "lat": "48.0372235995102"
+  }
+]

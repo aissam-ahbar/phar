@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "500011077",
+    "raison_sociale": "PHARMACIE GERAULT",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DE LA CROIX AU BRETON",
+    "bp": "",
+    "cp": "50450",
+    "VILLE": "HAMBYE ",
+    "tel": "233904326",
+    "telecopie": "233504305",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79045360900014",
+    "lng": "-1.26348655881181",
+    "lat": "48.9481966498299"
+  },
+  {
+    "finess": "500014592",
+    "raison_sociale": "MARPA LES TILLEULS - HAMBYE",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DES MATIGNONS",
+    "bp": "",
+    "cp": "50450",
+    "VILLE": "HAMBYE ",
+    "tel": "233508151",
+    "telecopie": "233612584",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26500158600014",
+    "lng": "-1.26050529122669",
+    "lat": "48.9455047075499"
+  }
+]

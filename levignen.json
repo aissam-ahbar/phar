@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "600013486",
+    "raison_sociale": "ITEP UGECAM LEVIGNEN",
+    "numero voie": "36",
+    "type_voie": "R",
+    "libelle_voie": "DU VALOIS",
+    "bp": "",
+    "cp": "60800",
+    "VILLE": "LEVIGNEN ",
+    "tel": "344393825",
+    "telecopie": "",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "",
+    "lng": "2.91188748610245",
+    "lat": "49.1986111509426"
+  },
+  {
+    "finess": "600014187",
+    "raison_sociale": "SESSAD UNITÉ DE LEVIGNEN",
+    "numero voie": "36",
+    "type_voie": "R",
+    "libelle_voie": "DU VALOIS",
+    "bp": "",
+    "cp": "60800",
+    "VILLE": "LEVIGNEN ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "",
+    "lng": "2.91188748610245",
+    "lat": "49.1986111509426"
+  }
+]

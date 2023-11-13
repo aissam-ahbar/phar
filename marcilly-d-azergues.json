@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "690051503",
+    "raison_sociale": "SAAD OUI SERVICES",
+    "numero voie": "180",
+    "type_voie": "ALL",
+    "libelle_voie": "DES TROPIQUES",
+    "bp": "",
+    "cp": "69380",
+    "VILLE": "MARCILLY D AZERGUES    ",
+    "tel": "478433767",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "84039162700014",
+    "lng": "4.71919824392176",
+    "lat": "45.8659060793165"
+  },
+  {
+    "finess": "690051586",
+    "raison_sociale": "SESSAD APAJH 69 SITE DE MARCILLY",
+    "numero voie": "496",
+    "type_voie": "RTE",
+    "libelle_voie": "DES CHERES",
+    "bp": "",
+    "cp": "69380",
+    "VILLE": "MARCILLY D AZERGUES    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "",
+    "lng": "4.72890316408184",
+    "lat": "45.8745201101717"
+  }
+]

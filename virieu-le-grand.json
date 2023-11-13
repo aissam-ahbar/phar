@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "10006203",
+    "raison_sociale": "PHARMACIE CHBANI-MISERE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU STADE",
+    "bp": "",
+    "cp": "1510",
+    "VILLE": "VIRIEU LE GRAND    ",
+    "tel": "479878179",
+    "telecopie": "479878628",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49878114500020",
+    "lng": "5.65193463689742",
+    "lat": "45.8455737654624"
+  },
+  {
+    "finess": "10780500",
+    "raison_sociale": "FOYER D'HÉBERGEMENT LES PATIOS",
+    "numero voie": "25",
+    "type_voie": "R",
+    "libelle_voie": "DU STADE",
+    "bp": "",
+    "cp": "1510",
+    "VILLE": "VIRIEU LE GRAND    ",
+    "tel": "479878082",
+    "telecopie": "479814418",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "77554408300568",
+    "lng": "5.65415504056186",
+    "lat": "45.8471623299395"
+  }
+]

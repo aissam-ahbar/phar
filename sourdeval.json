@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "500002332",
+    "raison_sociale": "EHPAD \"SAINT JOSEPH\" - SOURDEVAL",
+    "numero voie": "23",
+    "type_voie": "AV",
+    "libelle_voie": "MARÉCHAL FOCH",
+    "bp": "",
+    "cp": "50150",
+    "VILLE": "SOURDEVAL ",
+    "tel": "233692020",
+    "telecopie": "233692029",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "78092395900016",
+    "lng": "-0.925468444428395",
+    "lat": "48.7240065168524"
+  },
+  {
+    "finess": "500011705",
+    "raison_sociale": "PHARMACIE DE SOURDEVAL",
+    "numero voie": "18",
+    "type_voie": "PL",
+    "libelle_voie": "CHARLES DE GAULLE",
+    "bp": "",
+    "cp": "50150",
+    "VILLE": "SOURDEVAL ",
+    "tel": "233596021",
+    "telecopie": "233596330",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44502266800021",
+    "lng": "-0.92113565818145",
+    "lat": "48.7234034222465"
+  },
+  {
+    "finess": "500017454",
+    "raison_sociale": "FOA - SOURDEVAL",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LES GILBERDIERES",
+    "bp": "",
+    "cp": "50150",
+    "VILLE": "SOURDEVAL ",
+    "tel": "233790660",
+    "telecopie": "",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "78085969000023",
+    "lng": "-0.905737375735186",
+    "lat": "48.7289832161643"
+  }
+]

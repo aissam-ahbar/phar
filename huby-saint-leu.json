@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "620106146",
+    "raison_sociale": "EHPAD GABRIELLE HIELLE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU GAL LECLERCQ",
+    "bp": "",
+    "cp": "62140",
+    "VILLE": "HUBY ST LEU    ",
+    "tel": "321901300",
+    "telecopie": "321863667",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "44192191300238",
+    "lng": "2.0368019255198",
+    "lat": "50.3815222401338"
+  },
+  {
+    "finess": "620106807",
+    "raison_sociale": "LOGEMENT FOYER JEAN MOULIN",
+    "numero voie": "5",
+    "type_voie": "AV",
+    "libelle_voie": "JEAN MOULIN",
+    "bp": "",
+    "cp": "62140",
+    "VILLE": "HUBY ST LEU    ",
+    "tel": "321868582",
+    "telecopie": "321865342",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "",
+    "lng": "2.03799804484315",
+    "lat": "50.3830057800975"
+  }
+]

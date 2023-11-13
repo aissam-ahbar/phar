@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "700780232",
+    "raison_sociale": "CTRE EDUC. PROF.CHENNEVIERES",
+    "numero voie": "19",
+    "type_voie": "R",
+    "libelle_voie": "DE LA PRAIRIE",
+    "bp": "BP 4",
+    "cp": "70180",
+    "VILLE": "VEREUX ",
+    "tel": "384673700",
+    "telecopie": "384673497",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "77566294300205",
+    "lng": "5.65468591445351",
+    "lat": "47.516953766199"
+  },
+  {
+    "finess": "700783350",
+    "raison_sociale": "SERVICE DE SUITE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "70180",
+    "VILLE": "VEREUX ",
+    "tel": "384673377",
+    "telecopie": "",
+    "categorie etablissement": "440",
+    "libelle categorie": "Service Investigation Orientation Educative (S.I.O.E.)",
+    "siret": "77566294300288",
+    "lng": "5.65149277273762",
+    "lat": "47.5210082897253"
+  }
+]

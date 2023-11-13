@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "470012170",
+    "raison_sociale": "PHARMACIE LAGNIAU-LABAN",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LA VILLE   ROUTE DE MARMAND",
+    "bp": "",
+    "cp": "47350",
+    "VILLE": "SEYCHES ",
+    "tel": "553836009",
+    "telecopie": "553201578",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "41836964100026",
+    "lng": "0.305569492866372",
+    "lat": "44.5473528991064"
+  },
+  {
+    "finess": "470015959",
+    "raison_sociale": "MAISON D'ACCUEIL TEMPORAIRE SEYCHES",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "FRÉDÉRIC MISTRAL",
+    "bp": "",
+    "cp": "47350",
+    "VILLE": "SEYCHES ",
+    "tel": "553888656",
+    "telecopie": "",
+    "categorie etablissement": "501",
+    "libelle categorie": "EHPA percevant des crédits d'assurance maladie",
+    "siret": "79505799100080",
+    "lng": "0.303045424865366",
+    "lat": "44.5479289922163"
+  }
+]

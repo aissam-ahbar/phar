@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "330021049",
+    "raison_sociale": "EHPAD LA MEMOIRE DES AILES",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "ELISE DEROCHE",
+    "bp": "",
+    "cp": "33380",
+    "VILLE": "MARCHEPRIME ",
+    "tel": "556944300",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "51192189200069",
+    "lng": "-0.849232978564649",
+    "lat": "44.700501228598"
+  },
+  {
+    "finess": "330053414",
+    "raison_sociale": "SELAS  PHARMACIE DE MARCHEPRIME",
+    "numero voie": "13",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA COTE D ARGENT",
+    "bp": "",
+    "cp": "33380",
+    "VILLE": "MARCHEPRIME ",
+    "tel": "557711136",
+    "telecopie": "557718930",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38796372100023",
+    "lng": "-0.855602751140244",
+    "lat": "44.6919274042938"
+  },
+  {
+    "finess": "330065228",
+    "raison_sociale": "CPTS NORD BASSIN OCEAN",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "ELISE ROCHE",
+    "bp": "",
+    "cp": "33380",
+    "VILLE": "MARCHEPRIME ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "604",
+    "libelle categorie": "Communautés professionnelles territoriales de santé (CPTS)",
+    "siret": "91026575000018",
+    "lng": "-0.854171707653877",
+    "lat": "44.6918258500264"
+  }
+]

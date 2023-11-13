@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "190002592",
+    "raison_sociale": "CENTRE DE SOINS INFIRMIERS",
+    "numero voie": "17",
+    "type_voie": "R",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "19350",
+    "VILLE": "JUILLAC ",
+    "tel": "555256015",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "",
+    "lng": "1.32285562646419",
+    "lat": "45.3188131969909"
+  },
+  {
+    "finess": "190008284",
+    "raison_sociale": "PHARMACIE BOUQUET",
+    "numero voie": "12",
+    "type_voie": "R",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "19350",
+    "VILLE": "JUILLAC ",
+    "tel": "555256010",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84989824200011",
+    "lng": "1.32186386417351",
+    "lat": "45.3189352270301"
+  },
+  {
+    "finess": "190013623",
+    "raison_sociale": "MSP DU PAYS DE JUILLAC",
+    "numero voie": "17",
+    "type_voie": "R",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "19350",
+    "VILLE": "JUILLAC ",
+    "tel": "555255795",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "84982644100016",
+    "lng": "1.32285562646419",
+    "lat": "45.3188131969909"
+  }
+]

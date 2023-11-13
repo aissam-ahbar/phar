@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "70007133",
+    "raison_sociale": "MAPA RESIDENCE LES VERNES",
+    "numero voie": "19",
+    "type_voie": "R",
+    "libelle_voie": "DE MAUBACH",
+    "bp": "",
+    "cp": "7430",
+    "VILLE": "VERNOSC LES ANNONAY    ",
+    "tel": "475336057",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "20002339800080",
+    "lng": "4.71474779989046",
+    "lat": "45.2166731215225"
+  },
+  {
+    "finess": "70008016",
+    "raison_sociale": "PHARMACIE MIGNOT-LIAUTIER",
+    "numero voie": "121",
+    "type_voie": "PL",
+    "libelle_voie": "de la Poste",
+    "bp": "",
+    "cp": "7430",
+    "VILLE": "VERNOSC LES ANNONAY    ",
+    "tel": "475335841",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "85197932800016",
+    "lng": "4.7151837689882",
+    "lat": "45.2173833338908"
+  }
+]

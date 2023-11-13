@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "510012354",
+    "raison_sociale": "SSIAD FAMIL RURALES CTRE OUEST MARNAIS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "PLACE OBERWEIR",
+    "bp": "",
+    "cp": "51270",
+    "VILLE": "ETOGES ",
+    "tel": "326592340",
+    "telecopie": "326593654",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "78037137300033",
+    "lng": "3.85483596885323",
+    "lat": "48.8798512824263"
+  },
+  {
+    "finess": "510019110",
+    "raison_sociale": "PHARMACIE BLANCHET",
+    "numero voie": "51",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "51270",
+    "VILLE": "ETOGES ",
+    "tel": "326593039",
+    "telecopie": "326519795",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52297596000017",
+    "lng": "3.85549466345273",
+    "lat": "48.8803547125085"
+  }
+]

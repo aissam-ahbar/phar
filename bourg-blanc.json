@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "290002724",
+    "raison_sociale": "EHPAD ST JOSEPH",
+    "numero voie": "14",
+    "type_voie": "PL",
+    "libelle_voie": "STE BARBE",
+    "bp": "BP 2",
+    "cp": "29860",
+    "VILLE": "BOURG BLANC",
+    "tel": "298845590",
+    "telecopie": "298844601",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77749039200043",
+    "lng": "-4.50368087110686",
+    "lat": "48.4985975211787"
+  },
+  {
+    "finess": "290012780",
+    "raison_sociale": "PHARMACIE MERCIER",
+    "numero voie": "8",
+    "type_voie": "PL",
+    "libelle_voie": "SAINTE BARBE",
+    "bp": "",
+    "cp": "29860",
+    "VILLE": "BOURG BLANC",
+    "tel": "298845891",
+    "telecopie": "298844632",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80166855900017",
+    "lng": "-4.50352461043282",
+    "lat": "48.49902491497"
+  },
+  {
+    "finess": "290028448",
+    "raison_sociale": "CENTRE SPECIALISE KUZH HEOL",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DU CHATEAU D'EAU",
+    "bp": "BP 2",
+    "cp": "29860",
+    "VILLE": "BOURG BLANC",
+    "tel": "298845590",
+    "telecopie": "298844601",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77749039200027",
+    "lng": "-4.50171864633228",
+    "lat": "48.5007586701402"
+  }
+]

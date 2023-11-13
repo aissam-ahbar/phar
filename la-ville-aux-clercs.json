@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "410001085",
+    "raison_sociale": "FV ANAIS DE LA VILLE AUX CLERCS",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DES METAIRIES",
+    "bp": "",
+    "cp": "41160",
+    "VILLE": "LA VILLE AUX CLERCS   ",
+    "tel": "254231800",
+    "telecopie": "254231804",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "77562927200342",
+    "lng": "1.08093033599459",
+    "lat": "47.9189126652672"
+  },
+  {
+    "finess": "410002232",
+    "raison_sociale": "EHPAD LES CEDRES",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "DE LA FLEURIETTE",
+    "bp": "",
+    "cp": "41160",
+    "VILLE": "LA VILLE AUX CLERCS   ",
+    "tel": "254806356",
+    "telecopie": "254806799",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20001008000014",
+    "lng": "1.07897316113929",
+    "lat": "47.9238498874398"
+  },
+  {
+    "finess": "410007066",
+    "raison_sociale": "PHARMACIE TALBOT-DAVID",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DES ECOLES",
+    "bp": "",
+    "cp": "41160",
+    "VILLE": "LA VILLE AUX CLERCS   ",
+    "tel": "254806206",
+    "telecopie": "254806206",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48857715600018",
+    "lng": "1.08502330392349",
+    "lat": "47.9187535189371"
+  }
+]

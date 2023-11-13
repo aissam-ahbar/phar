@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "300006095",
+    "raison_sociale": "PHARMACIE DE CONNAUX",
+    "numero voie": "200",
+    "type_voie": "RTE",
+    "libelle_voie": "d'Avignon",
+    "bp": "",
+    "cp": "30330",
+    "VILLE": "CONNAUX ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49138103400017",
+    "lng": "4.59485965882826",
+    "lat": "44.0877114233829"
+  },
+  {
+    "finess": "300021425",
+    "raison_sociale": "MSP CONNAUX",
+    "numero voie": "200",
+    "type_voie": "RTE",
+    "libelle_voie": "D'AVIGNON",
+    "bp": "",
+    "cp": "30330",
+    "VILLE": "CONNAUX ",
+    "tel": "466820660",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "91960405800017",
+    "lng": "4.59485965882826",
+    "lat": "44.0877114233829"
+  }
+]

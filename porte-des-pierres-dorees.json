@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "690010657",
+    "raison_sociale": "PHARMACIE DE LIERGUES",
+    "numero voie": "958",
+    "type_voie": "RTE",
+    "libelle_voie": "DE POUILLY",
+    "bp": "",
+    "cp": "69400",
+    "VILLE": "PORTE DES PIERRES DOREES   ",
+    "tel": "474606179",
+    "telecopie": "474677441",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50212026400010",
+    "lng": "4.66862451925202",
+    "lat": "45.9684046865368"
+  },
+  {
+    "finess": "690051339",
+    "raison_sociale": "MAISON DE SANTE DES HAUTS DE LIERGUES",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU CHATEAU DE L'ECLAIR",
+    "bp": "",
+    "cp": "69400",
+    "VILLE": "PORTE DES PIERRES DOREES   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "91093035300016",
+    "lng": "4.66053765620915",
+    "lat": "45.9764613767634"
+  }
+]

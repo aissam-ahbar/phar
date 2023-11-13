@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "620006841",
+    "raison_sociale": "PHARMACIE DE BEAURAINVILLE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "62990",
+    "VILLE": "BEAURAINVILLE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "89197675500019",
+    "lng": "1.8971447841202",
+    "lat": "50.4242488727504"
+  },
+  {
+    "finess": "620020289",
+    "raison_sociale": "SESSAD ODYSSEE",
+    "numero voie": "132",
+    "type_voie": "R",
+    "libelle_voie": "GERARD LEJOSNE",
+    "bp": "",
+    "cp": "62990",
+    "VILLE": "BEAURAINVILLE ",
+    "tel": "321056129",
+    "telecopie": "321894481",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "78392904500210",
+    "lng": "1.89828363575258",
+    "lat": "50.4249323682239"
+  },
+  {
+    "finess": "620117358",
+    "raison_sociale": "SSIAD MAISON DE LINITIATIVE",
+    "numero voie": "31",
+    "type_voie": "R",
+    "libelle_voie": "JEAN MERMOZ",
+    "bp": "",
+    "cp": "62990",
+    "VILLE": "BEAURAINVILLE ",
+    "tel": "321067775",
+    "telecopie": "321864278",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "91895503000013",
+    "lng": "1.89770911728641",
+    "lat": "50.4188106140917"
+  }
+]

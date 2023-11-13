@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "170000061",
+    "raison_sociale": "CSS DU CHATEAU MARLONGES - CHAMBON",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DE LA GROSSE MOTTE",
+    "bp": "CHATEAU DE MARLONGES",
+    "cp": "17290",
+    "VILLE": "CHAMBON ",
+    "tel": "546274848",
+    "telecopie": "546688676",
+    "categorie etablissement": "355",
+    "libelle categorie": "Centre Hospitalier (C.H.)",
+    "siret": "20004783500430",
+    "lng": "-0.85970500200591",
+    "lat": "46.1191691099302"
+  },
+  {
+    "finess": "170024921",
+    "raison_sociale": "FOYER OCCUPATIONNEL - ESAT MARLONGES",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DU MARAIS",
+    "bp": "MARLONGES",
+    "cp": "17290",
+    "VILLE": "CHAMBON ",
+    "tel": "546276464",
+    "telecopie": "546276469",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "78134357900178",
+    "lng": "-0.863942246254818",
+    "lat": "46.1193773979292"
+  }
+]

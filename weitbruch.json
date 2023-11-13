@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "670012632",
+    "raison_sociale": "PHARMACIE DE LA GARANCE",
+    "numero voie": "31",
+    "type_voie": "R",
+    "libelle_voie": "PRINCIPALE",
+    "bp": "",
+    "cp": "67500",
+    "VILLE": "WEITBRUCH ",
+    "tel": "388724592",
+    "telecopie": "388721365",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50506359400012",
+    "lng": "7.78079584570075",
+    "lat": "48.7583987062813"
+  },
+  {
+    "finess": "670019520",
+    "raison_sociale": "SAAD LMC AIDES A DOMICILE",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DES BLEUETS",
+    "bp": "",
+    "cp": "67500",
+    "VILLE": "WEITBRUCH ",
+    "tel": "388721587",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "51149926100010",
+    "lng": "7.77418188902109",
+    "lat": "48.7596169108174"
+  }
+]

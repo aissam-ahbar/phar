@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "360002299",
+    "raison_sociale": "FAM DE PERASSAY",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LA BUSSIERE",
+    "bp": "",
+    "cp": "36160",
+    "VILLE": "PERASSAY ",
+    "tel": "254305355",
+    "telecopie": "254016109",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "26360275700084",
+    "lng": "2.13236996869327",
+    "lat": "46.4819650895365"
+  },
+  {
+    "finess": "360004345",
+    "raison_sociale": "FOYER OCCUPATIONNEL DE PERASSAY",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LA BUSSIERE",
+    "bp": "",
+    "cp": "36160",
+    "VILLE": "PERASSAY ",
+    "tel": "254305355",
+    "telecopie": "254306330",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "26360275700076",
+    "lng": "2.13236996869327",
+    "lat": "46.4819650895365"
+  }
+]

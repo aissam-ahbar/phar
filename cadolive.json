@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "130029150",
+    "raison_sociale": "PHARMACIE DE CADOLIVE",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "13950",
+    "VILLE": "CADOLIVE ",
+    "tel": "442046325",
+    "telecopie": "442843823",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52413747800037",
+    "lng": "5.54493636771389",
+    "lat": "43.3961540455942"
+  },
+  {
+    "finess": "130792815",
+    "raison_sociale": "CONSULTATIONS INFANTILES",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "13950",
+    "VILLE": "CADOLIVE ",
+    "tel": "442046318",
+    "telecopie": "",
+    "categorie etablissement": "230",
+    "libelle categorie": "Etablissement Consultation Protection Infantile",
+    "siret": "22130001501211",
+    "lng": "5.54458324245591",
+    "lat": "43.3957888058634"
+  }
+]

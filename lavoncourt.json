@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "700002041",
+    "raison_sociale": "PHARMACIE NAU",
+    "numero voie": "26",
+    "type_voie": "R",
+    "libelle_voie": "DE L EUROPE",
+    "bp": "",
+    "cp": "70120",
+    "VILLE": "LAVONCOURT ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38028426500010",
+    "lng": "5.78490282579632",
+    "lat": "47.6244790024471"
+  },
+  {
+    "finess": "700784929",
+    "raison_sociale": "LOGEMENT FOYER LAVONCOURT",
+    "numero voie": "12",
+    "type_voie": "R",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "70120",
+    "VILLE": "LAVONCOURT ",
+    "tel": "384920791",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26700660900031",
+    "lng": "5.78625778918459",
+    "lat": "47.626393910752"
+  }
+]

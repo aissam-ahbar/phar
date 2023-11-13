@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "180007676",
+    "raison_sociale": "PHARMACIE DE VIGNOUX SUR BARANGEON",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "18500",
+    "VILLE": "VIGNOUX SUR BARANGEON    ",
+    "tel": "248515178",
+    "telecopie": "248515317",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38341447100011",
+    "lng": "2.17106939525608",
+    "lat": "47.2023799318744"
+  },
+  {
+    "finess": "180008070",
+    "raison_sociale": "SAD ADMR DE MEHUN SUR YEVRE",
+    "numero voie": "38",
+    "type_voie": "R",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "18500",
+    "VILLE": "VIGNOUX SUR BARANGEON    ",
+    "tel": "248529408",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31472942700026",
+    "lng": "2.1727040807399",
+    "lat": "47.2001957242545"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "370000739",
+    "raison_sociale": "IME DE SEUILLY",
+    "numero voie": "1",
+    "type_voie": "RTE",
+    "libelle_voie": "DU COUDRAY",
+    "bp": "",
+    "cp": "37500",
+    "VILLE": "SEUILLY ",
+    "tel": "247935656",
+    "telecopie": "247958595",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "77525723100057",
+    "lng": "0.167994876132078",
+    "lat": "47.1255949778208"
+  },
+  {
+    "finess": "370012825",
+    "raison_sociale": "SAT DE SEUILLY - SITE SECONDAIRE",
+    "numero voie": "1",
+    "type_voie": "RTE",
+    "libelle_voie": "DU COUDRAY",
+    "bp": "",
+    "cp": "37500",
+    "VILLE": "SEUILLY ",
+    "tel": "247936600",
+    "telecopie": "",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "77525723100057",
+    "lng": "0.167994876132078",
+    "lat": "47.1255949778208"
+  },
+  {
+    "finess": "370100547",
+    "raison_sociale": "RESIDENCE AUTONOMIE LES BERGERS",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "DE LA PIECE DU PORTAIL",
+    "bp": "",
+    "cp": "37500",
+    "VILLE": "SEUILLY ",
+    "tel": "247959494",
+    "telecopie": "247959837",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26375590200057",
+    "lng": "0.170058983373982",
+    "lat": "47.1326606441194"
+  }
+]

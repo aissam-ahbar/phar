@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "560019861",
+    "raison_sociale": "PHARMACIE SERO",
+    "numero voie": "",
+    "type_voie": "RPT",
+    "libelle_voie": "DE L'OCEAN",
+    "bp": "",
+    "cp": "56340",
+    "VILLE": "PLOUHARNEL ",
+    "tel": "297523111",
+    "telecopie": "297524146",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49342659700024",
+    "lng": "-3.12179968023469",
+    "lat": "47.5966699386116"
+  },
+  {
+    "finess": "560029860",
+    "raison_sociale": "SAAD COCOONING SERVICES",
+    "numero voie": "16",
+    "type_voie": "AV",
+    "libelle_voie": "D'AURAY",
+    "bp": "",
+    "cp": "56340",
+    "VILLE": "PLOUHARNEL ",
+    "tel": "603480676",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "85354194400023",
+    "lng": "-3.10876591462131",
+    "lat": "47.6008028345843"
+  }
+]

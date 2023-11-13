@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "340017797",
+    "raison_sociale": "EHPAD LA MADELON",
+    "numero voie": "2",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA CAVE COOPERATIVE",
+    "bp": "",
+    "cp": "34660",
+    "VILLE": "COURNONSEC ",
+    "tel": "499549040",
+    "telecopie": "499549059",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "48749304100023",
+    "lng": "3.70743657532348",
+    "lat": "43.549451342756"
+  },
+  {
+    "finess": "340793223",
+    "raison_sociale": "SNC APSA-PHARM",
+    "numero voie": "51",
+    "type_voie": "R",
+    "libelle_voie": "DES BARRYS",
+    "bp": "",
+    "cp": "34660",
+    "VILLE": "COURNONSEC ",
+    "tel": "467850285",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40004036600017",
+    "lng": "3.71036508692155",
+    "lat": "43.5533840083961"
+  }
+]

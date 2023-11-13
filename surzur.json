@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "560013609",
+    "raison_sociale": "SAAD CCAS SURZUR",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "XAVIER DE LANGLAIS",
+    "bp": "",
+    "cp": "56450",
+    "VILLE": "SURZUR ",
+    "tel": "230080126",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26560173200026",
+    "lng": "-2.62833034927221",
+    "lat": "47.5775670485761"
+  },
+  {
+    "finess": "560021396",
+    "raison_sociale": "PHARMACIE  DURAND",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DES SPORTS",
+    "bp": "",
+    "cp": "56450",
+    "VILLE": "SURZUR ",
+    "tel": "297421316",
+    "telecopie": "297420338",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88086085300014",
+    "lng": "-2.6296156639215",
+    "lat": "47.5797122573672"
+  }
+]

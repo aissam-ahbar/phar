@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "180001166",
+    "raison_sociale": "MARPA AU GRES ROSE",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "DE LA CROIX ROUGE",
+    "bp": "",
+    "cp": "18360",
+    "VILLE": "SAULZAIS LE POTIER    ",
+    "tel": "248630923",
+    "telecopie": "248631985",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "41915502300015",
+    "lng": "2.49827797114355",
+    "lat": "46.6010132299867"
+  },
+  {
+    "finess": "180004459",
+    "raison_sociale": "ESAT VERNET INDUSTRIEL",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "D'EPINEUIL",
+    "bp": "",
+    "cp": "18360",
+    "VILLE": "SAULZAIS LE POTIER    ",
+    "tel": "248630671",
+    "telecopie": "",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "33160336500163",
+    "lng": "2.49571148332828",
+    "lat": "46.5981295203701"
+  },
+  {
+    "finess": "180004467",
+    "raison_sociale": "FOYER D'HEBERGEMENT POUR HANDICAPES",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "D'URCAY",
+    "bp": "",
+    "cp": "18360",
+    "VILLE": "SAULZAIS LE POTIER    ",
+    "tel": "248631194",
+    "telecopie": "248967749",
+    "categorie etablissement": "252",
+    "libelle categorie": "Foyer Hébergement Adultes Handicapés",
+    "siret": "33160336500171",
+    "lng": "2.49571148332828",
+    "lat": "46.5981295203701"
+  }
+]

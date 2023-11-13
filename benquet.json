@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "400007472",
+    "raison_sociale": "SELARL PHARMACIE BENQUET",
+    "numero voie": "570",
+    "type_voie": "AV",
+    "libelle_voie": "DU MARSAN",
+    "bp": "",
+    "cp": "40280",
+    "VILLE": "BENQUET ",
+    "tel": "558710113",
+    "telecopie": "558710113",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82258643400018",
+    "lng": "-0.500364247261154",
+    "lat": "43.8362260551"
+  },
+  {
+    "finess": "400012886",
+    "raison_sociale": "MAISON DE SANTE RURALE DE BENQUET",
+    "numero voie": "2",
+    "type_voie": "IMP",
+    "libelle_voie": "DU FOYER",
+    "bp": "",
+    "cp": "40280",
+    "VILLE": "BENQUET ",
+    "tel": "558710750",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "52151578300012",
+    "lng": "-0.501166111449037",
+    "lat": "43.8303253748143"
+  }
+]

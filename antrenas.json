@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "480000793",
+    "raison_sociale": "SSR SPECIALISE EN PNEUMOLOGIE ANTRENAS",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE NASBINALS",
+    "bp": "",
+    "cp": "48100",
+    "VILLE": "ANTRENAS ",
+    "tel": "466425047",
+    "telecopie": "466425005",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "77609821200082",
+    "lng": "3.26863567335545",
+    "lat": "44.578385206598"
+  },
+  {
+    "finess": "480780543",
+    "raison_sociale": "SSR PEDIATRIQUE LES ECUREUILS ANTRENAS",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE NASBINALS",
+    "bp": "",
+    "cp": "48100",
+    "VILLE": "ANTRENAS ",
+    "tel": "466425000",
+    "telecopie": "466323367",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "77609821200157",
+    "lng": "3.26863567335545",
+    "lat": "44.578385206598"
+  }
+]

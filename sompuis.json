@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "510018419",
+    "raison_sociale": "FOYER DE VIE SPECIALISE MARPHA",
+    "numero voie": "36",
+    "type_voie": "R",
+    "libelle_voie": "ROYER COLLARD",
+    "bp": "",
+    "cp": "51320",
+    "VILLE": "SOMPUIS ",
+    "tel": "326734803",
+    "telecopie": "",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "32066040000013",
+    "lng": "4.38568980854295",
+    "lat": "48.6843001042234"
+  },
+  {
+    "finess": "510024953",
+    "raison_sociale": "FAM LES ANTES",
+    "numero voie": "36",
+    "type_voie": "R",
+    "libelle_voie": "ROYER COLLARD",
+    "bp": "",
+    "cp": "51320",
+    "VILLE": "SOMPUIS ",
+    "tel": "326734803",
+    "telecopie": "",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "32066040000054",
+    "lng": "4.38568980854295",
+    "lat": "48.6843001042234"
+  }
+]

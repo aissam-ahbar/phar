@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "260008941",
+    "raison_sociale": "PHARMACIE VIGNES",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "LEON ET GEORGES ROLLAND",
+    "bp": "",
+    "cp": "26510",
+    "VILLE": "REMUZAT ",
+    "tel": "475278682",
+    "telecopie": "475275385",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45407374300014",
+    "lng": "5.3564295980225",
+    "lat": "44.4139958519347"
+  },
+  {
+    "finess": "260018148",
+    "raison_sociale": "MARPA LES BARONNIES",
+    "numero voie": "",
+    "type_voie": "QUA",
+    "libelle_voie": "RIF ET BEATRIX",
+    "bp": "",
+    "cp": "26510",
+    "VILLE": "REMUZAT ",
+    "tel": "426783700",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "75287624300011",
+    "lng": "5.36117507017286",
+    "lat": "44.4148038050997"
+  }
+]

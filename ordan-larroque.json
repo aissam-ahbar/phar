@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "320003262",
+    "raison_sociale": "EAM CASTEL SAINT LOUIS",
+    "numero voie": "1737",
+    "type_voie": "CHE",
+    "libelle_voie": "DE SAINT-LOUIS",
+    "bp": "",
+    "cp": "32350",
+    "VILLE": "ORDAN LARROQUE",
+    "tel": "562611122",
+    "telecopie": "562611019",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "30216393600024",
+    "lng": "0.479135391737323",
+    "lat": "43.6539368434106"
+  },
+  {
+    "finess": "320782147",
+    "raison_sociale": "FOYER DE VIE CASTEL SAINT LOUIS",
+    "numero voie": "1737",
+    "type_voie": "CHE",
+    "libelle_voie": "DE SAINT-LOUIS",
+    "bp": "",
+    "cp": "32350",
+    "VILLE": "ORDAN LARROQUE",
+    "tel": "562611122",
+    "telecopie": "562611019",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "30216393600024",
+    "lng": "0.479135391737323",
+    "lat": "43.6539368434106"
+  }
+]

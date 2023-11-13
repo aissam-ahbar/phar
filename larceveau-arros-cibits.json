@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "640009890",
+    "raison_sociale": "PHARMACIE DE L'OSTABARRET",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAISON BELOSCARENIA",
+    "bp": "",
+    "cp": "64120",
+    "VILLE": "LARCEVEAU ARROS CIBITS    ",
+    "tel": "559378276",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83809717800019",
+    "lng": "-1.0944232182473",
+    "lat": "43.2322411482606"
+  },
+  {
+    "finess": "640015277",
+    "raison_sociale": "FAM BIZIDEKI",
+    "numero voie": "",
+    "type_voie": "QUA",
+    "libelle_voie": "CIBITS",
+    "bp": "",
+    "cp": "64120",
+    "VILLE": "LARCEVEAU ARROS CIBITS    ",
+    "tel": "559379150",
+    "telecopie": "",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "",
+    "lng": "-1.0888558873255",
+    "lat": "43.2253689860844"
+  }
+]

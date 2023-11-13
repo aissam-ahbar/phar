@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "210006417",
+    "raison_sociale": "PHARMACIE DE L'EQUILIBRE",
+    "numero voie": "58",
+    "type_voie": "R",
+    "libelle_voie": "DU 8 MAI 1945",
+    "bp": "",
+    "cp": "21270",
+    "VILLE": "PONTAILLER SUR SAONE    ",
+    "tel": "380361131",
+    "telecopie": "380478362",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83809603000013",
+    "lng": "5.4137523989974",
+    "lat": "47.3049975581696"
+  },
+  {
+    "finess": "210983938",
+    "raison_sociale": "CONSULTATION DE PROTECTION INFANTILE",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "21270",
+    "VILLE": "PONTAILLER SUR SAONE    ",
+    "tel": "380361229",
+    "telecopie": "",
+    "categorie etablissement": "230",
+    "libelle categorie": "Etablissement Consultation Protection Infantile",
+    "siret": "22210001800316",
+    "lng": "5.40885247620916",
+    "lat": "47.3137771820464"
+  }
+]

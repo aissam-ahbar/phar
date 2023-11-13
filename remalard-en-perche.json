@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "610009094",
+    "raison_sociale": "CENTRE TERRITORIAL DE RÉMALARD",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "ZA SAINT-MARC SUD",
+    "cp": "61110",
+    "VILLE": "REMALARD EN PERCHE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "22610001400175",
+    "lng": "0.78907749870878",
+    "lat": "48.4260580552127"
+  },
+  {
+    "finess": "610781346",
+    "raison_sociale": "ESAT ANAIS DE REMALARD EN PERCHE",
+    "numero voie": "",
+    "type_voie": "ZA",
+    "libelle_voie": "SAINT MARC",
+    "bp": "",
+    "cp": "61110",
+    "VILLE": "REMALARD EN PERCHE    ",
+    "tel": "233852550",
+    "telecopie": "233852559",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77562927200565",
+    "lng": "0.787110500308478",
+    "lat": "48.4278114658415"
+  },
+  {
+    "finess": "610786709",
+    "raison_sociale": "SELARL PHARMACIE DE L'HUISNE",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "61110",
+    "VILLE": "REMALARD EN PERCHE    ",
+    "tel": "233737231",
+    "telecopie": "233835508",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48405334300014",
+    "lng": "0.77234610610885",
+    "lat": "48.4284494991359"
+  }
+]

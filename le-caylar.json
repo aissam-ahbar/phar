@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "340016658",
+    "raison_sociale": "PROPHARMACIE MME FRANCOISE MARTIN DUPE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE ST PIERRE",
+    "bp": "",
+    "cp": "34520",
+    "VILLE": "LE CAYLAR",
+    "tel": "467445144",
+    "telecopie": "977474424",
+    "categorie etablissement": "627",
+    "libelle categorie": "Propharmacie",
+    "siret": "33440743400037",
+    "lng": "3.32333750049622",
+    "lat": "43.8599953695384"
+  },
+  {
+    "finess": "340784388",
+    "raison_sociale": "ESAT LE ROC CASTEL",
+    "numero voie": "156",
+    "type_voie": "R",
+    "libelle_voie": "DES ECOLES",
+    "bp": "",
+    "cp": "34520",
+    "VILLE": "LE CAYLAR",
+    "tel": "467445022",
+    "telecopie": "467445031",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "26340071500037",
+    "lng": "3.3187644334002",
+    "lat": "43.8624782150083"
+  },
+  {
+    "finess": "340784537",
+    "raison_sociale": "FH LE ROC CASTEL",
+    "numero voie": "156",
+    "type_voie": "R",
+    "libelle_voie": "DES ECOLES",
+    "bp": "",
+    "cp": "34520",
+    "VILLE": "LE CAYLAR",
+    "tel": "467445022",
+    "telecopie": "467445031",
+    "categorie etablissement": "252",
+    "libelle categorie": "Foyer Hébergement Adultes Handicapés",
+    "siret": "26340071500045",
+    "lng": "3.3187644334002",
+    "lat": "43.8624782150083"
+  }
+]

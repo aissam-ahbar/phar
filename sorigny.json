@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "370007825",
+    "raison_sociale": "PHARMACIE DES 2 AVENUES",
+    "numero voie": "1",
+    "type_voie": "AV",
+    "libelle_voie": "DU 11 NOVEMBRE 1918",
+    "bp": "",
+    "cp": "37250",
+    "VILLE": "SORIGNY ",
+    "tel": "247261967",
+    "telecopie": "247659054",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51111118900029",
+    "lng": "0.695402765349404",
+    "lat": "47.2433273972646"
+  },
+  {
+    "finess": "370015992",
+    "raison_sociale": "ALCURA - SORIGNY",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "ADRIENNE BOLLAND",
+    "bp": "PARC D'ACTIVITES ISOPARC",
+    "cp": "37250",
+    "VILLE": "SORIGNY ",
+    "tel": "248750909",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "30494047100051",
+    "lng": "0.696164451572837",
+    "lat": "47.2581733955281"
+  },
+  {
+    "finess": "370016107",
+    "raison_sociale": "MSP EPIONE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DES HORTENSIAS",
+    "bp": "",
+    "cp": "37250",
+    "VILLE": "SORIGNY ",
+    "tel": "660522128",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "0.69327177480682",
+    "lat": "47.2433669697729"
+  }
+]

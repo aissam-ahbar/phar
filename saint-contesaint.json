@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "140010745",
+    "raison_sociale": "PHARMACIE DE BURON",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "D ARROMANCHES",
+    "bp": "",
+    "cp": "14280",
+    "VILLE": "ST CONTEST",
+    "tel": "231445865",
+    "telecopie": "971703608",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79153166800014",
+    "lng": "-0.41890932801848",
+    "lat": "49.2177265836738"
+  },
+  {
+    "finess": "140030669",
+    "raison_sociale": "MAISON GARELLI AIFST SAINT-CONTEST",
+    "numero voie": "41",
+    "type_voie": "R",
+    "libelle_voie": "DE LA FOLIE",
+    "bp": "",
+    "cp": "14280",
+    "VILLE": "ST CONTEST",
+    "tel": "231846303",
+    "telecopie": "231846300",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "30256622900092",
+    "lng": "-0.383408165050368",
+    "lat": "49.2098987638105"
+  }
+]

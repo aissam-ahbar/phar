@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "370003287",
+    "raison_sociale": "SELARL PHARMACIE BARRET",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "37390",
+    "VILLE": "CHANCEAUX SUR CHOISILLE    ",
+    "tel": "247551959",
+    "telecopie": "247552417",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49067560000020",
+    "lng": "0.702270379997063",
+    "lat": "47.4722346444121"
+  },
+  {
+    "finess": "370101818",
+    "raison_sociale": "PROT. INF. \"ECOLE MATERNELLE\"",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "CHAUSSELOUP",
+    "bp": "",
+    "cp": "37390",
+    "VILLE": "CHANCEAUX SUR CHOISILLE    ",
+    "tel": "247542020",
+    "telecopie": "",
+    "categorie etablissement": "230",
+    "libelle categorie": "Etablissement Consultation Protection Infantile",
+    "siret": "22370001400648",
+    "lng": "0.705610438740002",
+    "lat": "47.4714990232253"
+  }
+]

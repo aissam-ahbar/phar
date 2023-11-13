@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "450008305",
+    "raison_sociale": "DAME LES PETITES BROSSES",
+    "numero voie": "196",
+    "type_voie": "RTE",
+    "libelle_voie": "DU BOIS D'AMBLAY",
+    "bp": "",
+    "cp": "45500",
+    "VILLE": "NEVOY ",
+    "tel": "238670811",
+    "telecopie": "238679194",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "77560751800070",
+    "lng": "2.58628170865153",
+    "lat": "47.7193215960732"
+  },
+  {
+    "finess": "450015888",
+    "raison_sociale": "ACCUEIL TEMPORAIRE",
+    "numero voie": "196",
+    "type_voie": "RTE",
+    "libelle_voie": "DU BOIS D'AMBLAY",
+    "bp": "",
+    "cp": "45500",
+    "VILLE": "NEVOY ",
+    "tel": "238670811",
+    "telecopie": "238679194",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "77560751800369",
+    "lng": "2.58628170865153",
+    "lat": "47.7193215960732"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "670019363",
+    "raison_sociale": "SAAD PA SERVICES",
+    "numero voie": "17",
+    "type_voie": "R",
+    "libelle_voie": "DES LILAS",
+    "bp": "",
+    "cp": "67140",
+    "VILLE": "STOTZHEIM ",
+    "tel": "388080908",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "44299196400010",
+    "lng": "7.49510418566582",
+    "lat": "48.3764495296164"
+  },
+  {
+    "finess": "670020197",
+    "raison_sociale": "CSI PERSONNES AGEES SERVICES STOTZHEIM",
+    "numero voie": "17",
+    "type_voie": "R",
+    "libelle_voie": "DES LILAS",
+    "bp": "",
+    "cp": "67140",
+    "VILLE": "STOTZHEIM ",
+    "tel": "388080908",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "44299196400010",
+    "lng": "7.49510418566582",
+    "lat": "48.3764495296164"
+  }
+]

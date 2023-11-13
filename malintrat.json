@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "630002046",
+    "raison_sociale": "ATELIER PROTEGE AGRADIS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "63510",
+    "VILLE": "MALINTRAT ",
+    "tel": "473253871",
+    "telecopie": "",
+    "categorie etablissement": "247",
+    "libelle categorie": "Entreprise adaptée",
+    "siret": "38503726200016",
+    "lng": "3.18713018456687",
+    "lat": "45.8128356154242"
+  },
+  {
+    "finess": "630788800",
+    "raison_sociale": "SCE AIDE MENAG DOM PERS AGEES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "63510",
+    "VILLE": "MALINTRAT ",
+    "tel": "473612115",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "3.18713018456687",
+    "lat": "45.8128356154242"
+  }
+]

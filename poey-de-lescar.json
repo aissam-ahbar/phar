@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "640012126",
+    "raison_sociale": "PHARMACIE DE POEY-DE-LESCAR",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "PRINCIPALE",
+    "bp": "",
+    "cp": "64230",
+    "VILLE": "POEY DE LESCAR    ",
+    "tel": "559686761",
+    "telecopie": "559686762",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "89187868800011",
+    "lng": "-0.46975080105812",
+    "lat": "43.3530291114775"
+  },
+  {
+    "finess": "640019113",
+    "raison_sociale": "HANDI PHARM PYRENEES",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "PRINCIPALE",
+    "bp": "",
+    "cp": "64230",
+    "VILLE": "POEY DE LESCAR    ",
+    "tel": "559688470",
+    "telecopie": "559686607",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "48430613900029",
+    "lng": "-0.477500474866706",
+    "lat": "43.347066668599"
+  }
+]

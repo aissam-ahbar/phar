@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "270000441",
+    "raison_sociale": "CH VERNEUIL-SUR-AVRE",
+    "numero voie": "101",
+    "type_voie": "BD",
+    "libelle_voie": "DES POISSONNIERS",
+    "bp": "CS 20711",
+    "cp": "27137",
+    "VILLE": "VERNEUIL SUR AVRE    ",
+    "tel": "232236000",
+    "telecopie": "232236060",
+    "categorie etablissement": "355",
+    "libelle categorie": "Centre Hospitalier (C.H.)",
+    "siret": "26270283000080",
+    "lng": "0.92147783316805",
+    "lat": "48.7417316380777"
+  },
+  {
+    "finess": "270013105",
+    "raison_sociale": "SSIAD DU SUD DE L'EURE",
+    "numero voie": "101",
+    "type_voie": "BD",
+    "libelle_voie": "DES POISSONNIERS",
+    "bp": "CS 20711",
+    "cp": "27137",
+    "VILLE": "VERNEUIL SUR AVRE    ",
+    "tel": "232236114",
+    "telecopie": "232236060",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "26270283000106",
+    "lng": "0.92147783316805",
+    "lat": "48.7417316380777"
+  }
+]

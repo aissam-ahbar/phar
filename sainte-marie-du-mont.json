@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380801209",
+    "raison_sociale": "FERME DE BELLE CHAMBRE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "BELLE CHAMBRE",
+    "cp": "38660",
+    "VILLE": "STE MARIE DU MONT   ",
+    "tel": "476085776",
+    "telecopie": "476085998",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "40881470500096",
+    "lng": "5.93133510604464",
+    "lat": "45.3842177195419"
+  },
+  {
+    "finess": "500002837",
+    "raison_sociale": "EHPAD - SAINTE MARIE DU MONT",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "QUARTIER DES MICLOTS",
+    "bp": "",
+    "cp": "50480",
+    "VILLE": "STE MARIE DU MONT   ",
+    "tel": "233715757",
+    "telecopie": "233719406",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26500101600079",
+    "lng": "-1.22588176340562",
+    "lat": "49.3798454874749"
+  }
+]

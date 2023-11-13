@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "150001634",
+    "raison_sociale": "PHARMACIE F. HONORE",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "DU COMMERCE",
+    "bp": "",
+    "cp": "15170",
+    "VILLE": "NEUSSARGUES EN PINATELLE    ",
+    "tel": "471205195",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51107665500022",
+    "lng": "2.97412045500099",
+    "lat": "45.1261507370802"
+  },
+  {
+    "finess": "150780518",
+    "raison_sociale": "EHPAD \"RESIDENCE L'ALAGNON\"",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA PASSERELLE",
+    "bp": "",
+    "cp": "15170",
+    "VILLE": "NEUSSARGUES EN PINATELLE    ",
+    "tel": "471205051",
+    "telecopie": "471209237",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20006518300028",
+    "lng": "2.97800676440103",
+    "lat": "45.1277939087108"
+  }
+]

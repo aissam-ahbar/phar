@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "250012515",
+    "raison_sociale": "PHARMACIE VITTOURIS",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU MONT",
+    "bp": "",
+    "cp": "25480",
+    "VILLE": "PIREY ",
+    "tel": "381803660",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53113985500013",
+    "lng": "5.96898402151489",
+    "lat": "47.2605586752362"
+  },
+  {
+    "finess": "250015278",
+    "raison_sociale": "ACCUEIL DE JOUR ELIAD PIREY",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU MOULIN",
+    "bp": "",
+    "cp": "25480",
+    "VILLE": "PIREY ",
+    "tel": "381415816",
+    "telecopie": "",
+    "categorie etablissement": "207",
+    "libelle categorie": "Centre de Jour pour Personnes Agées",
+    "siret": "79217485600056",
+    "lng": "5.96575175930509",
+    "lat": "47.2621287735809"
+  }
+]

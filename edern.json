@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "290011378",
+    "raison_sociale": "PHARMACIE EDERN",
+    "numero voie": "20",
+    "type_voie": "",
+    "libelle_voie": "GRAND RUE",
+    "bp": "",
+    "cp": "29510",
+    "VILLE": "EDERN ",
+    "tel": "298575170",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "89376141100014",
+    "lng": "-3.97851359499399",
+    "lat": "48.1034464458963"
+  },
+  {
+    "finess": "290036144",
+    "raison_sociale": "2AMD",
+    "numero voie": "",
+    "type_voie": "ZA",
+    "libelle_voie": "DE LANGELIN",
+    "bp": "",
+    "cp": "29510",
+    "VILLE": "EDERN ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "48941524000014",
+    "lng": "-3.98320840436947",
+    "lat": "48.1011631126251"
+  }
+]

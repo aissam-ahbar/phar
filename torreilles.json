@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "660011479",
+    "raison_sociale": "SAAD VIVRE ENSEMBLE EN SALANQUE",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "DE LA POSTE",
+    "bp": "",
+    "cp": "66440",
+    "VILLE": "TORREILLES ",
+    "tel": "468285851",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "30033393700021",
+    "lng": "2.99295384133063",
+    "lat": "42.7545050911285"
+  },
+  {
+    "finess": "660012626",
+    "raison_sociale": "CAJ LE CAJOU - SITE TORREILLES",
+    "numero voie": "6",
+    "type_voie": "PL",
+    "libelle_voie": "GUSTAVE GUYNEMER",
+    "bp": "",
+    "cp": "66440",
+    "VILLE": "TORREILLES ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "207",
+    "libelle categorie": "Centre de Jour pour Personnes Agées",
+    "siret": "50741273200020",
+    "lng": "2.99179835619599",
+    "lat": "42.7547684591382"
+  },
+  {
+    "finess": "660789462",
+    "raison_sociale": "PHARMACIE TORREILLANNE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "JEAN GIONO",
+    "bp": "",
+    "cp": "66440",
+    "VILLE": "TORREILLES ",
+    "tel": "468283252",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50822902800024",
+    "lng": "2.99672996765138",
+    "lat": "42.756759437834"
+  }
+]

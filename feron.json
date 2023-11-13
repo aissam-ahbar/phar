@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590787040",
+    "raison_sociale": "ESAT LMDE FÉRON",
+    "numero voie": "3",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "PONT DE SAINS",
+    "cp": "59610",
+    "VILLE": "FERON ",
+    "tel": "327608383",
+    "telecopie": "327608381",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "78385408600023",
+    "lng": "4.0242140770699",
+    "lat": "50.0464444938327"
+  },
+  {
+    "finess": "590787057",
+    "raison_sociale": "FH LMDE FÉRON",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "59610",
+    "VILLE": "FERON ",
+    "tel": "327608383",
+    "telecopie": "327608381",
+    "categorie etablissement": "252",
+    "libelle categorie": "Foyer Hébergement Adultes Handicapés",
+    "siret": "78385408600015",
+    "lng": "4.0242140770699",
+    "lat": "50.0464444938327"
+  }
+]

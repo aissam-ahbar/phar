@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "310008891",
+    "raison_sociale": "PHARMACIE DE LA GARONNE",
+    "numero voie": "1",
+    "type_voie": "AV",
+    "libelle_voie": "DE POLIGNAN",
+    "bp": "",
+    "cp": "31210",
+    "VILLE": "GOURDAN POLIGNAN",
+    "tel": "561958236",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51005163400010",
+    "lng": "0.575594308642024",
+    "lat": "43.0819779935207"
+  },
+  {
+    "finess": "310026299",
+    "raison_sociale": "GRETA MIDI-PYRENEES-SUD",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DE LUCHON",
+    "bp": "",
+    "cp": "31210",
+    "VILLE": "GOURDAN POLIGNAN",
+    "tel": "562531414",
+    "telecopie": "",
+    "categorie etablissement": "330",
+    "libelle categorie": "Ecoles Formant aux Professions Sociales",
+    "siret": "19310017900038",
+    "lng": "0.586763348584198",
+    "lat": "43.0690473445304"
+  },
+  {
+    "finess": "310787270",
+    "raison_sociale": "SAAD SIVOM DU HAUT COMMINGES",
+    "numero voie": "17",
+    "type_voie": "AV",
+    "libelle_voie": "DE LUCHON",
+    "bp": "",
+    "cp": "31210",
+    "VILLE": "GOURDAN POLIGNAN",
+    "tel": "561947941",
+    "telecopie": "561947949",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "24310032800034",
+    "lng": "0.586311974122033",
+    "lat": "43.0723071719841"
+  }
+]

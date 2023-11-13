@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "270019326",
+    "raison_sociale": "PHARMACIE DES SAINT CLAIR",
+    "numero voie": "13",
+    "type_voie": "RTE",
+    "libelle_voie": "DE PARIS",
+    "bp": "",
+    "cp": "27420",
+    "VILLE": "CHATEAU SUR EPTE    ",
+    "tel": "134676012",
+    "telecopie": "130274677",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "47821495000014",
+    "lng": "1.66948114231785",
+    "lat": "49.2074957482468"
+  },
+  {
+    "finess": "270027774",
+    "raison_sociale": "MSP CHATEAU SUR EPTE",
+    "numero voie": "2",
+    "type_voie": "RTE",
+    "libelle_voie": "DE GISORS",
+    "bp": "",
+    "cp": "27420",
+    "VILLE": "CHATEAU SUR EPTE    ",
+    "tel": "134676959",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "82069552600013",
+    "lng": "1.66829985152603",
+    "lat": "49.2092441270301"
+  }
+]

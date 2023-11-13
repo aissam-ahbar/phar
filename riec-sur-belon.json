@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "290012509",
+    "raison_sociale": "PHARMACIE AVEN BELON",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "MÉLANIE ROUAT",
+    "bp": "",
+    "cp": "29340",
+    "VILLE": "RIEC SUR BELON    ",
+    "tel": "298069142",
+    "telecopie": "298065438",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51050524100024",
+    "lng": "-3.69402672553854",
+    "lat": "47.8447267675217"
+  },
+  {
+    "finess": "290029206",
+    "raison_sociale": "SAAD ADMR RIEC SUR BELON",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DU PRESBYTERE",
+    "bp": "",
+    "cp": "29340",
+    "VILLE": "RIEC SUR BELON    ",
+    "tel": "298065656",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31868475000033",
+    "lng": "-3.69436871508609",
+    "lat": "47.8434607321453"
+  }
+]

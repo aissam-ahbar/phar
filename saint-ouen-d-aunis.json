@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "170780878",
+    "raison_sociale": "IME UNAPEI 17 - LE BREUIL",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA BICHONNE",
+    "bp": "",
+    "cp": "17230",
+    "VILLE": "ST OUEN D AUNIS   ",
+    "tel": "546370413",
+    "telecopie": "546375216",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "77556469300031",
+    "lng": "-1.01943043436234",
+    "lat": "46.2282235797509"
+  },
+  {
+    "finess": "170783591",
+    "raison_sociale": "ESAT SAINT OUEN",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE LA CHAPELLE",
+    "bp": "LD LE BREUIL",
+    "cp": "17230",
+    "VILLE": "ST OUEN D AUNIS   ",
+    "tel": "546370750",
+    "telecopie": "546375611",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77556469300114",
+    "lng": "-1.01329106458369",
+    "lat": "46.228957133355"
+  }
+]

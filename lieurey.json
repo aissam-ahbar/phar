@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "270020597",
+    "raison_sociale": "PHARMACIE DU LIEUVIN",
+    "numero voie": "18",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "27560",
+    "VILLE": "LIEUREY ",
+    "tel": "232579303",
+    "telecopie": "232572203",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75014291100023",
+    "lng": "0.497941491073627",
+    "lat": "49.2296392098421"
+  },
+  {
+    "finess": "270023534",
+    "raison_sociale": "RESIDENCE MARPA CCAS LIEUREY",
+    "numero voie": "230",
+    "type_voie": "LOT",
+    "libelle_voie": "DE L'AUBERTINE",
+    "bp": "",
+    "cp": "27560",
+    "VILLE": "LIEUREY ",
+    "tel": "232579038",
+    "telecopie": "232562871",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26270816700024",
+    "lng": "0.497509667521389",
+    "lat": "49.2315235866036"
+  }
+]

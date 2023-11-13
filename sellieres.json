@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "390004265",
+    "raison_sociale": "PHARMACIE F. DUCRET",
+    "numero voie": "17",
+    "type_voie": "R",
+    "libelle_voie": "DES DEUX PONTS",
+    "bp": "",
+    "cp": "39230",
+    "VILLE": "SELLIERES ",
+    "tel": "384855100",
+    "telecopie": "384855617",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49378390600016",
+    "lng": "5.56393396156827",
+    "lat": "46.8276140464765"
+  },
+  {
+    "finess": "390006674",
+    "raison_sociale": "SPASAD LA BRESSE COMTOISE",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "D'OSSE",
+    "bp": "",
+    "cp": "39230",
+    "VILLE": "SELLIERES ",
+    "tel": "384486417",
+    "telecopie": "384486283",
+    "categorie etablissement": "209",
+    "libelle categorie": "Service Polyvalent Aide et Soins A Domicile (S.P.A.S.A.D.)",
+    "siret": "33809431100028",
+    "lng": "5.56245042385386",
+    "lat": "46.8265237389756"
+  },
+  {
+    "finess": "390782480",
+    "raison_sociale": "EHPAD LES CHARMETTES",
+    "numero voie": "26",
+    "type_voie": "R",
+    "libelle_voie": "DU FAUBOURG",
+    "bp": "",
+    "cp": "39230",
+    "VILLE": "SELLIERES ",
+    "tel": "384855185",
+    "telecopie": "384855989",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26390012800129",
+    "lng": "5.56136372141802",
+    "lat": "46.8302171451567"
+  }
+]

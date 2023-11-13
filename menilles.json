@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "270020860",
+    "raison_sociale": "PHARMACIE BETHMANN - LARUELLE",
+    "numero voie": "60",
+    "type_voie": "R",
+    "libelle_voie": "ARISTIDE BRIAND",
+    "bp": "",
+    "cp": "27120",
+    "VILLE": "MENILLES ",
+    "tel": "232360903",
+    "telecopie": "232223192",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "83065062800019",
+    "lng": "1.3674136672455",
+    "lat": "49.0334722606457"
+  },
+  {
+    "finess": "270030588",
+    "raison_sociale": "CENTRE OPHTALMOLOGIQUE DE MENILLES",
+    "numero voie": "33",
+    "type_voie": "R",
+    "libelle_voie": "DE CROISY",
+    "bp": "",
+    "cp": "27120",
+    "VILLE": "MENILLES ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "92269167000017",
+    "lng": "1.36618224451033",
+    "lat": "49.0329194892836"
+  }
+]

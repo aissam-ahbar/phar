@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "300008018",
+    "raison_sociale": "CSP FILIERIS DE ST FLORENT",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LA CANTONNADE",
+    "bp": "",
+    "cp": "30960",
+    "VILLE": "ST FLORENT SUR AUZONNET   ",
+    "tel": "466256182",
+    "telecopie": "466254131",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "77568531600439",
+    "lng": "4.11313392791186",
+    "lat": "44.2383341715785"
+  },
+  {
+    "finess": "300009164",
+    "raison_sociale": "PHARMACIE BUZER",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LA CANTONNADE",
+    "bp": "",
+    "cp": "30960",
+    "VILLE": "ST FLORENT SUR AUZONNET   ",
+    "tel": "466256465",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40176081400012",
+    "lng": "4.11313392791186",
+    "lat": "44.2383341715785"
+  }
+]

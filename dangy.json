@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "500014246",
+    "raison_sociale": "RESIDENCE \"LES POMMIERS\" - DANGY",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "SABOTIERS",
+    "bp": "",
+    "cp": "50750",
+    "VILLE": "DANGY ",
+    "tel": "233566310",
+    "telecopie": "233560849",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26500131300021",
+    "lng": "-1.22364109575155",
+    "lat": "49.0433487740218"
+  },
+  {
+    "finess": "500015318",
+    "raison_sociale": "MAISON RURALE DANGY (50G05)-FBS MANCHE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DES BOURRELIERS",
+    "bp": "",
+    "cp": "50750",
+    "VILLE": "DANGY ",
+    "tel": "233050316",
+    "telecopie": "",
+    "categorie etablissement": "292",
+    "libelle categorie": "Centre Hospitalier Spécialisé lutte Maladies Mentales",
+    "siret": "",
+    "lng": "-1.22253033763468",
+    "lat": "49.0447295361291"
+  }
+]

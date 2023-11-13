@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "20004065",
+    "raison_sociale": "EHPAD BON REPOS",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "MONTFAUCON",
+    "bp": "",
+    "cp": "2370",
+    "VILLE": "VAILLY SUR AISNE    ",
+    "tel": "323547034",
+    "telecopie": "323724534",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "",
+    "lng": "3.51732061405529",
+    "lat": "49.4109971402725"
+  },
+  {
+    "finess": "20010377",
+    "raison_sociale": "CAJ APEI-SOISSONS",
+    "numero voie": "49",
+    "type_voie": "FG",
+    "libelle_voie": "DE SOMMECOURT",
+    "bp": "",
+    "cp": "2370",
+    "VILLE": "VAILLY SUR AISNE    ",
+    "tel": "323547591",
+    "telecopie": "323548871",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "31197534600090",
+    "lng": "3.52485561754452",
+    "lat": "49.4085297130169"
+  },
+  {
+    "finess": "20011946",
+    "raison_sociale": "PHARMACIE MILLET",
+    "numero voie": "16",
+    "type_voie": "R",
+    "libelle_voie": "ALEXANDRE LEGRY",
+    "bp": "BP 10",
+    "cp": "2370",
+    "VILLE": "VAILLY SUR AISNE    ",
+    "tel": "323547059",
+    "telecopie": "323547549",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "90994405000014",
+    "lng": "3.51701882526873",
+    "lat": "49.4097517280289"
+  }
+]

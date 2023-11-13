@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380024786",
+    "raison_sociale": "SAAD LILA SERVICES",
+    "numero voie": "14",
+    "type_voie": "RTE",
+    "libelle_voie": "DE SAINT ÉGRÈVE",
+    "bp": "",
+    "cp": "38950",
+    "VILLE": "QUAIX EN CHARTREUSE    ",
+    "tel": "476507226",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "5.71787817399972",
+    "lat": "45.2530153831595"
+  },
+  {
+    "finess": "380796615",
+    "raison_sociale": "SCE AIDE MENAG.QUAIX-CHARTREUSE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38950",
+    "VILLE": "QUAIX EN CHARTREUSE    ",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37912844000011",
+    "lng": "5.71871562227067",
+    "lat": "45.25292473698"
+  }
+]

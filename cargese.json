@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "2A0001103",
+    "raison_sociale": "SELAS PHARMACIE DE CARGESE",
+    "numero voie": "",
+    "type_voie": "QUA",
+    "libelle_voie": "ST JEAN",
+    "bp": "",
+    "cp": "20130",
+    "VILLE": "CARGESE ",
+    "tel": "495264030",
+    "telecopie": "495264030",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34507922200021",
+    "lng": "8.59614687415626",
+    "lat": "42.1364078237693"
+  },
+  {
+    "finess": "2A0003612",
+    "raison_sociale": "EHPAD VALLE LONGA - CARGESE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE PERO",
+    "bp": "",
+    "cp": "20130",
+    "VILLE": "CARGESE ",
+    "tel": "495718897",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "82750059600065",
+    "lng": "8.59840166640047",
+    "lat": "42.1444494421999"
+  },
+  {
+    "finess": "2A0003802",
+    "raison_sociale": "MSP DE CARGESE",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DU PERO",
+    "bp": "",
+    "cp": "20130",
+    "VILLE": "CARGESE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "81863011300012",
+    "lng": "8.59840166640047",
+    "lat": "42.1444494421999"
+  }
+]

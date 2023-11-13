@@ -1,0 +1,19 @@
+[
+  {
+    "finess": "190009621",
+    "raison_sociale": "PHARMACIE D'USSAC",
+    "numero voie": "1",
+    "type_voie": "AV",
+    "libelle_voie": "de BRIVE",
+    "bp": "",
+    "cp": "19270",
+    "VILLE": "USSAC ",
+    "tel": "555876802",
+    "telecopie": "555877118",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81345403000012",
+    "lng": "1.5075703089272",
+    "lat": "45.1871004810449"
+  }
+]

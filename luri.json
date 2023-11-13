@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "2B0000442",
+    "raison_sociale": "EHPAD LA CHENAIE",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "PIANA",
+    "bp": "",
+    "cp": "20228",
+    "VILLE": "LURI ",
+    "tel": "495310302",
+    "telecopie": "495350448",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "33931302500027",
+    "lng": "9.38919171987913",
+    "lat": "42.9037908953515"
+  },
+  {
+    "finess": "2B0003016",
+    "raison_sociale": "CLINIQUE DU CAP",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "20228",
+    "VILLE": "LURI ",
+    "tel": "495350153",
+    "telecopie": "495350448",
+    "categorie etablissement": "161",
+    "libelle categorie": "Maison de Santé pour Maladies Mentales",
+    "siret": "41357961600017",
+    "lng": "9.40505235589531",
+    "lat": "42.8967703602533"
+  },
+  {
+    "finess": "2B0003800",
+    "raison_sociale": "SELEURL PHARMACIE DE LURI",
+    "numero voie": "",
+    "type_voie": "HAM",
+    "libelle_voie": "DE PIAZZA",
+    "bp": "",
+    "cp": "20228",
+    "VILLE": "LURI ",
+    "tel": "495350037",
+    "telecopie": "495350045",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82999872300011",
+    "lng": "9.40817688202356",
+    "lat": "42.8974379781032"
+  }
+]

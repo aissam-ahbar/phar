@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "220017008",
+    "raison_sociale": "LES ATELIERS DE LA HUNAUDAYE",
+    "numero voie": "",
+    "type_voie": "ZA",
+    "libelle_voie": "LES LANDES DE PENTHIEVRE",
+    "bp": "",
+    "cp": "22640",
+    "VILLE": "PLESTAN ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "247",
+    "libelle categorie": "Entreprise adaptée",
+    "siret": "",
+    "lng": "-2.45284466164132",
+    "lat": "48.4261977354721"
+  },
+  {
+    "finess": "220024244",
+    "raison_sociale": "ATOUT MEDICAL PLESTAN",
+    "numero voie": "1",
+    "type_voie": "ZA",
+    "libelle_voie": "LES LANDES DE PENTHIEVRE",
+    "bp": "",
+    "cp": "22640",
+    "VILLE": "PLESTAN ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "45204220300052",
+    "lng": "-2.44680472543995",
+    "lat": "48.423356334308"
+  },
+  {
+    "finess": "220025449",
+    "raison_sociale": "LA MAISON DES FRATRIES",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "COMMANDANT CORSAIRE",
+    "bp": "",
+    "cp": "22640",
+    "VILLE": "PLESTAN ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "",
+    "lng": "-2.44755369724908",
+    "lat": "48.4223227062219"
+  }
+]

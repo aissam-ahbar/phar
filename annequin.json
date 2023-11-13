@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "620005280",
+    "raison_sociale": "PHARMACIE LE ROUGE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE L EGLISE",
+    "bp": "",
+    "cp": "62149",
+    "VILLE": "ANNEQUIN ",
+    "tel": "321252982",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50967227500013",
+    "lng": "2.72846384359944",
+    "lat": "50.509477514879"
+  },
+  {
+    "finess": "620033225",
+    "raison_sociale": "CTR DE SANTÉ MUNICIPAL ANNEQUINOIS",
+    "numero voie": "15",
+    "type_voie": "BD",
+    "libelle_voie": "DE LA VICTOIRE",
+    "bp": "",
+    "cp": "62149",
+    "VILLE": "ANNEQUIN ",
+    "tel": "321026930",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "21620034500017",
+    "lng": "2.72022783206263",
+    "lat": "50.5057188930397"
+  }
+]

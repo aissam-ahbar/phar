@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "420013427",
+    "raison_sociale": "COMMUNAUTE THERAPEUTIQUE USAGERS DROGU",
+    "numero voie": "9",
+    "type_voie": "RTE",
+    "libelle_voie": "DE SAINT JULIEN",
+    "bp": "",
+    "cp": "42111",
+    "VILLE": "ST DIDIER SUR ROCHEFORT   ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "197",
+    "libelle categorie": "Centre soins accompagnement prévention addictologie (CSAPA)",
+    "siret": "",
+    "lng": "3.83836788526393",
+    "lat": "45.8013996953019"
+  },
+  {
+    "finess": "420793523",
+    "raison_sociale": "EHPAD SAINT JOSEPH",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE BOURG",
+    "bp": "",
+    "cp": "42111",
+    "VILLE": "ST DIDIER SUR ROCHEFORT   ",
+    "tel": "477979137",
+    "telecopie": "477979324",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "38125987800019",
+    "lng": "3.84433167932921",
+    "lat": "45.7929739079199"
+  }
+]

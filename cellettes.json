@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "410001895",
+    "raison_sociale": "PHARMACIE GUEGUEN",
+    "numero voie": "12",
+    "type_voie": "R",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "41120",
+    "VILLE": "CELLETTES ",
+    "tel": "254704296",
+    "telecopie": "254703311",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49173437200015",
+    "lng": "1.38270290573221",
+    "lat": "47.5260495474278"
+  },
+  {
+    "finess": "410005797",
+    "raison_sociale": "STRUCTURE ACCUEIL ET ACTIVITES DE JOUR",
+    "numero voie": "23",
+    "type_voie": "R",
+    "libelle_voie": "DE BEAUREGARD",
+    "bp": "",
+    "cp": "41120",
+    "VILLE": "CELLETTES ",
+    "tel": "254704686",
+    "telecopie": "254703809",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "77536671900133",
+    "lng": "1.37918072637623",
+    "lat": "47.5334067924697"
+  },
+  {
+    "finess": "410007942",
+    "raison_sociale": "MAS LA GIRAUDIERE",
+    "numero voie": "55",
+    "type_voie": "R",
+    "libelle_voie": "DES MACONS",
+    "bp": "",
+    "cp": "41120",
+    "VILLE": "CELLETTES ",
+    "tel": "254705488",
+    "telecopie": "254568769",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "77536671900141",
+    "lng": "1.37412814939164",
+    "lat": "47.5232445438187"
+  }
+]

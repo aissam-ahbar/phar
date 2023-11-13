@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "70001755",
+    "raison_sociale": "PHARMACIE PRANEUF",
+    "numero voie": "5",
+    "type_voie": "RTE",
+    "libelle_voie": "de Valence",
+    "bp": "",
+    "cp": "7440",
+    "VILLE": "ALBOUSSIERE ",
+    "tel": "475583379",
+    "telecopie": "475582647",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "43919984500017",
+    "lng": "4.73016615578194",
+    "lat": "44.9446873055165"
+  },
+  {
+    "finess": "70784400",
+    "raison_sociale": "EHPAD RESIDENCE  \"LE GRAND PRE\"",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE VALENCE",
+    "bp": "",
+    "cp": "7440",
+    "VILLE": "ALBOUSSIERE ",
+    "tel": "474583430",
+    "telecopie": "956914929",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26071104900023",
+    "lng": "4.73545674953901",
+    "lat": "44.9424776759342"
+  }
+]

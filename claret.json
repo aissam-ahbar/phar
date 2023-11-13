@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "340006816",
+    "raison_sociale": "EHPAD L'ORTHUS",
+    "numero voie": "1",
+    "type_voie": "AV",
+    "libelle_voie": "DU NOUVEAU MONDE",
+    "bp": "",
+    "cp": "34270",
+    "VILLE": "CLARET ",
+    "tel": "467028777",
+    "telecopie": "467590693",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "25340204400031",
+    "lng": "3.90625443691646",
+    "lat": "43.8606738670486"
+  },
+  {
+    "finess": "340793173",
+    "raison_sociale": "PHARMACIE DONATI",
+    "numero voie": "213",
+    "type_voie": "AV",
+    "libelle_voie": "DE MONTPELLIER",
+    "bp": "",
+    "cp": "34270",
+    "VILLE": "CLARET ",
+    "tel": "467590137",
+    "telecopie": "467592677",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45103582800024",
+    "lng": "3.90803665891939",
+    "lat": "43.8599579706898"
+  }
+]

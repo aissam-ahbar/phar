@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "300013869",
+    "raison_sociale": "PROPHARMACIE MR ALAIN TIECHE",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "MAS NEUF",
+    "bp": "",
+    "cp": "30580",
+    "VILLE": "LUSSAN ",
+    "tel": "466729345",
+    "telecopie": "466728809",
+    "categorie etablissement": "627",
+    "libelle categorie": "Propharmacie",
+    "siret": "32752118300043",
+    "lng": "4.36168333608683",
+    "lat": "44.1508014465066"
+  },
+  {
+    "finess": "300021458",
+    "raison_sociale": "CDS DE MA REGION DE LUSSAN",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "30580",
+    "VILLE": "LUSSAN ",
+    "tel": "411180064",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "13003015800138",
+    "lng": "4.36674990912587",
+    "lat": "44.1537837961984"
+  }
+]

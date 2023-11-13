@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "640009296",
+    "raison_sociale": "PHARMACIE LACOUR",
+    "numero voie": "120",
+    "type_voie": "",
+    "libelle_voie": "Zuraidekoerrebidea",
+    "bp": "",
+    "cp": "64250",
+    "VILLE": "ESPELETTE ",
+    "tel": "559938027",
+    "telecopie": "559938144",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38123704900022",
+    "lng": "-1.45439072365281",
+    "lat": "43.3387275761948"
+  },
+  {
+    "finess": "640793543",
+    "raison_sociale": "SAAD ADMR DU MONDARRAIN",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "64250",
+    "VILLE": "ESPELETTE ",
+    "tel": "559939144",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "38831981600012",
+    "lng": "-1.44874546501228",
+    "lat": "43.3407387379013"
+  }
+]

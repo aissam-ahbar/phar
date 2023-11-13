@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "680002102",
+    "raison_sociale": "EHPAD GHRMSA - BITSCHWILLER LES THANN",
+    "numero voie": "41",
+    "type_voie": "R",
+    "libelle_voie": "JOFFRE",
+    "bp": "",
+    "cp": "68620",
+    "VILLE": "BITSCHWILLER LES THANN    ",
+    "tel": "389376700",
+    "telecopie": "389376719",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20004698500277",
+    "lng": "7.07402711901974",
+    "lat": "47.8261534483961"
+  },
+  {
+    "finess": "680006681",
+    "raison_sociale": "SELARL PHARMACIE DU GRAND BALLON",
+    "numero voie": "34",
+    "type_voie": "R",
+    "libelle_voie": "DES VOSGES",
+    "bp": "",
+    "cp": "68620",
+    "VILLE": "BITSCHWILLER LES THANN    ",
+    "tel": "389379330",
+    "telecopie": "389372956",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50306554200014",
+    "lng": "7.07792209665825",
+    "lat": "47.8322993327727"
+  }
+]

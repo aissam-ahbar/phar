@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "70003504",
+    "raison_sociale": "PHARMACIE COMTE",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DU MONUMENT",
+    "bp": "",
+    "cp": "7700",
+    "VILLE": "ST MARCEL D ARDECHE   ",
+    "tel": "475986525",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "40973036300010",
+    "lng": "4.61726762488753",
+    "lat": "44.3275101335046"
+  },
+  {
+    "finess": "70008586",
+    "raison_sociale": "CENTRE DE SANTE RHONE PROVENCE",
+    "numero voie": "135",
+    "type_voie": "AV",
+    "libelle_voie": "DE PROVENCE",
+    "bp": "",
+    "cp": "7700",
+    "VILLE": "ST MARCEL D ARDECHE   ",
+    "tel": "475972610",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "21070264300011",
+    "lng": "4.61590829179512",
+    "lat": "44.3255403755744"
+  },
+  {
+    "finess": "70780267",
+    "raison_sociale": "ITEP  PONT BRILLANT",
+    "numero voie": "1195",
+    "type_voie": "RTE",
+    "libelle_voie": "DEPARTEMENTALE 86",
+    "bp": "",
+    "cp": "7700",
+    "VILLE": "ST MARCEL D ARDECHE   ",
+    "tel": "475046623",
+    "telecopie": "475986788",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "52825217400073",
+    "lng": "4.61726762488753",
+    "lat": "44.3275101335046"
+  }
+]

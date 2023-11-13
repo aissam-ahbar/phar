@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "520001405",
+    "raison_sociale": "PHARMACIE KRAHENBUHL",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE 19",
+    "bp": "",
+    "cp": "52330",
+    "VILLE": "COLOMBEY LES DEUX EGLISES   ",
+    "tel": "325015001",
+    "telecopie": "325030595",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "43863688800010",
+    "lng": "4.89126280270916",
+    "lat": "48.2239800157744"
+  },
+  {
+    "finess": "520783853",
+    "raison_sociale": "SAAD ADMR DES VALS BOISES",
+    "numero voie": "24",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "52330",
+    "VILLE": "COLOMBEY LES DEUX EGLISES   ",
+    "tel": "325018319",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "33342999100040",
+    "lng": "4.88479827289598",
+    "lat": "48.2221527493976"
+  }
+]

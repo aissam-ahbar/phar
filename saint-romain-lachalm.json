@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "430005017",
+    "raison_sociale": "SERVICE D'AIDE AUX PERSONNES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "43620",
+    "VILLE": "ST ROMAIN LACHALM    ",
+    "tel": "471611845",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "33867766900016",
+    "lng": "4.33447214618166",
+    "lat": "45.2653724956804"
+  },
+  {
+    "finess": "430010058",
+    "raison_sociale": "ADMR ST ROMAIN LACHALM",
+    "numero voie": "3",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LA FONTAINE",
+    "bp": "",
+    "cp": "43620",
+    "VILLE": "ST ROMAIN LACHALM    ",
+    "tel": "471596356",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "33867766900024",
+    "lng": "4.33447214618166",
+    "lat": "45.2653724956804"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "110005899",
+    "raison_sociale": "PROPHARMACIE MR ANDRE FOURNIER",
+    "numero voie": "4",
+    "type_voie": "CHE",
+    "libelle_voie": "HORTE",
+    "bp": "",
+    "cp": "11220",
+    "VILLE": "SERVIES EN VAL    ",
+    "tel": "468240608",
+    "telecopie": "468240101",
+    "categorie etablissement": "627",
+    "libelle categorie": "Propharmacie",
+    "siret": "30853619200021",
+    "lng": "2.51855973809457",
+    "lat": "43.0885564263222"
+  },
+  {
+    "finess": "110007234",
+    "raison_sociale": "PROPHARMACIE MR BOUNSOU SYHARATH",
+    "numero voie": "4",
+    "type_voie": "PL",
+    "libelle_voie": "DU CABANAC",
+    "bp": "",
+    "cp": "11220",
+    "VILLE": "SERVIES EN VAL    ",
+    "tel": "468240855",
+    "telecopie": "468240088",
+    "categorie etablissement": "627",
+    "libelle categorie": "Propharmacie",
+    "siret": "33785568800020",
+    "lng": "2.51890314165974",
+    "lat": "43.0897622973183"
+  }
+]

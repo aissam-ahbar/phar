@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "220007223",
+    "raison_sociale": "ESAT LES QUATRE VAULX",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "COETFINET",
+    "bp": "",
+    "cp": "22130",
+    "VILLE": "CORSEUL ",
+    "tel": "296827071",
+    "telecopie": "296827400",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "37791974100027",
+    "lng": "-2.12430429408602",
+    "lat": "48.4695471624158"
+  },
+  {
+    "finess": "220011316",
+    "raison_sociale": "PHARMACIE JACQ",
+    "numero voie": "40",
+    "type_voie": "R",
+    "libelle_voie": "de l'Hôtellerie",
+    "bp": "",
+    "cp": "22130",
+    "VILLE": "CORSEUL ",
+    "tel": "296279018",
+    "telecopie": "296279875",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "47946928000024",
+    "lng": "-2.16082408747056",
+    "lat": "48.479942889909"
+  }
+]

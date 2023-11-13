@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "310009345",
+    "raison_sociale": "SELAS PHARMACIE H.L",
+    "numero voie": "1",
+    "type_voie": "AV",
+    "libelle_voie": "DES PYRENEES",
+    "bp": "",
+    "cp": "31410",
+    "VILLE": "LAVERNOSE LACASSE",
+    "tel": "561563132",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "89867459300014",
+    "lng": "1.25973460351473",
+    "lat": "43.3941678603984"
+  },
+  {
+    "finess": "310026174",
+    "raison_sociale": "SAAD LE COUP DE POUCE A DOMICILE",
+    "numero voie": "3",
+    "type_voie": "QUA",
+    "libelle_voie": "ST HUBERT",
+    "bp": "",
+    "cp": "31410",
+    "VILLE": "LAVERNOSE LACASSE",
+    "tel": "581314311",
+    "telecopie": "956691152",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "81208397000010",
+    "lng": "1.25862699760817",
+    "lat": "43.3966399369055"
+  },
+  {
+    "finess": "310794615",
+    "raison_sociale": "FOYER DE VIE VIVRE ENSEMBLE",
+    "numero voie": "6",
+    "type_voie": "IMP",
+    "libelle_voie": "PUJEAU RABE",
+    "bp": "PUJO-RABÉ",
+    "cp": "31410",
+    "VILLE": "LAVERNOSE LACASSE",
+    "tel": "561900779",
+    "telecopie": "561902795",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "35262700400026",
+    "lng": "1.26696296243903",
+    "lat": "43.3924130273381"
+  }
+]

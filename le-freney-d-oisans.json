@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380024083",
+    "raison_sociale": "SAAD ADMR DU HAUT OISANS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE VILLAGE",
+    "bp": "",
+    "cp": "38142",
+    "VILLE": "LE FRENEY D OISANS   ",
+    "tel": "476801533",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "6.12602793760665",
+    "lat": "45.0442263678231"
+  },
+  {
+    "finess": "380804104",
+    "raison_sociale": "SSIAD DU HAUT OISANS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LA CROIX DU GUÂ",
+    "cp": "38142",
+    "VILLE": "LE FRENEY D OISANS   ",
+    "tel": "476802838",
+    "telecopie": "476802838",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "",
+    "lng": "6.12513232698633",
+    "lat": "45.0440073178737"
+  }
+]

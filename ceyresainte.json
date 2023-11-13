@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "130012313",
+    "raison_sociale": "SELARL PHARMACIE DE CEYRESTE",
+    "numero voie": "",
+    "type_voie": "CHEM",
+    "libelle_voie": "des Peupliers",
+    "bp": "",
+    "cp": "13600",
+    "VILLE": "CEYRESTE ",
+    "tel": "442832300",
+    "telecopie": "442988840",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81916992100023",
+    "lng": "5.62238255495968",
+    "lat": "43.2100120734442"
+  },
+  {
+    "finess": "130050719",
+    "raison_sociale": "MSP LA CIOTAT-CEYRESTE",
+    "numero voie": "",
+    "type_voie": "BD",
+    "libelle_voie": "ALPHONSE DAVID",
+    "bp": "",
+    "cp": "13600",
+    "VILLE": "CEYRESTE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "5.62943013505345",
+    "lat": "43.2124649858701"
+  },
+  {
+    "finess": "130781768",
+    "raison_sociale": "CLINIQUE LES PALMIERS",
+    "numero voie": "8",
+    "type_voie": "CHE",
+    "libelle_voie": "PELLANGARI",
+    "bp": "",
+    "cp": "13600",
+    "VILLE": "CEYRESTE ",
+    "tel": "442833040",
+    "telecopie": "442837435",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "6380403300015",
+    "lng": "5.63520427439743",
+    "lat": "43.2193289023274"
+  }
+]

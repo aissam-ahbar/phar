@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "450013552",
+    "raison_sociale": "SAAD ASAD TIGY",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DU 20 AOUT 1944",
+    "bp": "BP 2",
+    "cp": "45510",
+    "VILLE": "TIGY ",
+    "tel": "238581154",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "2.20112346312463",
+    "lat": "47.7947495192831"
+  },
+  {
+    "finess": "450016761",
+    "raison_sociale": "PHARMACIE DE TIGY",
+    "numero voie": "20",
+    "type_voie": "R",
+    "libelle_voie": "DE SULLY",
+    "bp": "",
+    "cp": "45510",
+    "VILLE": "TIGY ",
+    "tel": "238580025",
+    "telecopie": "238580856",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48098861700019",
+    "lng": "2.19965484383067",
+    "lat": "47.7953245416147"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "390003010",
+    "raison_sociale": "PHARMACIE DUMONT-GIRARD",
+    "numero voie": "64",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "39400",
+    "VILLE": "LONGCHAUMOIS ",
+    "tel": "384606080",
+    "telecopie": "384606640",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84878809700014",
+    "lng": "5.93290312772021",
+    "lat": "46.4617116544115"
+  },
+  {
+    "finess": "390004505",
+    "raison_sociale": "EHPAD CANTOU DES JARDINS LONGCHAUMOIS",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE REISSE",
+    "bp": "",
+    "cp": "39400",
+    "VILLE": "LONGCHAUMOIS ",
+    "tel": "384606765",
+    "telecopie": "384410923",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "25390190400032",
+    "lng": "5.93090503916233",
+    "lat": "46.4626252759886"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "300783933",
+    "raison_sociale": "ESAT LA CEZARENQUE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "30450",
+    "VILLE": "CONCOULES ",
+    "tel": "466611052",
+    "telecopie": "466611858",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "77586963900010",
+    "lng": "3.93821612128583",
+    "lat": "44.3811778076565"
+  },
+  {
+    "finess": "300783941",
+    "raison_sociale": "FOYER HEBERGEMENT LA CEZARENQUE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "DEPARTEMENTALE 906",
+    "bp": "",
+    "cp": "30450",
+    "VILLE": "CONCOULES ",
+    "tel": "466611052",
+    "telecopie": "",
+    "categorie etablissement": "252",
+    "libelle categorie": "Foyer Hébergement Adultes Handicapés",
+    "siret": "77586963900044",
+    "lng": "3.93821612128583",
+    "lat": "44.3811778076565"
+  },
+  {
+    "finess": "300787447",
+    "raison_sociale": "SSIAD PA CH PONTEILS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "30450",
+    "VILLE": "CONCOULES ",
+    "tel": "466564700",
+    "telecopie": "466612020",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "26300050700024",
+    "lng": "3.93821612128583",
+    "lat": "44.3811778076565"
+  }
+]

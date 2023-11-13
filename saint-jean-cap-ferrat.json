@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "60005659",
+    "raison_sociale": "SAAD CCAS SAINT JEAN CAP FERRAT",
+    "numero voie": "21",
+    "type_voie": "AV",
+    "libelle_voie": "DENIS SEMERIA",
+    "bp": "",
+    "cp": "6230",
+    "VILLE": "ST JEAN CAP FERRAT   ",
+    "tel": "493765104",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26060056400025",
+    "lng": "7.33153690063863",
+    "lat": "43.6920833327811"
+  },
+  {
+    "finess": "60007127",
+    "raison_sociale": "PHARMACIE BERNOLIN",
+    "numero voie": "1",
+    "type_voie": "AV",
+    "libelle_voie": "Denis Semeria",
+    "bp": "",
+    "cp": "6230",
+    "VILLE": "ST JEAN CAP FERRAT   ",
+    "tel": "493760540",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50489251400010",
+    "lng": "7.33318380637461",
+    "lat": "43.6895250496506"
+  },
+  {
+    "finess": "60007143",
+    "raison_sociale": "SARL PHARMACIE PONT ST JEAN",
+    "numero voie": "57",
+    "type_voie": "BD",
+    "libelle_voie": "DURANDY",
+    "bp": "",
+    "cp": "6230",
+    "VILLE": "ST JEAN CAP FERRAT   ",
+    "tel": "493016250",
+    "telecopie": "493014291",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "43973503600014",
+    "lng": "7.32695945123694",
+    "lat": "43.7013873150518"
+  }
+]

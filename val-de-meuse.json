@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "520001900",
+    "raison_sociale": "PHARMACIE DU BASSIGNY",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "de Verdun",
+    "bp": "",
+    "cp": "52140",
+    "VILLE": "VAL DE MEUSE    ",
+    "tel": "325903050",
+    "telecopie": "325906772",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "90297479900014",
+    "lng": "5.49135520020984",
+    "lat": "47.9992642808585"
+  },
+  {
+    "finess": "520780206",
+    "raison_sociale": "ITEP HENRI VIET VAL DE MEUSE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "ANNE MARIE LEGROS",
+    "bp": "",
+    "cp": "52140",
+    "VILLE": "VAL DE MEUSE    ",
+    "tel": "325903325",
+    "telecopie": "",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "77562407500161",
+    "lng": "5.48447437709122",
+    "lat": "47.9992009520295"
+  },
+  {
+    "finess": "520783432",
+    "raison_sociale": "EHPAD LA PROVIDENCE DE MONTIGNY LE ROI",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MADELEINE",
+    "bp": "",
+    "cp": "52140",
+    "VILLE": "VAL DE MEUSE    ",
+    "tel": "325907070",
+    "telecopie": "325908728",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26520403200022",
+    "lng": "5.50127143046201",
+    "lat": "47.9993464258621"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "490540374",
+    "raison_sociale": "SESSAD ADAPEI SEGRE",
+    "numero voie": "12",
+    "type_voie": "ALL",
+    "libelle_voie": "DES CHENES",
+    "bp": "BP 50335",
+    "cp": "49503",
+    "VILLE": "SEGRE ",
+    "tel": "241923100",
+    "telecopie": "241924134",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "77560997700241",
+    "lng": "-0.870686370601428",
+    "lat": "47.6948275726585"
+  },
+  {
+    "finess": "490543154",
+    "raison_sociale": "IME CLAIRVAL",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DU CHAMP DE FOIRE",
+    "bp": "BP 50335",
+    "cp": "49503",
+    "VILLE": "SEGRE ",
+    "tel": "241921142",
+    "telecopie": "241928993",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "77560997700100",
+    "lng": "-0.882146285865676",
+    "lat": "47.6848023017914"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "550002794",
+    "raison_sociale": "PHARMACIE MOUSSEAUX-MARTIN",
+    "numero voie": "72",
+    "type_voie": "R",
+    "libelle_voie": "RAYMOND POINCARE",
+    "bp": "",
+    "cp": "55210",
+    "VILLE": "VIGNEULLES LES HATTONCHATE    ",
+    "tel": "329893032",
+    "telecopie": "329900228",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "85138951000013",
+    "lng": "5.71319471658517",
+    "lat": "48.9794683043815"
+  },
+  {
+    "finess": "550004816",
+    "raison_sociale": "SAAD ADMR VIGNEULLES",
+    "numero voie": "25",
+    "type_voie": "R",
+    "libelle_voie": "RAYMOND POINCARE",
+    "bp": "",
+    "cp": "55210",
+    "VILLE": "VIGNEULLES LES HATTONCHATE    ",
+    "tel": "329906020",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "78341512800017",
+    "lng": "5.70332000209991",
+    "lat": "48.9810679354067"
+  },
+  {
+    "finess": "550006746",
+    "raison_sociale": "MAISON DE SANTE DES COTES DE MEUSE",
+    "numero voie": "74",
+    "type_voie": "R",
+    "libelle_voie": "RAYMOND POINCARE",
+    "bp": "",
+    "cp": "55210",
+    "VILLE": "VIGNEULLES LES HATTONCHATE    ",
+    "tel": "329906929",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "5.71483790250385",
+    "lat": "48.9788957620231"
+  }
+]

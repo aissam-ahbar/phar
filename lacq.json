@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "640013322",
+    "raison_sociale": "SSIAD DU BASSIN DE LACQ",
+    "numero voie": "36",
+    "type_voie": "",
+    "libelle_voie": "RD 817",
+    "bp": "",
+    "cp": "64170",
+    "VILLE": "LACQ ",
+    "tel": "559717284",
+    "telecopie": "559604980",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "41450392000020",
+    "lng": "-0.61843863462864",
+    "lat": "43.4130307661948"
+  },
+  {
+    "finess": "640020178",
+    "raison_sociale": "SAAD DEMAIN ENSEMBLE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "RD 187",
+    "bp": "",
+    "cp": "64170",
+    "VILLE": "LACQ ",
+    "tel": "559607991",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "48018956200030",
+    "lng": "-0.619159040029461",
+    "lat": "43.4132300269507"
+  }
+]

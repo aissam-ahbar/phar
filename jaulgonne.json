@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "20007084",
+    "raison_sociale": "SELARL PHARMACIE DE JAULGONNE",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DE FERE",
+    "bp": "",
+    "cp": "2850",
+    "VILLE": "JAULGONNE ",
+    "tel": "323702054",
+    "telecopie": "323701647",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48765272900012",
+    "lng": "3.53441440143908",
+    "lat": "49.0894946349427"
+  },
+  {
+    "finess": "20016507",
+    "raison_sociale": "MSP JAULGONNE",
+    "numero voie": "43",
+    "type_voie": "R",
+    "libelle_voie": "DU PLESSIER",
+    "bp": "",
+    "cp": "2850",
+    "VILLE": "JAULGONNE ",
+    "tel": "323702149",
+    "telecopie": "323709045",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "81508090800016",
+    "lng": "3.52938573729958",
+    "lat": "49.0842451834497"
+  }
+]

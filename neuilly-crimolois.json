@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "210006185",
+    "raison_sociale": "PHARMACIE FLOURIOT",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "de l'Eglise",
+    "bp": "",
+    "cp": "21800",
+    "VILLE": "NEUILLY CRIMOLOIS",
+    "tel": "380473503",
+    "telecopie": "380470336",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53884135400011",
+    "lng": "5.10754913881775",
+    "lat": "47.2789404547042"
+  },
+  {
+    "finess": "210014460",
+    "raison_sociale": "MSP NEUILLY-CRIMOLOIS",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "MOMMENHEIM",
+    "bp": "",
+    "cp": "21800",
+    "VILLE": "NEUILLY CRIMOLOIS",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "92310681900017",
+    "lng": "5.1081257711656",
+    "lat": "47.2793028122833"
+  },
+  {
+    "finess": "210986584",
+    "raison_sociale": "EHPAD LA COMBE ST VICTOR",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA COMBE AUX METIERS",
+    "bp": "",
+    "cp": "21800",
+    "VILLE": "NEUILLY CRIMOLOIS",
+    "tel": "380473961",
+    "telecopie": "380473962",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "79001855000018",
+    "lng": "5.11546121977574",
+    "lat": "47.2774257677123"
+  }
+]

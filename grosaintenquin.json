@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "570016964",
+    "raison_sociale": "PHARMACIE SAINT BLAISE",
+    "numero voie": "59",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "57660",
+    "VILLE": "GROSTENQUIN ",
+    "tel": "387017230",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48983141200023",
+    "lng": "6.73690355309879",
+    "lat": "48.9788972602196"
+  },
+  {
+    "finess": "570026732",
+    "raison_sociale": "MSP DE GROSTENQUIN",
+    "numero voie": "59",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE",
+    "bp": "",
+    "cp": "57660",
+    "VILLE": "GROSTENQUIN ",
+    "tel": "387056200",
+    "telecopie": "387056205",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "79962104000010",
+    "lng": "6.73690355309879",
+    "lat": "48.9788972602196"
+  }
+]

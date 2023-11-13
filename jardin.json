@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "380007583",
+    "raison_sociale": "PHARMACIE DE JARDIN",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "MICHEL PETRUCCIANI",
+    "bp": "",
+    "cp": "38200",
+    "VILLE": "JARDIN ",
+    "tel": "474316636",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "35213959600048",
+    "lng": "4.90698817072158",
+    "lat": "45.5059051777357"
+  },
+  {
+    "finess": "380013235",
+    "raison_sociale": "EHPAD KORIAN VILLA ORTIS",
+    "numero voie": "290",
+    "type_voie": "MTE",
+    "libelle_voie": "DE LA BASTIDE",
+    "bp": "",
+    "cp": "38200",
+    "VILLE": "JARDIN ",
+    "tel": "474783800",
+    "telecopie": "474531335",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "37815842200238",
+    "lng": "4.91022065763948",
+    "lat": "45.5053260021177"
+  },
+  {
+    "finess": "380785287",
+    "raison_sociale": "LA COURTE ECHELLE",
+    "numero voie": "50",
+    "type_voie": "RTE",
+    "libelle_voie": "DE SAINT SORLIN",
+    "bp": "",
+    "cp": "38200",
+    "VILLE": "JARDIN ",
+    "tel": "474782556",
+    "telecopie": "474782477",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "77963848500085",
+    "lng": "4.89798304906841",
+    "lat": "45.5113054097254"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "240010520",
+    "raison_sociale": "SELARL PHARMACIE DU LARDIN",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DELAS",
+    "bp": "",
+    "cp": "24570",
+    "VILLE": "LE LARDIN ST LAZARE   ",
+    "tel": "553517950",
+    "telecopie": "553517951",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53466197000010",
+    "lng": "1.22722818772287",
+    "lat": "45.1291391739664"
+  },
+  {
+    "finess": "240016840",
+    "raison_sociale": "CENTRE MUNICIPAL DE SANTE",
+    "numero voie": "60",
+    "type_voie": "AV",
+    "libelle_voie": "DU 8 MAI 1945",
+    "bp": "",
+    "cp": "24570",
+    "VILLE": "LE LARDIN ST LAZARE   ",
+    "tel": "564342000",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "21240229100109",
+    "lng": "1.21618272150763",
+    "lat": "45.1320288190477"
+  }
+]

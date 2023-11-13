@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "690028253",
+    "raison_sociale": "SAAD ADMR SAINT GERMAIN NUELLES BULLY",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "69210",
+    "VILLE": "ST GERMAIN NUELLES    ",
+    "tel": "474010426",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31136977100010",
+    "lng": "4.61192595048894",
+    "lat": "45.8531140059494"
+  },
+  {
+    "finess": "690787643",
+    "raison_sociale": "EHPAD LES COLLONGES",
+    "numero voie": "247",
+    "type_voie": "RTE",
+    "libelle_voie": "DE L'ARBRESLE",
+    "bp": "LE CLOS",
+    "cp": "69210",
+    "VILLE": "ST GERMAIN NUELLES    ",
+    "tel": "474269292",
+    "telecopie": "474269948",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26690031500034",
+    "lng": "4.61256560930766",
+    "lat": "45.8501272316021"
+  }
+]

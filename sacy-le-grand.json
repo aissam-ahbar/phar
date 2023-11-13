@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "600006654",
+    "raison_sociale": "SELARL PHARMACIE SANTE / BIEN ETRE",
+    "numero voie": "156",
+    "type_voie": "R",
+    "libelle_voie": "VICTOR HUGO",
+    "bp": "",
+    "cp": "60700",
+    "VILLE": "SACY LE GRAND    ",
+    "tel": "344299369",
+    "telecopie": "344299538",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75108179500013",
+    "lng": "2.54794695542729",
+    "lat": "49.3526395923819"
+  },
+  {
+    "finess": "600014765",
+    "raison_sociale": "MAISON DE SANTÉ PLURI-PROFESSIONNELLE",
+    "numero voie": "245",
+    "type_voie": "R",
+    "libelle_voie": "JULES FERRY",
+    "bp": "",
+    "cp": "60700",
+    "VILLE": "SACY LE GRAND    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "85191390500010",
+    "lng": "2.54258156218248",
+    "lat": "49.3532971768295"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "60004512",
+    "raison_sociale": "SELARL PHARMACIE HOSPITAL",
+    "numero voie": "31",
+    "type_voie": "R",
+    "libelle_voie": "Frédéric Mistral",
+    "bp": "",
+    "cp": "6530",
+    "VILLE": "CABRIS ",
+    "tel": "493605433",
+    "telecopie": "493605686",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "32751872600010",
+    "lng": "6.87535702326055",
+    "lat": "43.6558196923078"
+  },
+  {
+    "finess": "60790862",
+    "raison_sociale": "C.A.L.M.E.",
+    "numero voie": "358",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA PLANTADE",
+    "bp": "",
+    "cp": "6530",
+    "VILLE": "CABRIS ",
+    "tel": "493406999",
+    "telecopie": "493605182",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "32083730500012",
+    "lng": "6.87190794967303",
+    "lat": "43.6563570440444"
+  }
+]

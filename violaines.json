@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "620017475",
+    "raison_sociale": "GRANDE PHARMACIE DE VIOLAINES",
+    "numero voie": "142",
+    "type_voie": "R",
+    "libelle_voie": "DE RETUY",
+    "bp": "",
+    "cp": "62138",
+    "VILLE": "VIOLAINES ",
+    "tel": "320291487",
+    "telecopie": "320293699",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50285942400017",
+    "lng": "2.78931042547124",
+    "lat": "50.5435555630222"
+  },
+  {
+    "finess": "620036368",
+    "raison_sociale": "MSP DE VIOLAINES",
+    "numero voie": "46",
+    "type_voie": "R",
+    "libelle_voie": "DU GÉNÉRAL DE GAULLE",
+    "bp": "",
+    "cp": "62138",
+    "VILLE": "VIOLAINES ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "89310164200013",
+    "lng": "2.78744105779313",
+    "lat": "50.5392782323764"
+  },
+  {
+    "finess": "620119321",
+    "raison_sociale": "EHPAD \"LES HELIANTINES\"",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DES CEDRES",
+    "bp": "",
+    "cp": "62138",
+    "VILLE": "VIOLAINES ",
+    "tel": "321643411",
+    "telecopie": "321665280",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "38473987600074",
+    "lng": "2.78638570782723",
+    "lat": "50.538719933813"
+  }
+]

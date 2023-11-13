@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "410000392",
+    "raison_sociale": "DAME VAL DE CHER",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "DES BRUNETIERES",
+    "bp": "",
+    "cp": "41110",
+    "VILLE": "MAREUIL SUR CHER    ",
+    "tel": "254716500",
+    "telecopie": "254716510",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "26410013200028",
+    "lng": "1.28289016418857",
+    "lat": "47.2777692051201"
+  },
+  {
+    "finess": "410005763",
+    "raison_sociale": "MAS LES BRUNETIERES",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "DES BRUNETIERES",
+    "bp": "",
+    "cp": "41110",
+    "VILLE": "MAREUIL SUR CHER    ",
+    "tel": "254716500",
+    "telecopie": "254716510",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "26410013200085",
+    "lng": "1.28289016418857",
+    "lat": "47.2777692051201"
+  }
+]

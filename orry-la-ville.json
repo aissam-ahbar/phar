@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "600004667",
+    "raison_sociale": "SNC PHARMACIE DELABRE VERET",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "60560",
+    "VILLE": "ORRY LA VILLE    ",
+    "tel": "344589141",
+    "telecopie": "344586152",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44865118200017",
+    "lng": "2.51291420836512",
+    "lat": "49.1320830443896"
+  },
+  {
+    "finess": "600008940",
+    "raison_sociale": "SAAD ADMR DE ORRY LA VILLE",
+    "numero voie": "4",
+    "type_voie": "PL",
+    "libelle_voie": "ABBE CLIN",
+    "bp": "",
+    "cp": "60560",
+    "VILLE": "ORRY LA VILLE    ",
+    "tel": "344555152",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31891877800016",
+    "lng": "2.51277938808596",
+    "lat": "49.1319952854755"
+  }
+]

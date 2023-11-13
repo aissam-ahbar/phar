@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "360001267",
+    "raison_sociale": "SARL PHARMACIE CLAIRE BIDEAU",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "HERSENT LUZARCHE",
+    "bp": "",
+    "cp": "36290",
+    "VILLE": "AZAY LE FERRON    ",
+    "tel": "254392028",
+    "telecopie": "254392684",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81794922500012",
+    "lng": "1.06802321969175",
+    "lat": "46.8516483371638"
+  },
+  {
+    "finess": "360007041",
+    "raison_sociale": "MSP D AZAY LE FERRON",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "JARDIN D AZAY",
+    "bp": "",
+    "cp": "36290",
+    "VILLE": "AZAY LE FERRON    ",
+    "tel": "254340182",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "1.0708682925786",
+    "lat": "46.8523427326074"
+  }
+]

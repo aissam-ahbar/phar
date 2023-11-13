@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "370009375",
+    "raison_sociale": "S.E.L.A.R.L. PHARMACIE HAY - MOIRE",
+    "numero voie": "23",
+    "type_voie": "R",
+    "libelle_voie": "ANATOLE FRANCE",
+    "bp": "",
+    "cp": "37210",
+    "VILLE": "VERNOU SUR BRENNE    ",
+    "tel": "247521005",
+    "telecopie": "247520715",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "42982991400028",
+    "lng": "0.845753787183967",
+    "lat": "47.4186468832389"
+  },
+  {
+    "finess": "370103384",
+    "raison_sociale": "EHPAD LE CLOS DU PARC",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DU CLOS",
+    "bp": "",
+    "cp": "37210",
+    "VILLE": "VERNOU SUR BRENNE    ",
+    "tel": "247627070",
+    "telecopie": "247520957",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26370387800011",
+    "lng": "0.849330298578749",
+    "lat": "47.4163131631342"
+  }
+]

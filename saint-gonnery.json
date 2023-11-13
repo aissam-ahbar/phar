@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "560011694",
+    "raison_sociale": "MAPA DE LA RIGOLE D'HILVERN",
+    "numero voie": "18",
+    "type_voie": "R",
+    "libelle_voie": "DES DEUX PONTS",
+    "bp": "",
+    "cp": "56920",
+    "VILLE": "ST GONNERY",
+    "tel": "297384323",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26560236700020",
+    "lng": "-2.82006264820529",
+    "lat": "48.1242118844688"
+  },
+  {
+    "finess": "560028235",
+    "raison_sociale": "SAAD ADMR DU BLAVET A L'OUST",
+    "numero voie": "27",
+    "type_voie": "R",
+    "libelle_voie": "DES DEUX PONTS",
+    "bp": "",
+    "cp": "56920",
+    "VILLE": "ST GONNERY",
+    "tel": "297384321",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "34272168500036",
+    "lng": "-2.82016255339493",
+    "lat": "48.1226983191603"
+  }
+]

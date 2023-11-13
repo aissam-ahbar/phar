@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "520002551",
+    "raison_sociale": "PROPHARMACIE DIEUDEGARD M-C",
+    "numero voie": "21",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LANGRES",
+    "bp": "",
+    "cp": "52160",
+    "VILLE": "AUBERIVE ",
+    "tel": "325842105",
+    "telecopie": "",
+    "categorie etablissement": "627",
+    "libelle categorie": "Propharmacie",
+    "siret": "35011650500032",
+    "lng": "5.06381871926049",
+    "lat": "47.7854321266948"
+  },
+  {
+    "finess": "520783838",
+    "raison_sociale": "SAAD ADMR DES 4 VALLEES",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "52160",
+    "VILLE": "AUBERIVE ",
+    "tel": "325907225",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "33518361200043",
+    "lng": "5.06208880587312",
+    "lat": "47.7861234374942"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "380797019",
+    "raison_sociale": "SCE AIDES MENAGERES BURCIN",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38690",
+    "VILLE": "BURCIN ",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37863876100015",
+    "lng": "5.43750261306906",
+    "lat": "45.4315005116989"
+  },
+  {
+    "finess": "380797860",
+    "raison_sociale": "SCE TRAVAIL.FAMIL. BURCIN",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "MAIRIE",
+    "bp": "",
+    "cp": "38690",
+    "VILLE": "BURCIN ",
+    "tel": "476960327",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "37968949000017",
+    "lng": "5.43750261306906",
+    "lat": "45.4315005116989"
+  }
+]

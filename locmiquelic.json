@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "560004988",
+    "raison_sociale": "RESIDENCE LE GLOUAHEC",
+    "numero voie": "90",
+    "type_voie": "R",
+    "libelle_voie": "GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "56570",
+    "VILLE": "LOCMIQUELIC ",
+    "tel": "297334246",
+    "telecopie": "297335640",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26560053600022",
+    "lng": "-3.34484950996544",
+    "lat": "47.7226396081708"
+  },
+  {
+    "finess": "560018046",
+    "raison_sociale": "PHARMACIE DES MINAHOUETS",
+    "numero voie": "21",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "56570",
+    "VILLE": "LOCMIQUELIC ",
+    "tel": "297334020",
+    "telecopie": "297339096",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81316867100010",
+    "lng": "-3.34177010297621",
+    "lat": "47.7235238485844"
+  }
+]

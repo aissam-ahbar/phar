@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "240002212",
+    "raison_sociale": "EHPAD LA PORTE D'AQUITAINE",
+    "numero voie": "9",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'ETOILE",
+    "bp": "",
+    "cp": "24490",
+    "VILLE": "LA ROCHE CHALAIS    ",
+    "tel": "553914130",
+    "telecopie": "553909714",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26240582200012",
+    "lng": "0.009377947113512",
+    "lat": "45.1511427120133"
+  },
+  {
+    "finess": "240003798",
+    "raison_sociale": "SAAD DU CIAS PAYS DE SAINT AULAYE",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "EMILE CHEYLUD",
+    "bp": "",
+    "cp": "24490",
+    "VILLE": "LA ROCHE CHALAIS    ",
+    "tel": "553903880",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "20009612100021",
+    "lng": "0.006625295822285",
+    "lat": "45.1526790613599"
+  },
+  {
+    "finess": "240011833",
+    "raison_sociale": "L.O BONICHON",
+    "numero voie": "2",
+    "type_voie": "AV",
+    "libelle_voie": "D  AQUITAINE",
+    "bp": "",
+    "cp": "24490",
+    "VILLE": "LA ROCHE CHALAIS    ",
+    "tel": "553914247",
+    "telecopie": "553914294",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49359655500018",
+    "lng": "0.008010396398525",
+    "lat": "45.1522584872716"
+  }
+]

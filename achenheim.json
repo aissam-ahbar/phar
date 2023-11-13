@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "670006204",
+    "raison_sociale": "PHARMACIE JALLU",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "BOURGEND",
+    "bp": "",
+    "cp": "67204",
+    "VILLE": "ACHENHEIM ",
+    "tel": "388961480",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80785194400015",
+    "lng": "7.62661324144969",
+    "lat": "48.5780613460473"
+  },
+  {
+    "finess": "670021526",
+    "raison_sociale": "LBM ACHENHEIM",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DES COQUELICOTS",
+    "bp": "",
+    "cp": "67204",
+    "VILLE": "ACHENHEIM ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "77885200400523",
+    "lng": "7.62474009828924",
+    "lat": "48.578685701964"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "560015810",
+    "raison_sociale": "PHARMACIE LEGAIGNOUX",
+    "numero voie": "27",
+    "type_voie": "R",
+    "libelle_voie": "DU DOCTEUR LAENNEC",
+    "bp": "",
+    "cp": "56550",
+    "VILLE": "BELZ ",
+    "tel": "297553320",
+    "telecopie": "297293019",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81090376500024",
+    "lng": "-3.17415450500114",
+    "lat": "47.6756960043422"
+  },
+  {
+    "finess": "560024689",
+    "raison_sociale": "SAAD RIA ETEL",
+    "numero voie": "20",
+    "type_voie": "RTE",
+    "libelle_voie": "DES 4 CHEMINS",
+    "bp": "",
+    "cp": "56550",
+    "VILLE": "BELZ ",
+    "tel": "297552564",
+    "telecopie": "297555786",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "13002161100012",
+    "lng": "-3.18306384919042",
+    "lat": "47.6696292563267"
+  },
+  {
+    "finess": "560026395",
+    "raison_sociale": "EHPAD LA VILLA OCEANE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE KERDONNERCH",
+    "bp": "",
+    "cp": "56550",
+    "VILLE": "BELZ ",
+    "tel": "290743535",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "52815068300035",
+    "lng": "-3.16954795309536",
+    "lat": "47.6729512921724"
+  }
+]

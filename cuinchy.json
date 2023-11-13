@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "620010314",
+    "raison_sociale": "PHARMACIE LEROUX",
+    "numero voie": "28",
+    "type_voie": "R",
+    "libelle_voie": "JEAN JAURES",
+    "bp": "",
+    "cp": "62149",
+    "VILLE": "CUINCHY ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38119475200022",
+    "lng": "2.74569536789446",
+    "lat": "50.5256670113679"
+  },
+  {
+    "finess": "620106104",
+    "raison_sociale": "EHPAD DU CHATEAU DE CUINCHY",
+    "numero voie": "58",
+    "type_voie": "R",
+    "libelle_voie": "ANATOLE FRANCE",
+    "bp": "",
+    "cp": "62149",
+    "VILLE": "CUINCHY ",
+    "tel": "321638686",
+    "telecopie": "321638681",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "32758189800027",
+    "lng": "2.74796891343087",
+    "lat": "50.5161923274083"
+  }
+]

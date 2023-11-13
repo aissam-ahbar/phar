@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "120004080",
+    "raison_sociale": "PHARMACIE COUTAL",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DENIS AFFRE",
+    "bp": "",
+    "cp": "12490",
+    "VILLE": "ST ROME DE TARN   ",
+    "tel": "565625347",
+    "telecopie": "565625347",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45079862400018",
+    "lng": "2.89562594860072",
+    "lat": "44.0486346690779"
+  },
+  {
+    "finess": "120782321",
+    "raison_sociale": "EHPAD DENIS AFFRE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DENIS AFFRE",
+    "bp": "",
+    "cp": "12490",
+    "VILLE": "ST ROME DE TARN   ",
+    "tel": "565625326",
+    "telecopie": "565581062",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26120016600013",
+    "lng": "2.89562594860072",
+    "lat": "44.0486346690779"
+  }
+]

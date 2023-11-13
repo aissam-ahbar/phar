@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "330050964",
+    "raison_sociale": "PHARMACIE DES CAGOUILLEYS",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "DU PROFESSEUR MOURE",
+    "bp": "",
+    "cp": "33560",
+    "VILLE": "STE EULALIE",
+    "tel": "556380090",
+    "telecopie": "556381592",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49765060600013",
+    "lng": "-0.473989735648059",
+    "lat": "44.9080249130652"
+  },
+  {
+    "finess": "330050980",
+    "raison_sociale": "PHARMACIE JEAN",
+    "numero voie": "26",
+    "type_voie": "AV",
+    "libelle_voie": "D'AQUITAINE",
+    "bp": "",
+    "cp": "33560",
+    "VILLE": "STE EULALIE",
+    "tel": "556062157",
+    "telecopie": "556063256",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "35063059600038",
+    "lng": "-0.488231521811931",
+    "lat": "44.9050063360337"
+  },
+  {
+    "finess": "330059585",
+    "raison_sociale": "CEF ROBERT GAUTIER",
+    "numero voie": "3100",
+    "type_voie": "R",
+    "libelle_voie": "ARTHUR RIMBAUD",
+    "bp": "DOMAINE DE SIRET",
+    "cp": "33560",
+    "VILLE": "STE EULALIE",
+    "tel": "557778730",
+    "telecopie": "557778731",
+    "categorie etablissement": "241",
+    "libelle categorie": "Foyer d'Action Educative (F.A.E.)",
+    "siret": "78182818100235",
+    "lng": "-0.492388117621794",
+    "lat": "44.8910517287484"
+  }
+]

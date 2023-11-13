@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "170010342",
+    "raison_sociale": "PHARMACIE TONNERRE",
+    "numero voie": "31",
+    "type_voie": "R",
+    "libelle_voie": "DE LA DIETE",
+    "bp": "",
+    "cp": "17590",
+    "VILLE": "ARS EN RE    ",
+    "tel": "546294003",
+    "telecopie": "546299071",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88876861100012",
+    "lng": "-1.52068218204816",
+    "lat": "46.2065890998142"
+  },
+  {
+    "finess": "170805576",
+    "raison_sociale": "EHPAD KORIAN LA COTE SAUVAGE",
+    "numero voie": "21",
+    "type_voie": "AV",
+    "libelle_voie": "D'ANTIOCHE",
+    "bp": "",
+    "cp": "17590",
+    "VILLE": "ARS EN RE    ",
+    "tel": "546291170",
+    "telecopie": "546291171",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "34117411800867",
+    "lng": "-1.52799475565638",
+    "lat": "46.2051108906527"
+  }
+]

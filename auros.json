@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "330039314",
+    "raison_sociale": "PHARMACIE  & OPTIQUE CORDEIN",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "Partarrieu",
+    "bp": "",
+    "cp": "33124",
+    "VILLE": "AUROS ",
+    "tel": "556654202",
+    "telecopie": "556650870",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80083360000029",
+    "lng": "-0.142822588052652",
+    "lat": "44.4937206843671"
+  },
+  {
+    "finess": "330796814",
+    "raison_sociale": "RESIDENCE AUTONOMIE LE CAILLOU",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "CAILLAOU",
+    "bp": "",
+    "cp": "33124",
+    "VILLE": "AUROS ",
+    "tel": "556654009",
+    "telecopie": "556654459",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26330021200028",
+    "lng": "-0.144225175506009",
+    "lat": "44.4935473589669"
+  }
+]

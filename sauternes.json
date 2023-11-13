@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "330052143",
+    "raison_sociale": "PHARMACIE DE SAUTERNES",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LE PARENT",
+    "bp": "",
+    "cp": "33210",
+    "VILLE": "SAUTERNES ",
+    "tel": "557980498",
+    "telecopie": "557980409",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50102861700022",
+    "lng": "-0.339654730691256",
+    "lat": "44.5292640303687"
+  },
+  {
+    "finess": "330797457",
+    "raison_sociale": "RA LES TROIS CEPAGES",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "PRINCIPALE",
+    "bp": "",
+    "cp": "33210",
+    "VILLE": "SAUTERNES ",
+    "tel": "556766112",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26330492500021",
+    "lng": "-0.342511214386974",
+    "lat": "44.5326203734082"
+  }
+]

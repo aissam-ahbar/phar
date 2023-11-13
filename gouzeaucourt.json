@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "590017323",
+    "raison_sociale": "PHARMACIE DE GOUZEAUCOURT",
+    "numero voie": "115",
+    "type_voie": "AV",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "59231",
+    "VILLE": "GOUZEAUCOURT ",
+    "tel": "327821023",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "43260110200028",
+    "lng": "3.1307627837759",
+    "lat": "50.0573909379464"
+  },
+  {
+    "finess": "590062741",
+    "raison_sociale": "MSP DE GOUZEAUCOURT",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DU GÉNÉRAL DE GAULLE",
+    "bp": "",
+    "cp": "59231",
+    "VILLE": "GOUZEAUCOURT ",
+    "tel": "612241808",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "87791932400013",
+    "lng": "3.12295446690578",
+    "lat": "50.0538549355807"
+  },
+  {
+    "finess": "590801122",
+    "raison_sociale": "SCE D'AIDE  A DOMICILE DE L'ADMR",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "59231",
+    "VILLE": "GOUZEAUCOURT ",
+    "tel": "327821018",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "31475075300027",
+    "lng": "3.12479792169707",
+    "lat": "50.0547134976098"
+  }
+]

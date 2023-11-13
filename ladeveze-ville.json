@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "320784085",
+    "raison_sociale": "MAS ESPAGNET LADEVEZE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "ESPAGNET",
+    "bp": "DOMAINE D'ESPAGNET",
+    "cp": "32230",
+    "VILLE": "LADEVEZE VILLE",
+    "tel": "562691170",
+    "telecopie": "562082121",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "52978422500136",
+    "lng": "0.086171340164952",
+    "lat": "43.5318057851671"
+  },
+  {
+    "finess": "320784176",
+    "raison_sociale": "FOYER DE VIE DU CENTRE ESPAGNET",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "ESPAGNET",
+    "bp": "DOMAINE D'ESPAGNET",
+    "cp": "32230",
+    "VILLE": "LADEVEZE VILLE",
+    "tel": "562691170",
+    "telecopie": "562082121",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "52978422500136",
+    "lng": "0.086171340164952",
+    "lat": "43.5318057851671"
+  },
+  {
+    "finess": "320784671",
+    "raison_sociale": "FAM  ESPAGNET",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "ESPAGNET",
+    "bp": "DOMAINE D'ESPAGNET",
+    "cp": "32230",
+    "VILLE": "LADEVEZE VILLE",
+    "tel": "562691170",
+    "telecopie": "562082121",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "52978422500136",
+    "lng": "0.086171340164952",
+    "lat": "43.5318057851671"
+  }
+]

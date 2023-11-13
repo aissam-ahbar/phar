@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "300005790",
+    "raison_sociale": "SELURL PHARMACIE CARRETON",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "des coopératives",
+    "bp": "",
+    "cp": "30320",
+    "VILLE": "BEZOUCE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80435831500013",
+    "lng": "4.49123845765727",
+    "lat": "43.8817879658543"
+  },
+  {
+    "finess": "300020450",
+    "raison_sociale": "MSP OLEA BEZOUCE",
+    "numero voie": "35",
+    "type_voie": "CHE",
+    "libelle_voie": "DE SERNHAC",
+    "bp": "",
+    "cp": "30320",
+    "VILLE": "BEZOUCE ",
+    "tel": "413354515",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "92273354800015",
+    "lng": "4.49157564174474",
+    "lat": "43.8823099109013"
+  }
+]

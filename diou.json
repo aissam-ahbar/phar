@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "30002240",
+    "raison_sociale": "PHARMACIE WAGNON",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "3290",
+    "VILLE": "DIOU ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "35256181500015",
+    "lng": "3.74540952768384",
+    "lat": "46.5338842626012"
+  },
+  {
+    "finess": "30003628",
+    "raison_sociale": "ESAT LOIRE ET BESBRE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "ZA LES VERNISSES",
+    "cp": "3290",
+    "VILLE": "DIOU ",
+    "tel": "470449061",
+    "telecopie": "",
+    "categorie etablissement": "246",
+    "libelle categorie": "Etablissement et Service d'Aide par le Travail (E.S.A.T.)",
+    "siret": "31662188700108",
+    "lng": "3.71488660797539",
+    "lat": "46.5378223460061"
+  }
+]

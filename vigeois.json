@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "190002709",
+    "raison_sociale": "MAS LA CHATAIGNERAIE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU CHAMPS DE LA COTE",
+    "bp": "",
+    "cp": "19410",
+    "VILLE": "VIGEOIS ",
+    "tel": "555738100",
+    "telecopie": "555736707",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "26192923600089",
+    "lng": "1.525129097393",
+    "lat": "45.3805909317902"
+  },
+  {
+    "finess": "190005231",
+    "raison_sociale": "EHPAD RESIDENCE COMMAIGNAC",
+    "numero voie": "25",
+    "type_voie": "RTE",
+    "libelle_voie": "DE BRIVE",
+    "bp": "BP 8",
+    "cp": "19410",
+    "VILLE": "VIGEOIS ",
+    "tel": "555738600",
+    "telecopie": "555738660",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26192850100012",
+    "lng": "1.51973327183062",
+    "lat": "45.3778170404495"
+  },
+  {
+    "finess": "190009902",
+    "raison_sociale": "PHARMACIE DE VIGEOIS",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "DU CENTRE CULTUREL",
+    "bp": "",
+    "cp": "19410",
+    "VILLE": "VIGEOIS ",
+    "tel": "555989175",
+    "telecopie": "555988463",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "35311559500020",
+    "lng": "1.51894518091363",
+    "lat": "45.3797717534415"
+  }
+]

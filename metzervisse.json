@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "570018911",
+    "raison_sociale": "PHARMACIE LETZELTER - PORTNER",
+    "numero voie": "13",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "57940",
+    "VILLE": "METZERVISSE ",
+    "tel": "382568581",
+    "telecopie": "382503751",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51212013000012",
+    "lng": "6.28211190885836",
+    "lat": "49.3143465154394"
+  },
+  {
+    "finess": "570023994",
+    "raison_sociale": "EHPAD \"SAINTE ELISABETH\" METZERVISSE",
+    "numero voie": "1",
+    "type_voie": "BCLE",
+    "libelle_voie": "BERNARD HINAULT",
+    "bp": "",
+    "cp": "57940",
+    "VILLE": "METZERVISSE ",
+    "tel": "382888730",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "",
+    "lng": "6.27526122537498",
+    "lat": "49.3216923289218"
+  },
+  {
+    "finess": "570028043",
+    "raison_sociale": "MSP DE METZERVISSE",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "57940",
+    "VILLE": "METZERVISSE ",
+    "tel": "382832257",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "83467198400013",
+    "lng": "6.281603366",
+    "lat": "49.3140319522344"
+  }
+]

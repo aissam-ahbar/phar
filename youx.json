@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "630010635",
+    "raison_sociale": "CHS HDJ PG YOUX",
+    "numero voie": "24",
+    "type_voie": "R",
+    "libelle_voie": "DU MUGUET",
+    "bp": "",
+    "cp": "63700",
+    "VILLE": "YOUX ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "292",
+    "libelle categorie": "Centre Hospitalier Spécialisé lutte Maladies Mentales",
+    "siret": "",
+    "lng": "2.81811574954156",
+    "lat": "46.1319251777329"
+  },
+  {
+    "finess": "630013936",
+    "raison_sociale": "CMP PG YOUX",
+    "numero voie": "24",
+    "type_voie": "R",
+    "libelle_voie": "DU MUGUET",
+    "bp": "",
+    "cp": "63700",
+    "VILLE": "YOUX ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "156",
+    "libelle categorie": "Centre Médico-Psychologique (C.M.P.)",
+    "siret": "",
+    "lng": "2.81811574954156",
+    "lat": "46.1319251777329"
+  },
+  {
+    "finess": "630016137",
+    "raison_sociale": "CATTP PG YOUX",
+    "numero voie": "24",
+    "type_voie": "R",
+    "libelle_voie": "DU MUGUET",
+    "bp": "",
+    "cp": "63700",
+    "VILLE": "YOUX ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "425",
+    "libelle categorie": "Centre d'Accueil Thérapeutique à temps partiel (C.A.T.T.P.)",
+    "siret": "",
+    "lng": "2.81811574954156",
+    "lat": "46.1319251777329"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "310019773",
+    "raison_sociale": "SESSAD DE L'ITEP L'ESSOR",
+    "numero voie": "255",
+    "type_voie": "R",
+    "libelle_voie": "DE LA PEYROUSE",
+    "bp": "",
+    "cp": "31800",
+    "VILLE": "ST IGNAN",
+    "tel": "561946850",
+    "telecopie": "561955262",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "77565769500059",
+    "lng": "0.690362748767613",
+    "lat": "43.1594674308137"
+  },
+  {
+    "finess": "310780622",
+    "raison_sociale": "ITEP L'ESSOR",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LE  CHATEAU",
+    "bp": "",
+    "cp": "31800",
+    "VILLE": "ST IGNAN",
+    "tel": "561946850",
+    "telecopie": "561955262",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "77565769500059",
+    "lng": "0.693131119790595",
+    "lat": "43.1586916306638"
+  }
+]

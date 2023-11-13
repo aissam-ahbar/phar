@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "370007775",
+    "raison_sociale": "SELARL PHARMACIE LARCHE - NOEL",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "PRINCIPALE",
+    "bp": "",
+    "cp": "37510",
+    "VILLE": "SAVONNIERES ",
+    "tel": "247500023",
+    "telecopie": "247500842",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52104956900010",
+    "lng": "0.547953587474403",
+    "lat": "47.34820660771"
+  },
+  {
+    "finess": "370015562",
+    "raison_sociale": "MSP MAISON MEDICALE DE SAVONNIERES",
+    "numero voie": "49",
+    "type_voie": "R",
+    "libelle_voie": "PRINCIPALE",
+    "bp": "",
+    "cp": "37510",
+    "VILLE": "SAVONNIERES ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "88248734100019",
+    "lng": "0.544468666031691",
+    "lat": "47.3477934347423"
+  }
+]

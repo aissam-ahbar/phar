@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "390002145",
+    "raison_sociale": "PHARMACIE MORET ES JEAN-GUILLERMINET",
+    "numero voie": "82",
+    "type_voie": "RTE",
+    "libelle_voie": "DES GUINCHES",
+    "bp": "",
+    "cp": "39220",
+    "VILLE": "BOIS D AMONT    ",
+    "tel": "384609063",
+    "telecopie": "384609063",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82267454500014",
+    "lng": "6.1387208179",
+    "lat": "46.5360366287586"
+  },
+  {
+    "finess": "390005999",
+    "raison_sociale": "EHPAD BOIS D AMONT CANTOU DU RISOUX",
+    "numero voie": "50",
+    "type_voie": "IMP",
+    "libelle_voie": "DE LA ROCHE",
+    "bp": "",
+    "cp": "39220",
+    "VILLE": "BOIS D AMONT    ",
+    "tel": "384426048",
+    "telecopie": "384425853",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "25390190400149",
+    "lng": "6.13447346983173",
+    "lat": "46.5383609463613"
+  }
+]

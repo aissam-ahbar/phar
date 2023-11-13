@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "250012812",
+    "raison_sociale": "PHARMACIE BELOUTILL",
+    "numero voie": "27",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LAUSANNE",
+    "bp": "",
+    "cp": "25115",
+    "VILLE": "POUILLEY LES VIGNES    ",
+    "tel": "381554046",
+    "telecopie": "381580880",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53188874100018",
+    "lng": "5.93708296105378",
+    "lat": "47.2544894221178"
+  },
+  {
+    "finess": "250017183",
+    "raison_sociale": "MAISON RELAIS",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DES FONTAINES",
+    "bp": "",
+    "cp": "25115",
+    "VILLE": "POUILLEY LES VIGNES    ",
+    "tel": "381889030",
+    "telecopie": "381889034",
+    "categorie etablissement": "258",
+    "libelle categorie": "Maisons Relais - Pensions de Famille",
+    "siret": "41524798000030",
+    "lng": "5.9341404315459",
+    "lat": "47.258394470012"
+  }
+]

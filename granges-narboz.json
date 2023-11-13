@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "250000502",
+    "raison_sociale": "DITEP LES ERABLES SITE GRANGES NARBOZ",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DE PONTARLIER",
+    "bp": "",
+    "cp": "25300",
+    "VILLE": "GRANGES NARBOZ",
+    "tel": "381390222",
+    "telecopie": "381390149",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "77557132600583",
+    "lng": "6.33425650584902",
+    "lat": "46.8888313200437"
+  },
+  {
+    "finess": "250022183",
+    "raison_sociale": "SAAD AZAÉ PONTARLIER",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "BERNARD PALISSY",
+    "bp": "",
+    "cp": "25300",
+    "VILLE": "GRANGES NARBOZ",
+    "tel": "381392620",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "51496602700039",
+    "lng": "6.33101944471349",
+    "lat": "46.8880500011147"
+  }
+]

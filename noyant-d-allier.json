@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "30004360",
+    "raison_sociale": "PHARMACIE LE BRAY-THEVENET",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA GARE",
+    "bp": "",
+    "cp": "3210",
+    "VILLE": "NOYANT D ALLIER    ",
+    "tel": "470472936",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "87996910300016",
+    "lng": "3.12357931279677",
+    "lat": "46.4802250184014"
+  },
+  {
+    "finess": "30005508",
+    "raison_sociale": "MARPA LA MAISON DU BEAU CHENE",
+    "numero voie": "18",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MINE",
+    "bp": "",
+    "cp": "3210",
+    "VILLE": "NOYANT D ALLIER    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26030228600026",
+    "lng": "3.12973597224253",
+    "lat": "46.4825449691889"
+  }
+]

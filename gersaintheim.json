@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "670003540",
+    "raison_sociale": "EHPAD DU MANOIR",
+    "numero voie": "24",
+    "type_voie": "R",
+    "libelle_voie": "REUCHLIN",
+    "bp": "",
+    "cp": "67150",
+    "VILLE": "GERSTHEIM ",
+    "tel": "388983300",
+    "telecopie": "388983520",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26670094700028",
+    "lng": "7.69919720701744",
+    "lat": "48.379630338496"
+  },
+  {
+    "finess": "670007350",
+    "raison_sociale": "PHARMACIE DE GERSTHEIM",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "du Général de Gaulle",
+    "bp": "",
+    "cp": "67150",
+    "VILLE": "GERSTHEIM ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44510360900019",
+    "lng": "7.69757049082543",
+    "lat": "48.3837253643848"
+  }
+]

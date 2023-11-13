@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "50003854",
+    "raison_sociale": "PHARMACIE MAEGHERMAN",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "5560",
+    "VILLE": "VARS ",
+    "tel": "492465250",
+    "telecopie": "492465138",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44479018200018",
+    "lng": "6.689965493133",
+    "lat": "44.5938884727774"
+  },
+  {
+    "finess": "160011565",
+    "raison_sociale": "PHARMACIE DE  VARS",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "du Basilic",
+    "bp": "",
+    "cp": "16330",
+    "VILLE": "VARS ",
+    "tel": "545397311",
+    "telecopie": "545393006",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82389593300021",
+    "lng": "0.138611670635592",
+    "lat": "45.7614930191468"
+  }
+]

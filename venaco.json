@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "2B0002976",
+    "raison_sociale": "EURL PHARMACIE DU VENACAIS",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "NATIONALE 193",
+    "bp": "",
+    "cp": "20231",
+    "VILLE": "VENACO ",
+    "tel": "495470002",
+    "telecopie": "495470002",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81415689900019",
+    "lng": "9.17339087788378",
+    "lat": "42.2328408843889"
+  },
+  {
+    "finess": "2B0006464",
+    "raison_sociale": "SAAD ADMR VENACO",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "MAISON COMMUNALE",
+    "cp": "20231",
+    "VILLE": "VENACO ",
+    "tel": "495473404",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "9.17339087788378",
+    "lat": "42.2328408843889"
+  }
+]

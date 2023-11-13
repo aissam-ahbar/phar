@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "470009465",
+    "raison_sociale": "F CHAIGNEAU",
+    "numero voie": "7",
+    "type_voie": "",
+    "libelle_voie": "PLACE DU CENTRE",
+    "bp": "",
+    "cp": "47600",
+    "VILLE": "FRANCESCAS ",
+    "tel": "553654149",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52997063400018",
+    "lng": "0.427609462695115",
+    "lat": "44.0635692589738"
+  },
+  {
+    "finess": "470010562",
+    "raison_sociale": "EHPAD LES PRES DU MOULIN",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "BENISE",
+    "cp": "47600",
+    "VILLE": "FRANCESCAS ",
+    "tel": "553976700",
+    "telecopie": "553970985",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "37752695900020",
+    "lng": "0.428038158708116",
+    "lat": "44.0689508267667"
+  }
+]

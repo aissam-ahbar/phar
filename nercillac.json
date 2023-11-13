@@ -1,0 +1,19 @@
+[
+  {
+    "finess": "160011243",
+    "raison_sociale": "PHARMACIE DE NERCILLAC",
+    "numero voie": "274",
+    "type_voie": "RTE",
+    "libelle_voie": "DE COGNAC",
+    "bp": "",
+    "cp": "16200",
+    "VILLE": "NERCILLAC ",
+    "tel": "545809489",
+    "telecopie": "545809660",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45051688500016",
+    "lng": "-0.248606516605864",
+    "lat": "45.7107402961476"
+  }
+]

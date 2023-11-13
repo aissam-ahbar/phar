@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "110789450",
+    "raison_sociale": "EHPAD LA ROQUE",
+    "numero voie": "450",
+    "type_voie": "R",
+    "libelle_voie": "CAVE COOPERATIVE",
+    "bp": "",
+    "cp": "11590",
+    "VILLE": "SALLELES D AUDE    ",
+    "tel": "468468739",
+    "telecopie": "468468659",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26110545600022",
+    "lng": "2.9554853376023",
+    "lat": "43.2586480099235"
+  },
+  {
+    "finess": "110791159",
+    "raison_sociale": "PHARMACIE BLAYAC",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DES ARTS",
+    "bp": "",
+    "cp": "11590",
+    "VILLE": "SALLELES D AUDE    ",
+    "tel": "468469213",
+    "telecopie": "468469619",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "32445852000016",
+    "lng": "2.94780533931571",
+    "lat": "43.257245792762"
+  }
+]

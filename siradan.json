@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "650004450",
+    "raison_sociale": "MAS \"AUGUSTE VALATS\"",
+    "numero voie": "4",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA BAROUSSE",
+    "bp": "",
+    "cp": "65370",
+    "VILLE": "SIRADAN ",
+    "tel": "562992409",
+    "telecopie": "562993718",
+    "categorie etablissement": "255",
+    "libelle categorie": "Maison d'Accueil Spécialisée (M.A.S.)",
+    "siret": "77558122600815",
+    "lng": "0.617330203425505",
+    "lat": "42.9688999114388"
+  },
+  {
+    "finess": "650789175",
+    "raison_sociale": "EHPAD SAINTE-MARIE A SIRADAN",
+    "numero voie": "4",
+    "type_voie": "CHE",
+    "libelle_voie": "BOUVOUR",
+    "bp": "",
+    "cp": "65370",
+    "VILLE": "SIRADAN ",
+    "tel": "562992401",
+    "telecopie": "562993773",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "38993272400013",
+    "lng": "0.622656206656602",
+    "lat": "42.9687173258067"
+  }
+]

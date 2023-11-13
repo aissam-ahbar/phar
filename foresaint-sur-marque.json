@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590016721",
+    "raison_sociale": "PHARMACIE PRINCIPALE",
+    "numero voie": "32",
+    "type_voie": "R",
+    "libelle_voie": "PRINCIPALE",
+    "bp": "",
+    "cp": "59510",
+    "VILLE": "FOREST SUR MARQUE    ",
+    "tel": "320413250",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "35219381700017",
+    "lng": "3.18863722727466",
+    "lat": "50.6358850912469"
+  },
+  {
+    "finess": "590047833",
+    "raison_sociale": "EHPAD KORIAN BORDS DE LA MARQUE",
+    "numero voie": "151",
+    "type_voie": "R",
+    "libelle_voie": "PRINCIPALE",
+    "bp": "",
+    "cp": "59510",
+    "VILLE": "FOREST SUR MARQUE    ",
+    "tel": "328765800",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "34117411801279",
+    "lng": "3.18810809523606",
+    "lat": "50.6306215699167"
+  }
+]

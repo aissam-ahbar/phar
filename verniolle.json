@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "90002106",
+    "raison_sociale": "PHARMACIE MUNOZ",
+    "numero voie": "32",
+    "type_voie": "AV",
+    "libelle_voie": "DES PYRENEES",
+    "bp": "",
+    "cp": "9340",
+    "VILLE": "VERNIOLLE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50817649200025",
+    "lng": "1.64750859883084",
+    "lat": "43.0802828083646"
+  },
+  {
+    "finess": "90004334",
+    "raison_sociale": "SAAD DOMICIL + VERNIOLLE",
+    "numero voie": "266",
+    "type_voie": "R",
+    "libelle_voie": "LOUIS PASTEUR",
+    "bp": "",
+    "cp": "9340",
+    "VILLE": "VERNIOLLE ",
+    "tel": "561694065",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "49494253500209",
+    "lng": "1.64917939783973",
+    "lat": "43.0819382374505"
+  },
+  {
+    "finess": "90781642",
+    "raison_sociale": "EHPAD \"LE CHATEAU\"",
+    "numero voie": "4",
+    "type_voie": "AV",
+    "libelle_voie": "DES MONTS D OLMES",
+    "bp": "",
+    "cp": "9340",
+    "VILLE": "VERNIOLLE ",
+    "tel": "561680226",
+    "telecopie": "561680095",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77668859000012",
+    "lng": "1.64932392558935",
+    "lat": "43.0806357181299"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "620022343",
+    "raison_sociale": "ASSOCIATION ARTABAN",
+    "numero voie": "426",
+    "type_voie": "R",
+    "libelle_voie": "DES RESISTANTS",
+    "bp": "",
+    "cp": "62980",
+    "VILLE": "NOYELLES LES VERMELLES    ",
+    "tel": "321611493",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "92282468500015",
+    "lng": "2.72491041952833",
+    "lat": "50.4895050880369"
+  },
+  {
+    "finess": "620119305",
+    "raison_sociale": "EHPAD \"LES HELIANTINES\"",
+    "numero voie": "245",
+    "type_voie": "R",
+    "libelle_voie": "DES RESISTANTS",
+    "bp": "",
+    "cp": "62980",
+    "VILLE": "NOYELLES LES VERMELLES    ",
+    "tel": "321643411",
+    "telecopie": "321665281",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "38473987600041",
+    "lng": "2.72370136609633",
+    "lat": "50.4880419652961"
+  }
+]

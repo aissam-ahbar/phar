@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "70008040",
+    "raison_sociale": "EHPA \"CHALAMBELLE\"",
+    "numero voie": "62",
+    "type_voie": "",
+    "libelle_voie": "GRAND RUE",
+    "bp": "",
+    "cp": "7450",
+    "VILLE": "BURZET ",
+    "tel": "475944608",
+    "telecopie": "",
+    "categorie etablissement": "502",
+    "libelle categorie": "EHPA ne percevant pas des crédits d'assurance maladie",
+    "siret": "26070031500021",
+    "lng": "4.24629053584916",
+    "lat": "44.7392070257725"
+  },
+  {
+    "finess": "70780606",
+    "raison_sociale": "EHPAD \"CHALAMBELLE\"",
+    "numero voie": "62",
+    "type_voie": "",
+    "libelle_voie": "GRAND RUE",
+    "bp": "",
+    "cp": "7450",
+    "VILLE": "BURZET ",
+    "tel": "475944608",
+    "telecopie": "475944930",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26070031500013",
+    "lng": "4.24629053584916",
+    "lat": "44.7392070257725"
+  }
+]

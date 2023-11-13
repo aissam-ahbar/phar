@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "330051962",
+    "raison_sociale": "PHARMACIE DE SAINT VIVIEN",
+    "numero voie": "2",
+    "type_voie": "CRS",
+    "libelle_voie": "PIERRE LASSALLE",
+    "bp": "",
+    "cp": "33590",
+    "VILLE": "ST VIVIEN DE MEDOC   ",
+    "tel": "556094015",
+    "telecopie": "556739737",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48902270700017",
+    "lng": "-1.03498189100651",
+    "lat": "45.4287045704919"
+  },
+  {
+    "finess": "330798828",
+    "raison_sociale": "EHPAD MIRAMBEAU",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "MIRAMBEAU",
+    "bp": "",
+    "cp": "33590",
+    "VILLE": "ST VIVIEN DE MEDOC   ",
+    "tel": "556094451",
+    "telecopie": "556094983",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "31710026100096",
+    "lng": "-1.04492763482694",
+    "lat": "45.4350009717154"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590024121",
+    "raison_sociale": "PHARMACIE DE L'OSTREVANT",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "VICTOR HUGO",
+    "bp": "",
+    "cp": "59252",
+    "VILLE": "MARQUETTE EN OSTREVANT    ",
+    "tel": "327357591",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53814889100012",
+    "lng": "3.26626336197715",
+    "lat": "50.2855819528074"
+  },
+  {
+    "finess": "590037719",
+    "raison_sociale": "EHPAD MARQUETTE EN OSTREVENT",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "NICOLAS GALLIEZ",
+    "bp": "",
+    "cp": "59252",
+    "VILLE": "MARQUETTE EN OSTREVANT    ",
+    "tel": "327355555",
+    "telecopie": "361670101",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "41158378400052",
+    "lng": "3.2692021773694",
+    "lat": "50.2858781523039"
+  }
+]

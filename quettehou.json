@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "500011457",
+    "raison_sociale": "SELARL PHARMACIE DU VAUPREUX",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "Georges Clémenceau",
+    "bp": "",
+    "cp": "50630",
+    "VILLE": "QUETTEHOU ",
+    "tel": "233541139",
+    "telecopie": "233540379",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50405928800010",
+    "lng": "-1.3016306374574",
+    "lat": "49.592365924874"
+  },
+  {
+    "finess": "500012604",
+    "raison_sociale": "RESIDENCE P.A. - QUETTEHOU",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DU QUARTIER",
+    "bp": "",
+    "cp": "50630",
+    "VILLE": "QUETTEHOU ",
+    "tel": "233541139",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "33003372100029",
+    "lng": "-1.30431048335968",
+    "lat": "49.5910901191294"
+  }
+]

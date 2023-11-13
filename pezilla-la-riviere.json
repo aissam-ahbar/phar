@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "660006289",
+    "raison_sociale": "EHPAD RESIDENCE MUTUALISTE",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "FORCA REAL",
+    "bp": "",
+    "cp": "66370",
+    "VILLE": "PEZILLA LA RIVIERE    ",
+    "tel": "468626089",
+    "telecopie": "468626099",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "50741273200038",
+    "lng": "2.7646411443671",
+    "lat": "42.6968213913407"
+  },
+  {
+    "finess": "660011354",
+    "raison_sociale": "SAAD RSP",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DES ECOLES",
+    "bp": "",
+    "cp": "66370",
+    "VILLE": "PEZILLA LA RIVIERE    ",
+    "tel": "468921270",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "81155441900010",
+    "lng": "2.77007600953472",
+    "lat": "42.6962694654302"
+  },
+  {
+    "finess": "660789041",
+    "raison_sociale": "PHARMABELLA",
+    "numero voie": "10",
+    "type_voie": "R",
+    "libelle_voie": "DES ECOLES",
+    "bp": "",
+    "cp": "66370",
+    "VILLE": "PEZILLA LA RIVIERE    ",
+    "tel": "468920018",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "41408477200014",
+    "lng": "2.76993758690495",
+    "lat": "42.6967519859091"
+  }
+]

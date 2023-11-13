@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "20010625",
+    "raison_sociale": "PHARMACIE DU CHATEAU",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE FAUCOUZY",
+    "bp": "",
+    "cp": "2120",
+    "VILLE": "SAINS RICHAUMONT",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81886036300014",
+    "lng": "3.70148210120227",
+    "lat": "49.8232053085129"
+  },
+  {
+    "finess": "20013496",
+    "raison_sociale": "SAAD SIVOM SAINS-RICHAUMONT",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "JEAN SUSINI",
+    "bp": "",
+    "cp": "2120",
+    "VILLE": "SAINS RICHAUMONT",
+    "tel": "323609883",
+    "telecopie": "323609837",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "24020020400040",
+    "lng": "3.71247077190622",
+    "lat": "49.8251802154367"
+  }
+]

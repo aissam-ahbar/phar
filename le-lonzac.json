@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "190003756",
+    "raison_sociale": "EHPAD L'OREE DES BOIS",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "ANTOINE DESHORS",
+    "bp": "",
+    "cp": "19470",
+    "VILLE": "LE LONZAC",
+    "tel": "555982091",
+    "telecopie": "555983060",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "31816574300010",
+    "lng": "1.73892830079413",
+    "lat": "45.4687872869596"
+  },
+  {
+    "finess": "190008482",
+    "raison_sociale": "PHARMACIE MARSALEIX",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DES MARTYRS",
+    "bp": "",
+    "cp": "19470",
+    "VILLE": "LE LONZAC",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34257722800022",
+    "lng": "1.73598590728312",
+    "lat": "45.4665873896206"
+  }
+]

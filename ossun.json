@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "650003171",
+    "raison_sociale": "PHARMACIE DU CENTRE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DU CENTRE",
+    "bp": "",
+    "cp": "65380",
+    "VILLE": "OSSUN ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49518108300017",
+    "lng": "-0.027967484187135",
+    "lat": "43.1830904446049"
+  },
+  {
+    "finess": "650005846",
+    "raison_sociale": "SAAD ADMR DE L'OUEST DU CANTON D'OSSUN",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "RICHELIEU",
+    "bp": "",
+    "cp": "65380",
+    "VILLE": "OSSUN ",
+    "tel": "562328222",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "52426431400013",
+    "lng": "-0.027717480728333",
+    "lat": "43.1834836253465"
+  },
+  {
+    "finess": "650783798",
+    "raison_sociale": "EHPAD SAINT-JOSEPH A OSSUN",
+    "numero voie": "23",
+    "type_voie": "R",
+    "libelle_voie": "JOSEPH MERILLON",
+    "bp": "",
+    "cp": "65380",
+    "VILLE": "OSSUN ",
+    "tel": "562326991",
+    "telecopie": "562326998",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "30587411700115",
+    "lng": "-0.027624360626301",
+    "lat": "43.1876908230511"
+  }
+]

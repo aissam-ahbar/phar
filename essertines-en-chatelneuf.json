@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "420016842",
+    "raison_sociale": "MAISON DE SANTE LES OLLAGNES",
+    "numero voie": "38",
+    "type_voie": "ALL",
+    "libelle_voie": "DE BELLEVUE",
+    "bp": "",
+    "cp": "42600",
+    "VILLE": "ESSERTINES EN CHATELNEUF    ",
+    "tel": "626079663",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "88294583500016",
+    "lng": "4.00995133232021",
+    "lat": "45.6221165875565"
+  },
+  {
+    "finess": "420017691",
+    "raison_sociale": "CPTS LOIRE FOREZ",
+    "numero voie": "310",
+    "type_voie": "MTE",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "42600",
+    "VILLE": "ESSERTINES EN CHATELNEUF    ",
+    "tel": "619459589",
+    "telecopie": "",
+    "categorie etablissement": "604",
+    "libelle categorie": "Communautés professionnelles territoriales de santé (CPTS)",
+    "siret": "90332231100015",
+    "lng": "3.9954357253442",
+    "lat": "45.6181673391373"
+  }
+]

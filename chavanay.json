@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "420003444",
+    "raison_sociale": "PHARMACIE BRUNOIS",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "de la Gare",
+    "bp": "",
+    "cp": "42410",
+    "VILLE": "CHAVANAY ",
+    "tel": "474872504",
+    "telecopie": "474872839",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53772415500024",
+    "lng": "4.73717957676569",
+    "lat": "45.4170175197754"
+  },
+  {
+    "finess": "420015539",
+    "raison_sociale": "MAISON DE SANTE DE CHAVANAY",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DES MARRONNIERS",
+    "bp": "",
+    "cp": "42410",
+    "VILLE": "CHAVANAY ",
+    "tel": "474872501",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "83328900200010",
+    "lng": "4.72601471087507",
+    "lat": "45.4164712443766"
+  }
+]

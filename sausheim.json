@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "680012838",
+    "raison_sociale": "EHPAD LE QUATELBACH",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DU QUATELBACH",
+    "bp": "",
+    "cp": "68390",
+    "VILLE": "SAUSHEIM ",
+    "tel": "389369440",
+    "telecopie": "389360598",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "34970676200011",
+    "lng": "7.369609244879",
+    "lat": "47.7836153939036"
+  },
+  {
+    "finess": "680015351",
+    "raison_sociale": "PHARMACIE DE L'ILL",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DE MULHOUSE",
+    "bp": "",
+    "cp": "68390",
+    "VILLE": "SAUSHEIM ",
+    "tel": "389452144",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "32865764800031",
+    "lng": "7.36743723462624",
+    "lat": "47.7841363504119"
+  },
+  {
+    "finess": "680017845",
+    "raison_sociale": "CENTRE FORMATION AMBULANCIERS",
+    "numero voie": "1",
+    "type_voie": "AV",
+    "libelle_voie": "DU GENERAL DE GAULE",
+    "bp": "",
+    "cp": "68390",
+    "VILLE": "SAUSHEIM ",
+    "tel": "389636175",
+    "telecopie": "",
+    "categorie etablissement": "300",
+    "libelle categorie": "Ecoles Formant aux Professions Sanitaires",
+    "siret": "32919829500019",
+    "lng": "7.37979234540198",
+    "lat": "47.7741151436106"
+  }
+]

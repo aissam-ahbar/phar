@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "610006181",
+    "raison_sociale": "RÉSIDENCE NOUVEL AZUR",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "IBERTHE BERTOUX",
+    "bp": "",
+    "cp": "61790",
+    "VILLE": "ST PIERRE DU REGARD   ",
+    "tel": "231091739",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "82113589400029",
+    "lng": "-0.54928300137445",
+    "lat": "48.8435690475927"
+  },
+  {
+    "finess": "610008757",
+    "raison_sociale": "RÉSIDENCE NOUVEL AZUR",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "IBERTHE BERTOUX",
+    "bp": "",
+    "cp": "61790",
+    "VILLE": "ST PIERRE DU REGARD   ",
+    "tel": "231091739",
+    "telecopie": "231232595",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "82113589400029",
+    "lng": "-0.54928300137445",
+    "lat": "48.8435690475927"
+  }
+]

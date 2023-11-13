@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "640009411",
+    "raison_sociale": "PHARMACIE  DE GER",
+    "numero voie": "1040",
+    "type_voie": "R",
+    "libelle_voie": "DE GLEYSIA",
+    "bp": "",
+    "cp": "64530",
+    "VILLE": "GER ",
+    "tel": "562315255",
+    "telecopie": "562315255",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34766504400017",
+    "lng": "-0.056600668462076",
+    "lat": "43.2492760077982"
+  },
+  {
+    "finess": "640020970",
+    "raison_sociale": "MSP DE GER",
+    "numero voie": "420",
+    "type_voie": "CHE",
+    "libelle_voie": "CHEMIN DU PETIT CHAPEOU",
+    "bp": "",
+    "cp": "64530",
+    "VILLE": "GER ",
+    "tel": "562315005",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "88779679500011",
+    "lng": "-0.056133581302765",
+    "lat": "43.2483395145147"
+  }
+]

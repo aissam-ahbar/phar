@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "80002140",
+    "raison_sociale": "CRF POUR ENFANTS DE WARNECOURT",
+    "numero voie": "147",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CHARLEVILLE",
+    "bp": "BP 829",
+    "cp": "8090",
+    "VILLE": "WARNECOURT ",
+    "tel": "324571864",
+    "telecopie": "324373244",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "42427340700173",
+    "lng": "4.67051941522517",
+    "lat": "49.740818273265"
+  },
+  {
+    "finess": "80007248",
+    "raison_sociale": "CENTRE DE REEDUCATION MOTRICE",
+    "numero voie": "147",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CHARLEVILLE",
+    "bp": "BP 829",
+    "cp": "8090",
+    "VILLE": "WARNECOURT ",
+    "tel": "324571864",
+    "telecopie": "324373244",
+    "categorie etablissement": "188",
+    "libelle categorie": "Etablissement pour Enfants ou Adolescents Polyhandicapés",
+    "siret": "42427340700223",
+    "lng": "4.67051941522517",
+    "lat": "49.740818273265"
+  },
+  {
+    "finess": "80009913",
+    "raison_sociale": "SESSAD CENTRE DE RÉÉDUCATION MOTRICE",
+    "numero voie": "147",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CHARLEVILLE",
+    "bp": "BP 829",
+    "cp": "8090",
+    "VILLE": "WARNECOURT ",
+    "tel": "324571864",
+    "telecopie": "324373244",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "42427340700231",
+    "lng": "4.67051941522517",
+    "lat": "49.740818273265"
+  }
+]

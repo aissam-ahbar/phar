@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "600005573",
+    "raison_sociale": "PHARMACIE DE LA HALLE",
+    "numero voie": "17",
+    "type_voie": "R",
+    "libelle_voie": "DE LA HALLE",
+    "bp": "",
+    "cp": "60120",
+    "VILLE": "ANSAUVILLERS ",
+    "tel": "344514048",
+    "telecopie": "344771090",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "32451744000024",
+    "lng": "2.38512164903855",
+    "lat": "49.5641692617623"
+  },
+  {
+    "finess": "600106231",
+    "raison_sociale": "FV HANDI AIDE ANSAUVILLERS",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "DE LA LIBÉRATION",
+    "bp": "",
+    "cp": "60120",
+    "VILLE": "ANSAUVILLERS ",
+    "tel": "344514646",
+    "telecopie": "344511918",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "78056876200121",
+    "lng": "2.38119344635126",
+    "lat": "49.56153496846"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "290012533",
+    "raison_sociale": "PHARMACIE CADRO",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "DE L EGLISE",
+    "bp": "",
+    "cp": "29940",
+    "VILLE": "LA FORET FOUESNANT    ",
+    "tel": "298569787",
+    "telecopie": "298514236",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "95046881900020",
+    "lng": "-3.9798525563543",
+    "lat": "47.9082522850024"
+  },
+  {
+    "finess": "290026954",
+    "raison_sociale": "SAAD MUTUALITE SOINS ET SERVICES",
+    "numero voie": "16",
+    "type_voie": "R",
+    "libelle_voie": "CHARLES DE GAULLE",
+    "bp": "",
+    "cp": "29940",
+    "VILLE": "LA FORET FOUESNANT    ",
+    "tel": "298514371",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "39517122600099",
+    "lng": "-3.97971959268825",
+    "lat": "47.9080795100749"
+  }
+]

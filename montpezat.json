@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "300787488",
+    "raison_sociale": "EAM LES MASSAGUES",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DE PARIGNARGUES",
+    "bp": "BP 3",
+    "cp": "30730",
+    "VILLE": "MONTPEZAT ",
+    "tel": "466632376",
+    "telecopie": "466632365",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "77591588700084",
+    "lng": "4.17162432417241",
+    "lat": "43.8536868620895"
+  },
+  {
+    "finess": "470000225",
+    "raison_sociale": "IME MONTCLAIRJOIE",
+    "numero voie": "3",
+    "type_voie": "AV",
+    "libelle_voie": "DE L'ABBÉ DELAGNE",
+    "bp": "",
+    "cp": "47360",
+    "VILLE": "MONTPEZAT ",
+    "tel": "553950064",
+    "telecopie": "553950369",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "32000460900022",
+    "lng": "0.525211141272205",
+    "lat": "44.3461424631734"
+  }
+]

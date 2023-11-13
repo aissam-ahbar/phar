@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "40005472",
+    "raison_sociale": "SAAD ADMR DE DUYES BLÉONE",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE PROVENCE",
+    "bp": "",
+    "cp": "4510",
+    "VILLE": "MIRABEAU ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "6.08973885935369",
+    "lat": "44.0627988274523"
+  },
+  {
+    "finess": "840015143",
+    "raison_sociale": "SELAS PHARMACIE MIRABEAU",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "19 Mars 1962",
+    "bp": "Le Bosquet",
+    "cp": "84120",
+    "VILLE": "MIRABEAU ",
+    "tel": "490770063",
+    "telecopie": "490770100",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84137223800011",
+    "lng": "5.65846043930466",
+    "lat": "43.7043731505101"
+  }
+]

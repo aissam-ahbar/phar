@@ -1,0 +1,19 @@
+[
+  {
+    "finess": "240011650",
+    "raison_sociale": "PHARMACIE LES CROZES",
+    "numero voie": "14",
+    "type_voie": "R",
+    "libelle_voie": "DU STADE",
+    "bp": "",
+    "cp": "24700",
+    "VILLE": "LE PIZOU",
+    "tel": "553818006",
+    "telecopie": "553818865",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81525063400012",
+    "lng": "0.065649915984992",
+    "lat": "45.0264244896107"
+  }
+]

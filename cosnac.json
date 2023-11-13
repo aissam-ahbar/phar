@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "190008102",
+    "raison_sociale": "PHARMACIE DE COSNAC",
+    "numero voie": "175",
+    "type_voie": "AV",
+    "libelle_voie": "du 11 novembre 1918",
+    "bp": "",
+    "cp": "19360",
+    "VILLE": "COSNAC ",
+    "tel": "555740688",
+    "telecopie": "555171106",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "45376742800023",
+    "lng": "1.58591321079662",
+    "lat": "45.1364102592645"
+  },
+  {
+    "finess": "190010884",
+    "raison_sociale": "EHPAD RES CHATEAU DE COSNAC",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DU 8 MAI 1945",
+    "bp": "",
+    "cp": "19360",
+    "VILLE": "COSNAC ",
+    "tel": "555186060",
+    "telecopie": "555186000",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "",
+    "lng": "1.58152573655804",
+    "lat": "45.1382313046532"
+  }
+]

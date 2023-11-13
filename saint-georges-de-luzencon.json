@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "120004015",
+    "raison_sociale": "SELARL PHARMACIE CECILE MAFFRE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DU MOULIN DE TALY",
+    "bp": "",
+    "cp": "12100",
+    "VILLE": "ST GEORGES DE LUZENCON   ",
+    "tel": "565623504",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "87995766000019",
+    "lng": "2.98397062687186",
+    "lat": "44.0645073935054"
+  },
+  {
+    "finess": "120007067",
+    "raison_sociale": "MSP ST-GEORGES-DE-LUZENÇON",
+    "numero voie": "3",
+    "type_voie": "AV",
+    "libelle_voie": "BERNARD POTTIER",
+    "bp": "",
+    "cp": "12100",
+    "VILLE": "ST GEORGES DE LUZENCON   ",
+    "tel": "565623632",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "84207805700010",
+    "lng": "2.98651281302547",
+    "lat": "44.0609076454977"
+  }
+]

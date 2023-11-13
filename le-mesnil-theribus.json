@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "600014500",
+    "raison_sociale": "SERVICE EXPERIMENTAL ENFANTS PROTEGES",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "DE MARY CASSATT",
+    "bp": "",
+    "cp": "60240",
+    "VILLE": "LE MESNIL THERIBUS    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "378",
+    "libelle categorie": "Etablissement Expérimental Enfance Protégée",
+    "siret": "",
+    "lng": "1.99558855349537",
+    "lat": "49.2977907678253"
+  },
+  {
+    "finess": "600102255",
+    "raison_sociale": "M E C S LE MOULIN VERT",
+    "numero voie": "5",
+    "type_voie": "R",
+    "libelle_voie": "MARY CASSATT",
+    "bp": "",
+    "cp": "60240",
+    "VILLE": "LE MESNIL THERIBUS    ",
+    "tel": "344477506",
+    "telecopie": "344478037",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "77567626500041",
+    "lng": "1.99558855349537",
+    "lat": "49.2977907678253"
+  }
+]

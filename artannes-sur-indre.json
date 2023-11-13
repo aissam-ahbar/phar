@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "370002784",
+    "raison_sociale": "PHARMACIE DU LYS",
+    "numero voie": "13",
+    "type_voie": "AV",
+    "libelle_voie": "DE LA VALLEE DU LYS",
+    "bp": "",
+    "cp": "37260",
+    "VILLE": "ARTANNES SUR INDRE    ",
+    "tel": "247268034",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "34775598500012",
+    "lng": "0.598921647941159",
+    "lat": "47.2729078570265"
+  },
+  {
+    "finess": "370014482",
+    "raison_sociale": "SSIAD ANNEXE D'ARTANNES",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "37260",
+    "VILLE": "ARTANNES SUR INDRE    ",
+    "tel": "247770495",
+    "telecopie": "",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "",
+    "lng": "0.599442477489209",
+    "lat": "47.2728907175964"
+  },
+  {
+    "finess": "370104549",
+    "raison_sociale": "MARPA LE BOIS DES PLANTES",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DU BOIS DES PLANTES",
+    "bp": "",
+    "cp": "37260",
+    "VILLE": "ARTANNES SUR INDRE    ",
+    "tel": "247341450",
+    "telecopie": "247341451",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "24370021800049",
+    "lng": "0.58999574064906",
+    "lat": "47.2718778979341"
+  }
+]

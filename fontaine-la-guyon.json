@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "280003237",
+    "raison_sociale": "SELARL PHARMACIE COLIN",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "JULES FERRY",
+    "bp": "",
+    "cp": "28190",
+    "VILLE": "FONTAINE LA GUYON    ",
+    "tel": "237225073",
+    "telecopie": "237225073",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51371008700026",
+    "lng": "1.31983755158895",
+    "lat": "48.4713452887827"
+  },
+  {
+    "finess": "280505819",
+    "raison_sociale": "EHPAD MARTIAL TAUGOURDEAU",
+    "numero voie": "31",
+    "type_voie": "R",
+    "libelle_voie": "DU GENERAL DE GAULLE",
+    "bp": "",
+    "cp": "28190",
+    "VILLE": "FONTAINE LA GUYON    ",
+    "tel": "237225028",
+    "telecopie": "237225690",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26285577800011",
+    "lng": "1.31617251491697",
+    "lat": "48.4714904275966"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590019006",
+    "raison_sociale": "PHARMACIE DELOBEAU-BODDAERT",
+    "numero voie": "83",
+    "type_voie": "RTE",
+    "libelle_voie": "DE WORMHOUT",
+    "bp": "",
+    "cp": "59470",
+    "VILLE": "HERZEELE ",
+    "tel": "328276390",
+    "telecopie": "974576632",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "42083568800011",
+    "lng": "2.52935855936206",
+    "lat": "50.8863014687375"
+  },
+  {
+    "finess": "590069142",
+    "raison_sociale": "CER AAES HERZEELE",
+    "numero voie": "724",
+    "type_voie": "RTE",
+    "libelle_voie": "DE WINNEZEELE",
+    "bp": "",
+    "cp": "59470",
+    "VILLE": "HERZEELE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "441",
+    "libelle categorie": "Centre d'Action Educative (C.A.E.)",
+    "siret": "78360196600436",
+    "lng": "2.53085187627851",
+    "lat": "50.8801179767876"
+  }
+]

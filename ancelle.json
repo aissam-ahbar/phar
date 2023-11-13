@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "50002930",
+    "raison_sociale": "SELARL C LA PHARMACIE D'ANCELLE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "5260",
+    "VILLE": "ANCELLE ",
+    "tel": "492508320",
+    "telecopie": "492508741",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "87928813200019",
+    "lng": "6.2056869549324",
+    "lat": "44.6235899096084"
+  },
+  {
+    "finess": "50008424",
+    "raison_sociale": "SAAD CENTRE SERVICES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "BATIMENT LA PETITE AUTANE",
+    "bp": "",
+    "cp": "5260",
+    "VILLE": "ANCELLE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "81432467900020",
+    "lng": "6.2056869549324",
+    "lat": "44.6235899096084"
+  }
+]

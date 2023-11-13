@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "280000647",
+    "raison_sociale": "EHPAD LE PARC DU CHATEAU D ABONDANT",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DES MINIERES",
+    "bp": "BP 9",
+    "cp": "28410",
+    "VILLE": "ABONDANT ",
+    "tel": "237625300",
+    "telecopie": "237487394",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77507901500027",
+    "lng": "1.43617824117117",
+    "lat": "48.7861421666536"
+  },
+  {
+    "finess": "280008798",
+    "raison_sociale": "MAISON DE SANTÉ DABONDANT",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DU POTAGER",
+    "bp": "",
+    "cp": "28410",
+    "VILLE": "ABONDANT ",
+    "tel": "237487045",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "1.44063536186137",
+    "lat": "48.7851794281953"
+  }
+]

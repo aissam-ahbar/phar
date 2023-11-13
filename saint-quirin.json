@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "570000232",
+    "raison_sociale": "MECS DE LETTENBACH",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "LETTENBACH",
+    "bp": "",
+    "cp": "57560",
+    "VILLE": "ST QUIRIN",
+    "tel": "387036970",
+    "telecopie": "",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "43842088700020",
+    "lng": "7.10192232218875",
+    "lat": "48.6231647037541"
+  },
+  {
+    "finess": "570005181",
+    "raison_sociale": "ITEP SAINT VINCENT DE PAUL MOSELLE SUD",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA CHAPELLE",
+    "bp": "LETTENBACH",
+    "cp": "57560",
+    "VILLE": "ST QUIRIN",
+    "tel": "387037800",
+    "telecopie": "387038972",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "43842088700020",
+    "lng": "7.10115859249168",
+    "lat": "48.622919911294"
+  },
+  {
+    "finess": "570009993",
+    "raison_sociale": "EHPAD \"LA CHARMILLE\"",
+    "numero voie": "223",
+    "type_voie": "R",
+    "libelle_voie": "DE LA CHARMILLE",
+    "bp": "",
+    "cp": "57560",
+    "VILLE": "ST QUIRIN",
+    "tel": "387030400",
+    "telecopie": "387086636",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "34768519000014",
+    "lng": "7.06994216196852",
+    "lat": "48.602970967568"
+  }
+]

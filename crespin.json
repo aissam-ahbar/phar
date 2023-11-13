@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "590013702",
+    "raison_sociale": "PHARMACIE  DE LA FRONTIERE",
+    "numero voie": "6",
+    "type_voie": "R",
+    "libelle_voie": "DES DEPORTES",
+    "bp": "",
+    "cp": "59154",
+    "VILLE": "CRESPIN ",
+    "tel": "327454040",
+    "telecopie": "327454040",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44218712600010",
+    "lng": "3.66622987826255",
+    "lat": "50.4036498461224"
+  },
+  {
+    "finess": "590793394",
+    "raison_sociale": "SCE D'AIDE A DOMICILE DU CCAS",
+    "numero voie": "293",
+    "type_voie": "R",
+    "libelle_voie": "DES DEPORTES",
+    "bp": "",
+    "cp": "59154",
+    "VILLE": "CRESPIN ",
+    "tel": "327456161",
+    "telecopie": "327456169",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "26590160300026",
+    "lng": "3.66091614261604",
+    "lat": "50.4178187882428"
+  }
+]

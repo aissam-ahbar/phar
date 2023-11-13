@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "70001722",
+    "raison_sociale": "PHARMACIE PERROT-PINATEL",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "NEUVE",
+    "bp": "",
+    "cp": "7400",
+    "VILLE": "ALBA LA ROMAINE    ",
+    "tel": "475524358",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "35262527100015",
+    "lng": "4.59749479077208",
+    "lat": "44.5546462226361"
+  },
+  {
+    "finess": "70786082",
+    "raison_sociale": "RES AUTONOMIE LES JARDINS D'HELVIE",
+    "numero voie": "",
+    "type_voie": "QUA",
+    "libelle_voie": "LE CLOS",
+    "bp": "",
+    "cp": "7400",
+    "VILLE": "ALBA LA ROMAINE    ",
+    "tel": "475008000",
+    "telecopie": "475524928",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "77622946000246",
+    "lng": "4.59949866541945",
+    "lat": "44.5533692300047"
+  }
+]

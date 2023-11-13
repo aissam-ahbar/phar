@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "210009379",
+    "raison_sociale": "PHARMACIE THANACODY",
+    "numero voie": "37",
+    "type_voie": "RTE",
+    "libelle_voie": "de Dijon",
+    "bp": "",
+    "cp": "21110",
+    "VILLE": "THOREY EN PLAINE    ",
+    "tel": "380676372",
+    "telecopie": "962370078",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "51823312700019",
+    "lng": "5.13412263378617",
+    "lat": "47.2176019082523"
+  },
+  {
+    "finess": "210012464",
+    "raison_sociale": "LABORATOIRE  MÉDICAL",
+    "numero voie": "37",
+    "type_voie": "RTE",
+    "libelle_voie": "DE DIJON",
+    "bp": "",
+    "cp": "21110",
+    "VILLE": "THOREY EN PLAINE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "101",
+    "libelle categorie": "Centre Hospitalier Régional (C.H.R.)",
+    "siret": "",
+    "lng": "5.13412263378617",
+    "lat": "47.2176019082523"
+  },
+  {
+    "finess": "210013975",
+    "raison_sociale": "MSP DE THOREY EN PLAINE",
+    "numero voie": "42",
+    "type_voie": "RTE",
+    "libelle_voie": "DE DIJON",
+    "bp": "",
+    "cp": "21110",
+    "VILLE": "THOREY EN PLAINE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "89102749200018",
+    "lng": "5.1336504787733",
+    "lat": "47.217828548589"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "260005814",
+    "raison_sociale": "PHARMACIE VENTRE PATRICE",
+    "numero voie": "235",
+    "type_voie": "RTE",
+    "libelle_voie": "de Saint Clair",
+    "bp": "",
+    "cp": "26530",
+    "VILLE": "LE GRAND SERRE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "48900499400021",
+    "lng": "5.10909946992279",
+    "lat": "45.269463963479"
+  },
+  {
+    "finess": "260019666",
+    "raison_sociale": "MAISON DE SANTE LE-GRAND-SERRE",
+    "numero voie": "230",
+    "type_voie": "RTE",
+    "libelle_voie": "DE SAINT CLAIR",
+    "bp": "",
+    "cp": "26530",
+    "VILLE": "LE GRAND SERRE    ",
+    "tel": "475688302",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "5.10895593232108",
+    "lat": "45.2694126260067"
+  }
+]

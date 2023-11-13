@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "510002132",
+    "raison_sociale": "EHPAD RÉSIDENCE DU PARC",
+    "numero voie": "2",
+    "type_voie": "RES",
+    "libelle_voie": "DU PARC",
+    "bp": "",
+    "cp": "51240",
+    "VILLE": "ST GERMAIN LA VILLE   ",
+    "tel": "326675269",
+    "telecopie": "326641145",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26510015600016",
+    "lng": "4.4458764484359",
+    "lat": "48.8812258291545"
+  },
+  {
+    "finess": "510024136",
+    "raison_sociale": "SSIAD PA MR SAINT-GERMAIN-LA-VILLE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "RESIDENCE DU PARC",
+    "bp": "",
+    "cp": "51240",
+    "VILLE": "ST GERMAIN LA VILLE   ",
+    "tel": "326675269",
+    "telecopie": "",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "26510015600024",
+    "lng": "4.4458764484359",
+    "lat": "48.8812258291545"
+  }
+]

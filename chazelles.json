@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "160010021",
+    "raison_sociale": "PHARMACIE DE CHAZELLES",
+    "numero voie": "2",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LA ROCHEFOUCAULD",
+    "bp": "",
+    "cp": "16380",
+    "VILLE": "CHAZELLES ",
+    "tel": "545235370",
+    "telecopie": "545704217",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "82413090000015",
+    "lng": "0.378993024620485",
+    "lat": "45.6567602148066"
+  },
+  {
+    "finess": "160015749",
+    "raison_sociale": "MSP DE CHAZELLES",
+    "numero voie": "10",
+    "type_voie": "IMP",
+    "libelle_voie": "DE LA REPUBLIQUE",
+    "bp": "",
+    "cp": "16380",
+    "VILLE": "CHAZELLES ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "42867185300029",
+    "lng": "0.368620625694755",
+    "lat": "45.6467092196732"
+  }
+]

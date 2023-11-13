@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "310008461",
+    "raison_sociale": "PHARMACIE DE LA CROIX BLANCHE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "JEAN MONNET",
+    "bp": "",
+    "cp": "31600",
+    "VILLE": "EAUNES ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84190742100017",
+    "lng": "1.35880601533951",
+    "lat": "43.4255625583649"
+  },
+  {
+    "finess": "310024963",
+    "raison_sociale": "LBM INOVIE CBM EAUNES",
+    "numero voie": "40",
+    "type_voie": "RTE",
+    "libelle_voie": "DE MURET",
+    "bp": "",
+    "cp": "31600",
+    "VILLE": "EAUNES ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "611",
+    "libelle categorie": "Laboratoire de Biologie Médicale",
+    "siret": "35177912900011",
+    "lng": "1.35744329393816",
+    "lat": "43.426417454138"
+  },
+  {
+    "finess": "310033808",
+    "raison_sociale": "MSP D'EAUNES",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "JEAN MONNET",
+    "bp": "",
+    "cp": "31600",
+    "VILLE": "EAUNES ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "90212255500011",
+    "lng": "1.35888661240889",
+    "lat": "43.4255070891528"
+  }
+]

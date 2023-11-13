@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "70003207",
+    "raison_sociale": "PHARMACIE DE QUINTENAS",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE L EGLISE",
+    "bp": "",
+    "cp": "7290",
+    "VILLE": "QUINTENAS ",
+    "tel": "475344174",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "52138873600014",
+    "lng": "4.68778466612132",
+    "lat": "45.1892598368542"
+  },
+  {
+    "finess": "70007315",
+    "raison_sociale": "MAISON DE SANTE QUINTENAS",
+    "numero voie": "13",
+    "type_voie": "PL",
+    "libelle_voie": "DE L'EGLISE",
+    "bp": "",
+    "cp": "7290",
+    "VILLE": "QUINTENAS ",
+    "tel": "475344174",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "",
+    "lng": "4.6879920754631",
+    "lat": "45.1895061739294"
+  }
+]

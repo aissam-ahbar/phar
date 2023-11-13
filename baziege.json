@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "310007075",
+    "raison_sociale": "PHARMACIE ROUVIERE-ALLIAS",
+    "numero voie": "36",
+    "type_voie": "",
+    "libelle_voie": "GRAND RUE",
+    "bp": "",
+    "cp": "31450",
+    "VILLE": "BAZIEGE ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "33919126400029",
+    "lng": "1.6151615403887",
+    "lat": "43.4550429376767"
+  },
+  {
+    "finess": "310792130",
+    "raison_sociale": "EHPAD KORIAN VILLA LAURAGAIS",
+    "numero voie": "13",
+    "type_voie": "CHE",
+    "libelle_voie": "CELESTIN ANDUZE",
+    "bp": "",
+    "cp": "31450",
+    "VILLE": "BAZIEGE ",
+    "tel": "561812624",
+    "telecopie": "561272776",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "34217728400029",
+    "lng": "1.6109262340122",
+    "lat": "43.45452803513"
+  },
+  {
+    "finess": "310793641",
+    "raison_sociale": "FOYER DE VIE PIERRE HENRI",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DES PRADETTES",
+    "bp": "BP 15",
+    "cp": "31450",
+    "VILLE": "BAZIEGE ",
+    "tel": "534667272",
+    "telecopie": "534667273",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "38441426400026",
+    "lng": "1.60556053953957",
+    "lat": "43.4582032509122"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "80006646",
+    "raison_sociale": "CENTRE MEDICO-SCOLAIRE",
+    "numero voie": "1",
+    "type_voie": "PL",
+    "libelle_voie": "DES TRIES",
+    "bp": "",
+    "cp": "8320",
+    "VILLE": "VIREUX WALLERAND",
+    "tel": "324719234",
+    "telecopie": "",
+    "categorie etablissement": "268",
+    "libelle categorie": "Centre Médico-Scolaire",
+    "siret": "",
+    "lng": "4.7303078826217",
+    "lat": "50.0823366747762"
+  },
+  {
+    "finess": "80009004",
+    "raison_sociale": "PHARMACIE DEKENS",
+    "numero voie": "12",
+    "type_voie": "PL",
+    "libelle_voie": "DE L EGLISE",
+    "bp": "",
+    "cp": "8320",
+    "VILLE": "VIREUX WALLERAND",
+    "tel": "324416031",
+    "telecopie": "324418194",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "80836983900010",
+    "lng": "4.72737672979858",
+    "lat": "50.0846947595547"
+  }
+]

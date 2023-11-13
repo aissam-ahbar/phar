@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "340784610",
+    "raison_sociale": "MR LES MOULINES",
+    "numero voie": "",
+    "type_voie": "CHE",
+    "libelle_voie": "DE LA MOULINE",
+    "bp": "",
+    "cp": "34710",
+    "VILLE": "LESPIGNAN ",
+    "tel": "467372414",
+    "telecopie": "467372414",
+    "categorie etablissement": "502",
+    "libelle categorie": "EHPA ne percevant pas des crédits d'assurance maladie",
+    "siret": "53803000800022",
+    "lng": "3.18268718278109",
+    "lat": "43.2697452179032"
+  },
+  {
+    "finess": "340793629",
+    "raison_sociale": "PHARMACIE DU TREFLE",
+    "numero voie": "16",
+    "type_voie": "R",
+    "libelle_voie": "DE L HOTEL DE VILLE",
+    "bp": "",
+    "cp": "34710",
+    "VILLE": "LESPIGNAN ",
+    "tel": "467370860",
+    "telecopie": "467394789",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84107895900019",
+    "lng": "3.17281813828893",
+    "lat": "43.27262201541"
+  }
+]

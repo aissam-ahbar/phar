@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "70783626",
+    "raison_sociale": "EHPAD  LES MYRTILLES",
+    "numero voie": "",
+    "type_voie": "QUA",
+    "libelle_voie": "SIBLEYRAS",
+    "bp": "",
+    "cp": "7190",
+    "VILLE": "ST PIERREVILLE",
+    "tel": "475661046",
+    "telecopie": "475666047",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26071009000036",
+    "lng": "4.49378474434322",
+    "lat": "44.8177946377222"
+  },
+  {
+    "finess": "70786652",
+    "raison_sociale": "SSIAD DE ST PIERREVILLE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "7190",
+    "VILLE": "ST PIERREVILLE",
+    "tel": "475666146",
+    "telecopie": "475666047",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "26071009000044",
+    "lng": "4.49378474434322",
+    "lat": "44.8177946377222"
+  }
+]

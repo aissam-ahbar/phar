@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "150001303",
+    "raison_sociale": "PHARMACIE  DU CEZALLIER",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE CONDAT",
+    "bp": "",
+    "cp": "15190",
+    "VILLE": "MARCENAT ",
+    "tel": "471788115",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "49220742800011",
+    "lng": "2.82467807519752",
+    "lat": "45.3104211858028"
+  },
+  {
+    "finess": "150780401",
+    "raison_sociale": "EHPAD TIBLE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LE BOURG",
+    "cp": "15190",
+    "VILLE": "MARCENAT ",
+    "tel": "471788022",
+    "telecopie": "471788215",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26150004500016",
+    "lng": "2.83109307675047",
+    "lat": "45.3041234606268"
+  }
+]

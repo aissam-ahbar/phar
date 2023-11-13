@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "490002318",
+    "raison_sociale": "EHPAD CH DE LA CORNICHE ANGEVINE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "ST JEAN",
+    "bp": "",
+    "cp": "49190",
+    "VILLE": "ROCHEFORT SUR LOIRE    ",
+    "tel": "241787060",
+    "telecopie": "241789855",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26490008500046",
+    "lng": "-0.654381238858301",
+    "lat": "47.3574604105182"
+  },
+  {
+    "finess": "490533791",
+    "raison_sociale": "PHARMACIE LOIRE ET COTEAUX",
+    "numero voie": "14",
+    "type_voie": "PL",
+    "libelle_voie": "SAINTE CROIX",
+    "bp": "",
+    "cp": "49190",
+    "VILLE": "ROCHEFORT SUR LOIRE    ",
+    "tel": "241787014",
+    "telecopie": "241787527",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "87752960200014",
+    "lng": "-0.655490198788329",
+    "lat": "47.3566081321262"
+  }
+]

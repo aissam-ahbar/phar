@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "640019089",
+    "raison_sociale": "MEDICAL SERVICE 64 40",
+    "numero voie": "",
+    "type_voie": "ZA",
+    "libelle_voie": "DE LA PLAINE DES BOIS",
+    "bp": "",
+    "cp": "64300",
+    "VILLE": "BIRON ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "40045283500020",
+    "lng": "-0.747703425908955",
+    "lat": "43.4651645902691"
+  },
+  {
+    "finess": "640019105",
+    "raison_sociale": "OXYPHARM",
+    "numero voie": "",
+    "type_voie": "ZA",
+    "libelle_voie": "LA PLAINE DES BOIS",
+    "bp": "",
+    "cp": "64300",
+    "VILLE": "BIRON ",
+    "tel": "559091473",
+    "telecopie": "559091472",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "32987905000378",
+    "lng": "-0.747703425908955",
+    "lat": "43.4651645902691"
+  },
+  {
+    "finess": "640785820",
+    "raison_sociale": "MAISON D'ENFANTS \"BRASSALAY\"",
+    "numero voie": "1",
+    "type_voie": "LOT",
+    "libelle_voie": "DE LA PLAINE",
+    "bp": "SITE LA CARRERE",
+    "cp": "64300",
+    "VILLE": "BIRON ",
+    "tel": "559691562",
+    "telecopie": "559694471",
+    "categorie etablissement": "177",
+    "libelle categorie": "Maison d'Enfants à Caractère Social",
+    "siret": "78227765100017",
+    "lng": "-0.744427592144428",
+    "lat": "43.4651058385493"
+  }
+]

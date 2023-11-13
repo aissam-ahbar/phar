@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "260001847",
+    "raison_sociale": "FOYER DE VIE CHARLES GOUNOD",
+    "numero voie": "35",
+    "type_voie": "RTE",
+    "libelle_voie": "ECHIRONS",
+    "bp": "",
+    "cp": "26110",
+    "VILLE": "VENTEROL ",
+    "tel": "475279015",
+    "telecopie": "490355386",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "",
+    "lng": "5.10018109458734",
+    "lat": "44.3884326440034"
+  },
+  {
+    "finess": "260007042",
+    "raison_sociale": "FOYER POLY ADULTES HECTOR BERLIOZ",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "BP 1",
+    "cp": "26110",
+    "VILLE": "VENTEROL ",
+    "tel": "490350560",
+    "telecopie": "",
+    "categorie etablissement": "253",
+    "libelle categorie": "Foyer d'Accueil Polyvalent pour Adultes Handicapés",
+    "siret": "77947307300053",
+    "lng": "5.0978466567289",
+    "lat": "44.3905014527453"
+  }
+]

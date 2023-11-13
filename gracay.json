@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "180000085",
+    "raison_sociale": "EHPAD CONSTANCE DE DURBOIS",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "CONSTANCE DE DURBOIS",
+    "bp": "",
+    "cp": "18310",
+    "VILLE": "GRACAY ",
+    "tel": "248530390",
+    "telecopie": "248530391",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26180012200010",
+    "lng": "1.84790232418684",
+    "lat": "47.1416566576539"
+  },
+  {
+    "finess": "180002792",
+    "raison_sociale": "PHARMACIE DE GRACAY",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "JEAN CHAUDRON",
+    "bp": "",
+    "cp": "18310",
+    "VILLE": "GRACAY ",
+    "tel": "248514216",
+    "telecopie": "248514936",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "84495712600015",
+    "lng": "1.84713186810776",
+    "lat": "47.1436820673796"
+  },
+  {
+    "finess": "180010324",
+    "raison_sociale": "LIEU DE VIE ET D'ACCUEIL \"LES BRUYERES",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "LES BRYUERES",
+    "bp": "",
+    "cp": "18310",
+    "VILLE": "GRACAY ",
+    "tel": "254341926",
+    "telecopie": "254074551",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "77519711400041",
+    "lng": "1.84609911575219",
+    "lat": "47.1422392521085"
+  }
+]

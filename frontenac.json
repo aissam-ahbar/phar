@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "330007451",
+    "raison_sociale": "SESSAD ENTRE-DEUX MERS",
+    "numero voie": "12",
+    "type_voie": "PL",
+    "libelle_voie": "DU 19 MARS 1962",
+    "bp": "",
+    "cp": "33760",
+    "VILLE": "FRONTENAC ",
+    "tel": "556235287",
+    "telecopie": "556235286",
+    "categorie etablissement": "182",
+    "libelle categorie": "Service d'Éducation Spéciale et de Soins à Domicile",
+    "siret": "77558503700689",
+    "lng": "-0.163520770932299",
+    "lat": "44.7382747882114"
+  },
+  {
+    "finess": "330046376",
+    "raison_sociale": "PHARMACIE DE FRONTENAC",
+    "numero voie": "4",
+    "type_voie": "R",
+    "libelle_voie": "DE RAUZAN",
+    "bp": "",
+    "cp": "33760",
+    "VILLE": "FRONTENAC ",
+    "tel": "556235099",
+    "telecopie": "556234994",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "81116521600011",
+    "lng": "-0.162295509490993",
+    "lat": "44.7384719716356"
+  }
+]

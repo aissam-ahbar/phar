@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "400008322",
+    "raison_sociale": "SARL PHARMACIE DE  L'ADOUR",
+    "numero voie": "145",
+    "type_voie": "RTE",
+    "libelle_voie": "de Dax",
+    "bp": "",
+    "cp": "40180",
+    "VILLE": "HINX ",
+    "tel": "558895344",
+    "telecopie": "558895872",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53363422600013",
+    "lng": "-0.928659961181589",
+    "lat": "43.7016115054451"
+  },
+  {
+    "finess": "400014510",
+    "raison_sociale": "LVL MEDICAL SUD OUEST",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE GAMARDE",
+    "bp": "1 VILLAGE D'ENTREPRISES",
+    "cp": "40180",
+    "VILLE": "HINX ",
+    "tel": "556161556",
+    "telecopie": "556160001",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "43774247100067",
+    "lng": "-0.916284736522757",
+    "lat": "43.7056525912714"
+  }
+]

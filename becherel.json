@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "350002499",
+    "raison_sociale": "RESIDENCE LA VALLEE",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DU FAUBOURG BERTHAULT",
+    "bp": "",
+    "cp": "35190",
+    "VILLE": "BECHEREL ",
+    "tel": "299668117",
+    "telecopie": "299668039",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "20000941300010",
+    "lng": "-1.94529191787079",
+    "lat": "48.2945113528719"
+  },
+  {
+    "finess": "350021929",
+    "raison_sociale": "PHARMACIE DE BECHEREL",
+    "numero voie": "31",
+    "type_voie": "R",
+    "libelle_voie": "DE LA LIBERATION",
+    "bp": "",
+    "cp": "35190",
+    "VILLE": "BECHEREL ",
+    "tel": "299668119",
+    "telecopie": "299668235",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53350648100019",
+    "lng": "-1.9429554251657",
+    "lat": "48.297352354597"
+  }
+]

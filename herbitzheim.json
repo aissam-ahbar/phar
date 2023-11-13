@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "670007657",
+    "raison_sociale": "PHARMACIE DE LA RHODE",
+    "numero voie": "13",
+    "type_voie": "R",
+    "libelle_voie": "DE KESKASTEL",
+    "bp": "",
+    "cp": "67260",
+    "VILLE": "HERBITZHEIM ",
+    "tel": "388008265",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53344900500016",
+    "lng": "7.08223959859625",
+    "lat": "49.0132334095754"
+  },
+  {
+    "finess": "670020668",
+    "raison_sociale": "SAAD ASD - AIDE ET SERVICE A DOMICILE",
+    "numero voie": "9",
+    "type_voie": "R",
+    "libelle_voie": "SAINT MICHEL",
+    "bp": "",
+    "cp": "67260",
+    "VILLE": "HERBITZHEIM ",
+    "tel": "644347338",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "52391132900028",
+    "lng": "7.07805332728006",
+    "lat": "49.0184711237987"
+  },
+  {
+    "finess": "670020882",
+    "raison_sociale": "MAISON DE SANTE HERBITZHEIM",
+    "numero voie": "17",
+    "type_voie": "R",
+    "libelle_voie": "DE KESKASTEL",
+    "bp": "",
+    "cp": "67260",
+    "VILLE": "HERBITZHEIM ",
+    "tel": "985609912",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "88954375700013",
+    "lng": "7.08269827431385",
+    "lat": "49.01269556826"
+  }
+]

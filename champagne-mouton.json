@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "160010724",
+    "raison_sociale": "PHARMACIE LABARUSSIA",
+    "numero voie": "2",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "16350",
+    "VILLE": "CHAMPAGNE MOUTON",
+    "tel": "545318060",
+    "telecopie": "545300576",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "87785674000015",
+    "lng": "0.410822060591455",
+    "lat": "45.9928060890498"
+  },
+  {
+    "finess": "160011656",
+    "raison_sociale": "EHPAD - LE VILLARD",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "BUISSONIERE",
+    "bp": "",
+    "cp": "16350",
+    "VILLE": "CHAMPAGNE MOUTON",
+    "tel": "545318757",
+    "telecopie": "",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26160076100025",
+    "lng": "0.408735623550974",
+    "lat": "45.9891859916705"
+  },
+  {
+    "finess": "160012449",
+    "raison_sociale": "ENTREP. ADAPTEE ESOPE",
+    "numero voie": "8",
+    "type_voie": "R",
+    "libelle_voie": "DE LA CHENAU",
+    "bp": "",
+    "cp": "16350",
+    "VILLE": "CHAMPAGNE MOUTON",
+    "tel": "545842884",
+    "telecopie": "",
+    "categorie etablissement": "247",
+    "libelle categorie": "Entreprise adaptée",
+    "siret": "45345649300015",
+    "lng": "0.412958757221489",
+    "lat": "45.9906349157699"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "10006559",
+    "raison_sociale": "FOYER ACCUEIL MEDICALISE DE ST VULBAS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "1150",
+    "VILLE": "ST VULBAS",
+    "tel": "474615333",
+    "telecopie": "",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "26010451800022",
+    "lng": "5.29401044790346",
+    "lat": "45.836398699109"
+  },
+  {
+    "finess": "10012086",
+    "raison_sociale": "SAAD MANDARINE SERVICES",
+    "numero voie": "150",
+    "type_voie": "ALL",
+    "libelle_voie": "DES ACACIAS",
+    "bp": "",
+    "cp": "1150",
+    "VILLE": "ST VULBAS",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "53943475300031",
+    "lng": "5.28526572241709",
+    "lat": "45.8382948462492"
+  },
+  {
+    "finess": "10788669",
+    "raison_sociale": "EHPAD RESIDENCE CLAIRES FONTAINES",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "ESPACE CHARLES DE GAULLE",
+    "cp": "1150",
+    "VILLE": "ST VULBAS",
+    "tel": "474615333",
+    "telecopie": "474615488",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26010451800014",
+    "lng": "5.29401044790346",
+    "lat": "45.836398699109"
+  }
+]

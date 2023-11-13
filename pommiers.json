@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "690011622",
+    "raison_sociale": "PHARMACIE DE POMMIERS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LE BOURG",
+    "cp": "69480",
+    "VILLE": "POMMIERS ",
+    "tel": "474659829",
+    "telecopie": "474091141",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50466862500016",
+    "lng": "4.69290379529938",
+    "lat": "45.9557181824162"
+  },
+  {
+    "finess": "690028022",
+    "raison_sociale": "SAAD ADMR DE POMMIERS",
+    "numero voie": "92",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "69480",
+    "VILLE": "POMMIERS ",
+    "tel": "474622165",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "77971944200013",
+    "lng": "4.6936298158364",
+    "lat": "45.9559370003573"
+  },
+  {
+    "finess": "690782313",
+    "raison_sociale": "DIME JEAN FAYARD",
+    "numero voie": "257",
+    "type_voie": "R",
+    "libelle_voie": "ROUTE DE MONTCLAIR",
+    "bp": "LE BOITIER",
+    "cp": "69480",
+    "VILLE": "POMMIERS ",
+    "tel": "474712238",
+    "telecopie": "474712660",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "80125271900282",
+    "lng": "4.69593658257328",
+    "lat": "45.9555719056075"
+  }
+]

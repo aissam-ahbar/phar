@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "680001070",
+    "raison_sociale": "EHPAD DE SOULTZMATT",
+    "numero voie": "22",
+    "type_voie": "R",
+    "libelle_voie": "DE L'HOPITAL",
+    "bp": "",
+    "cp": "68570",
+    "VILLE": "SOULTZMATT ",
+    "tel": "389470035",
+    "telecopie": "389476604",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26680017600015",
+    "lng": "7.23854077921146",
+    "lat": "47.9600878538783"
+  },
+  {
+    "finess": "680015500",
+    "raison_sociale": "PHARMACIE DIEBOLT",
+    "numero voie": "43",
+    "type_voie": "R",
+    "libelle_voie": "DE LA VALLEE",
+    "bp": "",
+    "cp": "68570",
+    "VILLE": "SOULTZMATT ",
+    "tel": "389470061",
+    "telecopie": "389476330",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "53818341900018",
+    "lng": "7.23935270559232",
+    "lat": "47.9612301505856"
+  },
+  {
+    "finess": "680018991",
+    "raison_sociale": "RESIDENCE DE L'EHPAD SOULTZMATT",
+    "numero voie": "24",
+    "type_voie": "R",
+    "libelle_voie": "DE L'HOPITAL",
+    "bp": "",
+    "cp": "68570",
+    "VILLE": "SOULTZMATT ",
+    "tel": "389470035",
+    "telecopie": "",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26680017600023",
+    "lng": "7.23828428293916",
+    "lat": "47.9602025542227"
+  }
+]

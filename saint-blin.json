@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "520001918",
+    "raison_sociale": "FAM SAINT BLIN APEI DE L'AUBE",
+    "numero voie": "33",
+    "type_voie": "RTE",
+    "libelle_voie": "D'HUMBERVILLE",
+    "bp": "",
+    "cp": "52700",
+    "VILLE": "ST BLIN",
+    "tel": "325021370",
+    "telecopie": "325311659",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "77555526100384",
+    "lng": "5.4108400512865",
+    "lat": "48.2721378089165"
+  },
+  {
+    "finess": "520001959",
+    "raison_sociale": "FOYER DE VIE AH ST BLIN APEI DE L'AUBE",
+    "numero voie": "33",
+    "type_voie": "R",
+    "libelle_voie": "D'HUMBERVILLE",
+    "bp": "",
+    "cp": "52700",
+    "VILLE": "ST BLIN",
+    "tel": "325021370",
+    "telecopie": "325311659",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "77555526100384",
+    "lng": "5.4108400512865",
+    "lat": "48.2721378089165"
+  },
+  {
+    "finess": "520002106",
+    "raison_sociale": "PHARMACIE HENRY",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "52700",
+    "VILLE": "ST BLIN",
+    "tel": "325022270",
+    "telecopie": "325314764",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38900448200011",
+    "lng": "5.41283797010797",
+    "lat": "48.2713337163333"
+  }
+]

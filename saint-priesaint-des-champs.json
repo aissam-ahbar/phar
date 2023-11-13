@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "630007409",
+    "raison_sociale": "FOYER OCCUPATIONNEL INTERNAT",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LA RUDERRE",
+    "cp": "63640",
+    "VILLE": "ST PRIEST DES CHAMPS   ",
+    "tel": "473527021",
+    "telecopie": "473525530",
+    "categorie etablissement": "449",
+    "libelle categorie": "Etab.Accueil Non Médicalisé pour personnes handicapées",
+    "siret": "",
+    "lng": "2.7649853056389",
+    "lat": "45.9856386813692"
+  },
+  {
+    "finess": "630007458",
+    "raison_sociale": "FAM ST PRIEST DES CHAMPS",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "LA RUDERRE",
+    "cp": "63640",
+    "VILLE": "ST PRIEST DES CHAMPS   ",
+    "tel": "473527021",
+    "telecopie": "473525530",
+    "categorie etablissement": "448",
+    "libelle categorie": "Etab.Acc.Médicalisé en tout ou partie personnes handicapées",
+    "siret": "77563435500710",
+    "lng": "2.7649853056389",
+    "lat": "45.9856386813692"
+  },
+  {
+    "finess": "630013282",
+    "raison_sociale": "LVA ALIAS 63",
+    "numero voie": "",
+    "type_voie": "LD",
+    "libelle_voie": "GANDICHOUX",
+    "bp": "",
+    "cp": "63640",
+    "VILLE": "ST PRIEST DES CHAMPS   ",
+    "tel": "473525909",
+    "telecopie": "",
+    "categorie etablissement": "462",
+    "libelle categorie": "Lieux de vie",
+    "siret": "79909596300010",
+    "lng": "2.73614668367522",
+    "lat": "45.970755688087"
+  }
+]

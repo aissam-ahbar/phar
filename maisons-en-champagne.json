@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "510012073",
+    "raison_sociale": "EHPAD \"DOMREMY\"",
+    "numero voie": "2",
+    "type_voie": "RLE",
+    "libelle_voie": "DE DOMREMY",
+    "bp": "",
+    "cp": "51300",
+    "VILLE": "MAISONS EN CHAMPAGNE    ",
+    "tel": "326727412",
+    "telecopie": "326727448",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "34844253400015",
+    "lng": "4.49657455860952",
+    "lat": "48.7493049350577"
+  },
+  {
+    "finess": "510012222",
+    "raison_sociale": "FOYER DE VIE \"DOMREMY\"",
+    "numero voie": "2",
+    "type_voie": "RLE",
+    "libelle_voie": "DE DOMREMY",
+    "bp": "",
+    "cp": "51300",
+    "VILLE": "MAISONS EN CHAMPAGNE    ",
+    "tel": "326727412",
+    "telecopie": "",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "34844253400015",
+    "lng": "4.49657455860952",
+    "lat": "48.7493049350577"
+  }
+]

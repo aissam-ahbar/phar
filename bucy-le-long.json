@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "20002762",
+    "raison_sociale": "PHARMACIE GAILLARD P & F",
+    "numero voie": "",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA MAIRIE",
+    "bp": "",
+    "cp": "2880",
+    "VILLE": "BUCY LE LONG    ",
+    "tel": "323728728",
+    "telecopie": "323728933",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "38081800500015",
+    "lng": "3.3955719600287",
+    "lat": "49.3904870980759"
+  },
+  {
+    "finess": "20004149",
+    "raison_sociale": "CSAPA AURORE BUCY-LE-LONG",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DUTOUR DE NOIRFOSSE",
+    "bp": "",
+    "cp": "2880",
+    "VILLE": "BUCY LE LONG    ",
+    "tel": "323722280",
+    "telecopie": "323722288",
+    "categorie etablissement": "197",
+    "libelle categorie": "Centre soins accompagnement prévention addictologie (CSAPA)",
+    "siret": "77568497000723",
+    "lng": "3.39203613989975",
+    "lat": "49.3930684427809"
+  },
+  {
+    "finess": "20010310",
+    "raison_sociale": "SSR AURORE BUCY-LE-LONG",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "DUTOUR DE NOIRFOSSE",
+    "bp": "",
+    "cp": "2880",
+    "VILLE": "BUCY LE LONG    ",
+    "tel": "323722280",
+    "telecopie": "323722288",
+    "categorie etablissement": "109",
+    "libelle categorie": "Etablissement de santé privé autorisé en SSR",
+    "siret": "77568497000723",
+    "lng": "3.39203613989975",
+    "lat": "49.3930684427809"
+  }
+]

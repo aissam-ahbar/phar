@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "120005087",
+    "raison_sociale": "SAAD AL ADMR BERGES ET COTEAUX DU LOT",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "RUELLE COLOMBAGE",
+    "bp": "",
+    "cp": "12300",
+    "VILLE": "FLAGNAC ",
+    "tel": "565772222",
+    "telecopie": "565772220",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "",
+    "lng": "2.24789343075393",
+    "lat": "44.6044450965088"
+  },
+  {
+    "finess": "120006069",
+    "raison_sociale": "EHPAD STE MARIE",
+    "numero voie": "114",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LA PRADE",
+    "bp": "",
+    "cp": "12300",
+    "VILLE": "FLAGNAC ",
+    "tel": "565439800",
+    "telecopie": "565436067",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "77563330801528",
+    "lng": "2.25061562098616",
+    "lat": "44.6080386605789"
+  }
+]

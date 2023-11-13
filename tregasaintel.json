@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "220007827",
+    "raison_sociale": "FOYER LOGEMENT TY LANGASTEL",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LANNION TY LANGASTEL",
+    "bp": "",
+    "cp": "22730",
+    "VILLE": "TREGASTEL ",
+    "tel": "296234837",
+    "telecopie": "296153530",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "26220362300026",
+    "lng": "-3.51108047562371",
+    "lat": "48.8271560802673"
+  },
+  {
+    "finess": "220010383",
+    "raison_sociale": "PHARMACIE LAVANANT-MORVAN",
+    "numero voie": "2",
+    "type_voie": "R",
+    "libelle_voie": "ABBE BOUGET",
+    "bp": "",
+    "cp": "22730",
+    "VILLE": "TREGASTEL ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "47778332800024",
+    "lng": "-3.51177859512868",
+    "lat": "48.8264222244344"
+  }
+]

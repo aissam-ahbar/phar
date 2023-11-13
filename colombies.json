@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "120008131",
+    "raison_sociale": "CENTRE EDUCATIF FERME LA POUJADE",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "",
+    "bp": "",
+    "cp": "12240",
+    "VILLE": "COLOMBIES ",
+    "tel": "565699994",
+    "telecopie": "",
+    "categorie etablissement": "441",
+    "libelle categorie": "Centre d'Action Educative (C.A.E.)",
+    "siret": "30587411700644",
+    "lng": "2.36455051265197",
+    "lat": "44.3300963274805"
+  },
+  {
+    "finess": "120787056",
+    "raison_sociale": "RESIDENCE AUTONOMIE LES COLOMBES",
+    "numero voie": "",
+    "type_voie": "RTE",
+    "libelle_voie": "DE LA CROIX LONGUE",
+    "bp": "",
+    "cp": "12240",
+    "VILLE": "COLOMBIES ",
+    "tel": "565699772",
+    "telecopie": "565699879",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "39522223500016",
+    "lng": "2.33730444926698",
+    "lat": "44.3436912341527"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "finess": "100002559",
+    "raison_sociale": "CMP-CATTP-HOPITAL DE JOUR- CH BRIENNE",
+    "numero voie": "32",
+    "type_voie": "R",
+    "libelle_voie": "HUGOT",
+    "bp": "",
+    "cp": "10500",
+    "VILLE": "BRIENNE LA VIEILLE    ",
+    "tel": "325275110",
+    "telecopie": "",
+    "categorie etablissement": "292",
+    "libelle categorie": "Centre Hospitalier Spécialisé lutte Maladies Mentales",
+    "siret": "26100001200326",
+    "lng": "4.53007981548635",
+    "lat": "48.3724294398368"
+  }
+]

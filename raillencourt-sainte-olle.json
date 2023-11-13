@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "590007688",
+    "raison_sociale": "FV PBDC RAILLENCOURT-SAINTE-OLLE",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "DE NORMANDIE",
+    "bp": "",
+    "cp": "59554",
+    "VILLE": "RAILLENCOURT STE OLLE    ",
+    "tel": "327747445",
+    "telecopie": "327781648",
+    "categorie etablissement": "382",
+    "libelle categorie": "Foyer de Vie pour Adultes Handicapés",
+    "siret": "77562101400296",
+    "lng": "3.20035340082136",
+    "lat": "50.1800877993748"
+  },
+  {
+    "finess": "590026456",
+    "raison_sociale": "SELARL PHARMACIE RSO",
+    "numero voie": "751",
+    "type_voie": "RTE",
+    "libelle_voie": "D ARRAS",
+    "bp": "",
+    "cp": "59554",
+    "VILLE": "RAILLENCOURT STE OLLE    ",
+    "tel": "327814002",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "88429113900019",
+    "lng": "3.19990951216753",
+    "lat": "50.1820677119913"
+  },
+  {
+    "finess": "590053450",
+    "raison_sociale": "FAM LES COTTAGES",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE NORMANDIE",
+    "bp": "",
+    "cp": "59554",
+    "VILLE": "RAILLENCOURT STE OLLE    ",
+    "tel": "327747445",
+    "telecopie": "327781648",
+    "categorie etablissement": "437",
+    "libelle categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+    "siret": "77562101400361",
+    "lng": "3.2015370740804",
+    "lat": "50.1809416589704"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "110006129",
+    "raison_sociale": "MSP PEPIEUX",
+    "numero voie": "",
+    "type_voie": "AV",
+    "libelle_voie": "DU CAUSSE",
+    "bp": "",
+    "cp": "11700",
+    "VILLE": "PEPIEUX ",
+    "tel": "468914543",
+    "telecopie": "",
+    "categorie etablissement": "603",
+    "libelle categorie": "Maison de santé (L.6223-3)",
+    "siret": "79917541900016",
+    "lng": "2.68228563684644",
+    "lat": "43.300247999141"
+  },
+  {
+    "finess": "110780285",
+    "raison_sociale": "IME ROBERT SEGUY",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DU PROGRES",
+    "bp": "",
+    "cp": "11700",
+    "VILLE": "PEPIEUX ",
+    "tel": "468278888",
+    "telecopie": "468278880",
+    "categorie etablissement": "183",
+    "libelle categorie": "Institut Médico-Educatif (I.M.E.)",
+    "siret": "37812847400061",
+    "lng": "2.68240087300746",
+    "lat": "43.2978860593767"
+  },
+  {
+    "finess": "110790979",
+    "raison_sociale": "SELARL ALMAPHAR",
+    "numero voie": "2",
+    "type_voie": "",
+    "libelle_voie": "BIS AVENUE DU CAUSSE",
+    "bp": "",
+    "cp": "11700",
+    "VILLE": "PEPIEUX ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "75225427600021",
+    "lng": "2.68169658492387",
+    "lat": "43.2976267104507"
+  }
+]

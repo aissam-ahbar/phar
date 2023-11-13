@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "350019428",
+    "raison_sociale": "PHARMACIE DE L'HOTEL DE VILLE",
+    "numero voie": "3",
+    "type_voie": "R",
+    "libelle_voie": "DE L HOTEL DE VILLE",
+    "bp": "",
+    "cp": "35890",
+    "VILLE": "LAILLE ",
+    "tel": "299425687",
+    "telecopie": "299423099",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "50959939500019",
+    "lng": "-1.72182099406475",
+    "lat": "47.9779749259669"
+  },
+  {
+    "finess": "350054144",
+    "raison_sociale": "SAAD DOMITYS L'ARBRE D'OR",
+    "numero voie": "1",
+    "type_voie": "BD",
+    "libelle_voie": "PIERRE ET MARIE CURIE",
+    "bp": "",
+    "cp": "35890",
+    "VILLE": "LAILLE ",
+    "tel": "299221600",
+    "telecopie": "",
+    "categorie etablissement": "460",
+    "libelle categorie": "Service d'Aide et d'Accompagnement à Domicile (S.A.A.D.)",
+    "siret": "53182369800042",
+    "lng": "-1.72343691684389",
+    "lat": "47.9812789920129"
+  }
+]

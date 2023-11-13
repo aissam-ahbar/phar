@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "540024205",
+    "raison_sociale": "ASTEN SANTE A DOMICILE",
+    "numero voie": "850",
+    "type_voie": "R",
+    "libelle_voie": "ROBERT SCHUMAN",
+    "bp": "",
+    "cp": "54850",
+    "VILLE": "MESSEIN ",
+    "tel": "800774142",
+    "telecopie": "383513841",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "84242656100135",
+    "lng": "6.16247873979577",
+    "lat": "48.6078364993322"
+  },
+  {
+    "finess": "540024254",
+    "raison_sociale": "O2MEGA",
+    "numero voie": "14",
+    "type_voie": "R",
+    "libelle_voie": "DU PREFET ERIGNAC",
+    "bp": "",
+    "cp": "54850",
+    "VILLE": "MESSEIN ",
+    "tel": "383351393",
+    "telecopie": "",
+    "categorie etablissement": "632",
+    "libelle categorie": "Structure Dispensatrice à domicile d'Oxygène à usage médical",
+    "siret": "79430455000013",
+    "lng": "6.16159382975482",
+    "lat": "48.6085360879228"
+  }
+]

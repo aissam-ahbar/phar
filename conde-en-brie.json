@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "20003315",
+    "raison_sociale": "SELARL RAMANITRA",
+    "numero voie": "16",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "2330",
+    "VILLE": "CONDE EN BRIE    ",
+    "tel": "323824375",
+    "telecopie": "323823761",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "44801827500017",
+    "lng": "3.56146054894989",
+    "lat": "49.0047158817427"
+  },
+  {
+    "finess": "20012761",
+    "raison_sociale": "EHPAD EPMS CONDE EN BRIE",
+    "numero voie": "1",
+    "type_voie": "R",
+    "libelle_voie": "DE LA CREUSE RUE",
+    "bp": "",
+    "cp": "2330",
+    "VILLE": "CONDE EN BRIE    ",
+    "tel": "323825380",
+    "telecopie": "323825407",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "",
+    "lng": "3.5538049322781",
+    "lat": "49.003676882632"
+  }
+]

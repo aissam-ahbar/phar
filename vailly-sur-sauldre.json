@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "180003428",
+    "raison_sociale": "RESIDENCE AUTONONOMIE HENRI DOUCET",
+    "numero voie": "",
+    "type_voie": "R",
+    "libelle_voie": "DE LA ROUE A PAUL",
+    "bp": "",
+    "cp": "18260",
+    "VILLE": "VAILLY SUR SAULDRE    ",
+    "tel": "248738007",
+    "telecopie": "248738991",
+    "categorie etablissement": "202",
+    "libelle categorie": "Résidences autonomie",
+    "siret": "20006907800026",
+    "lng": "2.64976321270389",
+    "lat": "47.4631320033943"
+  },
+  {
+    "finess": "180007247",
+    "raison_sociale": "S.E.L.A.R.L. PHARMACIE CHOPINEAU",
+    "numero voie": "27",
+    "type_voie": "",
+    "libelle_voie": "GRANDE RUE",
+    "bp": "",
+    "cp": "18260",
+    "VILLE": "VAILLY SUR SAULDRE    ",
+    "tel": "248737041",
+    "telecopie": "248737622",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79491159400016",
+    "lng": "2.64988490763074",
+    "lat": "47.4585279225414"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "540008356",
+    "raison_sociale": "SSIAD BRANCION",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "CARNOT",
+    "bp": "",
+    "cp": "54200",
+    "VILLE": "ROYAUMEIX ",
+    "tel": "383628723",
+    "telecopie": "383628904",
+    "categorie etablissement": "354",
+    "libelle categorie": "Service de Soins Infirmiers A Domicile (S.S.I.A.D)",
+    "siret": "78335623100010",
+    "lng": "5.87035867243055",
+    "lat": "48.7772581087503"
+  },
+  {
+    "finess": "540009537",
+    "raison_sociale": "CENTRE DE SOINS INFIRMIERS BRANCION",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "CARNOT",
+    "bp": "",
+    "cp": "54200",
+    "VILLE": "ROYAUMEIX ",
+    "tel": "383628723",
+    "telecopie": "383628904",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "78335623100028",
+    "lng": "5.87035867243055",
+    "lat": "48.7772581087503"
+  },
+  {
+    "finess": "540018983",
+    "raison_sociale": "MAISON D'ACCUEIL BRANCION",
+    "numero voie": "11",
+    "type_voie": "R",
+    "libelle_voie": "CARNOT",
+    "bp": "",
+    "cp": "54200",
+    "VILLE": "ROYAUMEIX ",
+    "tel": "383629150",
+    "telecopie": "383628653",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "78335623100036",
+    "lng": "5.87035867243055",
+    "lat": "48.7772581087503"
+  }
+]

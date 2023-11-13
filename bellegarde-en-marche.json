@@ -1,0 +1,53 @@
+[
+  {
+    "finess": "230000283",
+    "raison_sociale": "EHPAD LES BOUQUETS",
+    "numero voie": "7",
+    "type_voie": "R",
+    "libelle_voie": "DES BOUQUETS",
+    "bp": "",
+    "cp": "23190",
+    "VILLE": "BELLEGARDE EN MARCHE    ",
+    "tel": "555676111",
+    "telecopie": "555673532",
+    "categorie etablissement": "500",
+    "libelle categorie": "Etablissement d'hébergement pour personnes âgées dépendantes",
+    "siret": "26232672100012",
+    "lng": "2.2987937569457",
+    "lat": "45.978203510473"
+  },
+  {
+    "finess": "230001760",
+    "raison_sociale": "PHARMACIE JACQUES-DUMAS",
+    "numero voie": "37",
+    "type_voie": "",
+    "libelle_voie": "GRAND RUE",
+    "bp": "",
+    "cp": "23190",
+    "VILLE": "BELLEGARDE EN MARCHE    ",
+    "tel": "555676508",
+    "telecopie": "555676920",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "79845189400017",
+    "lng": "2.29487696827331",
+    "lat": "45.9816723420618"
+  },
+  {
+    "finess": "230005217",
+    "raison_sociale": "CDS ASSOCIATION MEDECINS SOLIDAIRES",
+    "numero voie": "15",
+    "type_voie": "R",
+    "libelle_voie": "DES BOUQUETS",
+    "bp": "",
+    "cp": "23190",
+    "VILLE": "BELLEGARDE EN MARCHE    ",
+    "tel": "",
+    "telecopie": "",
+    "categorie etablissement": "124",
+    "libelle categorie": "Centre de Santé",
+    "siret": "91870894200027",
+    "lng": "2.29868111321001",
+    "lat": "45.9795427987452"
+  }
+]

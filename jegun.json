@@ -1,0 +1,36 @@
+[
+  {
+    "finess": "320002082",
+    "raison_sociale": "PHARMACIE FOURES-SESE",
+    "numero voie": "18",
+    "type_voie": "PL",
+    "libelle_voie": "DE LA BASCULE",
+    "bp": "",
+    "cp": "32360",
+    "VILLE": "JEGUN ",
+    "tel": "562645011",
+    "telecopie": "",
+    "categorie etablissement": "620",
+    "libelle categorie": "Pharmacie d'Officine",
+    "siret": "41135049900025",
+    "lng": "0.460805188588249",
+    "lat": "43.757982985808"
+  },
+  {
+    "finess": "320780273",
+    "raison_sociale": "ITEP \"PHILIPPE MONELLO\" JEGUN",
+    "numero voie": "",
+    "type_voie": "",
+    "libelle_voie": "CHATEAU DE LESCOUT",
+    "bp": "",
+    "cp": "32360",
+    "VILLE": "JEGUN ",
+    "tel": "562645016",
+    "telecopie": "562645454",
+    "categorie etablissement": "186",
+    "libelle categorie": "Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)",
+    "siret": "77558137400029",
+    "lng": "0.38738900855503",
+    "lat": "43.7586602922984"
+  }
+]
